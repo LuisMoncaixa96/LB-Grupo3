@@ -1,0 +1,168 @@
+LOCUS       NC_004718               3768 bp    RNA     linear   VRL 20-NOV-2020
+DEFINITION  SARS coronavirus Tor2, complete genome.
+ACCESSION   NC_004718 REGION: 21492..25259
+VERSION     NC_004718.3
+DBLINK      BioProject: PRJNA485481
+KEYWORDS    RefSeq.
+SOURCE      SARS coronavirus Tor2
+  ORGANISM  SARS coronavirus Tor2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 3768)
+  AUTHORS   He,R., Dobie,F., Ballantine,M., Leeson,A., Li,Y., Bastien,N.,
+            Cutts,T., Andonov,A., Cao,J., Booth,T.F., Plummer,F.A., Tyler,S.,
+            Baker,L. and Li,X.
+  CONSRTM   BCCA Genome Sciences Centre, British Columbia Centre for Disease
+            Control and National Microbiology Laboratory Canada
+  TITLE     Analysis of multimerization of the SARS coronavirus nucleocapsid
+            protein
+  JOURNAL   Biochem Biophys Res Commun 316 (2), 476-483 (2004)
+   PUBMED   15020242
+REFERENCE   2  (bases 1 to 3768)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-MAY-2020) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 3768)
+  CONSRTM   BCCA Genome Sciences Centre, British Columbia Centre for Disease
+            Control and National Microbiology Laboratory Canada
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-APR-2003) Genome Sciences Centre, British Columbia
+            Cancer Research Centre, 600 West 10th Avenue, Vancouver, BC V5Z
+            4E6, Canada
+  REMARK    Sequence update by submitter
+REFERENCE   4  (bases 1 to 3768)
+  CONSRTM   BCCA Genome Sciences Centre, British Columbia Centre for Disease
+            Control and National Microbiology Laboratory Canada
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-APR-2003) Genome Sciences Centre, British Columbia
+            Cancer Research Centre, 600 West 10th Avenue, Vancouver, BC V5Z
+            4E6, Canada
+  REMARK    Sequence update by submitter
+REFERENCE   5  (bases 1 to 3768)
+  CONSRTM   BCCA Genome Sciences Centre, British Columbia Centre for Disease
+            Control and National Microbiology Laboratory Canada
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-APR-2003) Genome Sciences Centre, British Columbia
+            Cancer Research Centre, 600 West 10th Avenue, Vancouver, BC V5Z
+            4E6, Canada
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence is identical to AY274119.
+            On or before Mar 28, 2016 this sequence version replaced
+            NC_028858.1, NC_028866.1, NC_028884.1, NC_028893.1, NC_028873.1,
+            NC_028845.1, NC_009696.1, NC_009695.1, NC_013664.1, NC_009693.1,
+            NC_009694.1, NC_004718.2.
+            Annotation based on that found in PMID: 31987001, PMID: 31967327
+            and the annotation of P0C6X7.1.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..3768
+                     /organism="SARS coronavirus Tor2"
+                     /mol_type="genomic RNA"
+                     /isolate="Tor2"
+                     /host="Homo sapiens; patient #2 with severe acute
+                     respiratory syndrome (SARS)"
+                     /db_xref="taxon:227984"
+                     /country="Canada: Toronto"
+     gene            1..3768
+                     /gene="S"
+                     /locus_tag="sars2"
+                     /gene_synonym="E2"
+                     /db_xref="GeneID:1489668"
+     CDS             1..3768
+                     /gene="S"
+                     /locus_tag="sars2"
+                     /gene_synonym="E2"
+                     /codon_start=1
+                     /product="spike glycoprotein"
+                     /protein_id="YP_009825051.1"
+                     /db_xref="GeneID:1489668"
+                     /translation="MFIFLLFLTLTSGSDLDRCTTFDDVQAPNYTQHTSSMRGVYYPD
+                     EIFRSDTLYLTQDLFLPFYSNVTGFHTINHTFGNPVIPFKDGIYFAATEKSNVVRGWV
+                     FGSTMNNKSQSVIIINNSTNVVIRACNFELCDNPFFAVSKPMGTQTHTMIFDNAFNCT
+                     FEYISDAFSLDVSEKSGNFKHLREFVFKNKDGFLYVYKGYQPIDVVRDLPSGFNTLKP
+                     IFKLPLGINITNFRAILTAFSPAQDIWGTSAAAYFVGYLKPTTFMLKYDENGTITDAV
+                     DCSQNPLAELKCSVKSFEIDKGIYQTSNFRVVPSGDVVRFPNITNLCPFGEVFNATKF
+                     PSVYAWERKKISNCVADYSVLYNSTFFSTFKCYGVSATKLNDLCFSNVYADSFVVKGD
+                     DVRQIAPGQTGVIADYNYKLPDDFMGCVLAWNTRNIDATSTGNYNYKYRYLRHGKLRP
+                     FERDISNVPFSPDGKPCTPPALNCYWPLNDYGFYTTTGIGYQPYRVVVLSFELLNAPA
+                     TVCGPKLSTDLIKNQCVNFNFNGLTGTGVLTPSSKRFQPFQQFGRDVSDFTDSVRDPK
+                     TSEILDISPCAFGGVSVITPGTNASSEVAVLYQDVNCTDVSTAIHADQLTPAWRIYST
+                     GNNVFQTQAGCLIGAEHVDTSYECDIPIGAGICASYHTVSLLRSTSQKSIVAYTMSLG
+                     ADSSIAYSNNTIAIPTNFSISITTEVMPVSMAKTSVDCNMYICGDSTECANLLLQYGS
+                     FCTQLNRALSGIAAEQDRNTREVFAQVKQMYKTPTLKYFGGFNFSQILPDPLKPTKRS
+                     FIEDLLFNKVTLADAGFMKQYGECLGDINARDLICAQKFNGLTVLPPLLTDDMIAAYT
+                     AALVSGTATAGWTFGAGAALQIPFAMQMAYRFNGIGVTQNVLYENQKQIANQFNKAIS
+                     QIQESLTTTSTALGKLQDVVNQNAQALNTLVKQLSSNFGAISSVLNDILSRLDKVEAE
+                     VQIDRLITGRLQSLQTYVTQQLIRAAEIRASANLAATKMSECVLGQSKRVDFCGKGYH
+                     LMSFPQAAPHGVVFLHVTYVPSQERNFTTAPAICHEGKAYFPREGVFVFNGTSWFITQ
+                     RNFFSPQIITTDNTFVSGNCDVVIGIINNTVYDPLQPELDSFKEELDKYFKNHTSPDV
+                     DLGDISGINASVVNIQKEIDRLNEVAKNLNESLIDLQELGKYEQYIKWPWYVWLGFIA
+                     GLIAIVMVTILLCCMTSCCSCLKGACSCGSCCKFDEDDSEPVLKGVKLHYT"
+ORIGIN      
+        1 atgtttattt tcttattatt tcttactctc actagtggta gtgaccttga ccggtgcacc
+       61 acttttgatg atgttcaagc tcctaattac actcaacata cttcatctat gaggggggtt
+      121 tactatcctg atgaaatttt tagatcagac actctttatt taactcagga tttatttctt
+      181 ccattttatt ctaatgttac agggtttcat actattaatc atacgtttgg caaccctgtc
+      241 atacctttta aggatggtat ttattttgct gccacagaga aatcaaatgt tgtccgtggt
+      301 tgggtttttg gttctaccat gaacaacaag tcacagtcgg tgattattat taacaattct
+      361 actaatgttg ttatacgagc atgtaacttt gaattgtgtg acaacccttt ctttgctgtt
+      421 tctaaaccca tgggtacaca gacacatact atgatattcg ataatgcatt taattgcact
+      481 ttcgagtaca tatctgatgc cttttcgctt gatgtttcag aaaagtcagg taattttaaa
+      541 cacttacgag agtttgtgtt taaaaataaa gatgggtttc tctatgttta taagggctat
+      601 caacctatag atgtagttcg tgatctacct tctggtttta acactttgaa acctattttt
+      661 aagttgcctc ttggtattaa cattacaaat tttagagcca ttcttacagc cttttcacct
+      721 gctcaagaca tttggggcac gtcagctgca gcctattttg ttggctattt aaagccaact
+      781 acatttatgc tcaagtatga tgaaaatggt acaatcacag atgctgttga ttgttctcaa
+      841 aatccacttg ctgaactcaa atgctctgtt aagagctttg agattgacaa aggaatttac
+      901 cagacctcta atttcagggt tgttccctca ggagatgttg tgagattccc taatattaca
+      961 aacttgtgtc cttttggaga ggtttttaat gctactaaat tcccttctgt ctatgcatgg
+     1021 gagagaaaaa aaatttctaa ttgtgttgct gattactctg tgctctacaa ctcaacattt
+     1081 ttttcaacct ttaagtgcta tggcgtttct gccactaagt tgaatgatct ttgcttctcc
+     1141 aatgtctatg cagattcttt tgtagtcaag ggagatgatg taagacaaat agcgccagga
+     1201 caaactggtg ttattgctga ttataattat aaattgccag atgatttcat gggttgtgtc
+     1261 cttgcttgga atactaggaa cattgatgct acttcaactg gtaattataa ttataaatat
+     1321 aggtatctta gacatggcaa gcttaggccc tttgagagag acatatctaa tgtgcctttc
+     1381 tcccctgatg gcaaaccttg caccccacct gctcttaatt gttattggcc attaaatgat
+     1441 tatggttttt acaccactac tggcattggc taccaacctt acagagttgt agtactttct
+     1501 tttgaacttt taaatgcacc ggccacggtt tgtggaccaa aattatccac tgaccttatt
+     1561 aagaaccagt gtgtcaattt taattttaat ggactcactg gtactggtgt gttaactcct
+     1621 tcttcaaaga gatttcaacc atttcaacaa tttggccgtg atgtttctga tttcactgat
+     1681 tccgttcgag atcctaaaac atctgaaata ttagacattt caccttgcgc ttttgggggt
+     1741 gtaagtgtaa ttacacctgg aacaaatgct tcatctgaag ttgctgttct atatcaagat
+     1801 gttaactgca ctgatgtttc tacagcaatt catgcagatc aactcacacc agcttggcgc
+     1861 atatattcta ctggaaacaa tgtattccag actcaagcag gctgtcttat aggagctgag
+     1921 catgtcgaca cttcttatga gtgcgacatt cctattggag ctggcatttg tgctagttac
+     1981 catacagttt ctttattacg tagtactagc caaaaatcta ttgtggctta tactatgtct
+     2041 ttaggtgctg atagttcaat tgcttactct aataacacca ttgctatacc tactaacttt
+     2101 tcaattagca ttactacaga agtaatgcct gtttctatgg ctaaaacctc cgtagattgt
+     2161 aatatgtaca tctgcggaga ttctactgaa tgtgctaatt tgcttctcca atatggtagc
+     2221 ttttgcacac aactaaatcg tgcactctca ggtattgctg ctgaacagga tcgcaacaca
+     2281 cgtgaagtgt tcgctcaagt caaacaaatg tacaaaaccc caactttgaa atattttggt
+     2341 ggttttaatt tttcacaaat attacctgac cctctaaagc caactaagag gtcttttatt
+     2401 gaggacttgc tctttaataa ggtgacactc gctgatgctg gcttcatgaa gcaatatggc
+     2461 gaatgcctag gtgatattaa tgctagagat ctcatttgtg cgcagaagtt caatggactt
+     2521 acagtgttgc cacctctgct cactgatgat atgattgctg cctacactgc tgctctagtt
+     2581 agtggtactg ccactgctgg atggacattt ggtgctggcg ctgctcttca aatacctttt
+     2641 gctatgcaaa tggcatatag gttcaatggc attggagtta cccaaaatgt tctctatgag
+     2701 aaccaaaaac aaatcgccaa ccaatttaac aaggcgatta gtcaaattca agaatcactt
+     2761 acaacaacat caactgcatt gggcaagctg caagacgttg ttaaccagaa tgctcaagca
+     2821 ttaaacacac ttgttaaaca acttagctct aattttggtg caatttcaag tgtgctaaat
+     2881 gatatccttt cgcgacttga taaagtcgag gcggaggtac aaattgacag gttaattaca
+     2941 ggcagacttc aaagccttca aacctatgta acacaacaac taatcagggc tgctgaaatc
+     3001 agggcttctg ctaatcttgc tgctactaaa atgtctgagt gtgttcttgg acaatcaaaa
+     3061 agagttgact tttgtggaaa gggctaccac cttatgtcct tcccacaagc agccccgcat
+     3121 ggtgttgtct tcctacatgt cacgtatgtg ccatcccagg agaggaactt caccacagcg
+     3181 ccagcaattt gtcatgaagg caaagcatac ttccctcgtg aaggtgtttt tgtgtttaat
+     3241 ggcacttctt ggtttattac acagaggaac ttcttttctc cacaaataat tactacagac
+     3301 aatacatttg tctcaggaaa ttgtgatgtc gttattggca tcattaacaa cacagtttat
+     3361 gatcctctgc aacctgagct tgactcattc aaagaagagc tggacaagta cttcaaaaat
+     3421 catacatcac cagatgttga tcttggcgac atttcaggca ttaacgcttc tgtcgtcaac
+     3481 attcaaaaag aaattgaccg cctcaatgag gtcgctaaaa atttaaatga atcactcatt
+     3541 gaccttcaag aattgggaaa atatgagcaa tatattaaat ggccttggta tgtttggctc
+     3601 ggcttcattg ctggactaat tgccatcgtc atggttacaa tcttgctttg ttgcatgact
+     3661 agttgttgca gttgcctcaa gggtgcatgc tcttgtggtt cttgctgcaa gtttgatgag
+     3721 gatgactctg agccagttct caagggtgtc aaattacatt acacataa
+//
+
