@@ -12,23 +12,35 @@ print (record.letter_annotations) #não existem
 print('-------------------------------------')
 print (record.features)
 
-featcds = []
-featgene = []
-featothers = []
+from Bio import SeqIO
+gb_file = "sequenceS.gb"
+for gb_record in SeqIO.parse(open(gb_file,"r"), "genbank") :
+    # now do something with the record
+    print ("Name %s, %i features" % (gb_record.name, len(gb_record.features)))
+    print (repr(gb_record.seq))
 
-for i in range(len(record.features)):
-    if record.features[i].type == "CDS":
-        featcds.append(i)
-    elif record.features[i].type == 'gene':
-        featgene.append(i)
-    else:
-        featothers.append(i)
-        
-for k in featcds:
-    print (record.features[k].location)
-    
-for k in featcds:
-    print(record.features[k].extract(record.seq))
-    
 
+def index_genbank_features(gb_record, feature_type, qualifier) :
+    answer = dict()
+    for (index, feature) in enumerate(gb_record.features) :
+        if feature.type==feature_type :
+            if qualifier in feature.qualifiers :
+                #There should only be one locus_tag per feature, but there
+                #are usually several db_xref entries
+                for value in feature.qualifiers[qualifier] :
+                    if value in answer :
+                        print ("WARNING - Duplicate key %s for %s features %i and %i" \
+                           % (value, feature_type, answer[value], index))
+                    else :
+                        answer[value] = index
+    return answer
+
+locus_tag_cds_index = index_genbank_features(gb_record,"CDS","locus_tag")
+print(locus_tag_cds_index)
+
+db_xref_cds_index = index_genbank_features(gb_record,"CDS","db_xref")
+print(db_xref_cds_index)
+
+gb_feature = gb_record.features[2]
+print(gb_feature)
 
