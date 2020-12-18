@@ -1,6 +1,6 @@
 from Bio import SeqIO
 
-record = SeqIO.read('sequenceACE2.gb', 'genbank')
+record = SeqIO.read('sequenceBST2.gb', 'genbank')
 print(record.id)
 print(record.seq)
 print (record.description)     
@@ -13,7 +13,7 @@ print('-------------------------------------')
 print (record.features)
 
 from Bio import SeqIO
-gb_file = "sequenceACE2.gb"
+gb_file = "sequenceBST2.gb"
 for gb_record in SeqIO.parse(open(gb_file,"r"), "genbank") :
     # now do something with the record
     print ("Name %s, %i features" % (gb_record.name, len(gb_record.features)))
@@ -41,7 +41,5 @@ print(locus_tag_cds_index)
 db_xref_cds_index = index_genbank_features(gb_record,"CDS","db_xref")
 print(db_xref_cds_index)
 
-gb_feature = gb_record.features[4]
+gb_feature = gb_record.features[3]
 print(gb_feature)
-
-

@@ -1,0 +1,214 @@
+LOCUS       NG_008307               3601 bp    DNA     linear   PRI 05-JUL-2020
+DEFINITION  Homo sapiens serine protease 1 (PRSS1), RefSeqGene on chromosome 7.
+ACCESSION   NG_008307 REGION: 4989..8589
+VERSION     NG_008307.3
+KEYWORDS    RefSeq; RefSeqGene.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 3601)
+  AUTHORS   Shelton,C., LaRusch,J. and Whitcomb,D.C.
+  TITLE     Pancreatitis Overview
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Stephens
+            K and Amemiya A (Eds.);
+            GENEREVIEWS((R));
+            (1993)
+   PUBMED   24624459
+REFERENCE   2  (bases 1 to 3601)
+  AUTHORS   Shelton,C., Solomon,S., LaRusch,J. and Whitcomb,D.C.
+  TITLE     PRSS1-Related Hereditary Pancreatitis
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Stephens
+            K and Amemiya A (Eds.);
+            GENEREVIEWS((R));
+            (1993)
+   PUBMED   22379635
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff in
+            collaboration with Diane Cairns. The reference sequence was derived
+            from AC244472.2 and AC245427.3.
+            This sequence is a reference standard in the RefSeqGene project.
+            On Nov 5, 2015 this sequence version replaced NG_008307.2.
+            
+            Summary: This gene encodes a trypsinogen, which is a member of the
+            trypsin family of serine proteases. This enzyme is secreted by the
+            pancreas and cleaved to its active form in the small intestine. It
+            is active on peptide linkages involving the carboxyl group of
+            lysine or arginine. Mutations in this gene are associated with
+            hereditary pancreatitis. This gene and several other trypsinogen
+            genes are localized to the T cell receptor beta locus on chromosome
+            7. [provided by RefSeq, Jul 2008].
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-15381             AC244472.2         187283-202663
+            15382-21514         AC245427.3         50965-57097
+FEATURES             Location/Qualifiers
+     source          1..3601
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="7"
+                     /map="7q34"
+     gene            <1..>3601
+                     /gene="TRB"
+                     /gene_synonym="TCRB; TRB@"
+                     /note="T cell receptor beta locus"
+                     /db_xref="GeneID:6957"
+                     /db_xref="HGNC:HGNC:12155"
+     gene            1..3601
+                     /gene="PRSS1"
+                     /gene_synonym="TRP1; TRY1; TRY4; TRYP1"
+                     /note="serine protease 1"
+                     /db_xref="GeneID:5644"
+                     /db_xref="HGNC:HGNC:9475"
+                     /db_xref="MIM:276000"
+     mRNA            join(1..53,1084..1243,2303..2556,2960..3096,3397..3601)
+                     /gene="PRSS1"
+                     /gene_synonym="TRP1; TRY1; TRY4; TRYP1"
+                     /product="serine protease 1"
+                     /transcript_id="NM_002769.5"
+                     /db_xref="GeneID:5644"
+                     /db_xref="HGNC:HGNC:9475"
+                     /db_xref="MIM:276000"
+     exon            1..53
+                     /gene="PRSS1"
+                     /gene_synonym="TRP1; TRY1; TRY4; TRYP1"
+                     /inference="alignment:Splign:2.1.0"
+                     /number=1
+     CDS             join(14..53,1084..1243,2303..2556,2960..3096,3397..3549)
+                     /gene="PRSS1"
+                     /gene_synonym="TRP1; TRY1; TRY4; TRYP1"
+                     /EC_number="3.4.21.4"
+                     /note="cationic trypsinogen; trypsinogen A; trypsinogen 1;
+                     nonfunctional trypsin 1; digestive zymogen; beta-trypsin;
+                     TCR V beta 4.1; protease, serine 1"
+                     /codon_start=1
+                     /product="trypsin-1 preproprotein"
+                     /protein_id="NP_002760.1"
+                     /db_xref="CCDS:CCDS5872.1"
+                     /db_xref="GeneID:5644"
+                     /db_xref="HGNC:HGNC:9475"
+                     /db_xref="MIM:276000"
+                     /translation="MNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSG
+                     YHFCGGSLINEQWVVSAGHCYKSRIQVRLGEHNIEVLEGNEQFINAAKIIRHPQYDRK
+                     TLNNDIMLIKLSSRAVINARVSTISLPTAPPATGTKCLISGWGNTASSGADYPDELQC
+                     LDAPVLSQAKCEASYPGKITSNMFCVGFLEGGKDSCQGDSGGPVVCNGQLQGVVSWGD
+                     GCAQKNKPGVYTKVYNYVKWIKNTIAANS"
+     sig_peptide     join(14..53,1084..1088)
+                     /gene="PRSS1"
+                     /gene_synonym="TRP1; TRY1; TRY4; TRYP1"
+                     /inference="COORDINATES: ab initio prediction:SignalP:4.0"
+     proprotein      join(1089..1243,2303..2556,2960..3096,3397..3546)
+                     /gene="PRSS1"
+                     /gene_synonym="TRP1; TRY1; TRY4; TRYP1"
+                     /product="trypsin-1 proprotein"
+     mat_peptide     join(1113..1243,2303..2556,2960..3096,3397..3546)
+                     /gene="PRSS1"
+                     /gene_synonym="TRP1; TRY1; TRY4; TRYP1"
+                     /product="trypsin-1"
+     mat_peptide     join(1113..1243,2303..2468)
+                     /gene="PRSS1"
+                     /gene_synonym="TRP1; TRY1; TRY4; TRYP1"
+                     /product="Alpha-trypsin chain 1. /id=PRO_0000313570"
+                     /note="propagated from UniProtKB/Swiss-Prot (P07477.1)"
+     mat_peptide     join(2469..2556,2960..3096,3397..3546)
+                     /gene="PRSS1"
+                     /gene_synonym="TRP1; TRY1; TRY4; TRYP1"
+                     /product="Alpha-trypsin chain 2. /id=PRO_0000313571"
+                     /note="propagated from UniProtKB/Swiss-Prot (P07477.1)"
+     misc_feature    2965..2967
+                     /gene="PRSS1"
+                     /gene_synonym="TRP1; TRY1; TRY4; TRYP1"
+                     /note="Sulfotyrosine.
+                     /evidence=ECO:0000305|PubMed:17087724,
+                     ECO:0000305|PubMed:25010489; propagated from
+                     UniProtKB/Swiss-Prot (P07477.1); sulfatation site"
+     misc_feature    3085..3087
+                     /gene="PRSS1"
+                     /gene_synonym="TRP1; TRY1; TRY4; TRYP1"
+                     /note="Required for specificity. /evidence=ECO:0000250;
+                     propagated from UniProtKB/Swiss-Prot (P07477.1); other
+                     site"
+     exon            1084..1243
+                     /gene="PRSS1"
+                     /gene_synonym="TRP1; TRY1; TRY4; TRYP1"
+                     /inference="alignment:Splign:2.1.0"
+                     /number=2
+     exon            2303..2556
+                     /gene="PRSS1"
+                     /gene_synonym="TRP1; TRY1; TRY4; TRYP1"
+                     /inference="alignment:Splign:2.1.0"
+                     /number=3
+     exon            2960..3096
+                     /gene="PRSS1"
+                     /gene_synonym="TRP1; TRY1; TRY4; TRYP1"
+                     /inference="alignment:Splign:2.1.0"
+                     /number=4
+     exon            3397..3601
+                     /gene="PRSS1"
+                     /gene_synonym="TRP1; TRY1; TRY4; TRYP1"
+                     /inference="alignment:Splign:2.1.0"
+                     /number=5
+ORIGIN      
+        1 acactctacc accatgaatc cactcctgat ccttaccttt gtggcagctg ctcgtgagta
+       61 tcatgccctg cctcaggccc caaccacccc cccgttcctg gccgacaaat gcccttccat
+      121 tcttaccacc tctcctcttt tgactgtgct ctgatattcc gtttcctcca tctggcatat
+      181 ctccttccca tcctccttgg gctcttttta agtctcacct gttcaccttc tccttgactt
+      241 cactcccacc actgtcattc atccatatcc gagttgtggt tggagaagct gggaaggggg
+      301 ccaggtgggg ctgtcccacg aaatgaagca gcaggcttca ggcttggctc caacagcaac
+      361 agaatagcac cactatagct gctcctaacc tcgaatgcac ctggggaggt tgaaaaatta
+      421 ctcatgccag agactcagct ctagaaattc taacttcaat tgtctggggt agagcttgtg
+      481 ttctgggctt ttaagcttcc caggtgattt ttaatatttc cagccatgca gccaaggtta
+      541 agaattgctg tcctattggc caataacaaa gtctaccttt gttctgccaa agtgagcctg
+      601 ggggctgccc tcaactctgc cctgactgca cagatctgag ctatggggga aggtggtcat
+      661 ggccaggtct atgcagacag ggggttttcc tagcttggca aaagaatcct gacaatccag
+      721 ggcccaaata gccaggggaa gtacacaggt gatgaataaa agagagaagc actcagtggg
+      781 agagacaacc acatcccaac tcctatccca ctggaagcat tgtgaggaca ttccttgcga
+      841 cttcagcctg gtgaccccag gagagctcgg atcctccgca gggtacctag ctatgtgccc
+      901 tgcaggcaca gagacttggg agccacaggc agtgatgatc accaggggtg gcagagctcc
+      961 ctcccttgcc tagcctcact gtgcttgtta aggatttcta attagcagaa agcaatcaca
+     1021 ggctgggagc gccaccccta acatgctatt gacttgcctt ctcccttccc atctccactc
+     1081 cagttgctgc cccctttgat gatgatgaca agatcgttgg gggctacaac tgtgaggaga
+     1141 attctgtccc ctaccaggtg tccctgaatt ctggctacca cttctgtggt ggctccctca
+     1201 tcaacgaaca gtgggtggta tcagcaggcc actgctacaa gtcgtaagtg tggggccccc
+     1261 gactgcaaag ctcccggcca gtctgcctgg gagagcttgg cttcagccca gggaactact
+     1321 gaggttgggt aagatggatg ggagaggtgg tggagaagaa aacttgttgg cagctgcgga
+     1381 ctctccagag cagagagtga acacaagaca ggaacctctc acacccaggc aaatccatga
+     1441 aacagcaagg gttgtggtca taaaagcagg cagggatgat cttggggtgg tgagagctag
+     1501 tgagaaaagc aggcaagtat cttttgctgg ttagctacac attaaagcca actaagaaag
+     1561 actttttaaa aatacagatg cctttgtcct atcccagggc aattaagtca aaattttcag
+     1621 gaagagggtg tgaatatcag tgagaatttt acactctacc tctgctaact gtagagtgta
+     1681 tagacagagc tgagaactgc tgcctacacc aagaactctc aaacctgagt atgcatcaga
+     1741 acgccctgca ggcttgttaa ggcacaaatc actgggcccc ttccccaagg ttctgatcag
+     1801 taggtggggg taaggaccaa gaattcacat ttctaacaag ttcccaggag atgctaatgc
+     1861 tatggctacc cttggattag attacacaga agggtggttc tcaccaggcc aagaatggag
+     1921 ggaggaacag gcactgtgca cagttggcaa aggcctgggg tgaagaacgc tgggaaaact
+     1981 tcaaggagct ccttgtgccc acagtgctag tgactgtgga gattgtggga aagagtctgg
+     2041 ggaggcaggt tgaggagcag cctctggtgg gatccctttg actcttcccc accccactac
+     2101 caccaacctc tggagcagat aggtcctggg tctcatacct tcactgaccc acatccctct
+     2161 gctgcccatg cgatatggcc acacacccca ccccatgcct ccagagctgt ccatgagcag
+     2221 agagcttgag gaacctgggg aaggtgggat aggtgccctg gctgtgggag aaggtcttca
+     2281 ccatgcctgc cctgcccatc agccgcatcc aggtgagact gggagagcac aacatcgaag
+     2341 tcctggaggg gaatgagcag ttcatcaatg cagccaagat catccgccac ccccaatacg
+     2401 acaggaagac tctgaacaat gacatcatgt taatcaagct ctcctcacgt gcagtaatca
+     2461 acgcccgcgt gtccaccatc tctctgccca ccgcccctcc agccactggc acgaagtgcc
+     2521 tcatctctgg ctggggcaac actgcgagct ctggcggtga gtgggaccct tagtccttct
+     2581 acttccctcc atcctcacaa tttccagaac aaaccatgcc ccttaacttg aatcctctca
+     2641 cctccaggct taagacacat ttcgagtgcc cattacacac agactctgca ctgggcacca
+     2701 gagagatgca aactatcaag gacttggctc ctaaaatcaa gagacaggac aaatggagaa
+     2761 cttgatatga tcacatcttg ggaggggttc aacaatgatc attctgggaa ctaaaagcca
+     2821 gagtctcttg ccaggactta tgttctggag tcctctccag gggctgtgtt cctcttcagt
+     2881 tttccatcca agattattgt ctccttctct ggcctgaccc acatttctac ttcctttgat
+     2941 ctcttcctga tcctcacagc cgactaccca gacgagctgc agtgcctgga tgctcctgtg
+     3001 ctgagccagg ctaagtgtga agcctcctac cctggaaaga ttaccagcaa catgttctgt
+     3061 gtgggcttcc ttgagggagg caaggattca tgtcaggtga tttgaccaac ccttcccatg
+     3121 ctgaggctcc cactgatacc taggccccac cagggaaaag gatttgaact caaaaggtgg
+     3181 tggggctgag gaggctccct gcagtgccca catggagaag tgaggaagac tcccttgggc
+     3241 tgcatcttgt ctgcttagga agaacagaga atgggccacc atgagaagga catggagcca
+     3301 cagagctggc tggaaagggg tcttttaagg ttcagagtaa atgtagctat attcctcctc
+     3361 catctctcca tacaacttgt cccttcttcc ccccagggtg attctggtgg ccctgtggtc
+     3421 tgcaatggac agctccaagg agttgtctcc tggggtgatg gctgtgccca gaagaacaag
+     3481 cctggagtct acaccaaggt ctacaactat gtgaaatgga ttaagaacac catagctgcc
+     3541 aatagctaaa gcccccagta tctcttcagt ctctatacca ataaagtgac cctgttctca
+     3601 c
+//
+
