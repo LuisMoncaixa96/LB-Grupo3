@@ -1,5 +1,25 @@
-from Bio.Blast import NCBIWWW
-from Bio import SeqIO
-record = SeqIO.read(open("sequenceS.gb"), format="genbank")
-result_handle = NCBIWWW.qblast("blastp", "nt", record.format("genbank"))
-print (result_handle)
+result_handle = open("Sblast.xml")
+
+from Bio.Blast import NCBIXML
+blast_record = NCBIXML.read(result_handle)
+
+E_VALUE_THRESH = 0.04
+
+for alignment in blast_record.alignments:
+     for hsp in alignment.hsps:
+         if hsp.expect < E_VALUE_THRESH:
+             print("****Alignment****")
+             print("sequence:", alignment.title)
+             print("length:", alignment.length)
+             print("e value:", hsp.expect)
+             print(hsp.query[0:75] + "...")
+             print(hsp.match[0:75] + "...")
+             print(hsp.sbjct[0:75] + "...")
+
+from Bio import SearchIO
+blast_qresult = SearchIO.read("Sblast.xml", "blast-xml")
+print(blast_qresult)
+
+blast_hit = blast_qresult[0]    # first hit from the query result('que é o nosso gene')
+print(blast_hit)
+
