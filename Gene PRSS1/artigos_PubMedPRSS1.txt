@@ -1,0 +1,1784 @@
+Title: Identification of Potential Serum Protein Biomarkers and Pathways for Pancreatic Cancer Cachexia Using an Aptamer-Based Discovery Platform.
+Authors: ['Narasimhan A', 'Shahda S', 'Kays JK', 'Perkins SM', 'Cheng L', 'Schloss KNH', 'Schloss DEI', 'Koniaris LG', 'Zimmers TA']
+Source: Cancers (Basel). 2020 Dec 15;12(12). pii: cancers12123787. doi: 10.3390/cancers12123787.
+
+Title: Clinical interpretation of PRSS1 gene variants in patients with pancreatitis.
+Authors: ['Girodon E', 'Rebours V', 'Chen JM', 'Pagin A', 'Levy P', 'Ferec C', 'Bienvenu T']
+Source: Clin Res Hepatol Gastroenterol. 2020 Nov 27. pii: S2210-7401(20)30192-3. doi: 10.1016/j.clinre.2020.07.004.
+
+Title: Role of the Common PRSS1-PRSS2 Haplotype in Alcoholic and Non-Alcoholic Chronic Pancreatitis: Meta- and Re-Analyses.
+Authors: ['Herzig AF', 'Genin E', 'Cooper DN', 'Masson E', 'Ferec C', 'Chen JM']
+Source: Genes (Basel). 2020 Nov 13;11(11). pii: genes11111349. doi: 10.3390/genes11111349.
+
+Title: EMC6 regulates acinar apoptosis via APAF1 in acute and chronic pancreatitis.
+Authors: ['Tan JH', 'Cao RC', 'Zhou L', 'Zhou ZT', 'Chen HJ', 'Xu J', 'Chen XM', 'Jin YC', 'Lin JY', 'Qi ZC', 'Zeng JL', 'Li SJ', 'Luo M', 'Hu GD', 'Jin J', 'Zhang GW']
+Source: Cell Death Dis. 2020 Nov 11;11(11):966. doi: 10.1038/s41419-020-03177-3.
+
+Title: The histopathology of SPINK1-associated chronic pancreatitis.
+Authors: ['Jones TE', 'Bellin MD', 'Yadav D', 'Freeman ML', 'Schwarzenberg SJ', 'Slivka A', 'Chennat JS', 'Beilman GJ', 'Chinnakotla S', 'Pruett TL', 'Kirchner V', 'Humar A', 'Wijkstrom M', 'Zureikat AH', 'Nikiforova MN', 'Wald AI', 'Whitcomb DC', 'Singhi AD']
+Source: Pancreatology. 2020 Dec;20(8):1648-1655. doi: 10.1016/j.pan.2020.10.030. Epub 2020 Oct 16.
+
+Title: Acute Pancreatitis in the Setting of Hepatitis E Virus (Genotype 3) Infection and Compound CLDN2-PRSS1 Risk Variants.
+Authors: ['Lehmann J', 'Muresan S', 'Weber SN', 'Lammert F', 'Krawczyk M']
+Source: Pancreas. 2020 Oct;49(9):e91-e93. doi: 10.1097/MPA.0000000000001651.
+
+Title: Effects of germline and somatic events in candidate BRCA-like genes on breast-tumor signatures.
+Authors: ['Bodily WR', 'Shirts BH', 'Walsh T', 'Gulsuner S', 'King MC', 'Parker A', 'Roosan M', 'Piccolo SR']
+Source: PLoS One. 2020 Sep 30;15(9):e0239197. doi: 10.1371/journal.pone.0239197. eCollection 2020.
+
+Title: Next generation sequencing pitfalls in diagnosing trypsinogen (PRSS1) mutations in chronic pancreatitis.
+Authors: ['Weiss FU', 'Laemmerhirt F', 'Lerch MM']
+Source: Gut. 2020 Sep 28. pii: gutjnl-2020-322864. doi: 10.1136/gutjnl-2020-322864.
+
+Title: Functional prediction and comparative population analysis of variants in genes for proteases and innate immunity related to SARS-CoV-2 infection.
+Authors: ['Klaassen K', 'Stankovic B', 'Zukic B', 'Kotur N', 'Gasic V', 'Pavlovic S', 'Stojiljkovic M']
+Source: Infect Genet Evol. 2020 Oct;84:104498. doi: 10.1016/j.meegid.2020.104498. Epub 2020 Aug 7.
+
+Title: Clinical review of acute, recurrent, and chronic pancreatitis: Recent updates of 2013-2019 literature.
+Authors: ['Sadiq N', 'Gillani SW', 'Al Saeedy D', 'Rahmoun J', 'Shaban D', 'Kotait K', 'Javaheri S']
+Source: J Pharm Bioallied Sci. 2020 Apr-Jun;12(2):112-123. doi: 10.4103/jpbs.JPBS_313_19. Epub 2020 Apr 10.
+
+Title: ATF6 aggravates acinar cell apoptosis and injury by regulating p53/AIFM2 transcription in Severe Acute Pancreatitis.
+Authors: ['Tan JH', 'Cao RC', 'Zhou L', 'Zhou ZT', 'Chen HJ', 'Xu J', 'Chen XM', 'Jin YC', 'Lin JY', 'Zeng JL', 'Li SJ', 'Luo M', 'Hu GD', 'Yang XB', 'Jin J', 'Zhang GW']
+Source: Theranostics. 2020 Jul 9;10(18):8298-8314. doi: 10.7150/thno.46934. eCollection 2020.
+
+Title: A high prevalence of genetic polymorphisms in idiopathic and alcohol-associated chronic pancreatitis patients in Ireland.
+Authors: ['Ni Chonchubhair HM', 'Duggan SN', 'Egan SM', 'Kenyon M', "O'Toole D", 'McManus R', 'Conlon KC']
+Source: HPB (Oxford). 2020 Jul 12. pii: S1365-182X(20)31049-2. doi: 10.1016/j.hpb.2020.06.002.
+
+Title: Complex Genetics in Pancreatitis: Insights Gained From a New Candidate Locus Panel.
+Authors: ['Ellison MA', 'Spagnolo DM', 'Shelton C', 'Orlova E', 'LaRusch J', 'Whitcomb DC', 'Haupt M']
+Source: Pancreas. 2020 Aug;49(7):983-998. doi: 10.1097/MPA.0000000000001612.
+
+Title: International consensus guidelines on surveillance for pancreatic cancer in chronic pancreatitis. Recommendations from the working group for the international consensus guidelines for chronic pancreatitis in collaboration with the International Association of Pancreatology, the American Pancreatic Association, the Japan Pancreas Society, and European Pancreatic Club.
+Authors: ['Greenhalf W', 'Levy P', 'Gress T', 'Rebours V', 'Brand RE', 'Pandol S', 'Chari S', 'Jorgensen MT', 'Mayerle J', 'Lerch MM', 'Hegyi P', 'Kleeff J', 'Castillo CF', 'Isaji S', 'Shimosegawa T', 'Sheel A', 'Halloran CM', 'Garg P', 'Takaori K', 'Besselink MG', 'Forsmark CE', 'Wilcox CM', 'Maisonneuve P', 'Yadav D', 'Whitcomb D', 'Neoptolemos J']
+Source: Pancreatology. 2020 Jul;20(5):910-918. doi: 10.1016/j.pan.2020.05.011. Epub 2020 May 31.
+
+Title: Pancreatitis Overview
+Authors: ['Shelton C', 'LaRusch J', 'Whitcomb DC']
+Source: ?
+
+Title: Hereditary pancreatitis model by blastocyst complementation in mouse.
+Authors: ['Asai A', 'Konno M', 'Kawamoto K', 'Isotani A', 'Mori M', 'Eguchi H', 'Doki Y', 'Arai T', 'Ishii H']
+Source: Oncotarget. 2020 Jun 2;11(22):2061-2073. doi: 10.18632/oncotarget.27595. eCollection 2020 Jun 2.
+
+Title: Single nucleotide polymorphisms in PRSS1 and CASR genes are associated with chronic pancreatitis in North-Eastern region of India.
+Authors: ['Chhatriya B', 'Paine SK', 'Das S', 'Chatterjee A', 'Nath D', 'Mukherjee A', 'Basu A', 'Goswami S']
+Source: J Gastrointestin Liver Dis. 2020 Jun 4;29(2):267-268. doi: 10.15403/jgld-788.
+
+Title: Insights into Dietary Switch in Cetaceans: Evidence from Molecular Evolution of Proteinases and Lipases.
+Authors: ['Li G', 'Wei H', 'Bi J', 'Ding X', 'Li L', 'Xu S', 'Yang G', 'Ren W']
+Source: J Mol Evol. 2020 Aug;88(6):521-535. doi: 10.1007/s00239-020-09952-2. Epub 2020 May 26.
+
+Title: AGA Clinical Practice Update on Pancreas Cancer Screening in High-Risk Individuals: Expert Review.
+Authors: ['Aslanian HR', 'Lee JH', 'Canto MI']
+Source: Gastroenterology. 2020 Jul;159(1):358-362. doi: 10.1053/j.gastro.2020.03.088. Epub 2020 May 19.
+
+Title: [Molecular predictors for the course of disease and individualized therapy in pancreatic cancer].
+Authors: ['Damanakis AI', 'Gebauer F', 'Bruns CJ']
+Source: Chirurg. 2020 Aug;91(8):642-649. doi: 10.1007/s00104-020-01172-0.
+
+Title: Imaging of genetically-mediated pancreatitis.
+Authors: ["O'Brien CM", "O'Brien AC", 'Gleeson L', 'Conlon K', 'Feeney J', 'Malone DE']
+Source: Clin Imaging. 2020 Sep;65:113-118. doi: 10.1016/j.clinimag.2020.04.005. Epub 2020 Apr 18.
+
+Title: Disordered Gut Microbiota in Children Who Have Chronic Pancreatitis and Different Functional Gene Mutations.
+Authors: ['Wang W', 'Xiao Y', 'Wang X', 'Zhou Y', 'Wang T', 'Xv C', 'Shen BY']
+Source: Clin Transl Gastroenterol. 2020 Mar;11(3):e00150. doi: 10.14309/ctg.0000000000000150.
+
+Title: Trypsin-Instructed Self-Assembly on Endoplasmic Reticulum for Selectively Inhibiting Cancer Cells: Dedicated to Professor George M. Whitesides on the occasion of his 80th birthday.
+Authors: ['Kim BJ', 'Fang Y', 'He H', 'Xu B']
+Source: Adv Healthc Mater. 2020 Apr 28:e2000416. doi: 10.1002/adhm.202000416.
+
+Title: Consistent RNA sequencing contamination in GTEx and other data sets.
+Authors: ['Nieuwenhuis TO', 'Yang SY', 'Verma RX', 'Pillalamarri V', 'Arking DE', 'Rosenberg AZ', 'McCall MN', 'Halushka MK']
+Source: Nat Commun. 2020 Apr 22;11(1):1933. doi: 10.1038/s41467-020-15821-9.
+
+Title: Differences in Age at Onset of Symptoms, and Effects of Genetic Variants, in Patients With Early Vs Late-Onset Idiopathic Chronic Pancreatitis in a North American Cohort.
+Authors: ['Lewis MD', 'Talluri J', 'Wilcox CM', 'Abberbock JN', 'Tang G', 'Conwell DL', 'Banks PA', 'Cote GA', 'Sherman S', 'Alkaade S', 'Gardner TB', 'Anderson MA', 'Sandhu BS', 'Muniraj T', 'Forsmark CE', 'Guda N', 'Gelrud A', 'Romagnuolo J', 'Brand R', 'LaRusch J', 'Amann ST', 'Slivka A', 'Whitcomb DC', 'Yadav D']
+Source: Clin Gastroenterol Hepatol. 2020 Mar 30. pii: S1542-3565(20)30424-9. doi: 10.1016/j.cgh.2020.03.047.
+
+Title: Diabetes of the Exocrine Pancreas Related to Hereditary Pancreatitis, an Update.
+Authors: ['Ramalho GX', 'Dytz MG']
+Source: Curr Diab Rep. 2020 Mar 28;20(6):16. doi: 10.1007/s11892-020-01299-8.
+
+Title: Clinical and Practice Variations in Pediatric Acute Recurrent or Chronic Pancreatitis: Report From the INSPPIRE Study.
+Authors: ['Dike CR', 'Zimmerman B', 'Zheng Y', 'Wilschanski M', 'Werlin SL', 'Troendle D', 'Shah U', 'Schwarzenberg SJ', 'Pohl J', 'Perito ER', 'Ooi CY', 'Nathan JD', 'Morinville VD', 'McFerron B', 'Mascarenhas M', 'Maqbool A', 'Liu Q', 'Lin TK', 'Husain SZ', 'Heyman MB', 'Gonska T', 'Giefer MJ', 'Gariepy CE', 'Fishman DS', 'Bellin M', 'Barth B', 'Abu-El-Haija M', 'Lowe ME', 'Uc A']
+Source: J Pediatr Gastroenterol Nutr. 2020 Jul;71(1):112-118. doi: 10.1097/MPG.0000000000002661.
+
+Title: Impact of hereditary pancreatitis on patients and their families.
+Authors: ['Shelton CA', 'Grubs RE', 'Umapathy C', 'Yadav D', 'Whitcomb DC']
+Source: J Genet Couns. 2020 Dec;29(6):971-982. doi: 10.1002/jgc4.1221. Epub 2020 Feb 5.
+
+Title: P53 Activated by ER Stress Aggravates Caerulein-Induced Acute Pancreatitis Progression by Inducing Acinar Cell Apoptosis.
+Authors: ['Zhou L', 'Tan JH', 'Zhou WY', 'Xu J', 'Ren SJ', 'Lin ZY', 'Chen XM', 'Zhang GW']
+Source: Dig Dis Sci. 2020 Nov;65(11):3211-3222. doi: 10.1007/s10620-020-06052-5. Epub 2020 Jan 23.
+
+Title: Development of mutant human immunoreactive trypsinogen 1 (IRT1) and mutant human immunoreactive trypsinogen 2 (IRT2) for use in immunoassays.
+Authors: ['Divyapicigil M', 'Pirincci Gokturk SS', 'Ergenoglu B', 'Yucel F', 'Akcael EA']
+Source: Protein Expr Purif. 2020 May;169:105572. doi: 10.1016/j.pep.2020.105572. Epub 2020 Jan 21.
+
+Title: PRSS contributes to cetuximab resistance in colorectal cancer.
+Authors: ['Tan Z', 'Gao L', 'Wang Y', 'Yin H', 'Xi Y', 'Wu X', 'Shao Y', 'Qiu W', 'Du P', 'Shen W', 'Fu L', 'Jia R', 'Zhao C', 'Zhang Y', 'Zhao Z', 'Sun Z', 'Chen H', 'Hu X', 'Xu J', 'Wang Y']
+Source: Sci Adv. 2020 Jan 1;6(1):eaax5576. doi: 10.1126/sciadv.aax5576. eCollection 2020 Jan.
+
+Title: Genetic Evaluation of Children with Idiopathic Recurrent Acute Pancreatitis.
+Authors: ['Nabi Z', 'Talukdar R', 'Venkata R', 'Aslam M', 'Shava U', 'Reddy DN']
+Source: Dig Dis Sci. 2020 Oct;65(10):3000-3005. doi: 10.1007/s10620-019-06026-2. Epub 2020 Jan 3.
+
+Title: PRSS1 genotype is associated with prognosis in patients with pancreatic ductal adenocarcinoma.
+Authors: ['Wu H', 'Ding F', 'Chen X', 'Chen S', 'Shi Z', 'Liu Q', 'Zheng Z', 'Chen Y']
+Source: Oncol Lett. 2020 Jan;19(1):121-126. doi: 10.3892/ol.2019.11097. Epub 2019 Nov 14.
+
+Title: Diagnosis and Management of Chronic Pancreatitis: A Review.
+Authors: ['Singh VK', 'Yadav D', 'Garg PK']
+Source: JAMA. 2019 Dec 24;322(24):2422-2434. doi: 10.1001/jama.2019.19411.
+
+Title: Characterization of novel genetic alterations in salivary gland secretory carcinoma.
+Authors: ['Na K', 'Hernandez-Prera JC', 'Lim JY', 'Woo HY', 'Yoon SO']
+Source: Mod Pathol. 2020 Apr;33(4):541-550. doi: 10.1038/s41379-019-0427-1. Epub 2019 Dec 10.
+
+Title: Effect of sulfur mustard on melanogenesis in vitro.
+Authors: ['Muller-Dott K', 'Thiermann H', 'Steinritz D', 'Popp T']
+Source: Toxicol Lett. 2020 Feb 1;319:197-203. doi: 10.1016/j.toxlet.2019.11.014. Epub 2019 Nov 27.
+
+Title: Endoscopic Management of Pancreaticopleural Fistula in a Child with Hereditary Pancreatitis.
+Authors: ['Lee D', 'Lee EJ', 'Kim JW', 'Moon JS', 'Kim YT', 'Ko JS']
+Source: Pediatr Gastroenterol Hepatol Nutr. 2019 Nov;22(6):601-607. doi: 10.5223/pghn.2019.22.6.601. Epub 2019 Nov 7.
+
+Title: Genomic organization of the chicken TCRbeta locus originated by duplication of a Vbeta segment combined with a trypsinogen gene.
+Authors: ['Zhang T', 'Liu G', 'Wei Z', 'Wang Y', 'Kang L', 'Jiang Y', 'Sun Y']
+Source: Vet Immunol Immunopathol. 2020 Jan;219:109974. doi: 10.1016/j.vetimm.2019.109974. Epub 2019 Nov 10.
+
+Title: Mutation That Promotes Activation of Trypsinogen Increases Severity of Secretagogue-Induced Pancreatitis in Mice.
+Authors: ['Jancso Z', 'Sahin-Toth M']
+Source: Gastroenterology. 2020 Mar;158(4):1083-1094. doi: 10.1053/j.gastro.2019.11.020. Epub 2019 Nov 18.
+
+Title: The Liverpool duodenum-and spleen-preserving near-total pancreatectomy can provide long-term pain relief in patients with end-stage chronic pancreatitis.
+Authors: ['Sheel ARG', 'Baron RD', 'Dickerson LD', 'Ghaneh P', 'Campbell F', 'Raraty MGT', 'Yip V', 'Halloran CM', 'Neoptolemos JP']
+Source: Langenbecks Arch Surg. 2019 Nov;404(7):831-840. doi: 10.1007/s00423-019-01837-3. Epub 2019 Nov 20.
+
+Title: Rhododenol Activates Melanocytes and Induces Morphological Alteration at Sub-Cytotoxic Levels.
+Authors: ['Kim M', 'Lee CS', 'Lim KM']
+Source: Int J Mol Sci. 2019 Nov 12;20(22). pii: ijms20225665. doi: 10.3390/ijms20225665.
+
+Title: Trypsin activity governs increased susceptibility to pancreatitis in mice expressing human PRSS1R122H.
+Authors: ['Gui F', 'Zhang Y', 'Wan J', 'Zhan X', 'Yao Y', 'Li Y', 'Haddock AN', 'Shi J', 'Guo J', 'Chen J', 'Zhu X', 'Edenfield BH', 'Zhuang L', 'Hu C', 'Wang Y', 'Mukhopadhyay D', 'Radisky ES', 'Zhang L', 'Lugea A', 'Pandol SJ', 'Bi Y', 'Ji B']
+Source: J Clin Invest. 2020 Jan 2;130(1):189-202. doi: 10.1172/JCI130172.
+
+Title: PRSS1 mutation: a possible pathomechanism of pancreatic carcinogenesis and pancreatic cancer.
+Authors: ['Liu Q', 'Guo L', 'Zhang S', 'Wang J', 'Lin X', 'Gao F']
+Source: Mol Med. 2019 Sep 14;25(1):44. doi: 10.1186/s10020-019-0111-4.
+
+Title: ATF6 regulates the development of chronic pancreatitis by inducing p53-mediated apoptosis.
+Authors: ['Zhou L', 'Tan JH', 'Cao RC', 'Xu J', 'Chen XM', 'Qi ZC', 'Zhou SY', 'Li SB', 'Mo QX', 'Li ZW', 'Zhang GW']
+Source: Cell Death Dis. 2019 Sep 10;10(9):662. doi: 10.1038/s41419-019-1919-0.
+
+Title: Alcohol-dependent effect of PRSS1-PRSS2 haplotype in chronic pancreatitis.
+Authors: ['Hegyi E', 'Toth AZ', 'Vincze A', 'Szentesi A', 'Hegyi P', 'Sahin-Toth M']
+Source: Gut. 2020 Sep;69(9):1-2. doi: 10.1136/gutjnl-2019-319729. Epub 2019 Sep 10.
+
+Title: Transgenic Expression of PRSS1(R122H) Sensitizes Mice to Pancreatitis.
+Authors: ['Huang H', 'Swidnicka-Siergiejko AK', 'Daniluk J', 'Gaiser S', 'Yao Y', 'Peng L', 'Zhang Y', 'Liu Y', 'Dong M', 'Zhan X', 'Wang H', 'Bi Y', 'Li Z', 'Ji B', 'Logsdon CD']
+Source: Gastroenterology. 2020 Mar;158(4):1072-1082.e7. doi: 10.1053/j.gastro.2019.08.016. Epub 2019 Aug 13.
+
+Title: Micro RNAs upregulated in Vitiligo skin play an important role in its aetiopathogenesis by altering TRP1 expression and keratinocyte-melanocytes cross-talk.
+Authors: ['Vaish U', 'Kumar AA', 'Varshney S', 'Ghosh S', 'Sengupta S', 'Sood C', 'Kar HK', 'Sharma P', 'Natarajan VT', 'Gokhale RS', 'Rani R']
+Source: Sci Rep. 2019 Jul 12;9(1):10079. doi: 10.1038/s41598-019-46529-6.
+
+Title: Etiology and Risk Factors of Acute and Chronic Pancreatitis.
+Authors: ['Weiss FU', 'Laemmerhirt F', 'Lerch MM']
+Source: Visc Med. 2019 Apr;35(2):73-81. doi: 10.1159/000499138. Epub 2019 Mar 13.
+
+Title: Effects of PRSS1-PRSS2 rs10273639, CLDN2 rs7057398 and MORC4 rs12688220 polymorphisms on individual susceptibility to pancreatitis: A meta-analysis.
+Authors: ['Deng Y', 'Li Z']
+Source: Genomics. 2020 Jan;112(1):848-852. doi: 10.1016/j.ygeno.2019.05.025. Epub 2019 Jun 1.
+
+Title: Risk Factors for Rapid Progression From Acute Recurrent to Chronic Pancreatitis in Children: Report From INSPPIRE.
+Authors: ['Liu QY', 'Abu-El-Haija M', 'Husain SZ', 'Barth B', 'Bellin M', 'Fishman DS', 'Freedman SD', 'Gariepy CE', 'Giefer MJ', 'Gonska T', 'Heyman MB', 'Himes R', 'Lin TK', 'Maqbool A', 'Mascarenhas M', 'McFerron BA', 'Morinville VD', 'Nathan JD', 'Ooi CY', 'Perito ER', 'Pohl JF', 'Rhee S', 'Schwarzenberg SJ', 'Shah U', 'Troendle D', 'Werlin SL', 'Wilschanski M', 'Zimmerman MB', 'Lowe ME', 'Uc A']
+Source: J Pediatr Gastroenterol Nutr. 2019 Aug;69(2):206-211. doi: 10.1097/MPG.0000000000002405.
+
+Title: Genetic variants in acute, acute recurrent and chronic pancreatitis affect the progression of disease in children.
+Authors: ['Abu-El-Haija M', 'Valencia CA', 'Hornung L', 'Youssef N', 'Thompson T', 'Barasa NW', 'Wang X', 'Denson LA']
+Source: Pancreatology. 2019 Jun;19(4):535-540. doi: 10.1016/j.pan.2019.05.001. Epub 2019 May 7.
+
+Title: Idiopathic acute pancreatitis: a review on etiology and diagnostic work-up.
+Authors: ['Del Vecchio Blanco G', 'Gesuale C', 'Varanese M', 'Monteleone G', 'Paoluzi OA']
+Source: Clin J Gastroenterol. 2019 Dec;12(6):511-524. doi: 10.1007/s12328-019-00987-7. Epub 2019 Apr 30.
+
+Title: PRSS1-Related Hereditary Pancreatitis
+Authors: ['Shelton C', 'Solomon S', 'LaRusch J', 'Whitcomb DC']
+Source: ?
+
+Title: The CFTR gene variants in Japanese children with idiopathic pancreatitis.
+Authors: ['Iso M', 'Suzuki M', 'Yanagi K', 'Minowa K', 'Sakurai Y', 'Nakano S', 'Satou K', 'Shimizu T', 'Kaname T']
+Source: Hum Genome Var. 2019 Apr 11;6:17. doi: 10.1038/s41439-019-0049-7. eCollection 2019.
+
+Title: Regulation of the Pancreatic Exocrine Differentiation Program and Morphogenesis by Onecut 1/Hnf6.
+Authors: ['Kropp PA', 'Zhu X', 'Gannon M']
+Source: Cell Mol Gastroenterol Hepatol. 2019;7(4):841-856. doi: 10.1016/j.jcmgh.2019.02.004. Epub 2019 Mar 1.
+
+Title: Genetic association and transcriptome integration identify contributing genes and tissues at cystic fibrosis modifier loci.
+Authors: ['Gong J', 'Wang F', 'Xiao B', 'Panjwani N', 'Lin F', 'Keenan K', 'Avolio J', 'Esmaeili M', 'Zhang L', 'He G', 'Soave D', 'Mastromatteo S', 'Baskurt Z', 'Kim S', "O'Neal WK", 'Polineni D', 'Blackman SM', 'Corvol H', 'Cutting GR', 'Drumm M', 'Knowles MR', 'Rommens JM', 'Sun L', 'Strug LJ']
+Source: PLoS Genet. 2019 Feb 26;15(2):e1008007. doi: 10.1371/journal.pgen.1008007. eCollection 2019 Feb.
+
+Title: Novel Pathogenic PRSS1 Variant p.Glu190Lys in a Case of Chronic Pancreatitis.
+Authors: ['Jancso Z', 'Oracz G', 'Kujko AA', 'Kolodziejczyk E', 'Radisky ES', 'Rygiel AM', 'Sahin-Toth M']
+Source: Front Genet. 2019 Feb 6;10:46. doi: 10.3389/fgene.2019.00046. eCollection 2019.
+
+Title: Serum Serine Peptidase Inhibitor Kazal-Type 1, Trypsinogens 1 to 3, and Complex of Trypsin 2 and alpha1-Antitrypsin in the Diagnosis of Severe Acute Pancreatitis.
+Authors: ['Rainio M', 'Lindstrom O', 'Penttila A', 'Itkonen O', 'Kemppainen E', 'Stenman UH', 'Kylanpaa L']
+Source: Pancreas. 2019 Mar;48(3):374-380. doi: 10.1097/MPA.0000000000001260.
+
+Title: Exploring the multicomponent synergy mechanism of Banxia Xiexin Decoction on irritable bowel syndrome by a systems pharmacology strategy.
+Authors: ['Li B', 'Rui J', 'Ding X', 'Yang X']
+Source: J Ethnopharmacol. 2019 Apr 6;233:158-168. doi: 10.1016/j.jep.2018.12.033. Epub 2018 Dec 24.
+
+Title: The Polymorphisms at PRSS1-PRSS2 and MORC4 Loci and the Risk of Post-ERCP Pancreatitis.
+Authors: ['Angsuwatcharakon P', 'Sodsai P', 'Rerknimitr R', 'Hirankarn N']
+Source: Gastroenterol Res Pract. 2018 Nov 4;2018:1064783. doi: 10.1155/2018/1064783. eCollection 2018.
+
+Title: Results of First-Round of Surveillance in Individuals at High-Risk of Pancreatic Cancer from the AISP (Italian Association for the Study of the Pancreas) Registry.
+Authors: ['Paiella S', 'Capurso G', 'Cavestro GM', 'Butturini G', 'Pezzilli R', 'Salvia R', 'Signoretti M', 'Crippa S', 'Carrara S', 'Frigerio I', 'Bassi C', 'Falconi M', 'Iannicelli E', 'Giardino A', 'Mannucci A', 'Laghi A', 'Laghi L', 'Frulloni L', 'Zerbi A']
+Source: Am J Gastroenterol. 2019 Apr;114(4):665-670. doi: 10.1038/s41395-018-0414-z.
+
+Title: A preclinical model of chronic pancreatitis driven by trypsinogen autoactivation.
+Authors: ['Geisz A', 'Sahin-Toth M']
+Source: Nat Commun. 2018 Nov 28;9(1):5033. doi: 10.1038/s41467-018-07347-y.
+
+Title: Trypsin-encoding PRSS1-PRSS2 variations influence the risk of asparaginase-associated pancreatitis in children with acute lymphoblastic leukemia: a Ponte di Legno toxicity working group report.
+Authors: ['Wolthers BO', 'Frandsen TL', 'Patel CJ', 'Abaji R', 'Attarbaschi A', 'Barzilai S', 'Colombini A', 'Escherich G', 'Grosjean M', 'Krajinovic M', 'Larsen E', 'Liang DC', 'Moricke A', 'Rasmussen KK', 'Samarasinghe S', 'Silverman LB', 'van der Sluis IM', 'Stanulla M', 'Tulstrup M', 'Yadav R', 'Yang W', 'Zapotocka E', 'Gupta R', 'Schmiegelow K']
+Source: Haematologica. 2019 Mar;104(3):556-563. doi: 10.3324/haematol.2018.199356. Epub 2018 Nov 22.
+
+Title: SPINK1, PRSS1, CTRC, and CFTR Genotypes Influence Disease Onset and Clinical Outcomes in Chronic Pancreatitis.
+Authors: ['Zou WB', 'Tang XY', 'Zhou DZ', 'Qian YY', 'Hu LH', 'Yu FF', 'Yu D', 'Wu H', 'Deng SJ', 'Lin JH', 'Zhao AJ', 'Zhao ZH', 'Wu HY', 'Zhu JH', 'Qian W', 'Wang L', 'Xin L', 'Wang MJ', 'Wang LJ', 'Fang X', 'He L', 'Masson E', 'Cooper DN', 'Ferec C', 'Li ZS', 'Chen JM', 'Liao Z']
+Source: Clin Transl Gastroenterol. 2018 Nov 12;9(11):204. doi: 10.1038/s41424-018-0069-5.
+
+Title: Prevalence of abnormal glucose metabolism in pediatric acute, acute recurrent and chronic pancreatitis.
+Authors: ['Abu-El-Haija M', 'Hornung L', 'Denson LA', 'Husami A', 'Lin TK', 'Matlock K', 'Nathan JD', 'Palermo JJ', 'Thompson T', 'Valencia CA', 'Wang X', 'Woo J', 'Zhang K', 'Elder D']
+Source: PLoS One. 2018 Oct 31;13(10):e0204979. doi: 10.1371/journal.pone.0204979. eCollection 2018.
+
+Title: Trypsinogen isoforms in the ferret pancreas.
+Authors: ['Hegyi E', 'Sahin-Toth M']
+Source: Sci Rep. 2018 Oct 10;8(1):15094. doi: 10.1038/s41598-018-33423-w.
+
+Title: Genetic Alterations of Periampullary and Pancreatic Ductal Adenocarcinoma: An Overview.
+Authors: ['Sikdar N', 'Saha G', 'Dutta A', 'Ghosh S', 'Shrikhande SV', 'Banerjee S']
+Source: Curr Genomics. 2018 Sep;19(6):444-463. doi: 10.2174/1389202919666180221160753.
+
+Title: The Role of Genetics in Pancreatitis.
+Authors: ['Hasan A', 'Moscoso DI', 'Kastrinos F']
+Source: Gastrointest Endosc Clin N Am. 2018 Oct;28(4):587-603. doi: 10.1016/j.giec.2018.06.001.
+
+Title: Effects of dietary lipid sources on hepatic nutritive contents, fatty acid composition and proteome of Nile tilapia (Oreochromis niloticus).
+Authors: ['Boonanuntanasarn S', 'Nakharuthai C', 'Schrama D', 'Duangkaew R', 'Rodrigues PM']
+Source: J Proteomics. 2019 Feb 10;192:208-222. doi: 10.1016/j.jprot.2018.09.003. Epub 2018 Sep 8.
+
+Title: Trans-heterozygosity for mutations enhances the risk of recurrent/chronic pancreatitis in patients with Cystic Fibrosis.
+Authors: ['Sofia VM', 'Surace C', 'Terlizzi V', 'Da Sacco L', 'Alghisi F', 'Angiolillo A', 'Braggion C', 'Cirilli N', 'Colombo C', 'Di Lullo A', 'Padoan R', 'Quattrucci S', 'Raia V', 'Tuccio G', 'Zarrilli F', 'Tomaiuolo AC', 'Novelli A', 'Lucidi V', 'Lucarelli M', 'Castaldo G', 'Angioni A']
+Source: Mol Med. 2018 Jul 27;24(1):38. doi: 10.1186/s10020-018-0041-6.
+
+Title: Germline Variants and Risk for Pancreatic Cancer: A Systematic Review and Emerging Concepts.
+Authors: ['Zhan W', 'Shelton CA', 'Greer PJ', 'Brand RE', 'Whitcomb DC']
+Source: Pancreas. 2018 Sep;47(8):924-936. doi: 10.1097/MPA.0000000000001136.
+
+Title: Hereditary Pancreatitis in the United States: Survival and Rates of Pancreatic Cancer.
+Authors: ['Shelton CA', 'Umapathy C', 'Stello K', 'Yadav D', 'Whitcomb DC']
+Source: Am J Gastroenterol. 2018 Sep;113(9):1376. doi: 10.1038/s41395-018-0194-5. Epub 2018 Jul 18.
+
+Title: Genetic predisposition in pancreatitis.
+Authors: ['Gonska T']
+Source: Curr Opin Pediatr. 2018 Oct;30(5):660-664. doi: 10.1097/MOP.0000000000000668.
+
+Title: Chronic pancreatitis: an update on genetic risk factors.
+Authors: ['Weiss FU', 'Skube ME', 'Lerch MM']
+Source: Curr Opin Gastroenterol. 2018 Sep;34(5):322-329. doi: 10.1097/MOG.0000000000000461.
+
+Title: Chronic pancreatitis. Some important historical aspects.
+Authors: ['Navarro S']
+Source: Gastroenterol Hepatol. 2018 Aug - Sep;41(7):474.e1-474.e8. doi: 10.1016/j.gastrohep.2018.04.008. Epub 2018 Jun 8.
+
+Title: Common variants in the CLDN2-MORC4 and PRSS1-PRSS2 loci confer susceptibility to acute pancreatitis.
+Authors: ['Weiss FU', 'Hesselbarth N', 'Parniczky A', 'Mosztbacher D', 'Lammerhirt F', 'Ruffert C', 'Kovacs P', 'Beer S', 'Seltsam K', 'Griesmann H', 'Bohme R', 'Kaune T', 'Hollenbach M', 'Schulz HU', 'Simon P', 'Mayerle J', 'Lerch MM', 'Cavestro GM', 'Zuppardo RA', 'Di Leo M', 'Testoni PA', 'Malecka-Panas E', 'Gasirowska A', 'Gluszek S', 'Bugert P', 'Szentesi A', 'Mossner J', 'Witt H', 'Michl P', 'Hegyi P', 'Scholz M', 'Rosendahl J']
+Source: Pancreatology. 2018 Jun 1. pii: S1424-3903(18)30605-7. doi: 10.1016/j.pan.2018.05.486.
+
+Title: Pancreas Divisum in Pediatric Acute Recurrent and Chronic Pancreatitis: Report From INSPPIRE.
+Authors: ['Lin TK', 'Abu-El-Haija M', 'Nathan JD', 'Palermo JP', 'Barth B', 'Bellin M', 'Fishman DS', 'Freedman SD', 'Gariepy CE', 'Giefer MJ', 'Gonska T', 'Heyman MB', 'Himes R', 'Husain SZ', 'Liu Q', 'Maqbool A', 'Mascarenhas M', 'McFerron B', 'Morinville VD', 'Ooi CY', 'Perito E', 'Pohl JF', 'Rhee S', 'Schwarzenberg SJ', 'Shah U', 'Troendle D', 'Werlin SL', 'Wilschanski M', 'Zimmerman MB', 'Lowe ME', 'Uc A']
+Source: J Clin Gastroenterol. 2019 Jul;53(6):e232-e238. doi: 10.1097/MCG.0000000000001063.
+
+Title: Genetically induced vs. classical animal models of chronic pancreatitis: a critical comparison.
+Authors: ['Klauss S', 'Schorn S', 'Teller S', 'Steenfadt H', 'Friess H', 'Ceyhan GO', 'Demir IE']
+Source: FASEB J. 2018 Jun 4:fj201800241RR. doi: 10.1096/fj.201800241RR.
+
+Title: Known genetic susceptibility factors for chronic pancreatitis in patients of European ancestry are rare in patients of African ancestry.
+Authors: ['Phillips AE', 'LaRusch J', 'Greer P', 'Abberbock J', 'Alkaade S', 'Amann ST', 'Anderson MA', 'Baillie J', 'Banks PA', 'Brand RE', 'Conwell D', 'Cote GA', 'Forsmark CE', 'Gardner TB', 'Gelrud A', 'Guda N', 'Lewis M', 'Money ME', 'Muniraj T', 'Sandhu BS', 'Sherman S', 'Singh VK', 'Slivka A', 'Tang G', 'Wilcox CM', 'Whitcomb DC', 'Yadav D']
+Source: Pancreatology. 2018 Jul;18(5):528-535. doi: 10.1016/j.pan.2018.05.482. Epub 2018 May 19.
+
+Title: Mutations in the pancreatic secretory enzymes CPA1 and CPB1 are associated with pancreatic cancer.
+Authors: ['Tamura K', 'Yu J', 'Hata T', 'Suenaga M', 'Shindo K', 'Abe T', 'MacGregor-Das A', 'Borges M', 'Wolfgang CL', 'Weiss MJ', 'He J', 'Canto MI', 'Petersen GM', 'Gallinger S', 'Syngal S', 'Brand RE', 'Rustgi A', 'Olson SH', 'Stoffel E', 'Cote ML', 'Zogopoulos G', 'Potash JB', 'Goes FS', 'McCombie RW', 'Zandi PP', 'Pirooznia M', 'Kramer M', 'Parla J', 'Eshleman JR', 'Roberts NJ', 'Hruban RH', 'Klein AP', 'Goggins M']
+Source: Proc Natl Acad Sci U S A. 2018 May 1;115(18):4767-4772. doi: 10.1073/pnas.1720588115. Epub 2018 Apr 18.
+
+Title: Acute pancreatitis in children.
+Authors: ['Grzybowska-Chlebowczyk U', 'Jasielska M', 'Flak-Wancerz A', 'Wiecek S', 'Gruszczynska K', 'Chlebowczyk W', 'Wos H']
+Source: Prz Gastroenterol. 2018;13(1):69-75. doi: 10.5114/pg.2017.70470. Epub 2017 Dec 27.
+
+Title: PRSS1 and SPINK1 Mutations in Alcoholic and Idiopathic Chronic Pancreatitis.
+Authors: ['Liu X', 'Tu M', 'Dai X', 'Zhu Y', 'Ge Q', 'Gao W', 'Miao Y']
+Source: J Nanosci Nanotechnol. 2017 Apr;17(4):2358-362. doi: 10.1166/jnn.2017.12626.
+
+Title: Response to Culetto et al.
+Authors: ['Jalaly NY', 'Whitcomb DC', 'Singh VK']
+Source: Am J Gastroenterol. 2018 Apr;113(4):624-625. doi: 10.1038/ajg.2018.26.
+
+Title: Genetic Testing in Young Adult Patients With Idiopathic Acute Pancreatitis.
+Authors: ['Culetto A', 'Rouanet M', 'Bournet B', 'Buscail L']
+Source: Am J Gastroenterol. 2018 Apr;113(4):624. doi: 10.1038/ajg.2017.467.
+
+Title: Whole-Exome Sequencing Identifies Two Discrete Druggable Signaling Pathways in Follicular Thyroid Cancer.
+Authors: ['Erinjeri NJ', 'Nicolson NG', 'Deyholos C', 'Korah R', 'Carling T']
+Source: J Am Coll Surg. 2018 Jun;226(6):950-959.e5. doi: 10.1016/j.jamcollsurg.2018.01.059. Epub 2018 Mar 20.
+
+Title: Age and Disease Duration Impact Outcomes of Total Pancreatectomy and Islet Autotransplant for PRSS1 Hereditary Pancreatitis.
+Authors: ['Bellin MD', 'Prokhoda P', 'Hodges JS', 'Schwarzenberg SJ', 'Freeman ML', 'Dunn TB', 'Wilhelm JJ', 'Pruett TL', 'Kirchner VA', 'Beilman GJ', 'Chinnakotla S']
+Source: Pancreas. 2018 Apr;47(4):466-470. doi: 10.1097/MPA.0000000000001028.
+
+Title: PRSS1 (R122H) mutation in an Indian family with low penetrance is associated with pancreatitis phenotype.
+Authors: ['Avanthi US', 'Bale G', 'Aslam M', 'Talukdar R', 'Duvvur NR', 'Vishnubhotla RV']
+Source: Indian J Gastroenterol. 2018 Jan;37(1):67-69. doi: 10.1007/s12664-018-0828-y. Epub 2018 Feb 23.
+
+Title: Novel PRSS1 Mutation p.P17T Validates Pathogenic Relevance of CTRC-Mediated Processing of the Trypsinogen Activation Peptide in Chronic Pancreatitis.
+Authors: ['Nemeth BC', 'Szucs A', 'Hegyi P', 'Sahin-Toth M']
+Source: Am J Gastroenterol. 2017 Dec;112(12):1896-1898. doi: 10.1038/ajg.2017.393.
+
+Title: Targeted Gene Next-Generation Sequencing in Chinese Children with Chronic Pancreatitis and Acute Recurrent Pancreatitis.
+Authors: ['Xiao Y', 'Yuan W', 'Yu B', 'Guo Y', 'Xu X', 'Wang X', 'Yu Y', 'Yu Y', 'Gong B', 'Xu C']
+Source: J Pediatr. 2017 Dec;191:158-163.e3. doi: 10.1016/j.jpeds.2017.08.063.
+
+Title: CTRC gene polymorphism may increase pancreatic cancer risk - preliminary study.
+Authors: ['Gluszek S', 'Kowalik A', 'Koziel D', 'Wawrzycka I', 'Gluszek-Osuch M', 'Matykiewicz J']
+Source: Pol Przegl Chir. 2017 Oct 31;89(5):48-53. doi: 10.5604/01.3001.0010.5411.
+
+Title: The Differential Role of Human Cationic Trypsinogen (PRSS1) p.R122H Mutation in Hereditary and Nonhereditary Chronic Pancreatitis: A Systematic Review and Meta-Analysis.
+Authors: ['Hu C', 'Wen L', 'Deng L', 'Zhang C', 'Lugea A', 'Su HY', 'Waldron RT', 'Pandol SJ', 'Xia Q']
+Source: Gastroenterol Res Pract. 2017;2017:9505460. doi: 10.1155/2017/9505460. Epub 2017 Oct 8.
+
+Title: Antigen-specificity of antiretinal antibodies in patients with noninfectious uveitis.
+Authors: ['Gibbs E', 'Matsubara J', 'Cao S', 'Cui J', 'Forooghian F']
+Source: Can J Ophthalmol. 2017 Oct;52(5):463-467. doi: 10.1016/j.jcjo.2017.03.010. Epub 2017 May 10.
+
+Title: Do pancreatic cancer and chronic pancreatitis share the same genetic risk factors? A PANcreatic Disease ReseArch (PANDoRA) consortium investigation.
+Authors: ['Campa D', 'Pastore M', 'Capurso G', 'Hackert T', 'Di Leo M', 'Izbicki JR', 'Khaw KT', 'Gioffreda D', 'Kupcinskas J', 'Pasquali C', 'Macinga P', 'Kaaks R', 'Stigliano S', 'Peeters PH', 'Key TJ', 'Talar-Wojnarowska R', 'Vodicka P', 'Valente R', 'Vashist YK', 'Salvia R', 'Papaconstantinou I', 'Shimizu Y', 'Valsuani C', 'Zambon CF', 'Gazouli M', 'Valantiene I', 'Niesen W', 'Mohelnikova-Duchonova B', 'Hara K', 'Soucek P', 'Malecka-Panas E', 'Bueno-de-Mesquita HBA', 'Johnson T', 'Brenner H', 'Tavano F', 'Fogar P', 'Ito H', 'Sperti C', 'Butterbach K', 'Latiano A', 'Andriulli A', 'Cavestro GM', 'Busch ORC', 'Dijk F', 'Greenhalf W', 'Matsuo K', 'Lombardo C', 'Strobel O', 'Konig AK', 'Cuk K', 'Strothmann H', 'Katzke V', 'Cantore M', 'Mambrini A', 'Oliverius M', 'Pezzilli R', 'Landi S', 'Canzian F']
+Source: Int J Cancer. 2018 Jan 15;142(2):290-296. doi: 10.1002/ijc.31047. Epub 2017 Oct 16.
+
+Title: Nationwide survey of hereditary pancreatitis in Japan.
+Authors: ['Masamune A', 'Kikuta K', 'Hamada S', 'Nakano E', 'Kume K', 'Inui A', 'Shimizu T', 'Takeyama Y', 'Nio M', 'Shimosegawa T']
+Source: J Gastroenterol. 2018 Jan;53(1):152-160. doi: 10.1007/s00535-017-1388-0. Epub 2017 Aug 31.
+
+Title: Genome-wide association study identifies inversion in the CTRB1-CTRB2 locus to modify risk for alcoholic and non-alcoholic chronic pancreatitis.
+Authors: ['Rosendahl J', 'Kirsten H', 'Hegyi E', 'Kovacs P', 'Weiss FU', 'Laumen H', 'Lichtner P', 'Ruffert C', 'Chen JM', 'Masson E', 'Beer S', 'Zimmer C', 'Seltsam K', 'Algul H', 'Buhler F', 'Bruno MJ', 'Bugert P', 'Burkhardt R', 'Cavestro GM', 'Cichoz-Lach H', 'Farre A', 'Frank J', 'Gambaro G', 'Gimpfl S', 'Grallert H', 'Griesmann H', 'Grutzmann R', 'Hellerbrand C', 'Hegyi P', 'Hollenbach M', 'Iordache S', 'Jurkowska G', 'Keim V', 'Kiefer F', 'Krug S', 'Landt O', 'Leo MD', 'Lerch MM', 'Levy P', 'Loffler M', 'Lohr M', 'Ludwig M', 'Macek M', 'Malats N', 'Malecka-Panas E', 'Malerba G', 'Mann K', 'Mayerle J', 'Mohr S', 'Te Morsche RHM', 'Motyka M', 'Mueller S', 'Muller T', 'Nothen MM', 'Pedrazzoli S', 'Pereira SP', 'Peters A', 'Pfutzer R', 'Real FX', 'Rebours V', 'Ridinger M', 'Rietschel M', 'Rosmann E', 'Saftoiu A', 'Schneider A', 'Schulz HU', 'Soranzo N', 'Soyka M', 'Simon P', 'Skipworth J', 'Stickel F', 'Strauch K', 'Stumvoll M', 'Testoni PA', 'Tonjes A', 'Werner L', 'Werner J', 'Wodarz N', 'Ziegler M', 'Masamune A', 'Mossner J', 'Ferec C', 'Michl P', 'P H Drenth J', 'Witt H', 'Scholz M', 'Sahin-Toth M']
+Source: Gut. 2018 Oct;67(10):1855-1863. doi: 10.1136/gutjnl-2017-314454. Epub 2017 Jul 28.
+
+Title: [Pancreatitis, genes and islet cells auto transplant; updates and new horizons].
+Authors: ['Rivera Rivera ED']
+Source: Rev Gastroenterol Peru. 2017 Apr-Jun;37(2):156-161.
+
+Title: Inhibitory effect of 5-iodotubercidin on pigmentation.
+Authors: ['Kim KI', 'Jeong HB', 'Ro H', 'Lee JH', 'Kim CD', 'Yoon TJ']
+Source: Biochem Biophys Res Commun. 2017 Sep 2;490(4):1282-1286. doi: 10.1016/j.bbrc.2017.07.008. Epub 2017 Jul 4.
+
+Title: Genetic risk in chronic pancreatitis: the misfolding-dependent pathway.
+Authors: ['Sahin-Toth M']
+Source: Curr Opin Gastroenterol. 2017 Sep;33(5):390-395. doi: 10.1097/MOG.0000000000000380.
+
+Title: Genetic predisposition to acute recurrent and chronic pancreatitis-more evidence for a role in children.
+Authors: ['Duggan C']
+Source: J Pediatr. 2017 Jul;186:1. doi: 10.1016/j.jpeds.2017.05.008.
+
+Title: PRSS1 copy number variants and promoter polymorphisms in pancreatitis: common pathogenetic mechanism, different genetic effects.
+Authors: ['Masson E', 'Chen JM', 'Cooper DN', 'Ferec C']
+Source: Gut. 2018 Mar;67(3):592-593. doi: 10.1136/gutjnl-2017-314443. Epub 2017 Jun 10.
+
+Title: Genetic Risk in Chronic Pancreatitis: The Trypsin-Dependent Pathway.
+Authors: ['Hegyi E', 'Sahin-Toth M']
+Source: Dig Dis Sci. 2017 Jul;62(7):1692-1701. doi: 10.1007/s10620-017-4601-3. Epub 2017 May 23.
+
+Title: Early-Onset Acute Recurrent and Chronic Pancreatitis Is Associated with PRSS1 or CTRC Gene Mutations.
+Authors: ['Giefer MJ', 'Lowe ME', 'Werlin SL', 'Zimmerman B', 'Wilschanski M', 'Troendle D', 'Schwarzenberg SJ', 'Pohl JF', 'Palermo J', 'Ooi CY', 'Morinville VD', 'Lin TK', 'Husain SZ', 'Himes R', 'Heyman MB', 'Gonska T', 'Gariepy CE', 'Freedman SD', 'Fishman DS', 'Bellin MD', 'Barth B', 'Abu-El-Haija M', 'Uc A']
+Source: J Pediatr. 2017 Jul;186:95-100. doi: 10.1016/j.jpeds.2017.03.063. Epub 2017 May 10.
+
+Title: [Identical Variants Different Disease Course - Genetics of Chronic Pancreatitis].
+Authors: ['Beer S', 'Mossner J']
+Source: Dtsch Med Wochenschr. 2017 May;142(9):673-677. doi: 10.1055/s-0043-100810. Epub 2017 Apr 28.
+
+Title: An Evaluation of Factors Associated With Pathogenic PRSS1, SPINK1, CTFR, and/or CTRC Genetic Variants in Patients With Idiopathic Pancreatitis.
+Authors: ['Jalaly NY', 'Moran RA', 'Fargahi F', 'Khashab MA', 'Kamal A', 'Lennon AM', 'Walsh C', 'Makary MA', 'Whitcomb DC', 'Yadav D', 'Cebotaru L', 'Singh VK']
+Source: Am J Gastroenterol. 2017 Aug;112(8):1320-1329. doi: 10.1038/ajg.2017.106. Epub 2017 Apr 25.
+
+Title: Pancreatic cancer screening in different risk individuals with family history of pancreatic cancer-a prospective cohort study in Taiwan.
+Authors: ['Chang MC', 'Wu CH', 'Yang SH', 'Liang PC', 'Chen BB', 'Jan IS', 'Chang YT', 'Jeng YM']
+Source: Am J Cancer Res. 2017 Feb 1;7(2):357-369. eCollection 2017.
+
+Title: Is acute recurrent pancreatitis in children a precursor of chronic pancreatitis? A long-term follow-up study of 93 cases.
+Authors: ['Poddar U', 'Yachha SK', 'Borkar V', 'Srivastava A']
+Source: Dig Liver Dis. 2017 Jul;49(7):796-801. doi: 10.1016/j.dld.2017.02.019. Epub 2017 Mar 6.
+
+Title: What's unique about acute pancreatitis in children: risk factors, diagnosis and management.
+Authors: ['Husain SZ', 'Srinath AI']
+Source: Nat Rev Gastroenterol Hepatol. 2017 Jun;14(6):366-372. doi: 10.1038/nrgastro.2017.13. Epub 2017 Mar 15.
+
+Title: Clinical profile and treatment outcome of chronic pancreatitis in children: a long-term follow-up study of 156 cases.
+Authors: ['Poddar U', 'Yachha SK', 'Borkar V', 'Srivastava A', 'Saraswat VA']
+Source: Scand J Gastroenterol. 2017 Jun - Jul;52(6-7):773-778. doi: 10.1080/00365521.2017.1295465. Epub 2017 Mar 1.
+
+Title: CALCB splice region pathogenic variants leading to plasma cell neurotropic enrichment in type 1 autoimmune pancreatitis.
+Authors: ['Liu QC', 'Chen F', 'Wu CY', 'Gao F', 'Zhuang ZH', 'Chen JT', 'Cai B', 'Zhang T', 'Guo L', 'Lin LQ', 'Zhao CF', 'Lin XH']
+Source: Cell Death Dis. 2017 Feb 2;8(2):e2591. doi: 10.1038/cddis.2017.32.
+
+Title: Epithelial expression and function of trypsin-3 in irritable bowel syndrome.
+Authors: ['Rolland-Fourcade C', 'Denadai-Souza A', 'Cirillo C', 'Lopez C', 'Jaramillo JO', 'Desormeaux C', 'Cenac N', 'Motta JP', 'Larauche M', 'Tache Y', 'Vanden Berghe P', 'Neunlist M', 'Coron E', 'Kirzin S', 'Portier G', 'Bonnet D', 'Alric L', 'Vanner S', 'Deraison C', 'Vergnolle N']
+Source: Gut. 2017 Oct;66(10):1767-1778. doi: 10.1136/gutjnl-2016-312094. Epub 2017 Jan 17.
+
+Title: Genomic Profiling of a Large Set of Diverse Pediatric Cancers Identifies Known and Novel Mutations across Tumor Spectra.
+Authors: ['Chmielecki J', 'Bailey M', 'He J', 'Elvin J', 'Vergilio JA', 'Ramkissoon S', 'Suh J', 'Frampton GM', 'Sun JX', 'Morley S', 'Spritz D', 'Ali S', 'Gay L', 'Erlich RL', 'Ross JS', 'Buxhaku J', 'Davies H', 'Faso V', 'Germain A', 'Glanville B', 'Miller VA', 'Stephens PJ', 'Janeway KA', 'Maris JM', 'Meshinchi S', 'Pugh TJ', 'Shern JF', 'Lipson D']
+Source: Cancer Res. 2017 Jan 15;77(2):509-519. doi: 10.1158/0008-5472.CAN-16-1106. Epub 2017 Jan 9.
+
+Title: IMMUNOHISTOCHEMICAL STUDY OF DEPIGMENTED SKIN OF VITILIGO PATIENTS.
+Authors: ['Revishchin AV', 'Panteleev DY', 'Zakharova LG', 'Lomonosov KM', 'Pavlova GV']
+Source: Tsitologiia. 2017;59(1):19-26.
+
+Title: [Genetic mutations as a cause of acute recurrent pancreatitis in children - case report and literature review].
+Authors: ['Jamer T', 'Iwanczak B']
+Source: Dev Period Med. 2016;20(3):228-234.
+
+Title: Genetic predisposition to gastric cancer.
+Authors: ['Petrovchich I', 'Ford JM']
+Source: Semin Oncol. 2016 Oct;43(5):554-559. doi: 10.1053/j.seminoncol.2016.08.006. Epub 2016 Sep 22.
+
+Title: Alcohol Consumption and Cigarette Smoking are Important Modifiers of the Association Between Acute Pancreatitis and the PRSS1-PRSS2 Locus in Men.
+Authors: ['Polonikov AV', 'Samgina TA', 'Nazarenko PM', 'Bushueva OY', 'Ivanov VP']
+Source: Pancreas. 2017 Feb;46(2):230-236. doi: 10.1097/MPA.0000000000000729.
+
+Title: Chronic Pancreatitis in the 21st Century - Research Challenges and Opportunities: Summary of a National Institute of Diabetes and Digestive and Kidney Diseases Workshop.
+Authors: ['Uc A', 'Andersen DK', 'Bellin MD', 'Bruce JI', 'Drewes AM', 'Engelhardt JF', 'Forsmark CE', 'Lerch MM', 'Lowe ME', 'Neuschwander-Tetri BA', "O'Keefe SJ", 'Palermo TM', 'Pasricha P', 'Saluja AK', 'Singh VK', 'Szigethy EM', 'Whitcomb DC', 'Yadav D', 'Conwell DL']
+Source: Pancreas. 2016 Nov;45(10):1365-1375. doi: 10.1097/MPA.0000000000000713.
+
+Title: The Etiology and Clinical Course of Chronic Pancreatitis in Children With Early Onset of the Disease.
+Authors: ['Wejnarska K', 'Kolodziejczyk E', 'Wertheim-Tysarowska K', 'Dadalski M', 'Sobczynska-Tomaszewska A', 'Kierkus J', 'Bal J', 'Rygiel AM', 'Oracz G']
+Source: J Pediatr Gastroenterol Nutr. 2016 Dec;63(6):665-670. doi: 10.1097/MPG.0000000000001414.
+
+Title: Evolution of Digestive Enzymes and RNASE1 Provides Insights into Dietary Switch of Cetaceans.
+Authors: ['Wang Z', 'Xu S', 'Du K', 'Huang F', 'Chen Z', 'Zhou K', 'Ren W', 'Yang G']
+Source: Mol Biol Evol. 2016 Dec;33(12):3144-3157. doi: 10.1093/molbev/msw191. Epub 2016 Sep 20.
+
+Title: Hereditary pancreatitis of 3 Chinese children: Case report and literature review.
+Authors: ['Dai LN', 'Chen YW', 'Yan WH', 'Lu LN', 'Tao YJ', 'Cai W']
+Source: Medicine (Baltimore). 2016 Sep;95(36):e4604. doi: 10.1097/MD.0000000000004604.
+
+Title: Novel Anti-Melanogenesis Properties of Polydeoxyribonucleotide, a Popular Wound Healing Booster.
+Authors: ['Noh TK', 'Chung BY', 'Kim SY', 'Lee MH', 'Kim MJ', 'Youn CS', 'Lee MW', 'Chang SE']
+Source: Int J Mol Sci. 2016 Sep 1;17(9). pii: ijms17091448. doi: 10.3390/ijms17091448.
+
+Title: PRSS1, SPINK1, CFTR, and CTRC Pathogenic Variants in Korean Patients With Idiopathic Pancreatitis.
+Authors: ['Cho SM', 'Shin S', 'Lee KA']
+Source: Ann Lab Med. 2016 Nov;36(6):555-60. doi: 10.3343/alm.2016.36.6.555.
+
+Title: Hereditary pancreatitis: current perspectives.
+Authors: ['Raphael KL', 'Willingham FF']
+Source: Clin Exp Gastroenterol. 2016 Jul 26;9:197-207. doi: 10.2147/CEG.S84358. eCollection 2016.
+
+Title: Discovery and Functional Annotation of PRSS1 Promoter Variants in Chronic Pancreatitis.
+Authors: ['Boulling A', 'Abrantes A', 'Masson E', 'Cooper DN', 'Robaszkiewicz M', 'Chen JM', 'Ferec C']
+Source: Hum Mutat. 2016 Nov;37(11):1149-1152. doi: 10.1002/humu.23053. Epub 2016 Aug 21.
+
+Title: Genetic Analysis of Japanese Children With Acute Recurrent and Chronic Pancreatitis.
+Authors: ['Saito N', 'Suzuki M', 'Sakurai Y', 'Nakano S', 'Naritaka N', 'Minowa K', 'Sai JK', 'Shimizu T']
+Source: J Pediatr Gastroenterol Nutr. 2016 Oct;63(4):431-6. doi: 10.1097/MPG.0000000000001320.
+
+Title: Metastatic pancreatic adenocarcinoma associated with chronic calcific pancreatitis and a heterozygous SPINK1 N34S mutation.
+Authors: ['Moran RA', 'Klapheke R', 'Jalaly NY', 'Makary MA', 'Hirose K', 'Goggins M', 'Wood L', 'Laheru DA', 'Lennon AM', 'Khashab MA', 'Singh VK']
+Source: Pancreatology. 2016 Sep-Oct;16(5):869-72. doi: 10.1016/j.pan.2016.06.006. Epub 2016 Jun 21.
+
+Title: The clinical course of hereditary pancreatitis in children - A comprehensive analysis of 41 cases.
+Authors: ['Oracz G', 'Kolodziejczyk E', 'Sobczynska-Tomaszewska A', 'Wejnarska K', 'Dadalski M', 'Grabarczyk AM', 'Kierkus J', 'Woynarowski M', 'Wertheim-Tysarowska K', 'Ryzko J', 'Bal J', 'Rygiel AM']
+Source: Pancreatology. 2016 Jul-Aug;16(4):535-41. doi: 10.1016/j.pan.2016.04.009. Epub 2016 Apr 26.
+
+Title: Application of molecular imaging combined with genetic screening in diagnosing MELAS, diabetes and recurrent pancreatitis.
+Authors: ['Zhiping W', 'Quwen L', 'Hai Z', 'Jian Z', 'Peiyi G']
+Source: Folia Neuropathol. 2016;54(1):66-71. doi: 10.5114/fn.2016.58917.
+
+Title: Genophenotypic Analysis of Pediatric Patients With Acute Recurrent and Chronic Pancreatitis.
+Authors: ['Palermo JJ', 'Lin TK', 'Hornung L', 'Valencia CA', 'Mathur A', 'Jackson K', 'Fei L', 'Abu-El-Haija M']
+Source: Pancreas. 2016 Oct;45(9):1347-52. doi: 10.1097/MPA.0000000000000655.
+
+Title: Tighter Control by Chymotrypsin C (CTRC) Explains Lack of Association between Human Anionic Trypsinogen and Hereditary Pancreatitis.
+Authors: ['Jancso Z', 'Sahin-Toth M']
+Source: J Biol Chem. 2016 Jun 17;291(25):12897-905. doi: 10.1074/jbc.M116.725374. Epub 2016 Apr 18.
+
+Title: Gene identification for risk of relapse in stage I lung adenocarcinoma patients: a combined methodology of gene expression profiling and computational gene network analysis.
+Authors: ['Ludovini V', 'Bianconi F', 'Siggillino A', 'Piobbico D', 'Vannucci J', 'Metro G', 'Chiari R', 'Bellezza G', 'Puma F', 'Della Fazia MA', 'Servillo G', 'Crino L']
+Source: Oncotarget. 2016 May 24;7(21):30561-74. doi: 10.18632/oncotarget.8723.
+
+Title: Risk Factors Associated With Pediatric Acute Recurrent and Chronic Pancreatitis: Lessons From INSPPIRE.
+Authors: ['Kumar S', 'Ooi CY', 'Werlin S', 'Abu-El-Haija M', 'Barth B', 'Bellin MD', 'Durie PR', 'Fishman DS', 'Freedman SD', 'Gariepy C', 'Giefer MJ', 'Gonska T', 'Heyman MB', 'Himes R', 'Husain SZ', 'Lin TK', 'Lowe ME', 'Morinville V', 'Palermo JJ', 'Pohl JF', 'Schwarzenberg SJ', 'Troendle D', 'Wilschanski M', 'Zimmerman MB', 'Uc A']
+Source: JAMA Pediatr. 2016 Jun 1;170(6):562-9. doi: 10.1001/jamapediatrics.2015.4955.
+
+Title: Hashimoto's thyroiditis could be secondary to vitiligo: the possibility of antigen crossover and oxidative stress between the two diseases.
+Authors: ['Gong Q', 'Li X', 'Gong Q', 'Zhu W', 'Song G', 'Lu Y']
+Source: Arch Dermatol Res. 2016 May;308(4):277-81. doi: 10.1007/s00403-016-1641-z. Epub 2016 Mar 28.
+
+Title: [Hereditary pancreatitis].
+Authors: ['Dyrla P', 'Nowak T', 'Gil J', 'Adamiec C', 'Bobula M', 'Saracyn M']
+Source: Pol Merkur Lekarski. 2016 Feb;40(236):113-6.
+
+Title: Hereditary Pancreatitis.
+Authors: ['Rivera Rivera ED', 'Chugh A', 'Cordova J', 'Young S']
+Source: Pediatr Ann. 2016 Feb;45(2):e50-3. doi: 10.3928/00904481-20160115-01.
+
+Title: Pathogenic cellular role of the p.L104P human cationic trypsinogen variant in chronic pancreatitis.
+Authors: ['Balazs A', 'Hegyi P', 'Sahin-Toth M']
+Source: Am J Physiol Gastrointest Liver Physiol. 2016 Apr 1;310(7):G477-86. doi: 10.1152/ajpgi.00444.2015. Epub 2016 Jan 28.
+
+Title: Common Variants in CLDN2 and MORC4 Genes Confer Disease Susceptibility in Patients with Chronic Pancreatitis.
+Authors: ['Giri AK', 'Midha S', 'Banerjee P', 'Agrawal A', 'Mehdi SJ', 'Dhingra R', 'Kaur I', 'G RK', 'Lakhotia R', 'Ghosh S', 'Das K', 'Mohindra S', 'Rana S', 'Bhasin DK', 'Garg PK', 'Bharadwaj D']
+Source: PLoS One. 2016 Jan 28;11(1):e0147345. doi: 10.1371/journal.pone.0147345. eCollection 2016.
+
+Title: Association Analysis of PRSS1-PRSS2 and CLDN2-MORC4 Variants in Nonalcoholic Chronic Pancreatitis Using Tropical Calcific Pancreatitis as Model.
+Authors: ['Paliwal S', 'Bhaskar S', 'Nageshwar Reddy D', 'Rao GV', 'Thomas V', 'Singh SP', 'Chandak GR']
+Source: Pancreas. 2016 Sep;45(8):1153-7. doi: 10.1097/MPA.0000000000000608.
+
+Title: Genetic Mutations in Pediatric Pancreatitis.
+Authors: ['Vue PM', 'McFann K', 'Narkewicz MR']
+Source: Pancreas. 2016 Aug;45(7):992-6. doi: 10.1097/MPA.0000000000000589.
+
+Title: High Penetrance of the PRSS1 A16V Mutation in a Kindred With SPINK1 N34S and CFTR TG11-5T Co-mutations.
+Authors: ['Moran RA', 'Quesada-Vazquez N', 'Sinha A', 'de-Madaria E', 'Singh VK']
+Source: Pancreas. 2016 Jan;45(1):e2-4. doi: 10.1097/MPA.0000000000000445.
+
+Title: Analysis of Pediatric Pancreatitis (APPLE Trial): Pre-Study Protocol of a Multinational Prospective Clinical Trial.
+Authors: ['Parniczky A', 'Mosztbacher D', 'Zsoldos F', 'Toth A', 'Lasztity N', 'Hegyi P']
+Source: Digestion. 2016;93(2):105-10. doi: 10.1159/000441353. Epub 2015 Nov 26.
+
+Title: PRSS1 mutations and the proteinase/antiproteinase imbalance in the pathogenesis of pancreatic cancer.
+Authors: ['Yi Q', 'Dong F', 'Lin L', 'Liu Q', 'Chen S', 'Gao F', 'He Q']
+Source: Tumour Biol. 2016 May;37(5):5805-10. doi: 10.1007/s13277-015-3982-1. Epub 2015 Nov 6.
+
+Title: Hereditary Pancreatitis Associated With the N29T Mutation of the PRSS1 Gene in a Brazilian Family: A Case-Control Study.
+Authors: ['Dytz MG', 'Mendes de Melo J', 'de Castro Santos O', 'da Silva Santos ID', 'Rodacki M', 'Conceicao FL', 'Ortiga-Carvalho TM']
+Source: Medicine (Baltimore). 2015 Sep;94(37):e1508. doi: 10.1097/MD.0000000000001508.
+
+Title: Trypsinogen 4 boosts tumor endothelial cells migration through proteolysis of tissue factor pathway inhibitor-2.
+Authors: ['Ghilardi C', 'Silini A', 'Figini S', 'Anastasia A', 'Lupi M', 'Fruscio R', 'Giavazzi R', 'Bani MR']
+Source: Oncotarget. 2015 Sep 29;6(29):28389-400. doi: 10.18632/oncotarget.4949.
+
+Title: A combination of excimer laser treatment and topical tacrolimus is more effective in treating vitiligo than either therapy alone for the initial 6 months, but not thereafter.
+Authors: ['Park OJ', 'Park GH', 'Choi JR', 'Jung HJ', 'Oh ES', 'Choi JH', 'Lee MW', 'Chang SE']
+Source: Clin Exp Dermatol. 2016 Apr;41(3):236-41. doi: 10.1111/ced.12742. Epub 2015 Aug 24.
+
+Title: Endoscopic management of obstructive pancreatitis with a metal stent in two family members with hereditary cationic trypsinogen (PRSS1) deficiency.
+Authors: ['Camus M', 'Leblanc S', 'Debray D', 'Chaput U', 'Chaussade S', 'Prat F']
+Source: Endoscopy. 2015;47 Suppl 1 UCTN:E383-4. doi: 10.1055/s-0034-1392428. Epub 2015 Aug 14.
+
+Title: Identification of a functional PRSS1 promoter variant in linkage disequilibrium with the chronic pancreatitis-protecting rs10273639.
+Authors: ['Boulling A', 'Sato M', 'Masson E', 'Genin E', 'Chen JM', 'Ferec C']
+Source: Gut. 2015 Nov;64(11):1837-8. doi: 10.1136/gutjnl-2015-310254. Epub 2015 Aug 5.
+
+Title: Hereditary Diffuse Gastric Cancer Syndrome: CDH1 Mutations and Beyond.
+Authors: ['Hansford S', 'Kaurah P', 'Li-Chang H', 'Woo M', 'Senz J', 'Pinheiro H', 'Schrader KA', 'Schaeffer DF', 'Shumansky K', 'Zogopoulos G', 'Santos TA', 'Claro I', 'Carvalho J', 'Nielsen C', 'Padilla S', 'Lum A', 'Talhouk A', 'Baker-Lange K', 'Richardson S', 'Lewis I', 'Lindor NM', 'Pennell E', 'MacMillan A', 'Fernandez B', 'Keller G', 'Lynch H', 'Shah SP', 'Guilford P', 'Gallinger S', 'Corso G', 'Roviello F', 'Caldas C', 'Oliveira C', 'Pharoah PD', 'Huntsman DG']
+Source: JAMA Oncol. 2015 Apr;1(1):23-32. doi: 10.1001/jamaoncol.2014.168.
+
+Title: Genetic susceptibility factors for alcohol-induced chronic pancreatitis.
+Authors: ['Aghdassi AA', 'Weiss FU', 'Mayerle J', 'Lerch MM', 'Simon P']
+Source: Pancreatology. 2015 Jul;15(4 Suppl):S23-31. doi: 10.1016/j.pan.2015.05.476. Epub 2015 Jun 18.
+
+Title: Association of claudin2 and PRSS1-PRSS2 polymorphisms with idiopathic recurrent acute and chronic pancreatitis: A case-control study from India.
+Authors: ['Avanthi SU', 'Ravi Kanth VV', 'Agarwal J', 'Lakhtakia S', 'Gangineni K', 'Rao GV', 'Reddy DN', 'Talukdar R']
+Source: J Gastroenterol Hepatol. 2015 Dec;30(12):1796-801. doi: 10.1111/jgh.13029.
+
+Title: Common variants at PRSS1-PRSS2 and CLDN2-MORC4 loci associate with chronic pancreatitis in Japan.
+Authors: ['Masamune A', 'Nakano E', 'Hamada S', 'Kakuta Y', 'Kume K', 'Shimosegawa T']
+Source: Gut. 2015 Aug;64(8):1345-6. doi: 10.1136/gutjnl-2015-309802. Epub 2015 May 22.
+
+Title: Genetic predisposition and its impact on natural history of idiopathic acute and acute recurrent pancreatitis in children.
+Authors: ['Poddar U', 'Yachha SK', 'Mathias A', 'Choudhuri G']
+Source: Dig Liver Dis. 2015 Aug;47(8):709-14. doi: 10.1016/j.dld.2015.04.012. Epub 2015 Apr 25.
+
+Title: A molecular switch sensor for detection of PRSS1 genotype based on site-specific DNA cleavage of restriction endonuclease.
+Authors: ['Liu Q', 'Gao F', 'Weng S', 'Peng H', 'Lin L', 'Zhao C', 'Lin X']
+Source: Ann Clin Lab Sci. 2015 Spring;45(2):128-33.
+
+Title: The genetic predisposition and its impact on the diabetes mellitus development in patients with alcoholic chronic pancreatitis.
+Authors: ['Madro A', 'Ciesielka M', 'Celinski K', 'Slomka M', 'Czechowska G', 'Kurzepa J', 'Kaszelan-Szczerbinska B', 'Buszewicz G', 'Madro R']
+Source: Gastroenterol Res Pract. 2015;2015:309156. doi: 10.1155/2015/309156. Epub 2015 Mar 9.
+
+Title: Mutation analysis of PRSS1, SPINK1 and CFTR gene in patients with alcoholic and idiopathic chronic pancreatitis: A single center study.
+Authors: ['Sisman G', 'Tugcu M', 'Ayla K', 'Sebati O', 'Senturk H']
+Source: Turk J Gastroenterol. 2015 Mar;26(2):176-80. doi: 10.5152/tjg.2015.4287.
+
+Title: Translational arrest due to cytoplasmic redox stress delays adaptation to growth on methanol and heterologous protein expression in a typical fed-batch culture of Pichia pastoris.
+Authors: ['Edwards-Jones B', 'Aw R', 'Barton GR', 'Tredwell GD', 'Bundy JG', 'Leak DJ']
+Source: PLoS One. 2015 Mar 18;10(3):e0119637. doi: 10.1371/journal.pone.0119637. eCollection 2015.
+
+Title: Integrated traditional Chinese medicine improves acute pancreatitis via the downregulation of PRSS1 and SPINK1.
+Authors: ['Gao Q', 'Liang N']
+Source: Exp Ther Med. 2015 Mar;9(3):947-954. doi: 10.3892/etm.2015.2191. Epub 2015 Jan 20.
+
+Title: Gene conversion between cationic trypsinogen (PRSS1) and the pseudogene trypsinogen 6 (PRSS3P2) in patients with chronic pancreatitis.
+Authors: ['Rygiel AM', 'Beer S', 'Simon P', 'Wertheim-Tysarowska K', 'Oracz G', 'Kucharzik T', 'Tysarowski A', 'Niepokoj K', 'Kierkus J', 'Jurek M', 'Gawlinski P', 'Poznanski J', 'Bal J', 'Lerch MM', 'Sahin-Toth M', 'Weiss FU']
+Source: Hum Mutat. 2015 Mar;36(3):350-6. doi: 10.1002/humu.22747.
+
+Title: Glycine hydroxamate inhibits tyrosinase activity and melanin contents through downregulating cAMP/PKA signaling pathways.
+Authors: ['Lin YS', 'Wu WC', 'Lin SY', 'Hou WC']
+Source: Amino Acids. 2015 Mar;47(3):617-25. doi: 10.1007/s00726-014-1895-8. Epub 2014 Dec 16.
+
+Title: Prevalence of germline mutations in cancer predisposition genes in patients with pancreatic cancer.
+Authors: ['Grant RC', 'Selander I', 'Connor AA', 'Selvarajah S', 'Borgida A', 'Briollais L', 'Petersen GM', 'Lerner-Ellis J', 'Holter S', 'Gallinger S']
+Source: Gastroenterology. 2015 Mar;148(3):556-64. doi: 10.1053/j.gastro.2014.11.042. Epub 2014 Dec 2.
+
+Title: Genetics of acute and chronic pancreatitis: An update.
+Authors: ['Ravi Kanth V', 'Nageshwar Reddy D']
+Source: World J Gastrointest Pathophysiol. 2014 Nov 15;5(4):427-37. doi: 10.4291/wjgp.v5.i4.427.
+
+Title: Genetic and electrophysiological characteristics of recurrent acute pancreatitis.
+Authors: ['Werlin S', 'Konikoff FM', 'Halpern Z', 'Barkay O', 'Yerushalmi B', 'Broide E', 'Santo E', 'Shamir R', 'Shaoul R', 'Shteyer E', 'Yaakov Y', 'Cohen M', 'Kerem E', 'Ruszniewski P', 'Masson E', 'Ferec C', 'Wilschanski M']
+Source: J Pediatr Gastroenterol Nutr. 2015 May;60(5):675-9. doi: 10.1097/MPG.0000000000000623.
+
+Title: Total pancreatectomy with islet cell autotransplantation as the initial treatment for minimal-change chronic pancreatitis.
+Authors: ['Wilson GC', 'Sutton JM', 'Smith MT', 'Schmulewitz N', 'Salehi M', 'Choe KA', 'Brunner JE', 'Abbott DE', 'Sussman JJ', 'Ahmad SA']
+Source: HPB (Oxford). 2015 Mar;17(3):232-8. doi: 10.1111/hpb.12341. Epub 2014 Oct 9.
+
+Title: Polymorphisms at PRSS1-PRSS2 and CLDN2-MORC4 loci associate with alcoholic and non-alcoholic chronic pancreatitis in a European replication study.
+Authors: ['Derikx MH', 'Kovacs P', 'Scholz M', 'Masson E', 'Chen JM', 'Ruffert C', 'Lichtner P', 'Te Morsche RH', 'Cavestro GM', 'Ferec C', 'Drenth JP', 'Witt H', 'Rosendahl J']
+Source: Gut. 2015 Sep;64(9):1426-33. doi: 10.1136/gutjnl-2014-307453. Epub 2014 Sep 24.
+
+Title: PRSS1 and SPINK1 mutations in idiopathic chronic and recurrent acute pancreatitis.
+Authors: ['Pelaez-Luna M', 'Robles-Diaz G', 'Canizales-Quinteros S', 'Tusie-Luna MT']
+Source: World J Gastroenterol. 2014 Sep 7;20(33):11788-92. doi: 10.3748/wjg.v20.i33.11788.
+
+Title: Clinical Features and Endoscopic Treatment of Chinese Patients With Hereditary Pancreatitis.
+Authors: ['Sun XT', 'Hu LH', 'Xia T', 'Shi LL', 'Sun C', 'Du YQ', 'Wang W', 'Chen JM', 'Liao Z', 'Li ZS']
+Source: Pancreas. 2015 Jan;44(1):59-63. doi: 10.1097/MPA.0000000000000198.
+
+Title: DNA electrochemical sensor for detection of PRSS1 point mutation based on restriction endonuclease technique.
+Authors: ['Qicai L', 'Qiang Y', 'Wennan W', 'Yu W', 'Liqing L', 'Chengfei Z', 'Xinhua L']
+Source: Prep Biochem Biotechnol. 2015;45(5):430-7. doi: 10.1080/10826068.2014.940971.
+
+Title: Pedigree of a kindred with Transheterozygous PRSS1 R122C and SPINK1 N34S mutations.
+Authors: ['Sinha A', 'Cotsalas D', 'Akshintala VS', 'Afghani E', 'Singh VK']
+Source: Pancreas. 2014 Aug;43(6):974-6. doi: 10.1097/MPA.0000000000000149.
+
+Title: CFTR, SPINK1, PRSS1, and CTRC mutations are not associated with pancreatic cancer in German patients.
+Authors: ['Schubert S', 'Traub F', 'Brakensiek K', 'von Kopylow K', 'Marohn B', 'Maelzer M', 'Gaedcke J', 'Kreipe H', 'Stuhrmann M']
+Source: Pancreas. 2014 Oct;43(7):1078-82. doi: 10.1097/MPA.0000000000000166.
+
+Title: Genetics and treatment options for recurrent acute and chronic pancreatitis.
+Authors: ['Shelton CA', 'Whitcomb DC']
+Source: Curr Treat Options Gastroenterol. 2014 Sep;12(3):359-71. doi: 10.1007/s11938-014-0022-y.
+
+Title: Human cationic trypsinogen but not serine peptidase inhibitor, Kazal type 1 variants increase the risk of type 1 autoimmune pancreatitis.
+Authors: ['Chang MC', 'Jan IS', 'Liang PC', 'Jeng YM', 'Yang CY', 'Tien YW', 'Wong JM', 'Chang YT']
+Source: J Gastroenterol Hepatol. 2014 Dec;29(12):2038-42. doi: 10.1111/jgh.12649.
+
+Title: The PRSS1 c.623G>C (p.G208A) mutation is the most common PRSS1 mutation in Korean children with hereditary pancreatitis.
+Authors: ['Lee YJ', 'Cheon CK', 'Kim K', 'Oh SH', 'Park JH', 'Yoo HW']
+Source: Gut. 2015 Feb;64(2):359-60. doi: 10.1136/gutjnl-2014-307256. Epub 2014 Apr 29.
+
+Title: High serum trypsin levels and the -409 T/T genotype of PRSS1 gene are susceptible to neonatal sepsis.
+Authors: ['Chen Q', 'Xue H', 'Chen M', 'Gao F', 'Xu J', 'Liu Q', 'Yang X', 'Zheng L', 'Chen H']
+Source: Inflammation. 2014 Oct;37(5):1751-6. doi: 10.1007/s10753-014-9904-3.
+
+Title: Clinical evaluation of a multiple-gene sequencing panel for hereditary cancer risk assessment.
+Authors: ['Kurian AW', 'Hare EE', 'Mills MA', 'Kingham KE', 'McPherson L', 'Whittemore AS', 'McGuire V', 'Ladabaum U', 'Kobayashi Y', 'Lincoln SE', 'Cargill M', 'Ford JM']
+Source: J Clin Oncol. 2014 Jul 1;32(19):2001-9. doi: 10.1200/JCO.2013.53.6607. Epub 2014 Apr 14.
+
+Title: Expression of human cationic trypsinogen (PRSS1) in murine acinar cells promotes pancreatitis and apoptotic cell death.
+Authors: ['Athwal T', 'Huang W', 'Mukherjee R', 'Latawiec D', 'Chvanov M', 'Clarke R', 'Smith K', 'Campbell F', 'Merriman C', 'Criddle D', 'Sutton R', 'Neoptolemos J', 'Vlatkovic N']
+Source: Cell Death Dis. 2014 Apr 10;5:e1165. doi: 10.1038/cddis.2014.120.
+
+Title: Mutations in PRSS1 put into perspective.
+Authors: ['Sand PG']
+Source: Int J Med Sci. 2014 Mar 4;11(4):389-90. doi: 10.7150/ijms.7613. eCollection 2014.
+
+Title: Pancreatic cancer risk in hereditary pancreatitis.
+Authors: ['Weiss FU']
+Source: Front Physiol. 2014 Feb 20;5:70. doi: 10.3389/fphys.2014.00070. eCollection 2014.
+
+Title: The histopathology of PRSS1 hereditary pancreatitis.
+Authors: ['Singhi AD', 'Pai RK', 'Kant JA', 'Bartholow TL', 'Zeh HJ', 'Lee KK', 'Wijkstrom M', 'Yadav D', 'Bottino R', 'Brand RE', 'Chennat JS', 'Lowe ME', 'Papachristou GI', 'Slivka A', 'Whitcomb DC', 'Humar A']
+Source: Am J Surg Pathol. 2014 Mar;38(3):346-53. doi: 10.1097/PAS.0000000000000164.
+
+Title: Genetics of pancreatitis: the 2014 update.
+Authors: ['Masamune A']
+Source: Tohoku J Exp Med. 2014 Feb;232(2):69-77. doi: 10.1620/tjem.232.69.
+
+Title: Autophagy induced by resveratrol suppresses alpha-MSH-induced melanogenesis.
+Authors: ['Kim ES', 'Chang H', 'Choi H', 'Shin JH', 'Park SJ', 'Jo YK', 'Choi ES', 'Baek SY', 'Kim BG', 'Chang JW', 'Kim JC', 'Cho DH']
+Source: Exp Dermatol. 2014 Mar;23(3):204-6. doi: 10.1111/exd.12337.
+
+Title: Human cationic trypsinogen (PRSS1) variants and chronic pancreatitis.
+Authors: ['Nemeth BC', 'Sahin-Toth M']
+Source: Am J Physiol Gastrointest Liver Physiol. 2014 Mar;306(6):G466-73. doi: 10.1152/ajpgi.00419.2013. Epub 2014 Jan 23.
+
+Title: Chronic pancreatitis associated with the p.G208A variant of PRSS1 gene in a European patient.
+Authors: ['Hegyi E', 'Cierna I', 'Vavrova L', 'Ilencikova D', 'Konecny M', 'Kovacs L']
+Source: JOP. 2014 Jan 10;15(1):49-52. doi: 10.6092/1590-8577/1896.
+
+Title: Zymogen activation confers thermodynamic stability on a key peptide bond and protects human cationic trypsin from degradation.
+Authors: ['Szabo A', 'Radisky ES', 'Sahin-Toth M']
+Source: J Biol Chem. 2014 Feb 21;289(8):4753-61. doi: 10.1074/jbc.M113.538884. Epub 2014 Jan 8.
+
+Title: Familial pancreatic cancer: genetic advances.
+Authors: ['Rustgi AK']
+Source: Genes Dev. 2014 Jan 1;28(1):1-7. doi: 10.1101/gad.228452.113.
+
+Title: Multiple gene mutations in patients with type 2 autoimmune pancreatitis and its clinical features.
+Authors: ['Dong F', 'Chen QQ', 'Zhuang ZH', 'He QL', 'Wang FQ', 'Liu QC', 'Liu HK', 'Wang Y']
+Source: Cent Eur J Immunol. 2014;39(1):77-82. doi: 10.5114/ceji.2014.42129. Epub 2014 Apr 17.
+
+Title: Discrimination between adenocarcinoma and normal pancreatic ductal fluid by proteomic and glycomic analysis.
+Authors: ['Porterfield M', 'Zhao P', 'Han H', 'Cunningham J', 'Aoki K', 'Von Hoff DD', 'Demeure MJ', 'Pierce JM', 'Tiemeyer M', 'Wells L']
+Source: J Proteome Res. 2014 Feb 7;13(2):395-407. doi: 10.1021/pr400422g. Epub 2013 Dec 12.
+
+Title: Mutational analysis of ATP8B1 in patients with chronic pancreatitis.
+Authors: ['van der Woerd WL', 'van Haaften-Visser DY', 'van de Graaf SF', 'Ferec C', 'Masson E', 'Stapelbroek JM', 'Bugert P', 'Witt H', 'Houwen RH']
+Source: PLoS One. 2013 Nov 19;8(11):e80553. doi: 10.1371/journal.pone.0080553. eCollection 2013.
+
+Title: Hereditary pancreatitis: dilemmas in differential diagnosis and therapeutic approach.
+Authors: ['Mastoraki A', 'Tzortzopoulou A', 'Tsela S', 'Danias N', 'Sakorafas G', 'Smyrniotis V', 'Arkadopoulos N']
+Source: J Gastrointest Cancer. 2014 Mar;45(1):22-6. doi: 10.1007/s12029-013-9559-6.
+
+Title: Identification of a novel frame-shift mutation in PRSS1 gene in Han patients with autoimmune pancreatitis.
+Authors: ['Gao F', 'Li Y', 'Wang C', 'Zhuang Z', 'Liu QC', 'Chen J', 'Hong G', 'Xu Z']
+Source: Curr Mol Med. 2014 Mar;14(3):340-8. doi: 10.2174/1566524013666131118114432.
+
+Title: Brand new SPINK1 and CFTR mutations in a child with acute recurrent pancreatitis: a case report.
+Authors: ['Terlizzi V', 'De Gregorio F', 'Sepe A', 'Amato N', 'Arduino C', 'Casale A', 'Majo F', 'Tomaiuolo R', 'Castaldo G', 'Raia V']
+Source: Minerva Pediatr. 2013 Dec;65(6):669-72.
+
+Title: A review of animal models of nonneoplastic pancreatic diseases.
+Authors: ['Foster JR']
+Source: Toxicol Pathol. 2014 Jan;42(1):243-59. doi: 10.1177/0192623313508479. Epub 2013 Oct 31.
+
+Title: Childhood-onset hereditary pancreatitis with mutations in the CT gene and SPINK1 gene.
+Authors: ['Awano H', 'Lee T', 'Yagi M', 'Masamune A', 'Kume K', 'Takeshima Y', 'Iijima K']
+Source: Pediatr Int. 2013 Oct;55(5):646-9. doi: 10.1111/ped.12152.
+
+Title: Surgical outcomes after total pancreatectomy and islet cell autotransplantation in pediatric patients.
+Authors: ['Wilson GC', 'Sutton JM', 'Salehi M', 'Schmulewitz N', 'Smith MT', 'Kucera S', 'Choe KA', 'Brunner JE', 'Abbott DE', 'Sussman JJ', 'Ahmad SA']
+Source: Surgery. 2013 Oct;154(4):777-83; discussion 783-4. doi: 10.1016/j.surg.2013.07.003.
+
+Title: Comprehensive screening for PRSS1, SPINK1, CFTR, CTRC and CLDN2 gene mutations in Chinese paediatric patients with idiopathic chronic pancreatitis: a cohort study.
+Authors: ['Wang W', 'Sun XT', 'Weng XL', 'Zhou DZ', 'Sun C', 'Xia T', 'Hu LH', 'Lai XW', 'Ye B', 'Liu MY', 'Jiang F', 'Gao J', 'Bo LM', 'Liu Y', 'Liao Z', 'Li ZS']
+Source: BMJ Open. 2013 Sep 3;3(9):e003150. doi: 10.1136/bmjopen-2013-003150.
+
+Title: Identification of serum biomarkers for occupational medicamentosa-like dermatitis induced by trichloroethylene using mass spectrometry.
+Authors: ['Hong WX', 'Liu W', 'Zhang Y', 'Huang P', 'Yang X', 'Ren X', 'Ye J', 'Huang H', 'Tang H', 'Zhou G', 'Huang X', 'Zhuang Z', 'Liu J']
+Source: Toxicol Appl Pharmacol. 2013 Nov 15;273(1):121-9. doi: 10.1016/j.taap.2013.08.014. Epub 2013 Aug 29.
+
+Title: A conservative assessment of the major genetic causes of idiopathic chronic pancreatitis: data from a comprehensive analysis of PRSS1, SPINK1, CTRC and CFTR genes in 253 young French patients.
+Authors: ['Masson E', 'Chen JM', 'Audrezet MP', 'Cooper DN', 'Ferec C']
+Source: PLoS One. 2013 Aug 8;8(8):e73522. doi: 10.1371/journal.pone.0073522. eCollection 2013.
+
+Title: Trypsin-mediated enzymatic degradation of type II collagen in the human vitreous.
+Authors: ['van Deemter M', 'Kuijer R', 'Harm Pas H', 'Jacoba van der Worp R', 'Hooymans JM', 'Los LI']
+Source: Mol Vis. 2013 Jul 20;19:1591-9. Print 2013.
+
+Title: Genetics of acute and chronic pancreatitis.
+Authors: ['Mounzer R', 'Whitcomb DC']
+Source: Curr Opin Gastroenterol. 2013 Sep;29(5):544-51. doi: 10.1097/MOG.0b013e3283639383.
+
+Title: A rare PRSS1 mutation in a Turkish family with hereditary chronic pancreatitis.
+Authors: ['Yilmaz B', 'Ekiz F', 'Karakas E', 'Aykut A', 'Simsek Z', 'Coban S', 'Onay H', 'Ozkinay F']
+Source: Turk J Gastroenterol. 2012;23(6):826-7. doi: 10.4318/tjg.2012.0545.
+
+Title: A comprehensive study indicates PRSS1 gene is significantly associated with pancreatitis.
+Authors: ['Liu J', 'Zhang HX']
+Source: Int J Med Sci. 2013 Jun 13;10(8):981-7. doi: 10.7150/ijms.6164. Print 2013.
+
+Title: Clinical and morphological characteristics of sporadic genetically determined pancreatitis as compared to idiopathic pancreatitis: higher risk of pancreatic cancer in CFTR variants.
+Authors: ['Hamoir C', 'Pepermans X', 'Piessevaux H', 'Jouret-Mourin A', 'Weynand B', 'Habyalimana JB', 'Leal T', 'Geubel A', 'Gigot JF', 'Deprez PH']
+Source: Digestion. 2013;87(4):229-39. doi: 10.1159/000348439. Epub 2013 Jun 4.
+
+Title: PRSS1_p.Leu81Met mutation results in autoimmune pancreatitis.
+Authors: ['Gao F', 'Li YM', 'Hong GL', 'Xu ZF', 'Liu QC', 'He QL', 'Lin LQ', 'Weng SH']
+Source: World J Gastroenterol. 2013 Jun 7;19(21):3332-8. doi: 10.3748/wjg.v19.i21.3332.
+
+Title: Low trypsinogen-1 expression in pediatric ulcerative colitis patients who undergo surgery.
+Authors: ['Piekkala M', 'Hagstrom J', 'Tanskanen M', 'Rintala R', 'Haglund C', 'Kolho KL']
+Source: World J Gastroenterol. 2013 Jun 7;19(21):3272-80. doi: 10.3748/wjg.v19.i21.3272.
+
+Title: Two cases of chronic pancreatitis associated with anomalous pancreaticobiliary ductal union and SPINK1 mutation.
+Authors: ['Rho ES', 'Kim E', 'Koh H', 'Yoo HW', 'Lee BH', 'Kim GH']
+Source: Korean J Pediatr. 2013 May;56(5):227-30. doi: 10.3345/kjp.2013.56.5.227. Epub 2013 May 28.
+
+Title: Characterization of two deletions of the CTRC locus.
+Authors: ['Masson E', 'Hammel P', 'Garceau C', 'Benech C', 'Quemener-Redon S', 'Chen JM', 'Ferec C']
+Source: Mol Genet Metab. 2013 Jul;109(3):296-300. doi: 10.1016/j.ymgme.2013.04.022. Epub 2013 May 10.
+
+Title: PRSS1 c.623G>C (p.G208A) variant is associated with pancreatitis in Japan.
+Authors: ['Masamune A', 'Nakano E', 'Kume K', 'Takikawa T', 'Kakuta Y', 'Shimosegawa T']
+Source: Gut. 2014 Feb;63(2):366. doi: 10.1136/gutjnl-2013-304925. Epub 2013 May 17.
+
+Title: Let-7b and miR-495 stimulate differentiation and prevent metaplasia of pancreatic acinar cells by repressing HNF6.
+Authors: ['Prevot PP', 'Augereau C', 'Simion A', 'Van den Steen G', 'Dauguet N', 'Lemaigre FP', 'Jacquemin P']
+Source: Gastroenterology. 2013 Sep;145(3):668-78.e3. doi: 10.1053/j.gastro.2013.05.016. Epub 2013 May 16.
+
+Title: Genetic risk factors for pancreatic disorders.
+Authors: ['Whitcomb DC']
+Source: Gastroenterology. 2013 Jun;144(6):1292-302. doi: 10.1053/j.gastro.2013.01.069.
+
+Title: Hereditary pancreatitis for the endoscopist.
+Authors: ['Patel MR', 'Eppolito AL', 'Willingham FF']
+Source: Therap Adv Gastroenterol. 2013 Mar;6(2):169-79. doi: 10.1177/1756283X12467565.
+
+Title: Low penetrance pancreatitis phenotype in a Venezuelan kindred with a PRSS1 R122H mutation.
+Authors: ['Solomon S', 'Gelrud A', 'Whitcomb DC']
+Source: JOP. 2013 Mar 10;14(2):187-9. doi: 10.6092/1590-8577/1276.
+
+Title: Functional effects of 13 rare PRSS1 variants presumed to cause chronic pancreatitis.
+Authors: ['Schnur A', 'Beer S', 'Witt H', 'Hegyi P', 'Sahin-Toth M']
+Source: Gut. 2014 Feb;63(2):337-43. doi: 10.1136/gutjnl-2012-304331. Epub 2013 Mar 1.
+
+Title: Hereditary pancreatitis: endoscopic and surgical management.
+Authors: ['Ceppa EP', 'Pitt HA', 'Hunter JL', 'Leys CM', 'Zyromski NJ', 'Rescorla FJ', 'Sandrasegaran K', 'Fogel EL', 'McHenry LW', 'Watkins JL', 'Sherman S', 'Lehman GA']
+Source: J Gastrointest Surg. 2013 May;17(5):847-56; discussion 856-7. doi: 10.1007/s11605-013-2167-8. Epub 2013 Feb 23.
+
+Title: BiVax: a peptide/poly-IC subunit vaccine that mimics an acute infection elicits vast and effective anti-tumor CD8 T-cell responses.
+Authors: ['Cho HI', 'Barrios K', 'Lee YR', 'Linowski AK', 'Celis E']
+Source: Cancer Immunol Immunother. 2013 Apr;62(4):787-99. doi: 10.1007/s00262-012-1382-6. Epub 2012 Dec 25.
+
+Title: Candidates for tumor markers of cervical cancer discovered by proteomic analysis.
+Authors: ['Song JY', 'Bae HS', 'Koo do H', 'Lee JK', 'Jung HH', 'Lee KW', 'Lee NW']
+Source: J Korean Med Sci. 2012 Dec;27(12):1479-85. doi: 10.3346/jkms.2012.27.12.1479. Epub 2012 Dec 7.
+
+Title: Framework for interpretation of genetic variations in pancreatitis patients.
+Authors: ['Whitcomb DC']
+Source: Front Physiol. 2012 Dec 6;3:440. doi: 10.3389/fphys.2012.00440. eCollection 2012.
+
+Title: Genetics of pancreatitis with a focus on the pancreatic ducts.
+Authors: ['Larusch J', 'Whitcomb DC']
+Source: Minerva Gastroenterol Dietol. 2012 Dec;58(4):299-308.
+
+Title: Inherited pancreatic cancer syndromes.
+Authors: ['Solomon S', 'Das S', 'Brand R', 'Whitcomb DC']
+Source: Cancer J. 2012 Nov-Dec;18(6):485-91. doi: 10.1097/PPO.0b013e318278c4a6.
+
+Title: Common genetic variants in the CLDN2 and PRSS1-PRSS2 loci alter risk for alcohol-related and sporadic pancreatitis.
+Authors: ['Whitcomb DC', 'LaRusch J', 'Krasinskas AM', 'Klei L', 'Smith JP', 'Brand RE', 'Neoptolemos JP', 'Lerch MM', 'Tector M', 'Sandhu BS', 'Guda NM', 'Orlichenko L', 'Alkaade S', 'Amann ST', 'Anderson MA', 'Baillie J', 'Banks PA', 'Conwell D', 'Cote GA', 'Cotton PB', 'DiSario J', 'Farrer LA', 'Forsmark CE', 'Johnstone M', 'Gardner TB', 'Gelrud A', 'Greenhalf W', 'Haines JL', 'Hartman DJ', 'Hawes RA', 'Lawrence C', 'Lewis M', 'Mayerle J', 'Mayeux R', 'Melhem NM', 'Money ME', 'Muniraj T', 'Papachristou GI', 'Pericak-Vance MA', 'Romagnuolo J', 'Schellenberg GD', 'Sherman S', 'Simon P', 'Singh VP', 'Slivka A', 'Stolz D', 'Sutton R', 'Weiss FU', 'Wilcox CM', 'Zarnescu NO', 'Wisniewski SR', "O'Connell MR", 'Kienholz ML', 'Roeder K', 'Barmada MM', 'Yadav D', 'Devlin B']
+Source: Nat Genet. 2012 Dec;44(12):1349-54. doi: 10.1038/ng.2466. Epub 2012 Nov 11.
+
+Title: Bull's-eye pattern of pancreatic-duct stones on multidetector computed tomography and gene-mutation-associated pancreatitis (GMAP).
+Authors: ['Graziani R', 'Frulloni L', 'Cicero C', 'Manfredi R', 'Ambrosetti MC', 'Mautone S', 'Pozzi Mucelli R']
+Source: Radiol Med. 2012 Dec;117(8):1275-86. doi: 10.1007/s11547-012-0888-4. Epub 2012 Oct 22.
+
+Title: IL-4 inhibits the melanogenesis of normal human melanocytes through the JAK2-STAT6 signaling pathway.
+Authors: ['Choi H', 'Choi H', 'Han J', 'Jin SH', 'Park JY', 'Shin DW', 'Lee TR', 'Kim K', 'Lee AY', 'Noh M']
+Source: J Invest Dermatol. 2013 Feb;133(2):528-36. doi: 10.1038/jid.2012.331. Epub 2012 Sep 20.
+
+Title: Silencing of GPNMB by siRNA inhibits the formation of melanosomes in melanocytes in a MITF-independent fashion.
+Authors: ['Zhang P', 'Liu W', 'Zhu C', 'Yuan X', 'Li D', 'Gu W', 'Ma H', 'Xie X', 'Gao T']
+Source: PLoS One. 2012;7(8):e42955. doi: 10.1371/journal.pone.0042955. Epub 2012 Aug 13.
+
+Title: Reference intervals for and validation of recalibrated immunoassays for trypsinogen-1 and trypsinogen-2.
+Authors: ['Itkonen O', 'Kylanpaa L', 'Zhang WM', 'Stenman UH']
+Source: Clin Chem. 2012 Oct;58(10):1494-6. doi: 10.1373/clinchem.2012.188706. Epub 2012 Aug 20.
+
+Title: Identification of miR-145 as a key regulator of the pigmentary process.
+Authors: ['Dynoodt P', 'Mestdagh P', 'Van Peer G', 'Vandesompele J', 'Goossens K', 'Peelman LJ', 'Geusens B', 'Speeckaert RM', 'Lambert JL', 'Van Gele MJ']
+Source: J Invest Dermatol. 2013 Jan;133(1):201-9. doi: 10.1038/jid.2012.266. Epub 2012 Aug 16.
+
+Title: Genetics of alcoholic and nonalcoholic pancreatitis.
+Authors: ['Whitcomb DC']
+Source: Curr Opin Gastroenterol. 2012 Sep;28(5):501-6. doi: 10.1097/MOG.0b013e328356e7f3.
+
+Title: Genetics and pathogenesis of chronic pancreatitis: the 2012 update.
+Authors: ['Chen JM', 'Ferec C']
+Source: Clin Res Hepatol Gastroenterol. 2012 Aug;36(4):334-40. doi: 10.1016/j.clinre.2012.05.003. Epub 2012 Jun 30.
+
+Title: Three female familial cases of solid pseudopapillary tumors with a protease serine 1 gene mutation.
+Authors: ['Gou S', 'Yu J', 'Wang C', 'Liu T', 'Cui P', 'Li X']
+Source: Pancreas. 2013 Jan;42(1):168-73. doi: 10.1097/MPA.0b013e3182554276.
+
+Title: Screening of R122H and N29I mutations in the PRSS1 gene and N34S mutation in the SPINK1 gene in Mexican pediatric patients with acute and recurrent pancreatitis.
+Authors: ['Sanchez-Ramirez CA', 'Flores-Martinez SE', 'Garcia-Zapien AG', 'Montero-Cruz SA', 'Larrosa-Haro A', 'Sanchez-Corona J']
+Source: Pancreas. 2012 Jul;41(5):707-11. doi: 10.1097/MPA.0b013e31823cd873.
+
+Title: [Chronic pancreatitis: beyond alcohol].
+Authors: ['Vaquero Raya EC']
+Source: Gastroenterol Hepatol. 2012 Oct;35(8):577-84. doi: 10.1016/j.gastrohep.2012.03.002. Epub 2012 May 17.
+
+Title: Secretome profile of mouse oocytes after activation using mass spectrum.
+Authors: ['Peng Q', 'Yang H', 'Xue S', 'Shi L', 'Yu Q', 'Kuang Y']
+Source: J Assist Reprod Genet. 2012 Aug;29(8):765-71. doi: 10.1007/s10815-012-9789-8. Epub 2012 May 10.
+
+Title: Whole exome sequencing identifies multiple, complex etiologies in an idiopathic hereditary pancreatitis kindred.
+Authors: ['LaRusch J', 'Barmada MM', 'Solomon S', 'Whitcomb DC']
+Source: JOP. 2012 May 10;13(3):258-62.
+
+Title: Increased activation of hereditary pancreatitis-associated human cationic trypsinogen mutants in presence of chymotrypsin C.
+Authors: ['Szabo A', 'Sahin-Toth M']
+Source: J Biol Chem. 2012 Jun 8;287(24):20701-10. doi: 10.1074/jbc.M112.360065. Epub 2012 Apr 26.
+
+Title: Tumour-associated trypsin inhibitor TATI is a prognostic marker in colorectal cancer.
+Authors: ['Koskensalo S', 'Hagstrom J', 'Louhimo J', 'Stenman UH', 'Haglund C']
+Source: Oncology. 2012;82(4):234-41. doi: 10.1159/000336080. Epub 2012 Apr 12.
+
+Title: CFTR, SPINK1, CTRC and PRSS1 variants in chronic pancreatitis: is the role of mutated CFTR overestimated?
+Authors: ['Rosendahl J', 'Landt O', 'Bernadova J', 'Kovacs P', 'Teich N', 'Bodeker H', 'Keim V', 'Ruffert C', 'Mossner J', 'Kage A', 'Stumvoll M', 'Groneberg D', 'Kruger R', 'Luck W', 'Treiber M', 'Becker M', 'Witt H']
+Source: Gut. 2013 Apr;62(4):582-92. doi: 10.1136/gutjnl-2011-300645. Epub 2012 Mar 17.
+
+Title: Pancreas divisum does not cause pancreatitis, but associates with CFTR mutations.
+Authors: ['DiMagno MJ', 'Dimagno EP']
+Source: Am J Gastroenterol. 2012 Feb;107(2):318-20. doi: 10.1038/ajg.2011.430.
+
+Title: Pancreas divisum and acute or chronic pancreatitis.
+Authors: ['Pezzilli R']
+Source: JOP. 2012 Jan 10;13(1):118-9.
+
+Title: Pancreas divisum is not a cause of pancreatitis by itself but acts as a partner of genetic mutations.
+Authors: ['Bertin C', 'Pelletier AL', 'Vullierme MP', 'Bienvenu T', 'Rebours V', 'Hentic O', 'Maire F', 'Hammel P', 'Vilgrain V', 'Ruszniewski P', 'Levy P']
+Source: Am J Gastroenterol. 2012 Feb;107(2):311-7. doi: 10.1038/ajg.2011.424. Epub 2011 Dec 13.
+
+Title: PRSS1 intron mutations in patients with pancreatic cancer and chronic pancreatitis.
+Authors: ['Gao F', 'Liu QC', 'Zhang S', 'Zhuang ZH', 'Lin CZ', 'Lin XH']
+Source: Mol Med Rep. 2012 Feb;5(2):449-51. doi: 10.3892/mmr.2011.684. Epub 2011 Nov 21.
+
+Title: Genetic prevalence and characteristics in children with recurrent pancreatitis.
+Authors: ['Sultan M', 'Werlin S', 'Venkatasubramani N']
+Source: J Pediatr Gastroenterol Nutr. 2012 May;54(5):645-50. doi: 10.1097/MPG.0b013e31823f0269.
+
+Title: Novel mutations of PRSS1 gene in patients with pancreatic cancer among Han population.
+Authors: ['Zeng K', 'Liu QC', 'Lin JH', 'Lin XH', 'Zhuang ZH', 'Gao F', 'Ou QS']
+Source: Chin Med J (Engl). 2011 Jul 5;124(13):2065-7.
+
+Title: Extensive molecular analysis of patients bearing CFTR-related disorders.
+Authors: ['Amato F', 'Bellia C', 'Cardillo G', 'Castaldo G', 'Ciaccio M', 'Elce A', 'Lembo F', 'Tomaiuolo R']
+Source: J Mol Diagn. 2012 Jan;14(1):81-9. doi: 10.1016/j.jmoldx.2011.09.001. Epub 2011 Oct 20.
+
+Title: Interaction between a novel intronic IVS3+172 variant and N29I mutation in PRSS1 gene is associated with pancreatitis in a Malaysian Chinese family.
+Authors: ['Chua KH', 'Puah SM', 'Chew CH', 'Wong CH', 'Goh KL']
+Source: Pancreatology. 2011;11(4):441-4. doi: 10.1159/000330943. Epub 2011 Sep 22.
+
+Title: The -409 C/T genotype of PRSS1 protects against pancreatic cancer in the Han Chinese population.
+Authors: ['Liu Q', 'Lin X', 'Liu J', 'Liu A', 'Gao F']
+Source: Dig Dis Sci. 2012 Feb;57(2):573-9. doi: 10.1007/s10620-011-1893-6. Epub 2011 Sep 16.
+
+Title: An overview of hereditary pancreatitis.
+Authors: ['Rebours V', 'Levy P', 'Ruszniewski P']
+Source: Dig Liver Dis. 2012 Jan;44(1):8-15. doi: 10.1016/j.dld.2011.08.003. Epub 2011 Sep 9.
+
+Title: Genetics of pancreatitis.
+Authors: ['LaRusch J', 'Whitcomb DC']
+Source: Curr Opin Gastroenterol. 2011 Sep;27(5):467-74. doi: 10.1097/MOG.0b013e328349e2f8.
+
+Title: ABO blood group and chronic pancreatitis risk in the NAPS2 cohort.
+Authors: ['Greer JB', 'LaRusch J', 'Brand RE', "O'Connell MR", 'Yadav D', 'Whitcomb DC']
+Source: Pancreas. 2011 Nov;40(8):1188-94. doi: 10.1097/MPA.0b013e3182232975.
+
+Title: Intragenic duplication: a novel mutational mechanism in hereditary pancreatitis.
+Authors: ['Joergensen MT', 'Geisz A', 'Brusgaard K', 'Schaffalitzky de Muckadell OB', 'Hegyi P', 'Gerdes AM', 'Sahin-Toth M']
+Source: Pancreas. 2011 May;40(4):540-6. doi: 10.1097/MPA.0b013e3182152fdf.
+
+Title: The etiology of acute recurrent pancreatitis in children: a challenge for pediatricians.
+Authors: ['Lucidi V', 'Alghisi F', "Dall'Oglio L", "D'Apice MR", 'Monti L', 'De Angelis P', 'Gambardella S', 'Angioni A', 'Novelli G']
+Source: Pancreas. 2011 May;40(4):517-21. doi: 10.1097/MPA.0b013e318214fe42.
+
+Title: High incidence of PRSS1 and SPINK1 mutations in Korean children with acute recurrent and chronic pancreatitis.
+Authors: ['Lee YJ', 'Kim KM', 'Choi JH', 'Lee BH', 'Kim GH', 'Yoo HW']
+Source: J Pediatr Gastroenterol Nutr. 2011 Apr;52(4):478-81. doi: 10.1097/MPG.0b013e31820e2126.
+
+Title: Genetic background is different between sentinel and recurrent acute pancreatitis.
+Authors: ['Masamune A', 'Ariga H', 'Kume K', 'Kakuta Y', 'Satoh K', 'Satoh A', 'Shimosegawa T']
+Source: J Gastroenterol Hepatol. 2011 Jun;26(6):974-8. doi: 10.1111/j.1440-1746.2011.06691.x.
+
+Title: Interactions between GIPC-APPL and GIPC-TRP1 regulate melanosomal protein trafficking and melanogenesis in human melanocytes.
+Authors: ['Kedlaya R', 'Kandala G', 'Liu TF', 'Maddodi N', 'Devi S', 'Setaluri V']
+Source: Arch Biochem Biophys. 2011 Apr 15;508(2):227-33. doi: 10.1016/j.abb.2011.01.021. Epub 2011 Feb 1.
+
+Title: Acute pancreatitis complicated with choledochal duct rupture.
+Authors: ['Bouvry M', 'Van Renterghem K', 'Verrijckt A', 'Smeets P', 'Meersschaut V', 'Vande Velde S', 'De Bruyne R', 'De Vos M', 'Van Winckel M', 'Van Biervliet S']
+Source: Case Rep Gastrointest Med. 2011;2011:413268. doi: 10.1155/2011/413268. Epub 2011 Oct 3.
+
+Title: Up-regulation of ectopic trypsins in the myocardium by influenza A virus infection triggers acute myocarditis.
+Authors: ['Pan HY', 'Yamada H', 'Chida J', 'Wang S', 'Yano M', 'Yao M', 'Zhu J', 'Kido H']
+Source: Cardiovasc Res. 2011 Feb 15;89(3):595-603. doi: 10.1093/cvr/cvq358. Epub 2010 Nov 16.
+
+Title: New PRSS1 and common CFTR mutations in a child with acute recurrent pancreatitis, could be considered an "Hereditary" form of pancreatitis ?
+Authors: ['Corleto VD', 'Gambardella S', 'Gullotta F', "D'Apice MR", 'Piciucchi M', 'Galli E', 'Lucidi V', 'Novelli G', 'Delle Fave G']
+Source: BMC Gastroenterol. 2010 Oct 15;10:119. doi: 10.1186/1471-230X-10-119.
+
+Title: Total pancreatectomy and islet cell autotransplantation as a means of treating patients with genetically linked pancreatitis.
+Authors: ['Sutton JM', 'Schmulewitz N', 'Sussman JJ', 'Smith M', 'Kurland JE', 'Brunner JE', 'Salehi M', 'Choe KA', 'Ahmad SA']
+Source: Surgery. 2010 Oct;148(4):676-85; discussion 685-6. doi: 10.1016/j.surg.2010.07.043.
+
+Title: Advances in the etiology of chronic pancreatitis.
+Authors: ['Lerch MM', 'Mayerle J', 'Aghdassi AA', 'Budde C', 'Nitsche C', 'Sauter G', 'Persike M', 'Gunther A', 'Simon P', 'Weiss FU']
+Source: Dig Dis. 2010;28(2):324-9. doi: 10.1159/000319408. Epub 2010 Sep 1.
+
+Title: Incidence, etiology and prognosis of first-time acute pancreatitis in young patients: a population-based cohort study.
+Authors: ['Joergensen M', 'Brusgaard K', 'Cruger DG', 'Gerdes AM', 'Schaffalitzky de Muckadell OB']
+Source: Pancreatology. 2010;10(4):453-61. doi: 10.1159/000260666. Epub 2010 Aug 19.
+
+Title: Antioxidant and antimelanogenic properties of chestnut flower extract.
+Authors: ['Sapkota K', 'Park SE', 'Kim JE', 'Kim S', 'Choi HS', 'Chun HS', 'Kim SJ']
+Source: Biosci Biotechnol Biochem. 2010;74(8):1527-33. doi: 10.1271/bbb.100058. Epub 2010 Aug 7.
+
+Title: Hereditary pancreatitis.
+Authors: ['Lal A', 'Lal DR']
+Source: Pediatr Surg Int. 2010 Dec;26(12):1193-9. doi: 10.1007/s00383-010-2684-4. Epub 2010 Aug 10.
+
+Title: The prevalence of cationic trypsinogen (PRSS1) and serine protease inhibitor, Kazal type 1 (SPINK1) gene mutations in Polish patients with alcoholic and idiopathic chronic pancreatitis.
+Authors: ['Gasiorowska A', 'Talar-Wojnarowska R', 'Czupryniak L', 'Smolarz B', 'Romanowicz-Makowska H', 'Kulig A', 'Malecka-Panas E']
+Source: Dig Dis Sci. 2011 Mar;56(3):894-901. doi: 10.1007/s10620-010-1349-4. Epub 2010 Jul 30.
+
+Title: AFP computational secreted network construction and analysis between human hepatocellular carcinoma (HCC) and no-tumor hepatitis/cirrhotic liver tissues.
+Authors: ['Wang L', 'Huang J', 'Jiang M', 'Zheng X']
+Source: Tumour Biol. 2010 Oct;31(5):417-25. doi: 10.1007/s13277-010-0050-8. Epub 2010 Jun 8.
+
+Title: Genetic factors in chronic pancreatitis; implications for diagnosis, management and prognosis.
+Authors: ['Derikx MH', 'Drenth JP']
+Source: Best Pract Res Clin Gastroenterol. 2010 Jun;24(3):251-70. doi: 10.1016/j.bpg.2010.02.001.
+
+Title: Genetic, epidemiological, and clinical aspects of hereditary pancreatitis: a population-based cohort study in Denmark.
+Authors: ['Joergensen MT', 'Brusgaard K', 'Cruger DG', 'Gerdes AM', 'Schaffalitzky de Muckadell OB']
+Source: Am J Gastroenterol. 2010 Aug;105(8):1876-83. doi: 10.1038/ajg.2010.193. Epub 2010 May 25.
+
+Title: Uncertainties in the classification of human cationic trypsinogen (PRSS1) variants as hereditary pancreatitis-associated mutations.
+Authors: ['Szmola R', 'Sahin-Toth M']
+Source: J Med Genet. 2010 May;47(5):348-50. doi: 10.1136/jmg.2009.072751.
+
+Title: Cholestatic liver disease in children.
+Authors: ['Santos JL', 'Choquette M', 'Bezerra JA']
+Source: Curr Gastroenterol Rep. 2010 Feb;12(1):30-9. doi: 10.1007/s11894-009-0081-8.
+
+Title: Autoantibodies against the exocrine pancreas in autoimmune pancreatitis: gene and protein expression profiling and immunoassays identify pancreatic enzymes as a major target of the inflammatory process.
+Authors: ['Lohr JM', 'Faissner R', 'Koczan D', 'Bewerunge P', 'Bassi C', 'Brors B', 'Eils R', 'Frulloni L', 'Funk A', 'Halangk W', 'Jesenofsky R', 'Kaderali L', 'Kleeff J', 'Kruger B', 'Lerch MM', 'Losel R', 'Magnani M', 'Neumaier M', 'Nittka S', 'Sahin-Toth M', 'Sanger J', 'Serafini S', 'Schnolzer M', 'Thierse HJ', 'Wandschneider S', 'Zamboni G', 'Kloppel G']
+Source: Am J Gastroenterol. 2010 Sep;105(9):2060-71. doi: 10.1038/ajg.2010.141. Epub 2010 Apr 20.
+
+Title: [Genetic aspects of digestive diseases. Part 1].
+Authors: ["Grigor'eva IN", 'Nikitenko TM', 'Tikhonov AV', 'Romanova TI', 'Maksimov VN', 'Shakhtshneider EV', 'Maliutina SK', 'Voevoda MI']
+Source: Ter Arkh. 2010;82(2):62-6.
+
+Title: Tumor-derived trypsin enhances proliferation of intrahepatic cholangiocarcinoma cells by activating protease-activated receptor-2.
+Authors: ['Nakanuma S', 'Tajima H', 'Okamoto K', 'Hayashi H', 'Nakagawara H', 'Onishi I', 'Takamura H', 'Kitagawa H', 'Fushida S', 'Tani T', 'Fujimura T', 'Kayahara M', 'Ohta T', 'Wakayama T', 'Iseki S', 'Harada S']
+Source: Int J Oncol. 2010 Apr;36(4):793-800. doi: 10.3892/ijo_00000555.
+
+Title: Alcohol-induced acute pancreatitis: the 'critical mass' concept.
+Authors: ['Barreto SG', 'Saccone GT']
+Source: Med Hypotheses. 2010 Jul;75(1):73-6. doi: 10.1016/j.mehy.2010.01.036. Epub 2010 Feb 23.
+
+Title: Relationship of strain-dependent susceptibility to experimentally induced acute pancreatitis with regulation of Prss1 and Spink3 expression.
+Authors: ['Wang J', 'Ohmuraya M', 'Suyama K', 'Hirota M', 'Ozaki N', 'Baba H', 'Nakagata N', 'Araki K', 'Yamamura K']
+Source: Lab Invest. 2010 May;90(5):654-64. doi: 10.1038/labinvest.2010.44. Epub 2010 Feb 15.
+
+Title: Tumor-reactive CD4(+) T cells develop cytotoxic activity and eradicate large established melanoma after transfer into lymphopenic hosts.
+Authors: ['Quezada SA', 'Simpson TR', 'Peggs KS', 'Merghoub T', 'Vider J', 'Fan X', 'Blasberg R', 'Yagita H', 'Muranski P', 'Antony PA', 'Restifo NP', 'Allison JP']
+Source: J Exp Med. 2010 Mar 15;207(3):637-50. doi: 10.1084/jem.20091918. Epub 2010 Feb 15.
+
+Title: Identification of novel peptide inhibitors for human trypsins.
+Authors: ['Wu P', 'Weisell J', 'Pakkala M', 'Perakyla M', 'Zhu L', 'Koistinen R', 'Koivunen E', 'Stenman UH', 'Narvanen A', 'Koistinen H']
+Source: Biol Chem. 2010 Feb-Mar;391(2-3):283-93. doi: 10.1515/BC.2010.030.
+
+Title: Genetic aspects of pancreatitis.
+Authors: ['Whitcomb DC']
+Source: Annu Rev Med. 2010;61:413-24. doi: 10.1146/annurev.med.041608.121416.
+
+Title: Genetics of pancreatitis: a guide for clinicians.
+Authors: ['Witt H']
+Source: Dig Dis. 2010;28(6):702-8. doi: 10.1159/000324276. Epub 2011 Apr 27.
+
+Title: Western blotting in the diagnosis of duodenal-biliary and pancreaticobiliary refluxes in biliary diseases.
+Authors: ['Xian GZ', 'Wu SD', 'Chen CC', 'Su Y']
+Source: Hepatobiliary Pancreat Dis Int. 2009 Dec;8(6):608-13.
+
+Title: Prevalence of pancreatic diabetes in patients carrying mutations or polymorphisms of the PRSS1 gene in the Han population.
+Authors: ['Liu QC', 'Zhuang ZH', 'Zeng K', 'Cheng ZJ', 'Gao F', 'Wang ZQ']
+Source: Diabetes Technol Ther. 2009 Dec;11(12):799-804. doi: 10.1089/dia.2009.0051.
+
+Title: The variable phenotype of the p.A16V mutation of cationic trypsinogen (PRSS1) in pancreatitis families.
+Authors: ['Grocock CJ', 'Rebours V', 'Delhaye MN', 'Andren-Sandberg A', 'Weiss FU', 'Mountford R', 'Harcus MJ', 'Niemczyck E', 'Vitone LJ', 'Dodd S', 'Jorgensen MT', 'Ammann RW', 'Schaffalitzky de Muckadell O', 'Butler JV', 'Burgess P', 'Kerr B', 'Charnley R', 'Sutton R', 'Raraty MG', 'Deviere J', 'Whitcomb DC', 'Neoptolemos JP', 'Levy P', 'Lerch MM', 'Greenhalf W']
+Source: Gut. 2010 Mar;59(3):357-63. doi: 10.1136/gut.2009.186817. Epub 2009 Dec 1.
+
+Title: Hereditary pancreatitis in children: surgical implications with special regard to genetic background.
+Authors: ['Schmitt F', 'Le Henaff G', 'Piloquet H', 'Leclair MD', 'David A', 'Heloury Y', 'Podevin G']
+Source: J Pediatr Surg. 2009 Nov;44(11):2078-82. doi: 10.1016/j.jpedsurg.2009.05.023.
+
+Title: [Dutch patients with hereditary pancreatitis; high mutation frequency, relatively little pain].
+Authors: ['Derikx MH', 'te Morsche RH', 'Jansen JB', 'Drenth JP']
+Source: Ned Tijdschr Geneeskd. 2009;153:A324.
+
+Title: Intracellular autoactivation of human cationic trypsinogen mutants causes reduced trypsinogen secretion and acinar cell death.
+Authors: ['Kereszturi E', 'Sahin-Toth M']
+Source: J Biol Chem. 2009 Nov 27;284(48):33392-9. doi: 10.1074/jbc.M109.056812. Epub 2009 Sep 29.
+
+Title: Pathology analysis reveals that dysplastic pancreatic ductal lesions are frequent in patients with hereditary pancreatitis.
+Authors: ['Rebours V', 'Levy P', 'Mosnier JF', 'Scoazec JY', 'Soubeyrand MS', 'Flejou JF', 'Turlin B', 'Hammel P', 'Ruszniewski P', 'Bedossa P', 'Couvelard A']
+Source: Clin Gastroenterol Hepatol. 2010 Feb;8(2):206-12. doi: 10.1016/j.cgh.2009.09.009. Epub 2009 Sep 16.
+
+Title: [From the chronic pancreatitis to chronic pancreatites].
+Authors: ['Maire F', 'Levy P', 'Rebours V', 'Hammel P', 'Ruszniewski P']
+Source: Gastroenterol Clin Biol. 2009 Aug-Sep;33(8-9):725-36. doi: 10.1016/j.gcb.2009.07.017. Epub 2009 Aug 29.
+
+Title: Pancreas divisum: beyond the apparent.
+Authors: ['Guda NM', 'Freeman ML']
+Source: J Clin Gastroenterol. 2009 Oct;43(9):795-6. doi: 10.1097/MCG.0b013e3181b041ec.
+
+Title: Predicting islet yield in pediatric patients undergoing pancreatectomy and autoislet transplantation for chronic pancreatitis.
+Authors: ['Bellin MD', 'Blondet JJ', 'Beilman GJ', 'Dunn TB', 'Balamurugan AN', 'Thomas W', 'Sutherland DE', 'Moran A']
+Source: Pediatr Diabetes. 2010 Jun;11(4):227-34. doi: 10.1111/j.1399-5448.2009.00575.x. Epub 2009 Aug 25.
+
+Title: Polymorphic variants in hereditary pancreatic cancer genes are not associated with pancreatic cancer risk.
+Authors: ['McWilliams RR', 'Bamlet WR', 'de Andrade M', 'Rider DN', 'Couch FJ', 'Cunningham JM', 'Matsumoto ME', 'Rabe KG', 'Hammer TJ', 'Petersen GM']
+Source: Cancer Epidemiol Biomarkers Prev. 2009 Sep;18(9):2549-52. doi: 10.1158/1055-9965.EPI-09-0605. Epub 2009 Aug 18.
+
+Title: [Hereditary pancreatitis in a child].
+Authors: ['Freira S', 'Lourenco T', 'Cerqueira R', 'Tavares P', 'Pereira G', 'Barata D', 'Cabral J']
+Source: Acta Med Port. 2009 May-Jun;22(3):313-7. Epub 2009 Jul 15.
+
+Title: Genetic mutations in a Spanish population with chronic pancreatitis.
+Authors: ['Mora J', 'Comas L', 'Ripoll E', 'Goncalves P', 'Queralto JM', 'Gonzalez-Sastre F', 'Farre A']
+Source: Pancreatology. 2009;9(5):644-51. doi: 10.1159/000181177. Epub 2009 Aug 4.
+
+Title: Association of SPINK1 gene mutation and CFTR gene polymorphisms in patients with pancreas divisum presenting with idiopathic pancreatitis.
+Authors: ['Garg PK', 'Khajuria R', 'Kabra M', 'Shastri SS']
+Source: J Clin Gastroenterol. 2009 Oct;43(9):848-52. doi: 10.1097/MCG.0b013e3181a4e772.
+
+Title: Mortality rate and risk factors in patients with hereditary pancreatitis: uni- and multidimensional analyses.
+Authors: ['Rebours V', 'Boutron-Ruault MC', 'Jooste V', 'Bouvier AM', 'Hammel P', 'Ruszniewski P', 'Levy P']
+Source: Am J Gastroenterol. 2009 Sep;104(9):2312-7. doi: 10.1038/ajg.2009.363. Epub 2009 Jun 23.
+
+Title: Hereditary pancreatitis: clinical features and inheritance characteristics of the R122C mutation in the cationic trypsinogen gene (PRSS1) in six Spanish families.
+Authors: ['de las Heras-Castano G', 'Castro-Senosiain B', 'Fontalba A', 'Lopez-Hoyos M', 'Sanchez-Juan P']
+Source: JOP. 2009 May 18;10(3):249-55.
+
+Title: Chronic pancreatitis: genetics and pathogenesis.
+Authors: ['Chen JM', 'Ferec C']
+Source: Annu Rev Genomics Hum Genet. 2009;10:63-87. doi: 10.1146/annurev-genom-082908-150009.
+
+Title: Association and differential role of PRSS1 and SPINK1 mutation in early-onset and late-onset idiopathic chronic pancreatitis in Chinese subjects.
+Authors: ['Chang YT', 'Wei SC', 'L PC', 'Tien YW', 'Jan IS', 'Su YN', 'Wong JM', 'Chang MC']
+Source: Gut. 2009 Jun;58(6):885. doi: 10.1136/gut.2007.129916.
+
+Title: Hereditary pancreatitis caused by mutation-induced misfolding of human cationic trypsinogen: a novel disease mechanism.
+Authors: ['Kereszturi E', 'Szmola R', 'Kukor Z', 'Simon P', 'Weiss FU', 'Lerch MM', 'Sahin-Toth M']
+Source: Hum Mutat. 2009 Apr;30(4):575-82. doi: 10.1002/humu.20853.
+
+Title: Genetic mechanisms underlying the pathogenesis of tropical calcific pancreatitis.
+Authors: ['Mahurkar S', 'Reddy DN', 'Rao GV', 'Chandak GR']
+Source: World J Gastroenterol. 2009 Jan 21;15(3):264-9. doi: 10.3748/wjg.15.264.
+
+Title: Microsatellite scan identifies new candidate genes for susceptibility to alcoholic chronic pancreatitis in Japanese patients.
+Authors: ['Kitahara K', 'Kawa S', 'Katsuyama Y', 'Umemura T', 'Ozaki Y', 'Takayama M', 'Arakura N', 'Ota M']
+Source: Dis Markers. 2008;25(3):175-80. doi: 10.1155/2008/426764.
+
+Title: Association analyses of genetic polymorphisms of GSTM1, GSTT1, NQO1, NAT2, LPL, PRSS1, PSTI, and CFTR with chronic alcoholic pancreatitis in Japan.
+Authors: ['Maruyama K', 'Harada S', 'Yokoyama A', 'Mizukami S', 'Naruse S', 'Hirota M', 'Nishimori I', 'Otsuki M']
+Source: Alcohol Clin Exp Res. 2010 Feb;34 Suppl 1:S34-8. doi: 10.1111/j.1530-0277.2008.00757.x. Epub 2009 Nov 5.
+
+Title: A common African polymorphism abolishes tyrosine sulfation of human anionic trypsinogen (PRSS2).
+Authors: ['Ronai Z', 'Witt H', 'Rickards O', 'Destro-Bisol G', 'Bradbury AR', 'Sahin-Toth M']
+Source: Biochem J. 2009 Feb 15;418(1):155-61. doi: 10.1042/BJ20081848.
+
+Title: Mitochondrial DNA A3243G mutation involved in familial diabetes, chronic intestinal pseudo-obstruction and recurrent pancreatitis.
+Authors: ['Verny C', 'Amati-Bonneau P', 'Letournel F', 'Person B', 'Dib N', 'Malinge MC', 'Slama A', 'Le Marechal C', 'Ferec C', 'Procaccio V', 'Reynier P', 'Bonneau D']
+Source: Diabetes Metab. 2008 Dec;34(6 Pt 1):620-6. doi: 10.1016/j.diabet.2008.06.001. Epub 2008 Oct 26.
+
+Title: Clinical and radiological outcome of patients suffering from chronic pancreatitis associated with gene mutations.
+Authors: ['Frulloni L', 'Scattolini C', 'Graziani R', 'Cavestro GM', 'Pravadelli C', 'Amodio A', 'Manfredi R', 'Scarpa A', 'Vantini I']
+Source: Pancreas. 2008 Nov;37(4):371-6. doi: 10.1097/MPA.0b013e31817f52a1.
+
+Title: Histopathological features of patients with chronic pancreatitis due to mutations in the PRSS1 gene: evaluation of BRAF and KRAS2 mutations.
+Authors: ['Felderbauer P', 'Stricker I', 'Schnekenburger J', 'Bulut K', 'Chromik AM', 'Belyaev O', 'Muller CA', 'Uhl W', 'Tannapfel A', 'Schmidt WE']
+Source: Digestion. 2008;78(1):60-5. doi: 10.1159/000165108. Epub 2008 Oct 22.
+
+Title: Analysis of PRSS1 and SPINK1 mutations in Korean patients with idiopathic and familial pancreatitis.
+Authors: ['Oh HC', 'Kim MH', 'Choi KS', 'Moon SH', 'Park DH', 'Lee SS', 'Seo DW', 'Lee SK', 'Yoo HW', 'Kim GH']
+Source: Pancreas. 2009 Mar;38(2):180-3. doi: 10.1097/MPA.0b013e31818d1b90.
+
+Title: The natural history of hereditary pancreatitis: a national series.
+Authors: ['Rebours V', 'Boutron-Ruault MC', 'Schnee M', 'Ferec C', 'Le Marechal C', 'Hentic O', 'Maire F', 'Hammel P', 'Ruszniewski P', 'Levy P']
+Source: Gut. 2009 Jan;58(1):97-103. doi: 10.1136/gut.2008.149179. Epub 2008 Aug 28.
+
+Title: [Genetic risk factors in chronic pancreatitis].
+Authors: ['Sahin-Toth M', 'Hegyi P', 'Toth M']
+Source: Orv Hetil. 2008 Sep 7;149(36):1683-8. doi: 10.1556/OH.2008.28441.
+
+Title: Local clustering of PRSS1 R122H mutations in hereditary pancreatitis patients from Northern Germany.
+Authors: ['Weiss FU', 'Zenker M', 'Ekici AB', 'Simon P', 'Mayerle J', 'Lerch MM']
+Source: Am J Gastroenterol. 2008 Oct;103(10):2585-8. doi: 10.1111/j.1572-0241.2008.02003.x. Epub 2008 Aug 8.
+
+Title: [Mechanism of onset and aggravation of acute pancreatitis].
+Authors: ['Kihara Y', 'Otsuki M']
+Source: Nihon Shokakibyo Gakkai Zasshi. 2008 Aug;105(8):1157-65.
+
+Title: Alcoholic pancreatitis: new pathogenetic insights.
+Authors: ['Lucrezio L', 'Bassi M', 'Migliori M', 'Bastagli L', 'Gullo L']
+Source: Minerva Med. 2008 Aug;99(4):391-8.
+
+Title: Genetic aspects of tropical calcific pancreatitis.
+Authors: ['Witt H', 'Bhatia E']
+Source: Rev Endocr Metab Disord. 2008 Sep;9(3):213-26. doi: 10.1007/s11154-008-9088-y.
+
+Title: Tropical calcific pancreatitis.
+Authors: ['Choudhuri G', 'Singh D', 'Lakshmi CP']
+Source: Ceylon Med J. 2008 Mar;53(1):4-6. doi: 10.4038/cmj.v53i1.217.
+
+Title: SPINK1 and PRSS1 mutations in benign pancreatic hyperenzymemia.
+Authors: ['Gullo L', 'Laghi L', 'Migliori M', 'Lucrezio L', 'Bianchi P', 'Randolph AE', 'Mantovani V', 'Bastagli L', 'Pezzilli R', 'Malesci A']
+Source: Pancreas. 2008 Jul;37(1):31-5. doi: 10.1097/MPA.0b013e31816172b7.
+
+Title: Multisite mutations of the PRSS1 gene in a Chinese patient with chronic pancreatitis.
+Authors: ['Liu QC', 'Gao F', 'Cheng ZJ', 'Ou QS']
+Source: Hepatobiliary Pancreat Dis Int. 2008 Jun;7(3):331-2.
+
+Title: A novel A121T mutation in human cationic trypsinogen associated with hereditary pancreatitis: functional data indicating a loss-of-function mutation influencing the R122 trypsin cleavage site.
+Authors: ['Felderbauer P', 'Schnekenburger J', 'Lebert R', 'Bulut K', 'Parry M', 'Meister T', 'Schick V', 'Schmitz F', 'Domschke W', 'Schmidt WE']
+Source: J Med Genet. 2008 Aug;45(8):507-12. doi: 10.1136/jmg.2007.056481. Epub 2008 May 29.
+
+Title: Hereditary pancreatitis caused by a double gain-of-function trypsinogen mutation.
+Authors: ['Masson E', 'Le Marechal C', 'Delcenserie R', 'Chen JM', 'Ferec C']
+Source: Hum Genet. 2008 Jun;123(5):521-9. doi: 10.1007/s00439-008-0508-6. Epub 2008 May 7.
+
+Title: Concomitant autoimmune and genetic pancreatitis leads to severe inflammatory conditions.
+Authors: ['Frossard JL', 'Dumonceau JM', 'Pastor C', 'Spahr L', 'Hadengue A']
+Source: World J Gastroenterol. 2008 Apr 28;14(16):2596-8. doi: 10.3748/wjg.14.2596.
+
+Title: Urinary matrix metalloproteinase -8, -9, -14 and their regulators (TRY-1, TRY-2, TATI) in patients with diabetic nephropathy.
+Authors: ['Lauhio A', 'Sorsa T', 'Srinivas R', 'Stenman M', 'Tervahartiala T', 'Stenman UH', 'Gronhagen-Riska C', 'Honkanen E']
+Source: Ann Med. 2008;40(4):312-20. doi: 10.1080/07853890801923746.
+
+Title: Individual susceptibility to alcoholic pancreatitis.
+Authors: ['Apte MV', 'Pirola RC', 'Wilson JS']
+Source: J Gastroenterol Hepatol. 2008 Mar;23 Suppl 1:S63-8. doi: 10.1111/j.1440-1746.2007.05287.x.
+
+Title: Whitening effect of adipose-derived stem cells: a critical role of TGF-beta 1.
+Authors: ['Kim WS', 'Park SH', 'Ahn SJ', 'Kim HK', 'Park JS', 'Lee GY', 'Kim KJ', 'Whang KK', 'Kang SH', 'Park BS', 'Sung JH']
+Source: Biol Pharm Bull. 2008 Apr;31(4):606-10. doi: 10.1248/bpb.31.606.
+
+Title: Microarray analysis in sperm from fertile and infertile men without basic sperm analysis abnormalities reveals a significantly different transcriptome.
+Authors: ['Garrido N', 'Martinez-Conejero JA', 'Jauregui J', 'Horcajadas JA', 'Simon C', 'Remohi J', 'Meseguer M']
+Source: Fertil Steril. 2009 Apr;91(4 Suppl):1307-10. doi: 10.1016/j.fertnstert.2008.01.078. Epub 2008 Mar 25.
+
+Title: Role of genetic disorders in acute recurrent pancreatitis.
+Authors: ['Keim V']
+Source: World J Gastroenterol. 2008 Feb 21;14(7):1011-5. doi: 10.3748/wjg.14.1011.
+
+Title: Novel mutation and polymorphism of PRSS1 gene in the Chinese patients with hereditary pancreatitis and chronic pancreatitis.
+Authors: ['Liu QC', 'Gao F', 'Ou QS', 'Zhuang ZH', 'Lin SR', 'Yang B', 'Cheng ZJ']
+Source: Chin Med J (Engl). 2008 Jan 20;121(2):108-11.
+
+Title: Hereditary chronic pancreatitis.
+Authors: ['Teich N', 'Mossner J']
+Source: Best Pract Res Clin Gastroenterol. 2008;22(1):115-30. doi: 10.1016/j.bpg.2007.10.019.
+
+Title: Risk of pancreatic adenocarcinoma in patients with hereditary pancreatitis: a national exhaustive series.
+Authors: ['Rebours V', 'Boutron-Ruault MC', 'Schnee M', 'Ferec C', 'Maire F', 'Hammel P', 'Ruszniewski P', 'Levy P']
+Source: Am J Gastroenterol. 2008 Jan;103(1):111-9. doi: 10.1111/j.1572-0241.2007.01597.x.
+
+Title: Sub-megabase resolution tiling (SMRT) array-based comparative genomic hybridization profiling reveals novel gains and losses of chromosomal regions in Hodgkin Lymphoma and Anaplastic Large Cell Lymphoma cell lines.
+Authors: ['Fadlelmola FM', 'Zhou M', 'de Leeuw RJ', 'Dosanjh NS', 'Harmer K', 'Huntsman D', 'Lam WL', 'Banerjee D']
+Source: Mol Cancer. 2008 Jan 7;7:2. doi: 10.1186/1476-4598-7-2.
+
+Title: Copy number variations in chronic pancreatitis.
+Authors: ['Chen JM', 'Masson E', 'Le Marechal C', 'Ferec C']
+Source: Cytogenet Genome Res. 2008;123(1-4):102-7. doi: 10.1159/000184697. Epub 2009 Mar 11.
+
+Title: Circulating tumor antigen-specific regulatory T cells in patients with metastatic melanoma.
+Authors: ['Vence L', 'Palucka AK', 'Fay JW', 'Ito T', 'Liu YJ', 'Banchereau J', 'Ueno H']
+Source: Proc Natl Acad Sci U S A. 2007 Dec 26;104(52):20884-9. doi: 10.1073/pnas.0710557105. Epub 2007 Dec 18.
+
+Title: Hereditary pancreatitis amlodipine trial: a pilot study of a calcium-channel blocker in hereditary pancreatitis.
+Authors: ['Morinville VD', 'Lowe ME', 'Elinoff BD', 'Whitcomb DC']
+Source: Pancreas. 2007 Nov;35(4):308-12. doi: 10.1097/mpa.0b013e318120023a.
+
+Title: Expression of melanin-related genes in cultured adult human retinal pigment epithelium and uveal melanoma cells.
+Authors: ['Lu F', 'Yan D', 'Zhou X', 'Hu DN', 'Qu J']
+Source: Mol Vis. 2007 Nov 3;13:2066-72.
+
+Title: Pancreatitis risk in primary hyperparathyroidism: relation to mutations in the SPINK1 trypsin inhibitor (N34S) and the cystic fibrosis gene.
+Authors: ['Felderbauer P', 'Karakas E', 'Fendrich V', 'Bulut K', 'Horn T', 'Lebert R', 'Holland-Letz T', 'Schmitz F', 'Bartsch D', 'Schmidt WE']
+Source: Am J Gastroenterol. 2008 Feb;103(2):368-74. doi: 10.1111/j.1572-0241.2007.01695.x. Epub 2007 Dec 12.
+
+Title: Trypsinogen copy number mutations in patients with idiopathic chronic pancreatitis.
+Authors: ['Masson E', 'Le Marechal C', 'Chandak GR', 'Lamoril J', 'Bezieau S', 'Mahurkar S', 'Bhaskar S', 'Reddy DN', 'Chen JM', 'Ferec C']
+Source: Clin Gastroenterol Hepatol. 2008 Jan;6(1):82-8. doi: 10.1016/j.cgh.2007.10.004. Epub 2007 Dec 11.
+
+Title: Association of cystic fibrosis transmembrane conductance regulator (CFTR) mutation/variant/haplotype and tumor necrosis factor (TNF) promoter polymorphism in hyperlipidemic pancreatitis.
+Authors: ['Chang YT', 'Chang MC', 'Su TC', 'Liang PC', 'Su YN', 'Kuo CH', 'Wei SC', 'Wong JM']
+Source: Clin Chem. 2008 Jan;54(1):131-8. doi: 10.1373/clinchem.2007.093492. Epub 2007 Nov 2.
+
+Title: Familial pancreatic cancer: from genes to improved patient care.
+Authors: ['Hruban RH', 'Klein AP', 'Eshleman JR', 'Axilbund JE', 'Goggins M']
+Source: Expert Rev Gastroenterol Hepatol. 2007 Oct;1(1):81-8. doi: 10.1586/17474124.1.1.81.
+
+Title: [A novel mutation of PRSS1 gene in a Chinese hereditary pancreatitis family].
+Authors: ['Liu QC', 'Cheng ZJ', 'Yang Y', 'Ou QS']
+Source: Yi Chuan. 2007 Sep;29(9):1067-70. doi: 10.1360/yc-007-1067.
+
+Title: [Three cases of hereditary pancreatitis in two households in the same family associated with R122H mutation in cationic trypsinogen gene].
+Authors: ['Lee TY', 'Oh HC', 'Kim MH', 'Kwon S', 'Lee SS', 'Seo DW', 'Lee SK']
+Source: Korean J Gastroenterol. 2007 Jun;49(6):395-9.
+
+Title: [SPINK1 N34S mutation as a possible cause of chronic pancreatitis in a patient with familial background].
+Authors: ['Oh HC', 'Lee TY', 'Kwon S', 'Lee SS', 'Seo DW', 'Lee SK', 'Kim MH']
+Source: Korean J Gastroenterol. 2007 Jun;49(6):384-9.
+
+Title: Screening for human cationic trypsinogen (PRSS1) and trypsinogen inhibitor gene (SPINK1) mutations in a Finnish family with hereditary pancreatitis.
+Authors: ['Raty S', 'Piironen A', 'Babu M', 'Pelli H', 'Sand J', 'Uotila S', 'Nordback I', 'Herzig KH']
+Source: Scand J Gastroenterol. 2007 Aug;42(8):1000-5. doi: 10.1080/00365520701206738.
+
+Title: High-throughput genotyping of a common deletion polymorphism disrupting the TRY6 gene and its association with breast cancer risk.
+Authors: ['Wagner K', 'Grzybowska E', 'Butkiewicz D', 'Pamula-Pilat J', 'Pekala W', 'Tecza K', 'Hemminki K', 'Forsti A']
+Source: BMC Genet. 2007 Jun 29;8:41. doi: 10.1186/1471-2156-8-41.
+
+Title: Does cystic fibrosis neonatal screening detect atypical CF forms? Extended genetic characterization and 4-year clinical follow-up.
+Authors: ['Narzi L', 'Ferraguti G', 'Stamato A', 'Narzi F', 'Valentini SB', 'Lelli A', 'Delaroche I', 'Lucarelli M', 'Strom R', 'Quattrucci S']
+Source: Clin Genet. 2007 Jul;72(1):39-46. doi: 10.1111/j.1399-0004.2007.00825.x.
+
+Title: Contribution of the CFTR gene, the pancreatic secretory trypsin inhibitor gene (SPINK1) and the cationic trypsinogen gene (PRSS1) to the etiology of recurrent pancreatitis.
+Authors: ['Tzetis M', 'Kaliakatsos M', 'Fotoulaki M', 'Papatheodorou A', 'Doudounakis S', 'Tsezou A', 'Makrythanasis P', 'Kanavakis E', 'Nousia-Arvanitakis S']
+Source: Clin Genet. 2007 May;71(5):451-7. doi: 10.1111/j.1399-0004.2007.00788.x.
+
+Title: Linkage analysis of chromosome 4 in families with familial pancreatic cancer.
+Authors: ['Klein AP', 'de Andrade M', 'Hruban RH', 'Bondy M', 'Schwartz AG', 'Gallinger S', 'Lynch HT', 'Syngal S', 'Rabe KG', 'Goggins MG', 'Petersen GM']
+Source: Cancer Biol Ther. 2007 Mar;6(3):320-3. doi: 10.4161/cbt.6.3.3721. Epub 2007 Mar 15.
+
+Title: Gene symbol: PRSS1. Disease: Pancreatitis, hereditary. Accession #Hm0542.
+Authors: ['Schleithoff L', 'Seelig HP']
+Source: Hum Genet. 2006 Feb;118(6):779.
+
+Title: What are the useful biological and functional markers of early-stage chronic pancreatitis?
+Authors: ['Lohr JM']
+Source: J Gastroenterol. 2007 Jan;42 Suppl 17:66-71. doi: 10.1007/s00535-006-1932-9.
+
+Title: Is genetic analysis helpful for diagnosing chronic pancreatitis in its early stage?
+Authors: ['Naruse S', 'Fujiki K', 'Ishiguro H']
+Source: J Gastroenterol. 2007 Jan;42 Suppl 17:60-5. doi: 10.1007/s00535-006-1934-7.
+
+Title: Hereditary chronic pancreatitis.
+Authors: ['Rosendahl J', 'Bodeker H', 'Mossner J', 'Teich N']
+Source: Orphanet J Rare Dis. 2007 Jan 4;2:1. doi: 10.1186/1750-1172-2-1.
+
+Title: [Hereditary pancreatitis].
+Authors: ['Simon P', 'Weiss FU', 'Mayerle J', 'Kraft M', 'Lerch MM']
+Source: Praxis (Bern 1994). 2006 Oct 18;95(42):1623-6. doi: 10.1024/1661-8157.95.42.1623.
+
+Title: Chronic pancreatitis.
+Authors: ['Lindley KJ']
+Source: Indian J Pediatr. 2006 Oct;73(10):907-12. doi: 10.1007/BF02859284.
+
+Title: A mouse model of hereditary pancreatitis generated by transgenic expression of R122H trypsinogen.
+Authors: ['Archer H', 'Jura N', 'Keller J', 'Jacobson M', 'Bar-Sagi D']
+Source: Gastroenterology. 2006 Dec;131(6):1844-55. doi: 10.1053/j.gastro.2006.09.049. Epub 2006 Oct 1.
+
+Title: Hereditary pancreatitis caused by triplication of the trypsinogen locus.
+Authors: ['Le Marechal C', 'Masson E', 'Chen JM', 'Morel F', 'Ruszniewski P', 'Levy P', 'Ferec C']
+Source: Nat Genet. 2006 Dec;38(12):1372-4. doi: 10.1038/ng1904. Epub 2006 Oct 29.
+
+Title: Characterisation of a transgenic mouse expressing R122H human cationic trypsinogen.
+Authors: ['Selig L', 'Sack U', 'Gaiser S', 'Kloppel G', 'Savkovic V', 'Mossner J', 'Keim V', 'Bodeker H']
+Source: BMC Gastroenterol. 2006 Oct 27;6:30. doi: 10.1186/1471-230X-6-30.
+
+Title: Identification of CFTR, PRSS1, and SPINK1 mutations in 381 patients with pancreatitis.
+Authors: ['Keiles S', 'Kammesheidt A']
+Source: Pancreas. 2006 Oct;33(3):221-7. doi: 10.1097/01.mpa.0000232014.94974.75.
+
+Title: Association of rare SPINK1 gene mutation with another base substitution in chronic pancreatitis patients.
+Authors: ['Kalinin VN', 'Kaifi JT', 'Schwarzenbach H', 'Sergeyev AS', 'Link BC', 'Bogoevski D', 'Vashist Y', 'Izbicki JR', 'Yekebas EF']
+Source: World J Gastroenterol. 2006 Sep 7;12(33):5352-6. doi: 10.3748/wjg.v12.i33.5352.
+
+Title: TRP1 interacting PDZ-domain protein GIPC forms oligomers and is localized to intracellular vesicles in human melanocytes.
+Authors: ['Kedlaya RH', 'Bhat KM', 'Mitchell J', 'Darnell SJ', 'Setaluri V']
+Source: Arch Biochem Biophys. 2006 Oct 15;454(2):160-9. doi: 10.1016/j.abb.2006.08.010. Epub 2006 Aug 23.
+
+Title: Gene-environment factors that contribute to alcoholic pancreatitis in humans.
+Authors: ['Whitcomb DC']
+Source: J Gastroenterol Hepatol. 2006 Oct;21 Suppl 3:S52-5. doi: 10.1111/j.1440-1746.2006.04583.x.
+
+Title: Analysis of CFTR, SPINK1, PRSS1 and AAT mutations in children with acute or chronic pancreatitis.
+Authors: ['Sobczynska-Tomaszewska A', 'Bak D', 'Oralewska B', 'Oracz G', 'Norek A', 'Czerska K', 'Mazurczak T', 'Teisseyre M', 'Socha J', 'Zagulski M', 'Bal J']
+Source: J Pediatr Gastroenterol Nutr. 2006 Sep;43(3):299-306. doi: 10.1097/01.mpg.0000232570.48773.df.
+
+Title: [Genetic abnormality and pancreatitis].
+Authors: ['Okazaki K']
+Source: Nihon Shokakibyo Gakkai Zasshi. 2006 Aug;103(8):911-7.
+
+Title: Epistatic interactions: how strong in disease and evolution?
+Authors: ['Azevedo L', 'Suriano G', 'van Asch B', 'Harding RM', 'Amorim A']
+Source: Trends Genet. 2006 Nov;22(11):581-5. doi: 10.1016/j.tig.2006.08.001. Epub 2006 Sep 5.
+
+Title: [Familial pancreatic cancer].
+Authors: ['Zalatnai A']
+Source: Magy Onkol. 2006;50(2):163-8. doi: HUON.2006.50.2.0163. Epub 2006 Aug 4.
+
+Title: Detection of a large genomic deletion in the pancreatic secretory trypsin inhibitor (SPINK1) gene.
+Authors: ['Masson E', 'Le Marechal C', 'Chen JM', 'Frebourg T', 'Lerebours E', 'Ferec C']
+Source: Eur J Hum Genet. 2006 Nov;14(11):1204-8. doi: 10.1038/sj.ejhg.5201684. Epub 2006 Jul 5.
+
+Title: Mutations of human cationic trypsinogen (PRSS1) and chronic pancreatitis.
+Authors: ['Teich N', 'Rosendahl J', 'Toth M', 'Mossner J', 'Sahin-Toth M']
+Source: Hum Mutat. 2006 Aug;27(8):721-30. doi: 10.1002/humu.20343.
+
+Title: Genetic issues in pediatric pancreatitis.
+Authors: ['Kandula L', 'Whitcomb DC', 'Lowe ME']
+Source: Curr Gastroenterol Rep. 2006 Jun;8(3):248-53. doi: 10.1007/s11894-006-0083-8.
+
+Title: A degradation-sensitive anionic trypsinogen (PRSS2) variant protects against chronic pancreatitis.
+Authors: ['Witt H', 'Sahin-Toth M', 'Landt O', 'Chen JM', 'Kahne T', 'Drenth JP', 'Kukor Z', 'Szepessy E', 'Halangk W', 'Dahm S', 'Rohde K', 'Schulz HU', 'Le Marechal C', 'Akar N', 'Ammann RW', 'Truninger K', 'Bargetzi M', 'Bhatia E', 'Castellani C', 'Cavestro GM', 'Cerny M', 'Destro-Bisol G', 'Spedini G', 'Eiberg H', 'Jansen JB', 'Koudova M', 'Rausova E', 'Macek M Jr', 'Malats N', 'Real FX', 'Menzel HJ', 'Moral P', 'Galavotti R', 'Pignatti PF', 'Rickards O', 'Spicak J', 'Zarnescu NO', 'Bock W', 'Gress TM', 'Friess H', 'Ockenga J', 'Schmidt H', 'Pfutzer R', 'Lohr M', 'Simon P', 'Weiss FU', 'Lerch MM', 'Teich N', 'Keim V', 'Berg T', 'Wiedenmann B', 'Luck W', 'Groneberg DA', 'Becker M', 'Keil T', 'Kage A', 'Bernardova J', 'Braun M', 'Guldner C', 'Halangk J', 'Rosendahl J', 'Witt U', 'Treiber M', 'Nickel R', 'Ferec C']
+Source: Nat Genet. 2006 Jun;38(6):668-73. doi: 10.1038/ng1797. Epub 2006 May 14.
+
+Title: Familial pancreatic cancer syndromes.
+Authors: ['Habbe N', 'Langer P', 'Sina-Frey M', 'Bartsch DK']
+Source: Endocrinol Metab Clin North Am. 2006 Jun;35(2):417-30, xi. doi: 10.1016/j.ecl.2006.02.016.
+
+Title: Biochemical models of hereditary pancreatitis.
+Authors: ['Sahin-Toth M']
+Source: Endocrinol Metab Clin North Am. 2006 Jun;35(2):303-12, ix. doi: 10.1016/j.ecl.2006.02.002.
+
+Title: Germline mutations and gene polymorphism associated with human pancreatitis.
+Authors: ['Weiss FU', 'Simon P', 'Mayerle J', 'Kraft M', 'Lerch MM']
+Source: Endocrinol Metab Clin North Am. 2006 Jun;35(2):289-302, viii-ix. doi: 10.1016/j.ecl.2006.02.001.
+
+Title: Trypsinogen mutations in pancreatic disorders.
+Authors: ['Vitone LJ', 'Greenhalf W', 'Howes NR', 'Raraty MG', 'Neoptolemos JP']
+Source: Endocrinol Metab Clin North Am. 2006 Jun;35(2):271-87, viii. doi: 10.1016/j.ecl.2006.02.006.
+
+Title: Recurrent acute and chronic pancreatitis in two brothers with familial chylomicronemia syndrome.
+Authors: ['Truninger K', 'Schmid PA', 'Hoffmann MM', 'Bertschinger P', 'Ammann RW']
+Source: Pancreas. 2006 Mar;32(2):215-9. doi: 10.1097/01.mpa.0000202942.93578.dd.
+
+Title: Expression of human cationic trypsinogen with an authentic N terminus using intein-mediated splicing in aminopeptidase P deficient Escherichia coli.
+Authors: ['Kiraly O', 'Guan L', 'Szepessy E', 'Toth M', 'Kukor Z', 'Sahin-Toth M']
+Source: Protein Expr Purif. 2006 Jul;48(1):104-11. doi: 10.1016/j.pep.2006.01.023. Epub 2006 Feb 21.
+
+Title: Cathepsin B activates human trypsinogen 1 but not proelastase 2 or procarboxypeptidase B.
+Authors: ['Lindkvist B', 'Fajardo I', 'Pejler G', 'Borgstrom A']
+Source: Pancreatology. 2006;6(3):224-31. doi: 10.1159/000091961. Epub 2006 Mar 9.
+
+Title: Association of cathepsin B gene polymorphisms with tropical calcific pancreatitis.
+Authors: ['Mahurkar S', 'Idris MM', 'Reddy DN', 'Bhaskar S', 'Rao GV', 'Thomas V', 'Singh L', 'Chandak GR']
+Source: Gut. 2006 Sep;55(9):1270-5. doi: 10.1136/gut.2005.087403. Epub 2006 Feb 21.
+
+Title: [Chronic pancreatitis as a risk factor for pancreatic cancer].
+Authors: ['Miyamoto T', 'Tashiro M', 'Otsuki M']
+Source: Nihon Rinsho. 2006 Jan;64 Suppl 1:22-6.
+
+Title: Myelin basic protein, an autoantigen in multiple sclerosis, is selectively processed by human trypsin 4.
+Authors: ['Medveczky P', 'Antal J', 'Patthy A', 'Kekesi K', 'Juhasz G', 'Szilagyi L', 'Graf L']
+Source: FEBS Lett. 2006 Jan 23;580(2):545-52. doi: 10.1016/j.febslet.2005.12.067. Epub 2005 Dec 29.
+
+Title: Hereditary pancreatitis and secondary screening for early pancreatic cancer.
+Authors: ['Vitone LJ', 'Greenhalf W', 'Howes NR', 'Neoptolemos JP']
+Source: Rocz Akad Med Bialymst. 2005;50:73-84.
+
+Title: A 93 year old man with the PRSS1 R122H mutation, low SPINK1 expression, and no pancreatitis: insights into phenotypic non-penetrance.
+Authors: ['Khalid A', 'Finkelstein S', 'Thompson B', 'Kelly L', 'Hanck C', 'Godfrey TE', 'Whitcomb DC']
+Source: Gut. 2006 May;55(5):728-31. doi: 10.1136/gut.2005.067959. Epub 2005 Dec 14.
+
+Title: Keratin 8 mutations are not associated with familial, sporadic and alcoholic pancreatitis in a population from the United States.
+Authors: ['Schneider A', 'Lamb J', 'Barmada MM', 'Cuneo A', 'Money ME', 'Whitcomb DC']
+Source: Pancreatology. 2006;6(1-2):103-8. doi: 10.1159/000090029. Epub 2005 Dec 1.
+
+Title: [Hereditary pancreatitis].
+Authors: ['Lee SK']
+Source: Korean J Gastroenterol. 2005 Nov;46(5):358-67.
+
+Title: Treatment of familial pancreatic cancer and its precursors.
+Authors: ['Hruban RH', 'Canto MI', 'Griffin C', 'Kern SE', 'Klein AP', 'Laheru D', 'Yeo CJ']
+Source: Curr Treat Options Gastroenterol. 2005 Oct;8(5):365-75. doi: 10.1007/s11938-005-0039-3.
+
+Title: [Genetic testing for acute or chronic pancreatitis].
+Authors: ['Maire F']
+Source: Gastroenterol Clin Biol. 2005 Jun-Jul;29(6-7):715-23. doi: 10.1016/s0399-8320(05)82161-x.
+
+Title: Genetics of pancreatitis.
+Authors: ['Keim V']
+Source: Scand J Surg. 2005;94(2):103-7. doi: 10.1177/145749690509400204.
+
+Title: Expression of mutated cationic trypsinogen reduces cellular viability in AR4-2J cells.
+Authors: ['Gaiser S', 'Ahler A', 'Gundling F', 'Kruse ML', 'Savkovic V', 'Selig L', 'Teich N', 'Tomasini R', 'Dagorn JC', 'Mossner J', 'Keim V', 'Bodeker H']
+Source: Biochem Biophys Res Commun. 2005 Aug 26;334(2):721-8. doi: 10.1016/j.bbrc.2005.06.148.
+
+Title: Complete cystic fibrosis transmembrane conductance regulator gene sequencing in patients with idiopathic chronic pancreatitis and controls.
+Authors: ['Weiss FU', 'Simon P', 'Bogdanova N', 'Mayerle J', 'Dworniczak B', 'Horst J', 'Lerch MM']
+Source: Gut. 2005 Oct;54(10):1456-60. doi: 10.1136/gut.2005.064808. Epub 2005 Jun 29.
+
+Title: [Chronic pancreatitis--pancreas cancer: influence of genetic factors].
+Authors: ['Keim V']
+Source: Praxis (Bern 1994). 2005 May 18;94(20):811-7. doi: 10.1024/0369-8394.94.20.811.
+
+Title: Interchromosomal segmental duplications explain the unusual structure of PRSS3, the gene for an inhibitor-resistant trypsinogen.
+Authors: ['Rowen L', 'Williams E', 'Glusman G', 'Linardopoulou E', 'Friedman C', 'Ahearn ME', 'Seto J', 'Boysen C', 'Qin S', 'Wang K', 'Kaur A', 'Bloom S', 'Hood L', 'Trask BJ']
+Source: Mol Biol Evol. 2005 Aug;22(8):1712-20. doi: 10.1093/molbev/msi166. Epub 2005 May 18.
+
+Title: Genetic factors in pancreatitis.
+Authors: ['Grigorescu M', 'Grigorescu MD']
+Source: Rom J Gastroenterol. 2005 Mar;14(1):53-61.
+
+Title: A Thai family with hereditary pancreatitis and increased cancer risk due to a mutation in PRSS1 gene.
+Authors: ['Pho-Iam T', 'Thongnoppakhun W', 'Yenchitsomanus PT', 'Limwongse C']
+Source: World J Gastroenterol. 2005 Mar 21;11(11):1634-8. doi: 10.3748/wjg.v11.i11.1634.
+
+Title: Gene conversion between functional trypsinogen genes PRSS1 and PRSS2 associated with chronic pancreatitis in a six-year-old girl.
+Authors: ['Teich N', 'Nemoda Z', 'Kohler H', 'Heinritz W', 'Mossner J', 'Keim V', 'Sahin-Toth M']
+Source: Hum Mutat. 2005 Apr;25(4):343-7. doi: 10.1002/humu.20148.
+
+Title: Relapsing pancreatitis due to a novel compound heterozygosity in the CFTR gene involving the second most common mutation in central and eastern Europe [CFTRdele2,3(21 kb)].
+Authors: ['Lamprecht G', 'Mau UA', 'Kortum C', 'Raible A', 'Stern M', 'Riess O', 'Gregor M']
+Source: Pancreatology. 2005;5(1):92-6; discussion 95-6. doi: 10.1159/000084495. Epub 2005 Mar 16.
+
+Title: Serine protease inhibitor kazal type 1 mutations and pancreatitis.
+Authors: ['Schneider A']
+Source: Clin Lab Med. 2005 Mar;25(1):61-78. doi: 10.1016/j.cll.2004.12.005.
+
+Title: Cationic trypsinogen mutations and pancreatitis.
+Authors: ['Howes N', 'Greenhalf W', 'Stocken DD', 'Neoptolemos JP']
+Source: Clin Lab Med. 2005 Mar;25(1):39-59. doi: 10.1016/j.cll.2004.12.004.
+
+Title: [Hereditary pancreatitis].
+Authors: ['Kim YT']
+Source: Korean J Gastroenterol. 2005 Feb;45(2):143-7.
+
+Title: [A case of R122H mutation of cationic trypsinogen gene in a pediatric patient with hereditary pancreatitis complicated by pseudocyst and hemosuccus pancreaticus].
+Authors: ['Kim JY', 'Choi SH', 'Ihm JS', 'Kim SJ', 'Kim IJ', 'Kim CM']
+Source: Korean J Gastroenterol. 2005 Feb;45(2):130-6.
+
+Title: Experimentally induced Vogt-Koyanagi-Harada disease in two Akita dogs.
+Authors: ['Yamaki K', 'Takiyama N', 'Itho N', 'Mizuki N', 'Seiya M', 'Sinsuke W', 'Hayakawa K', 'Kotani T']
+Source: Exp Eye Res. 2005 Feb;80(2):273-80. doi: 10.1016/j.exer.2004.09.010.
+
+Title: [Clinical implications of genetic risk factors of chronic pancreatitis].
+Authors: ['Teich N', 'Keim V', 'Mossner J']
+Source: Internist (Berl). 2005 Feb;46(2):123-30. doi: 10.1007/s00108-004-1320-6.
+
+Title: Expression of tumor-associated trypsinogens (TAT-1 and TAT-2) in prostate cancer.
+Authors: ['Bjartell A', 'Paju A', 'Zhang WM', 'Gadaleanu V', 'Hansson J', 'Landberg G', 'Stenman UH']
+Source: Prostate. 2005 Jun 15;64(1):29-39. doi: 10.1002/pros.20236.
+
+Title: Genetic aspects of chronic pancreatitis.
+Authors: ['Teich N', 'Mossner J']
+Source: Med Sci Monit. 2004 Dec;10(12):RA325-8.
+
+Title: [Pancreatitis-associated gene mutations].
+Authors: ['Nishimori I', 'Onishi S']
+Source: Nihon Rinsho. 2004 Nov;62(11):2122-7.
+
+Title: Genetic counseling for hereditary pancreatitis--the role of molecular genetics testing for the cationic trypsinogen gene, cystic fibrosis and serine protease inhibitor Kazal type 1.
+Authors: ['Ellis I']
+Source: Gastroenterol Clin North Am. 2004 Dec;33(4):839-54. doi: 10.1016/j.gtc.2004.07.010.
+
+Title: Serine protease inhibitor Kazal type 1 mutations and pancreatitis.
+Authors: ['Schneider A']
+Source: Gastroenterol Clin North Am. 2004 Dec;33(4):789-806. doi: 10.1016/j.gtc.2004.07.005.
+
+Title: Cationic trypsinogen mutations and pancreatitis.
+Authors: ['Howes N', 'Greenhalf W', 'Stocken DD', 'Neoptolemos JP']
+Source: Gastroenterol Clin North Am. 2004 Dec;33(4):767-87. doi: 10.1016/j.gtc.2004.07.003.
+
+Title: Genetic analysis of the glutathione s-transferase genes MGST1, GSTM3, GSTT1, and GSTM1 in patients with hereditary pancreatitis.
+Authors: ['Schneider A', 'Togel S', 'Barmada MM', 'Whitcomb DC']
+Source: J Gastroenterol. 2004 Aug;39(8):783-7. doi: 10.1007/s00535-004-1389-7.
+
+Title: [Mutations of SPINK1 and PRSS1 gene in Korean patients with chronic pancreatitis].
+Authors: ['Lee KH', 'Yoon WJ', 'Ryu JK', 'Kim YT', 'Yoon YB', 'Kim CY']
+Source: Korean J Gastroenterol. 2004 Aug;44(2):93-8.
+
+Title: The WayStation: the novel way for the collection of pancreatitis-associated mutations.
+Authors: ['Teich N', 'Keim V', 'Mossner J', 'Cotton RG', 'Horaitis O']
+Source: Pancreatology. 2004;4(3-4):249-50. doi: 10.1159/000078436. Epub 2004 May 12.
+
+Title: Hereditary pancreatitis as the premalignant disease: a Japanese case of pancreatic cancer involving the SPINK1 gene mutation N34S.
+Authors: ['Masamune A', 'Mizutamari H', 'Kume K', 'Asakura T', 'Satoh K', 'Shimosegawa T']
+Source: Pancreas. 2004 Apr;28(3):305-10. doi: 10.1097/00006676-200404000-00018.
+
+Title: Absence of PRSS1 mutations and association of SPINK1 trypsin inhibitor mutations in hereditary and non-hereditary chronic pancreatitis.
+Authors: ['Chandak GR', 'Idris MM', 'Reddy DN', 'Mani KR', 'Bhaskar S', 'Rao GV', 'Singh L']
+Source: Gut. 2004 May;53(5):723-8. doi: 10.1136/gut.2003.026526.
+
+Title: Hereditary pancreatitis: clinical characteristics and diagnostic criteria in Japan.
+Authors: ['Otsuki M', 'Nishimori I', 'Hayakawa T', 'Hirota M', 'Ogawa M', 'Shimosegawa T']
+Source: Pancreas. 2004 Mar;28(2):200-6. doi: 10.1097/00006676-200403000-00012.
+
+Title: Clinical and genetic characteristics of hereditary pancreatitis in Europe.
+Authors: ['Howes N', 'Lerch MM', 'Greenhalf W', 'Stocken DD', 'Ellis I', 'Simon P', 'Truninger K', 'Ammann R', 'Cavallini G', 'Charnley RM', 'Uomo G', 'Delhaye M', 'Spicak J', 'Drumm B', 'Jansen J', 'Mountford R', 'Whitcomb DC', 'Neoptolemos JP']
+Source: Clin Gastroenterol Hepatol. 2004 Mar;2(3):252-61. doi: 10.1016/s1542-3565(04)00013-8.
+
+Title: Identification of patients with genetic risk factors of pancreatitis: impact on treatment and cancer prevention.
+Authors: ['Keim V']
+Source: Dig Dis. 2003;21(4):346-50. doi: 10.1159/000075358.
+
+Title: [Cationic trypsinogen gene mutation in patients with chronic idiopathic pancreatitis].
+Authors: ['Lee WJ', 'Kim KA', 'Lee JS', 'Jeon YB', 'Jeong JB', 'Ryu JK', 'Kim YT', 'Yoon YB', 'Kim CY']
+Source: Korean J Gastroenterol. 2004 Jan;43(1):41-6.
+
+Title: Two novel severe mutations in the pancreatic secretory trypsin inhibitor gene (SPINK1) cause familial and/or hereditary pancreatitis.
+Authors: ['Le Marechal C', 'Chen JM', 'Le Gall C', 'Plessis G', 'Chipponi J', 'Chuzhanova NA', 'Raguenes O', 'Ferec C']
+Source: Hum Mutat. 2004 Feb;23(2):205. doi: 10.1002/humu.9212.
+
+Title: Interaction between trypsinogen isoforms in genetically determined pancreatitis: mutation E79K in cationic trypsin (PRSS1) causes increased transactivation of anionic trypsinogen (PRSS2).
+Authors: ['Teich N', 'Le Marechal C', 'Kukor Z', 'Caca K', 'Witzigmann H', 'Chen JM', 'Toth M', 'Mossner J', 'Keim V', 'Ferec C', 'Sahin-Toth M']
+Source: Hum Mutat. 2004 Jan;23(1):22-31. doi: 10.1002/humu.10285.
+
+Title: Genetic predisposition to alcoholic chronic pancreatitis.
+Authors: ['Whitcomb DC']
+Source: Pancreas. 2003 Nov;27(4):321-6. doi: 10.1097/00006676-200311000-00009.
+
+Title: CFTR, PRSS1 and SPINK1 mutations in the development of pancreatitis in Brazilian patients.
+Authors: ['Bernardino AL', 'Guarita DR', 'Mott CB', 'Pedroso MR', 'Machado MC', 'Laudanna AA', 'Tani CM', 'Almeida FL', 'Zatz M']
+Source: JOP. 2003 Sep;4(5):169-77.
+
+Title: Structural and evolutionary consequences of unpaired cysteines in trypsinogen.
+Authors: ['Kenesi E', 'Katona G', 'Szilagyi L']
+Source: Biochem Biophys Res Commun. 2003 Oct 3;309(4):749-54. doi: 10.1016/j.bbrc.2003.08.064.
+
+Title: [Hereditary aspects of pancreatitis].
+Authors: ['Bak D', 'Sobczynska-Tomaszewska A', 'Bal J']
+Source: Med Wieku Rozwoj. 2003 Jan-Mar;7(1):57-66.
+
+Title: Mutation analysis of the cystic fibrosis transmembrane conductance regulator (CFTR) gene, the cationic trypsinogen (PRSS1) gene, and the serine protease inhibitor, Kazal type 1 (SPINK1) gene in patients with alcoholic chronic pancreatitis.
+Authors: ['Perri F', 'Piepoli A', 'Stanziale P', 'Merla A', 'Zelante L', 'Andriulli A']
+Source: Eur J Hum Genet. 2003 Sep;11(9):687-92. doi: 10.1038/sj.ejhg.5201035.
+
+Title: The course of genetically determined chronic pancreatitis.
+Authors: ['Keim V', 'Witt H', 'Bauer N', 'Bodeker H', 'Rosendahl J', 'Teich N', 'Mossner J']
+Source: JOP. 2003 Jul;4(4):146-54.
+
+Title: "Loss of function" mutations in the cationic trypsinogen gene (PRSS1) may act as a protective factor against pancreatitis.
+Authors: ['Chen JM', 'Le Marechal C', 'Lucas D', 'Raguenes O', 'Ferec C']
+Source: Mol Genet Metab. 2003 May;79(1):67-70. doi: 10.1016/s1096-7192(03)00050-7.
+
+Title: Motion--genetic testing is useful in the diagnosis of nonhereditary pancreatic conditions: arguments for the motion.
+Authors: ['Whitcomb DC']
+Source: Can J Gastroenterol. 2003 Jan;17(1):47-52. doi: 10.1155/2003/301239.
+
+Title: Cationic trypsinogen and pancreatic secretory trypsin inhibitor gene mutations in neonatal hypertrypsinaemia.
+Authors: ['Patuzzo C', 'Castellani C', 'Sagramoso C', 'Gomez-Lira M', 'Bonamini D', 'Belpinati F', 'Dechecchi MC', 'Assael BM', 'Pignatti PF']
+Source: Eur J Hum Genet. 2003 Jan;11(1):93-6. doi: 10.1038/sj.ejhg.5200927.
+
+Title: Hereditary pancreatitis.
+Authors: ['Charnley RM']
+Source: World J Gastroenterol. 2003 Jan;9(1):1-4. doi: 10.3748/wjg.v9.i1.1.
+
+Title: Tropical calcific pancreatitis: strong association with SPINK1 trypsin inhibitor mutations.
+Authors: ['Bhatia E', 'Choudhuri G', 'Sikora SS', 'Landt O', 'Kage A', 'Becker M', 'Witt H']
+Source: Gastroenterology. 2002 Oct;123(4):1020-5. doi: 10.1053/gast.2002.36028.
+
+Title: [A case of chronic pancreatitis in a young woman with the cationic trypsinogen (PRSS1) gene mutation].
+Authors: ['Kakinoki K', 'Shirota Y', 'Koura T', 'Iwata A', 'Ohara H']
+Source: Nihon Shokakibyo Gakkai Zasshi. 2002 Sep;99(9):1103-7.
+
+Title: Pancreatic cancer genetics.
+Authors: ['Efthimiou E', 'Crnogorac-Jurcevic T', 'Lemoine NR']
+Source: Pancreatology. 2001;1(6):571-5. doi: 10.1159/000055865.
+
+Title: Hereditary pancreatitis: a model for understanding the genetic basis of acute and chronic pancreatitis.
+Authors: ['Whitcomb DC']
+Source: Pancreatology. 2001;1(6):565-70. doi: 10.1159/000055864.
+
+Title: Hereditary pancreatitis in North America: the Pittsburgh-Midwest Multi-Center Pancreatic Study Group Study.
+Authors: ['Applebaum-Shapiro SE', 'Finch R', 'Pfutzer RH', 'Hepp LA', 'Gates L', 'Amann S', 'Martin S', 'Ulrich CD 2nd', 'Whitcomb DC']
+Source: Pancreatology. 2001;1(5):439-43. doi: 10.1159/000055844.
+
+Title: Gene mutations in children with chronic pancreatitis.
+Authors: ['Witt H']
+Source: Pancreatology. 2001;1(5):432-8. doi: 10.1159/000055843.
+
+Title: Juvenile idiopathic fibrosing pancreatitis.
+Authors: ['Sclabas G', 'Kirschstein T', 'Uhl W', 'Hurlimann R', 'Ruchti C', 'Buchler MW']
+Source: Dig Dis Sci. 2002 Jun;47(6):1230-5. doi: 10.1023/a:1015302010004.
+
+Title: Mutations in the pancreatic secretory trypsin inhibitor gene (PSTI/SPINK1) rather than the cationic trypsinogen gene (PRSS1) are significantly associated with tropical calcific pancreatitis.
+Authors: ['Chandak GR', 'Idris MM', 'Reddy DN', 'Bhaskar S', 'Sriram PV', 'Singh L']
+Source: J Med Genet. 2002 May;39(5):347-51. doi: 10.1136/jmg.39.5.347.
+
+Title: Mutations in serine protease inhibitor Kazal type 1 are strongly associated with chronic pancreatitis.
+Authors: ['Drenth JP', 'te Morsche R', 'Jansen JB']
+Source: Gut. 2002 May;50(5):687-92. doi: 10.1136/gut.50.5.687.
+
+Title: The N34S mutation of SPINK1 (PSTI) is associated with a familial pattern of idiopathic chronic pancreatitis but does not cause the disease.
+Authors: ['Threadgold J', 'Greenhalf W', 'Ellis I', 'Howes N', 'Lerch MM', 'Simon P', 'Jansen J', 'Charnley R', 'Laugier R', 'Frulloni L', 'Olah A', 'Delhaye M', 'Ihse I', 'Schaffalitzky de Muckadell OB', 'Andren-Sandberg A', 'Imrie CW', 'Martinek J', 'Gress TM', 'Mountford R', 'Whitcomb D', 'Neoptolemos JP']
+Source: Gut. 2002 May;50(5):675-81. doi: 10.1136/gut.50.5.675.
+
+Title: Determination of the relative contribution of three genes-the cystic fibrosis transmembrane conductance regulator gene, the cationic trypsinogen gene, and the pancreatic secretory trypsin inhibitor gene-to the etiology of idiopathic chronic pancreatitis.
+Authors: ['Audrezet MP', 'Chen JM', 'Le Marechal C', 'Ruszniewski P', 'Robaszkiewicz M', 'Raguenes O', 'Quere I', 'Scotet V', 'Ferec C']
+Source: Eur J Hum Genet. 2002 Feb;10(2):100-6. doi: 10.1038/sj.ejhg.5200786.
+
+Title: Relevance of variants in serum antiproteinases for the course of chronic pancreatitis.
+Authors: ['Teich N', 'Walther K', 'Bodeker H', 'Mossner J', 'Keim V']
+Source: Scand J Gastroenterol. 2002 Mar;37(3):360-5. doi: 10.1080/003655202317284291.
+
+Title: Novel cationic trypsinogen (PRSS1) N29T and R122C mutations cause autosomal dominant hereditary pancreatitis.
+Authors: ['Pfutzer R', 'Myers E', 'Applebaum-Shapiro S', 'Finch R', 'Ellis I', 'Neoptolemos J', 'Kant JA', 'Whitcomb DC']
+Source: Gut. 2002 Feb;50(2):271-2. doi: 10.1136/gut.50.2.271.
+
+Title: Genetic aspects of chronic pancreatitis: insights into aetiopathogenesis and clinical implications.
+Authors: ['Truninger K', 'Ammann RW', 'Blum HE', 'Witt H']
+Source: Swiss Med Wkly. 2001 Oct 6;131(39-40):565-74. doi: 2001/39/smw-06139.
+
+Title: Discrimination of three mutational events that result in a disruption of the R122 primary autolysis site of the human cationic trypsinogen (PRSS1) by denaturing high performance liquid chromatography.
+Authors: ['Le Marechal C', 'Chen JM', 'Quere I', 'Raguenes O', 'Ferec C', 'Auroux J']
+Source: BMC Genet. 2001;2:19. doi: 10.1186/1471-2156-2-19. Epub 2001 Nov 19.
+
+Title: Cystic fibrosis gene mutations and pancreatitis risk: relation to epithelial ion transport and trypsin inhibitor gene mutations.
+Authors: ['Noone PG', 'Zhou Z', 'Silverman LM', 'Jowell PS', 'Knowles MR', 'Cohn JA']
+Source: Gastroenterology. 2001 Dec;121(6):1310-9. doi: 10.1053/gast.2001.29673.
+
+Title: Hereditary pancreatitis caused by a novel PRSS1 mutation (Arg-122 --> Cys) that alters autoactivation and autodegradation of cationic trypsinogen.
+Authors: ['Simon P', 'Weiss FU', 'Sahin-Toth M', 'Parry M', 'Nayler O', 'Lenfers B', 'Schnekenburger J', 'Mayerle J', 'Domschke W', 'Lerch MM']
+Source: J Biol Chem. 2002 Feb 15;277(7):5404-10. doi: 10.1074/jbc.M108073200. Epub 2001 Nov 21.
+
+Title: Identification of a novel pancreatitis-associated missense mutation, R116C, in the human cationic trypsinogen gene (PRSS1).
+Authors: ['Le Marechal C', 'Bretagne JF', 'Raguenes O', 'Quere I', 'Chen JM', 'Ferec C']
+Source: Mol Genet Metab. 2001 Nov;74(3):342-4. doi: 10.1006/mgme.2001.3246.
+
+Title: Molecular pathology and evolutionary and physiological implications of pancreatitis-associated cationic trypsinogen mutations.
+Authors: ['Chen JM', 'Montier T', 'Ferec C']
+Source: Hum Genet. 2001 Sep;109(3):245-52. doi: 10.1007/s004390100580.
+
+Title: Lessons from hereditary pancreatitis.
+Authors: ['Whitcomb DC', 'Somogyi L']
+Source: Croat Med J. 2001 Aug;42(4):484-7.
+
+Title: Quantitative trait locus analysis for chronic pancreatitis and diabetes mellitus in the WBN/Kob rat.
+Authors: ['Tsuji A', 'Nishikawa T', 'Mori M', 'Suda K', 'Nishimori I', 'Nishimura M']
+Source: Genomics. 2001 Jun 15;74(3):365-9. doi: 10.1006/geno.2001.6557.
+
+Title: Prevention of pancreatic cancer and strategies for management of familial pancreatic cancer.
+Authors: ['Hruban RH', 'Canto MI', 'Yeo CJ']
+Source: Dig Dis. 2001;19(1):76-84. doi: 10.1159/000050656.
+
+Title: Analysis of the human pancreatic secretory trypsin inhibitor (PSTI) gene mutations in Japanese patients with chronic pancreatitis.
+Authors: ['Kaneko K', 'Nagasaki Y', 'Furukawa T', 'Mizutamari H', 'Sato A', 'Masamune A', 'Shimosegawa T', 'Horii A']
+Source: J Hum Genet. 2001;46(5):293-7. doi: 10.1007/s100380170082.
+
+Title: Mutational screening of the cationic trypsinogen gene in a large cohort of subjects with idiopathic chronic pancreatitis.
+Authors: ['Chen JM', 'Piepoli Bis A', 'Le Bodic L', 'Ruszniewski P', 'Robaszkiewicz M', 'Deprez PH', 'Raguenes O', 'Quere I', 'Andriulli A', 'Ferec C']
+Source: Clin Genet. 2001 Mar;59(3):189-93. doi: 10.1034/j.1399-0004.2001.590308.x.
+
+Title: A new polymorphism for the RI22H mutation in hereditary pancreatitis.
+Authors: ['Howes N', 'Greenhalf W', 'Rutherford S', "O'Donnell M", 'Mountford R', 'Ellis I', 'Whitcomb D', 'Imrie C', 'Drumm B', 'Neoptolemos JP']
+Source: Gut. 2001 Feb;48(2):247-50. doi: 10.1136/gut.48.2.247.
+
+Title: Gene conversion-like missense mutations in the human cationic trypsinogen gene and insights into the molecular evolution of the human trypsinogen family.
+Authors: ['Chen JM', 'Ferec C']
+Source: Mol Genet Metab. 2000 Nov;71(3):463-9. doi: 10.1006/mgme.2000.3086.
+
+Title: Mutations in the gene encoding the serine protease inhibitor, Kazal type 1 are associated with chronic pancreatitis.
+Authors: ['Witt H', 'Luck W', 'Hennies HC', 'Classen M', 'Kage A', 'Lass U', 'Landt O', 'Becker M']
+Source: Nat Genet. 2000 Jun;25(2):213-6. doi: 10.1038/76088.
+
+Title: Comparative mapping of the human homologue of the rat diabetes susceptibility gene lyp to a 1.3-Mb segment on HSA7.
+Authors: ['Hornum L', 'Markholst H']
+Source: Genomics. 2000 Apr 1;65(1):81-3. doi: 10.1006/geno.2000.6130.
+
+Title: Mutations of the cationic trypsinogen gene in patients with hereditary pancreatitis.
+Authors: ['Creighton JE', 'Lyall R', 'Wilson DI', 'Curtis A', 'Charnley RM']
+Source: Br J Surg. 2000 Feb;87(2):170-5. doi: 10.1046/j.1365-2168.2000.01326.x.
+
+Title: Mapping of caspase-2 in the rat and its exclusion as a candidate gene for lymphopenia.
+Authors: ['Hornum L', 'Rasmussen SB', 'Markholst H']
+Source: Mamm Genome. 1999 Mar;10(3):244-8. doi: 10.1007/s003359900981.
+
+Title: Genetic map of 16 polymorphic markers forming three linkage groups assigned to rat chromosome 4.
+Authors: ['Goldmuntz EA', 'Remmers EF', 'Du Y', 'Zha H', 'Mathern P', 'Crofford LJ', 'Wilder RL']
+Source: Mamm Genome. 1995 Jul;6(7):459-63. doi: 10.1007/BF00360654.
+

@@ -1,0 +1,2304 @@
+Title: SARS-CoV-2 Virion Stabilization by Zn Binding.
+Authors: ['Morante S', 'La Penna G', 'Rossi G', 'Stellato F']
+Source: Front Mol Biosci. 2020 Sep 17;7:222. doi: 10.3389/fmolb.2020.00222. eCollection 2020.
+
+Title: Transcription factor old astrocyte specifically induced substance is a novel regulator of kidney fibrosis.
+Authors: ['Yamamoto A', 'Morioki H', 'Nakae T', 'Miyake Y', 'Harada T', 'Noda S', 'Mitsuoka S', 'Matsumoto K', 'Tomimatsu M', 'Kanemoto S', 'Tanaka S', 'Maeda M', 'Conway SJ', 'Imaizumi K', 'Fujio Y', 'Obana M']
+Source: FASEB J. 2020 Nov 5. doi: 10.1096/fj.202001820R.
+
+Title: SAMHD1 as the Potential Link Between SARS-CoV-2 Infection and Neurological Complications.
+Authors: ['Khan A', 'Sergi C']
+Source: Front Neurol. 2020 Sep 25;11:562913. doi: 10.3389/fneur.2020.562913. eCollection 2020.
+
+Title: Pharmacological Inhibition of PPARy Boosts HIV Reactivation and Th17 Effector Functions, While Preventing Progeny Virion Release and de novo Infection.
+Authors: ['Planas D', 'Fert A', 'Zhang Y', 'Goulet JP', 'Richard J', 'Finzi A', 'Ruiz MJ', 'Marchand LR', 'Chatterjee D', 'Chen H', 'Salinas TRW', 'Gosselin A', 'Cohen EA', 'Routy JP', 'Chomont N', 'Ancuta P']
+Source: Pathog Immun. 2020 Sep 30;5(1):177-239. doi: 10.20411/pai.v5i1.348. eCollection 2020.
+
+Title: Functional Landscape of SARS-CoV-2 Cellular Restriction.
+Authors: ['Martin-Sancho L', 'Lewinski MK', 'Pache L', 'Stoneham CA', 'Yin X', 'Pratt D', 'Churas C', 'Rosenthal SB', 'Liu S', 'De Jesus PD', "O'Neill AM", 'Gounder AP', 'Nguyen C', 'Pu Y', 'Oom AL', 'Miorin L', 'Rodriguez-Frandsen A', 'Urbanowski M', 'Shaw ML', 'Chang MW', 'Benner C', 'Frieman MB', 'Garcia-Sastre A', 'Ideker T', 'Hultquist JF', 'Guatelli J', 'Chanda SK']
+Source: bioRxiv. 2020 Sep 30. doi: 10.1101/2020.09.29.319566.
+
+Title: Bone Marrow Stromal Antigen 2 is a Potential Unfavorable Prognostic Factor for High-Grade Glioma.
+Authors: ['Shi H', 'Luo K', 'Huang W']
+Source: Onco Targets Ther. 2020 Aug 26;13:8723-8734. doi: 10.2147/OTT.S258631. eCollection 2020.
+
+Title: Tetherin downmodulation by SIVmac Nef lost with the H196Q escape variant is restored by an upstream variant.
+Authors: ['Schouest B', 'Leslie GJ', 'Hoxie JA', 'Maness NJ']
+Source: PLoS One. 2020 Aug 7;15(8):e0225420. doi: 10.1371/journal.pone.0225420. eCollection 2020.
+
+Title: HIV-2-Infected Macrophages Produce and Accumulate Poorly Infectious Viral Particles.
+Authors: ['Gea-Mallorqui E', 'Zablocki-Thomas L', 'Maurin M', 'Jouve M', 'Rodrigues V', 'Ruffin N', 'Benaroch P']
+Source: Front Microbiol. 2020 Jul 10;11:1603. doi: 10.3389/fmicb.2020.01603. eCollection 2020.
+
+Title: Antibody development and property analysis of RhBST2 for accurate cell biological and viral research.
+Authors: ['Qu M', 'Wang W', 'Li W', 'Cao J', 'Wang C', 'Wu J', 'Yu B', 'Zhang H', 'Wu H', 'Yu X']
+Source: Protein Expr Purif. 2020 Nov;175:105688. doi: 10.1016/j.pep.2020.105688. Epub 2020 Jul 16.
+
+Title: Inhibition of African Swine Fever Virus Replication by Porcine Type I and Type II Interferons.
+Authors: ['Fan W', 'Jiao P', 'Zhang H', 'Chen T', 'Zhou X', 'Qi Y', 'Sun L', 'Shang Y', 'Zhu H', 'Hu R', 'Liu W', 'Li J']
+Source: Front Microbiol. 2020 Jun 4;11:1203. doi: 10.3389/fmicb.2020.01203. eCollection 2020.
+
+Title: Antiviral Activity of Feline BCA2 Is Mainly Dependent on Its Interference With Proviral Transcription Rather Than Degradation of FIV Gag.
+Authors: ['Qu M', 'Wang W', 'Li W', 'Cao J', 'Zhang X', 'Wang C', 'Wu J', 'Yu B', 'Zhang H', 'Wu H', 'Kong W', 'Yu X']
+Source: Front Microbiol. 2020 Jun 11;11:1230. doi: 10.3389/fmicb.2020.01230. eCollection 2020.
+
+Title: Toward a Macaque Model of HIV-1 Infection: Roadblocks, Progress, and Future Strategies.
+Authors: ['Thippeshappa R', 'Kimata JT', 'Kaushal D']
+Source: Front Microbiol. 2020 May 13;11:882. doi: 10.3389/fmicb.2020.00882. eCollection 2020.
+
+Title: BST2 Promotes Tumor Growth via Multiple Pathways in Hepatocellular Carcinoma.
+Authors: ['Xu X', 'Wang Y', 'Xue F', 'Guan E', 'Tian F', 'Xu J', 'Zhang H']
+Source: Cancer Invest. 2020 May;38(5):329-337. doi: 10.1080/07357907.2020.1769125. Epub 2020 Jun 2.
+
+Title: Differential Vpu-Mediated CD4 and Tetherin Downregulation Functions among Major HIV-1 Group M Subtypes.
+Authors: ['Umviligihozo G', 'Cobarrubias KD', 'Chandrarathna S', 'Jin SW', 'Reddy N', 'Byakwaga H', 'Muzoora C', 'Bwana MB', 'Lee GQ', 'Hunt PW', 'Martin JN', 'Brumme CJ', 'Bangsberg DR', 'Karita E', 'Allen S', 'Hunter E', "Ndung'u T", 'Brumme ZL', 'Brockman MA']
+Source: J Virol. 2020 Jul 1;94(14). pii: JVI.00293-20. doi: 10.1128/JVI.00293-20. Print 2020 Jul 1.
+
+Title: Human BST-2/tetherin inhibits Junin virus release from host cells and its inhibition is partially counteracted by viral nucleoprotein.
+Authors: ['Zadeh VR', 'Urata S', 'Sakaguchi M', 'Yasuda J']
+Source: J Gen Virol. 2020 Jun;101(6):573-586. doi: 10.1099/jgv.0.001414. Epub 2020 Apr 24.
+
+Title: Loss of tetherin antagonism by Nef impairs SIV replication during acute infection of rhesus macaques.
+Authors: ['Tavakoli-Tameh A', 'Janaka SK', 'Zarbock K', "O'Connor S", 'Crosno K', 'Capuano S 3rd', 'Uno H', 'Lifson JD', 'Evans DT']
+Source: PLoS Pathog. 2020 Apr 17;16(4):e1008487. doi: 10.1371/journal.ppat.1008487. eCollection 2020 Apr.
+
+Title: Lymphocyte-specific protein 1 (LSP1) regulates bone marrow stromal cell antigen 2 (BST-2)-mediated intracellular trafficking of HIV-1 in dendritic cells.
+Authors: ['Kulkarni R', 'Jiang S', 'Birrane G', 'Prasad A']
+Source: FEBS Lett. 2020 Jun;594(12):1947-1959. doi: 10.1002/1873-3468.13788. Epub 2020 Apr 28.
+
+Title: Antiviral Activity and Adaptive Evolution of Avian Tetherins.
+Authors: ['Krchlikova V', 'Fabryova H', 'Hron T', 'Young JM', 'Koslova A', 'Hejnar J', 'Strebel K', 'Elleder D']
+Source: J Virol. 2020 Jun 1;94(12). pii: JVI.00416-20. doi: 10.1128/JVI.00416-20. Print 2020 Jun 1.
+
+Title: Rapamycin Re-Directs Lysosome Network, Stimulates ER-Remodeling, Involving Membrane CD317 and Affecting Exocytosis, in Campylobacter Jejuni-Lysate-Infected U937 Cells.
+Authors: ['Canonico B', 'Cesarini E', 'Montanari M', 'Di Sario G', 'Campana R', 'Galluzzi L', 'Sola F', 'Gundogdu O', 'Luchetti F', 'Diotallevi A', 'Baffone W', 'Giordano A', 'Papa S']
+Source: Int J Mol Sci. 2020 Mar 23;21(6). pii: ijms21062207. doi: 10.3390/ijms21062207.
+
+Title: MicroRNA-760 inhibits cell viability and migration through down-regulating BST2 in gastric cancer.
+Authors: ['Liu W', 'Li Y', 'Feng S', 'Guan Y', 'Cao Y']
+Source: J Biochem. 2020 Aug 1;168(2):159-170. doi: 10.1093/jb/mvaa031.
+
+Title: Development and Characterization of the Shortest Anti-Adhesion Peptide Analogue of B49Mod1.
+Authors: ['Lyu Y', 'Mahauad-Fernandez WD', 'Okeoma CM']
+Source: Molecules. 2020 Mar 6;25(5). pii: molecules25051188. doi: 10.3390/molecules25051188.
+
+Title: The Secretome Profiling of a Pediatric Airway Epithelium Infected with hRSV Identified Aberrant Apical/Basolateral Trafficking and Novel Immune Modulating (CXCL6, CXCL16, CSF3) and Antiviral (CEACAM1) Proteins.
+Authors: ['Touzelet O', 'Broadbent L', 'Armstrong SD', 'Aljabr W', 'Cloutman-Green E', 'Power UF', 'Hiscox JA']
+Source: Mol Cell Proteomics. 2020 May;19(5):793-807. doi: 10.1074/mcp.RA119.001546. Epub 2020 Feb 19.
+
+Title: Design, synthesis and biological evaluation of novel 2-(5-aryl-1H-imidazol-1-yl) derivatives as potential inhibitors of the HIV-1 Vpu and host BST-2 protein interaction.
+Authors: ['Rashamuse TJ', 'Njengele Z', 'Coyanis EM', 'Sayed Y', 'Mosebi S', 'Bode ML']
+Source: Eur J Med Chem. 2020 Mar 15;190:112111. doi: 10.1016/j.ejmech.2020.112111. Epub 2020 Feb 4.
+
+Title: Cross-talk between SUMOylation and ISGylation in response to interferon.
+Authors: ['El-Asmi F', 'McManus FP', 'Brantis-de-Carvalho CE', 'Valle-Casuso JC', 'Thibault P', 'Chelbi-Alix MK']
+Source: Cytokine. 2020 May;129:155025. doi: 10.1016/j.cyto.2020.155025. Epub 2020 Feb 7.
+
+Title: The impact of bone marrow stromal antigen-2 (BST2) gene variants on HIV-1 control in black South African individuals.
+Authors: ['Dias BDC', 'Paximadis M', 'Martinson N', 'Chaisson RE', 'Ebrahim O', 'Tiemessen CT']
+Source: Infect Genet Evol. 2020 Jun;80:104216. doi: 10.1016/j.meegid.2020.104216. Epub 2020 Jan 30.
+
+Title: Assessment of lncRNA GAS5, lncRNA HEIH, lncRNA BISPR and its mRNA BST2 as serum innovative non-invasive biomarkers: Recent insights into Egyptian patients with hepatitis C virus type 4.
+Authors: ['El Samaloty NM', 'Shabayek MI', 'Ghait RS', 'El-Maraghy SA', 'Rizk SM', 'El-Sawalhi MM']
+Source: World J Gastroenterol. 2020 Jan 14;26(2):168-183. doi: 10.3748/wjg.v26.i2.168.
+
+Title: Mechanisms of Tumor-Lymphatic Interactions in Invasive Breast and Prostate Carcinoma.
+Authors: ['Oliveira-Ferrer L', 'Milde-Langosch K', 'Eylmann K', 'Rossberg M', 'Muller V', 'Schmalfeldt B', 'Witzel I', 'Wellbrock J', 'Fiedler W']
+Source: Int J Mol Sci. 2020 Jan 17;21(2). pii: ijms21020602. doi: 10.3390/ijms21020602.
+
+Title: BST2 regulates interferon gamma-dependent decrease in invasion of HTR-8/SVneo cells via STAT1 and AKT signaling pathways and expression of E-cadherin.
+Authors: ['Verma S', 'Kang AK', 'Pal R', 'Gupta SK']
+Source: Cell Adh Migr. 2020 Dec;14(1):24-41. doi: 10.1080/19336918.2019.1710024.
+
+Title: BST2 suppresses porcine epidemic diarrhea virus replication by targeting and degrading virus nucleocapsid protein with selective autophagy.
+Authors: ['Kong N', 'Shan T', 'Wang H', 'Jiao Y', 'Zuo Y', 'Li L', 'Tong W', 'Yu L', 'Jiang Y', 'Zhou Y', 'Li G', 'Gao F', 'Yu H', 'Zheng H', 'Tong G']
+Source: Autophagy. 2020 Oct;16(10):1737-1752. doi: 10.1080/15548627.2019.1707487. Epub 2019 Dec 27.
+
+Title: Risk association of BST2 gene variants with disease progression in HIV-1 infected Indian cohort.
+Authors: ['Gupte DS', 'Patil A', 'Selvaa Kumar C', 'Pandey S', 'Achrekar SK', 'Paranjape RS', 'Jagtap DD']
+Source: Infect Genet Evol. 2020 Jun;80:104139. doi: 10.1016/j.meegid.2019.104139. Epub 2019 Dec 11.
+
+Title: Mass Cytometry Analysis Reveals Complex Cell-State Modifications of Blood Myeloid Cells During HIV Infection.
+Authors: ['Coindre S', 'Tchitchek N', 'Alaoui L', 'Vaslin B', 'Bourgeois C', 'Goujard C', 'Lecuroux C', 'Bruhns P', 'Le Grand R', 'Beignon AS', 'Lambotte O', 'Favier B']
+Source: Front Immunol. 2019 Nov 22;10:2677. doi: 10.3389/fimmu.2019.02677. eCollection 2019.
+
+Title: B Cell Tetherin: A Flow Cytometric Cell-Specific Assay for Response to Type I Interferon Predicts Clinical Features and Flares in Systemic Lupus Erythematosus.
+Authors: ['El-Sherbiny YM', 'Md Yusof MY', 'Psarras A', 'Hensor EMA', 'Kabba KZ', 'Dutton K', 'Mohamed AAA', 'Elewaut D', 'McGonagle D', 'Tooze R', 'Doody G', 'Wittmann M', 'Emery P', 'Vital EM']
+Source: Arthritis Rheumatol. 2020 May;72(5):769-779. doi: 10.1002/art.41187. Epub 2020 Apr 3.
+
+Title: Vpu of a Simian Immunodeficiency Virus Isolated from Greater Spot-Nosed Monkey Antagonizes Human BST-2 via Two AxxxxxxxW Motifs.
+Authors: ['Yao W', 'Yoshida T', 'Hashimoto S', 'Takeuchi H', 'Strebel K', 'Yamaoka S']
+Source: J Virol. 2020 Jan 6;94(2). pii: JVI.01669-19. doi: 10.1128/JVI.01669-19. Print 2020 Jan 6.
+
+Title: ATP1B3 cooperates with BST-2 to promote hepatitis B virus restriction.
+Authors: ['Zheng B', 'Zhang J', 'Zheng T', 'Wang H', 'Li Z', 'Huan C', 'Ning S', 'Wang Y', 'Zhang W']
+Source: J Med Virol. 2020 Feb;92(2):201-209. doi: 10.1002/jmv.25599. Epub 2019 Oct 16.
+
+Title: UL26 Attenuates IKKbeta-Mediated Induction of Interferon-Stimulated Gene (ISG) Expression and Enhanced Protein ISGylation during Human Cytomegalovirus Infection.
+Authors: ['Goodwin CM', 'Schafer X', 'Munger J']
+Source: J Virol. 2019 Nov 13;93(23). pii: JVI.01052-19. doi: 10.1128/JVI.01052-19. Print 2019 Dec 1.
+
+Title: Type I interferon and interferon-stimulated gene expression in oral epithelial cells.
+Authors: ['Brice DC', 'Figgins E', 'Yu F', 'Diamond G']
+Source: Mol Oral Microbiol. 2019 Dec;34(6):245-253. doi: 10.1111/omi.12270. Epub 2019 Oct 21.
+
+Title: Complex Problems Require Ternary Solutions: Another Lesson from SIV Nef.
+Authors: ['Johnson WE', 'McCarthy KR']
+Source: Cell Host Microbe. 2019 Sep 11;26(3):299-300. doi: 10.1016/j.chom.2019.08.016.
+
+Title: Beyond Tethering the Viral Particles: Immunomodulatory Functions of Tetherin (BST-2).
+Authors: ['Tiwari R', 'de la Torre JC', 'McGavern DB', 'Nayak D']
+Source: DNA Cell Biol. 2019 Nov;38(11):1170-1177. doi: 10.1089/dna.2019.4777. Epub 2019 Sep 9.
+
+Title: Plasma Membrane-Associated Restriction Factors and Their Counteraction by HIV-1 Accessory Proteins.
+Authors: ['Ramirez PW', 'Sharma S', 'Singh R', 'Stoneham CA', 'Vollbrecht T', 'Guatelli J']
+Source: Cells. 2019 Sep 2;8(9). pii: cells8091020. doi: 10.3390/cells8091020.
+
+Title: Virus- and Interferon Alpha-Induced Transcriptomes of Cells from the Microbat Myotis daubentonii.
+Authors: ['Holzer M', 'Schoen A', 'Wulle J', 'Muller MA', 'Drosten C', 'Marz M', 'Weber F']
+Source: iScience. 2019 Sep 27;19:647-661. doi: 10.1016/j.isci.2019.08.016. Epub 2019 Aug 10.
+
+Title: Structural Basis for Tetherin Antagonism as a Barrier to Zoonotic Lentiviral Transmission.
+Authors: ['Buffalo CZ', 'Sturzel CM', 'Heusinger E', 'Kmiec D', 'Kirchhoff F', 'Hurley JH', 'Ren X']
+Source: Cell Host Microbe. 2019 Sep 11;26(3):359-368.e8. doi: 10.1016/j.chom.2019.08.002. Epub 2019 Aug 22.
+
+Title: pDC depletion induced by CD317 blockade drives the antitumor immune response in head and neck squamous cell carcinoma.
+Authors: ['Yang LL', 'Mao L', 'Wu H', 'Chen L', 'Deng WW', 'Xiao Y', 'Li H', 'Zhang L', 'Sun ZJ']
+Source: Oral Oncol. 2019 Sep;96:131-139. doi: 10.1016/j.oraloncology.2019.07.019. Epub 2019 Jul 26.
+
+Title: Thylakoid localized bestrophin-like proteins are essential for the CO2 concentrating mechanism of Chlamydomonas reinhardtii.
+Authors: ['Mukherjee A', 'Lau CS', 'Walker CE', 'Rai AK', 'Prejean CI', 'Yates G', 'Emrich-Mills T', 'Lemoine SG', 'Vinyard DJ', 'Mackinder LCM', 'Moroney JV']
+Source: Proc Natl Acad Sci U S A. 2019 Aug 20;116(34):16915-16920. doi: 10.1073/pnas.1909706116. Epub 2019 Aug 7.
+
+Title: BST2/Tetherin Overexpression Modulates Morbillivirus Glycoprotein Production to Inhibit Cell-Cell Fusion.
+Authors: ['Kelly JT', 'Human S', 'Alderman J', 'Jobe F', 'Logan L', 'Rix T', 'Goncalves-Carneiro D', 'Leung C', 'Thakur N', 'Birch J', 'Bailey D']
+Source: Viruses. 2019 Jul 30;11(8). pii: v11080692. doi: 10.3390/v11080692.
+
+Title: Functional study of 14-3-3 protein epsilon (YWHAE) in keratinocytes: microarray integrating bioinformatics approaches.
+Authors: ['Yin SJ', 'Lee JR', 'Kwak H', 'Lee BN', 'Han JW', 'Hahn MJ', 'Park YD', 'Yang JM']
+Source: J Biomol Struct Dyn. 2020 Jun;38(9):2633-2649. doi: 10.1080/07391102.2019.1637282. Epub 2019 Jul 5.
+
+Title: In Silico Insights into HIV-1 Vpu-Tetherin Interactions and Its Mutational Counterparts.
+Authors: ['Sneha P', 'Shah U', 'Balaji S']
+Source: Med Sci (Basel). 2019 Jun 22;7(6). pii: medsci7060074. doi: 10.3390/medsci7060074.
+
+Title: Upregulation of BST-2 by Type I Interferons Reduces the Capacity of Vpu To Protect HIV-1-Infected Cells from NK Cell Responses.
+Authors: ['Prevost J', 'Pickering S', 'Mumby MJ', 'Medjahed H', 'Gendron-Lepage G', 'Delgado GG', 'Dirk BS', 'Dikeakos JD', 'Sturzel CM', 'Sauter D', 'Kirchhoff F', 'Bibollet-Ruche F', 'Hahn BH', 'Dube M', 'Kaufmann DE', 'Neil SJD', 'Finzi A', 'Richard J']
+Source: mBio. 2019 Jun 18;10(3). pii: mBio.01113-19. doi: 10.1128/mBio.01113-19.
+
+Title: Severe acute respiratory syndrome coronavirus spike protein counteracts BST2-mediated restriction of virus-like particle release.
+Authors: ['Wang SM', 'Huang KJ', 'Wang CT']
+Source: J Med Virol. 2019 Oct;91(10):1743-1750. doi: 10.1002/jmv.25518. Epub 2019 Jul 10.
+
+Title: Resilience of BST-2/Tetherin structure to single amino acid substitutions.
+Authors: ['Roy IR', 'Sutton CK', 'Berndsen CE']
+Source: PeerJ. 2019 May 31;7:e7043. doi: 10.7717/peerj.7043. eCollection 2019.
+
+Title: IRF1 Maintains Optimal Constitutive Expression of Antiviral Genes and Regulates the Early Antiviral Response.
+Authors: ['Panda D', 'Gjinaj E', 'Bachu M', 'Squire E', 'Novatt H', 'Ozato K', 'Rabin RL']
+Source: Front Immunol. 2019 May 15;10:1019. doi: 10.3389/fimmu.2019.01019. eCollection 2019.
+
+Title: Activation of the ILT7 receptor and plasmacytoid dendritic cell responses are governed by structurally-distinct BST2 determinants.
+Authors: ['Bego MG', 'Miguet N', 'Laliberte A', 'Aschman N', 'Gerard F', 'Merakos AA', 'Weissenhorn W', 'Cohen EA']
+Source: J Biol Chem. 2019 Jul 5;294(27):10503-10518. doi: 10.1074/jbc.RA119.008481. Epub 2019 May 22.
+
+Title: Distinct Requirements for HIV-1 Accessory Proteins during Cell Coculture and Cell-Free Infection.
+Authors: ['Zotova A', 'Atemasova A', 'Pichugin A', 'Filatov A', 'Mazurov D']
+Source: Viruses. 2019 Apr 26;11(5). pii: v11050390. doi: 10.3390/v11050390.
+
+Title: Molecular carcinogenesis of gastric cancer: Lauren classification, mucin phenotype expression, and cancer stem cells.
+Authors: ['Oue N', 'Sentani K', 'Sakamoto N', 'Uraoka N', 'Yasui W']
+Source: Int J Clin Oncol. 2019 Jul;24(7):771-778. doi: 10.1007/s10147-019-01443-9. Epub 2019 Apr 12.
+
+Title: A lipid-based partitioning mechanism for selective incorporation of proteins into membranes of HIV particles.
+Authors: ['Sengupta P', 'Seo AY', 'Pasolli HA', 'Song YE', 'Johnson MC', 'Lippincott-Schwartz J']
+Source: Nat Cell Biol. 2019 Apr;21(4):452-461. doi: 10.1038/s41556-019-0300-y. Epub 2019 Apr 1.
+
+Title: CD317 Activates EGFR by Regulating Its Association with Lipid Rafts.
+Authors: ['Zhang G', 'Li X', 'Chen Q', 'Li J', 'Ruan Q', 'Chen YH', 'Yang X', 'Wan X']
+Source: Cancer Res. 2019 May 1;79(9):2220-2231. doi: 10.1158/0008-5472.CAN-18-2603. Epub 2019 Mar 19.
+
+Title: Contribution of the Cytoplasmic Determinants of Vpu to the Expansion of Virus-Containing Compartments in HIV-1-Infected Macrophages.
+Authors: ['Leymarie O', 'Lepont L', 'Versapuech M', 'Judith D', 'Abelanet S', 'Janvier K', 'Berlioz-Torrent C']
+Source: J Virol. 2019 May 15;93(11). pii: JVI.00020-19. doi: 10.1128/JVI.00020-19. Print 2019 Jun 1.
+
+Title: The C-Terminal End of HIV-1 Vpu Has a Clade-Specific Determinant That Antagonizes BST-2 and Facilitates Virion Release.
+Authors: ['Sharma S', 'Jafari M', 'Bangar A', 'William K', 'Guatelli J', 'Lewinski MK']
+Source: J Virol. 2019 May 15;93(11). pii: JVI.02315-18. doi: 10.1128/JVI.02315-18. Print 2019 Jun 1.
+
+Title: Polymorphisms in the APOBEC3G gene of Chinese rhesus macaques affect resistance to ubiquitination and degradation mediated by HIV-2 Vif.
+Authors: ['Jiang ZQ', 'Yao XR', 'Yu H', 'Lu YE', 'Liu BL', 'Liu FL', 'Jin YB', 'Zhuo M', 'Zheng YT', 'Ling F']
+Source: Arch Virol. 2019 May;164(5):1353-1360. doi: 10.1007/s00705-019-04194-0. Epub 2019 Mar 11.
+
+Title: CRISPR-mediated activation of endogenous BST-2/tetherin expression inhibits wild-type HIV-1 production.
+Authors: ['Zhang Y', 'Ozono S', 'Yao W', 'Tobiume M', 'Yamaoka S', 'Kishigami S', 'Fujita H', 'Tokunaga K']
+Source: Sci Rep. 2019 Feb 28;9(1):3134. doi: 10.1038/s41598-019-40003-z.
+
+Title: Prediction of lymph node metastasis in oral squamous cell carcinoma based on protein profile.
+Authors: ['Yu B', 'Cao W', 'Zhang C', 'Xia R', 'Liu J', 'Yan M', 'Chen W']
+Source: Expert Rev Proteomics. 2019 Apr;16(4):363-373. doi: 10.1080/14789450.2019.1584039. Epub 2019 Mar 6.
+
+Title: Release of Immunomodulatory Ebola Virus Glycoprotein-Containing Microvesicles Is Suppressed by Tetherin in a Species-Specific Manner.
+Authors: ['Nehls J', 'Businger R', 'Hoffmann M', 'Brinkmann C', 'Fehrenbacher B', 'Schaller M', 'Maurer B', 'Schonfeld C', 'Kramer D', 'Hailfinger S', 'Pohlmann S', 'Schindler M']
+Source: Cell Rep. 2019 Feb 12;26(7):1841-1853.e6. doi: 10.1016/j.celrep.2019.01.065.
+
+Title: Is tetherin a true antiviral: The influenza a virus controversy.
+Authors: ['Sharma A', 'Lal SK']
+Source: Rev Med Virol. 2019 May;29(3):e2036. doi: 10.1002/rmv.2036. Epub 2019 Jan 31.
+
+Title: Mechanism of Tetherin Inhibition of Alphavirus Release.
+Authors: ['Wan JJ', 'Ooi YS', 'Kielian M']
+Source: J Virol. 2019 Mar 21;93(7). pii: JVI.02165-18. doi: 10.1128/JVI.02165-18. Print 2019 Apr 1.
+
+Title: CBX6 is negatively regulated by EZH2 and plays a potential tumor suppressor role in breast cancer.
+Authors: ['Deng H', 'Guan X', 'Gong L', 'Zeng J', 'Zhang H', 'Chen MY', 'Li G']
+Source: Sci Rep. 2019 Jan 17;9(1):197. doi: 10.1038/s41598-018-36560-4.
+
+Title: BST2 inhibits infection of influenza A virus by promoting apoptosis of infected cells.
+Authors: ['Yi E', 'Oh J', 'Kang HR', 'Song MJ', 'Park SH']
+Source: Biochem Biophys Res Commun. 2019 Feb 5;509(2):414-420. doi: 10.1016/j.bbrc.2018.12.110. Epub 2018 Dec 26.
+
+Title: Restriction Factors: From Intrinsic Viral Restriction to Shaping Cellular Immunity Against HIV-1.
+Authors: ['Colomer-Lluch M', 'Ruiz A', 'Moris A', 'Prado JG']
+Source: Front Immunol. 2018 Dec 6;9:2876. doi: 10.3389/fimmu.2018.02876. eCollection 2018.
+
+Title: A virus-packageable CRISPR screen identifies host factors mediating interferon inhibition of HIV.
+Authors: ['OhAinle M', 'Helms L', 'Vermeire J', 'Roesch F', 'Humes D', 'Basom R', 'Delrow JJ', 'Overbaugh J', 'Emerman M']
+Source: Elife. 2018 Dec 6;7. pii: 39823. doi: 10.7554/eLife.39823.
+
+Title: BST-2 promotes survival in circulation and pulmonary metastatic seeding of breast cancer cells.
+Authors: ['Mahauad-Fernandez WD', 'Naushad W', 'Panzner TD', 'Bashir A', 'Lal G', 'Okeoma CM']
+Source: Sci Rep. 2018 Dec 4;8(1):17608. doi: 10.1038/s41598-018-35710-y.
+
+Title: Tetherin Inhibits Nipah Virus but Not Ebola Virus Replication in Fruit Bat Cells.
+Authors: ['Hoffmann M', 'Nehlmeier I', 'Brinkmann C', 'Krahling V', 'Behner L', 'Moldenhauer AS', 'Kruger N', 'Nehls J', 'Schindler M', 'Hoenen T', 'Maisner A', 'Becker S', 'Pohlmann S']
+Source: J Virol. 2019 Jan 17;93(3). pii: JVI.01821-18. doi: 10.1128/JVI.01821-18. Print 2019 Feb 1.
+
+Title: Circulating healing (CH) cells expressing BST2 are functionally activated by the injury-regulated systemic factor HGFA.
+Authors: ['Lo Sicco C', 'Reverberi D', 'Villa F', 'Pfeffer U', 'Quarto R', 'Cancedda R', 'Tasso R']
+Source: Stem Cell Res Ther. 2018 Nov 8;9(1):300. doi: 10.1186/s13287-018-1056-1.
+
+Title: Prognostic Values of EPDR1 Hypermethylation and Its Inhibitory Function on Tumor Invasion in Colorectal Cancer.
+Authors: ['Chu CH', 'Chang SC', 'Wang HH', 'Yang SH', 'Lai KC', 'Lee TC']
+Source: Cancers (Basel). 2018 Oct 22;10(10). pii: cancers10100393. doi: 10.3390/cancers10100393.
+
+Title: betaTrCP is Required for HIV-1 Vpu Modulation of CD4, GaLV Env, and BST-2/Tetherin.
+Authors: ['Song YE', 'Cyburt D', 'Lucas TM', 'Gregory DA', 'Lyddon TD', 'Johnson MC']
+Source: Viruses. 2018 Oct 19;10(10). pii: v10100573. doi: 10.3390/v10100573.
+
+Title: Canine Influenza Virus is Mildly Restricted by Canine Tetherin Protein.
+Authors: ['Zheng Y', 'Hao X', 'Zheng Q', 'Lin X', 'Zhang X', 'Zeng W', 'Ding S', 'Zhou P', 'Li S']
+Source: Viruses. 2018 Oct 16;10(10). pii: v10100565. doi: 10.3390/v10100565.
+
+Title: The avian influenza virus PA segment mediates strain-specific antagonism of BST-2/tetherin.
+Authors: ['Narkpuk J', 'Jongkaewwattana A', 'Teeravechyan S']
+Source: Virology. 2018 Dec;525:161-169. doi: 10.1016/j.virol.2018.09.016. Epub 2018 Oct 2.
+
+Title: HIV/SIV-Nef: Pas de trois Choreographies to Evade Immunity.
+Authors: ['daSilva LLP', 'Mardones GA']
+Source: Trends Microbiol. 2018 Nov;26(11):889-891. doi: 10.1016/j.tim.2018.09.003. Epub 2018 Oct 1.
+
+Title: Aberrant expression of the innate restriction factor bone marrow stromal antigen-2 in primary Sjogren's syndrome.
+Authors: ['Chen C', 'Shi H', 'Wang B', 'Cao N', 'Yu C', 'Zheng L']
+Source: J Craniomaxillofac Surg. 2018 Nov;46(11):1899-1904. doi: 10.1016/j.jcms.2018.08.008. Epub 2018 Aug 29.
+
+Title: Vaccination with a DNA vaccine encoding CD317-targeting HBs antigen elicits enhanced immunity in mice.
+Authors: ['Zhang G', 'Li X', 'Liu L', 'Li J', 'Chen Q', 'Huang S', 'Li Y', 'Wan X']
+Source: Biochem Biophys Res Commun. 2018 Oct 12;504(4):865-870. doi: 10.1016/j.bbrc.2018.09.024. Epub 2018 Sep 13.
+
+Title: T cell immunomodulation by clinically used allogeneic human cancellous bone fragments: a potential novel immunotherapy tool.
+Authors: ['El-Sherbiny YM', 'El-Jawhari JJ', 'Moseley TA', 'McGonagle D', 'Jones E']
+Source: Sci Rep. 2018 Sep 10;8(1):13535. doi: 10.1038/s41598-018-31979-1.
+
+Title: Polymorphisms in Rhesus Macaque Tetherin Are Associated with Differences in Acute Viremia in Simian Immunodeficiency Virus Deltanef-Infected Animals.
+Authors: ['Janaka SK', 'Tavakoli-Tameh A', 'Neidermyer WJ Jr', 'Serra-Moreno R', 'Hoxie JA', 'Desrosiers RC', 'Johnson RP', 'Lifson JD', 'Wolinsky SM', 'Evans DT']
+Source: J Virol. 2018 Oct 29;92(22). pii: JVI.00542-18. doi: 10.1128/JVI.00542-18. Print 2018 Nov 15.
+
+Title: Establishment and Characterization of Paired Primary and Peritoneal Seeding Human Colorectal Cancer Cell Lines: Identification of Genes That Mediate Metastatic Potential.
+Authors: ['Kim SC', 'Hong CW', 'Jang SG', 'Kim YA', 'Yoo BC', 'Shin YK', 'Jeong SY', 'Ku JL', 'Park JG']
+Source: Transl Oncol. 2018 Oct;11(5):1232-1243. doi: 10.1016/j.tranon.2018.07.014. Epub 2018 Aug 14.
+
+Title: Limiting Respiratory Viral Infection by Targeting Antiviral and Immunological Functions of BST-2/Tetherin: Knowledge and Gaps.
+Authors: ['Berry KN', 'Kober DL', 'Su A', 'Brett TJ']
+Source: Bioessays. 2018 Oct;40(10):e1800086. doi: 10.1002/bies.201800086. Epub 2018 Aug 16.
+
+Title: HIV-1 Nefs Are Cargo-Sensitive AP-1 Trimerization Switches in Tetherin Downregulation.
+Authors: ['Morris KL', 'Buffalo CZ', 'Sturzel CM', 'Heusinger E', 'Kirchhoff F', 'Ren X', 'Hurley JH']
+Source: Cell. 2018 Jul 26;174(3):659-671.e14. doi: 10.1016/j.cell.2018.07.004.
+
+Title: BST-2 controls T cell proliferation and exhaustion by shaping the early distribution of a persistent viral infection.
+Authors: ['Urata S', 'Kenyon E', 'Nayak D', 'Cubitt B', 'Kurosaki Y', 'Yasuda J', 'de la Torre JC', 'McGavern DB']
+Source: PLoS Pathog. 2018 Jul 20;14(7):e1007172. doi: 10.1371/journal.ppat.1007172. eCollection 2018 Jul.
+
+Title: Preadaptation of Simian Immunodeficiency Virus SIVsmm Facilitated Env-Mediated Counteraction of Human Tetherin by Human Immunodeficiency Virus Type 2.
+Authors: ['Heusinger E', 'Deppe K', 'Sette P', 'Krapp C', 'Kmiec D', 'Kluge SF', 'Marx PA', 'Apetrei C', 'Kirchhoff F', 'Sauter D']
+Source: J Virol. 2018 Aug 29;92(18). pii: JVI.00276-18. doi: 10.1128/JVI.00276-18. Print 2018 Sep 15.
+
+Title: Comprehensive Antiretroviral Restriction Factor Profiling Reveals the Evolutionary Imprint of the ex Vivo and in Vivo IFN-beta Response in HTLV-1-Associated Neuroinflammation.
+Authors: ['Leal FE', 'Menezes SM', 'Costa EAS', 'Brailey PM', 'Gama L', 'Segurado AC', 'Kallas EG', 'Nixon DF', 'Dierckx T', 'Khouri R', 'Vercauteren J', 'Galvao-Castro B', 'Saraiva Raposo RA', 'Van Weyenbergh J']
+Source: Front Microbiol. 2018 May 22;9:985. doi: 10.3389/fmicb.2018.00985. eCollection 2018.
+
+Title: LncRNA BISPR promotes the progression of thyroid papillary carcinoma by regulating miR-21-5p.
+Authors: ['Zhang H', 'Cai Y', 'Zheng L', 'Zhang Z', 'Lin X', 'Jiang N']
+Source: Int J Immunopathol Pharmacol. 2018 Jan-Dec;32:2058738418772652. doi: 10.1177/2058738418772652.
+
+Title: BST2 promotes cell proliferation, migration and induces NF-kappaB activation in gastric cancer.
+Authors: ['Liu W', 'Cao Y', 'Guan Y', 'Zheng C']
+Source: Biotechnol Lett. 2018 Jul;40(7):1015-1027. doi: 10.1007/s10529-018-2562-z. Epub 2018 May 17.
+
+Title: Strain-Specific Antagonism of the Human H1N1 Influenza A Virus against Equine Tetherin.
+Authors: ['Wang M', 'Zhang Z', 'Wang X']
+Source: Viruses. 2018 May 16;10(5). pii: v10050264. doi: 10.3390/v10050264.
+
+Title: Single Viruses on the Fluorescence Microscope: Imaging Molecular Mobility, Interactions and Structure Sheds New Light on Viral Replication.
+Authors: ['Parveen N', 'Borrenberghs D', 'Rocha S', 'Hendrix J']
+Source: Viruses. 2018 May 10;10(5). pii: v10050250. doi: 10.3390/v10050250.
+
+Title: IFN-gamma enhances the wound healing effect of late EPCs (LEPCs) via BST2-mediated adhesion to endothelial cells.
+Authors: ['Lee BNR', 'Chang HK', 'Son YS', 'Lee D', 'Kwon SM', 'Kim PH', 'Cho JY']
+Source: FEBS Lett. 2018 May;592(10):1705-1715. doi: 10.1002/1873-3468.13078. Epub 2018 May 16.
+
+Title: A GXXXA Motif in the Transmembrane Domain of the Ebola Virus Glycoprotein Is Required for Tetherin Antagonism.
+Authors: ['Gonzalez-Hernandez M', 'Hoffmann M', 'Brinkmann C', 'Nehls J', 'Winkler M', 'Schindler M', 'Pohlmann S']
+Source: J Virol. 2018 Jun 13;92(13). pii: JVI.00403-18. doi: 10.1128/JVI.00403-18. Print 2018 Jul 1.
+
+Title: Species-specific host factors rather than virus-intrinsic virulence determine primate lentiviral pathogenicity.
+Authors: ['Joas S', 'Parrish EH', 'Gnanadurai CW', 'Lump E', 'Sturzel CM', 'Parrish NF', 'Learn GH', 'Sauermann U', 'Neumann B', 'Rensing KM', 'Fuchs D', 'Billingsley JM', 'Bosinger SE', 'Silvestri G', 'Apetrei C', 'Huot N', 'Garcia-Tellez T', 'Muller-Trutwin M', 'Hotter D', 'Sauter D', 'Stahl-Hennig C', 'Hahn BH', 'Kirchhoff F']
+Source: Nat Commun. 2018 Apr 10;9(1):1371. doi: 10.1038/s41467-018-03762-3.
+
+Title: Cloning, identification, and functional analysis of bone marrow stromal cell antigen-2 from sika deer (Cervus nippon).
+Authors: ['Wang J', 'Bian S', 'Liu M', 'Zhang X', 'Wang S', 'Bai X', 'Zhao D', 'Zhao Y']
+Source: Gene. 2018 Jun 30;661:133-138. doi: 10.1016/j.gene.2018.03.101. Epub 2018 Apr 3.
+
+Title: Intracerebroventricular Administration of a 2'-O-Methyl Phosphorothioate Antisense Oligonucleotide Results in Activation of the Innate Immune System in Mouse Brain.
+Authors: ['Toonen LJA', 'Casaca-Carreira J', 'Pellise-Tintore M', 'Mei H', 'Temel Y', 'Jahanshahi A', 'van Roon-Mom WMC']
+Source: Nucleic Acid Ther. 2018 Apr;28(2):63-73. doi: 10.1089/nat.2017.0705. Epub 2018 Mar 22.
+
+Title: Inducible indoleamine 2,3-dioxygenase 1 and programmed death ligand 1 expression as the potency marker for mesenchymal stromal cells.
+Authors: ['Guan Q', 'Li Y', 'Shpiruk T', 'Bhagwat S', 'Wall DA']
+Source: Cytotherapy. 2018 May;20(5):639-649. doi: 10.1016/j.jcyt.2018.02.003. Epub 2018 Mar 13.
+
+Title: The MEK1/2-ERK Pathway Inhibits Type I IFN Production in Plasmacytoid Dendritic Cells.
+Authors: ['Janovec V', 'Aouar B', 'Font-Haro A', 'Hofman T', 'Trejbalova K', 'Weber J', 'Chaperot L', 'Plumas J', 'Olive D', 'Dubreuil P', 'Nunes JA', 'Stranska R', 'Hirsch I']
+Source: Front Immunol. 2018 Feb 26;9:364. doi: 10.3389/fimmu.2018.00364. eCollection 2018.
+
+Title: B49, a BST-2-based peptide, inhibits adhesion and growth of breast cancer cells.
+Authors: ['Mahauad-Fernandez WD', 'Okeoma CM']
+Source: Sci Rep. 2018 Mar 9;8(1):4305. doi: 10.1038/s41598-018-22364-z.
+
+Title: CD317 Signature in Head and Neck Cancer Indicates Poor Prognosis.
+Authors: ['Yang LL', 'Wu L', 'Yu GT', 'Zhang WF', 'Liu B', 'Sun ZJ']
+Source: J Dent Res. 2018 Jul;97(7):787-794. doi: 10.1177/0022034518758604. Epub 2018 Feb 27.
+
+Title: Hypothesis: Is there a link between the immune response to Human Herpes Virus type 6Alpha (HHV-6Alpha) infection and the interaction network (interactome) of the genes encoding the CTSS, PTX3, CHI3L1, Mx1, CXCL16, BIRC3 and BST2 proteins?
+Authors: ['Rouka E']
+Source: Med Hypotheses. 2018 Mar;112:47-50. doi: 10.1016/j.mehy.2018.01.011. Epub 2018 Jan 31.
+
+Title: Impact of novel oncogenic pathways regulated by antitumor miR-451a in renal cell carcinoma.
+Authors: ['Yamada Y', 'Arai T', 'Sugawara S', 'Okato A', 'Kato M', 'Kojima S', 'Yamazaki K', 'Naya Y', 'Ichikawa T', 'Seki N']
+Source: Cancer Sci. 2018 Apr;109(4):1239-1253. doi: 10.1111/cas.13526. Epub 2018 Mar 9.
+
+Title: Mannose Receptor 1 Restricts HIV Particle Release from Infected Macrophages.
+Authors: ['Sukegawa S', 'Miyagi E', 'Bouamr F', 'Farkasova H', 'Strebel K']
+Source: Cell Rep. 2018 Jan 16;22(3):786-795. doi: 10.1016/j.celrep.2017.12.085.
+
+Title: Human-Specific Adaptations in Vpu Conferring Anti-tetherin Activity Are Critical for Efficient Early HIV-1 Replication In Vivo.
+Authors: ['Yamada E', 'Nakaoka S', 'Klein L', 'Reith E', 'Langer S', 'Hopfensperger K', 'Iwami S', 'Schreiber G', 'Kirchhoff F', 'Koyanagi Y', 'Sauter D', 'Sato K']
+Source: Cell Host Microbe. 2018 Jan 10;23(1):110-120.e7. doi: 10.1016/j.chom.2017.12.009.
+
+Title: High-Mannose But Not Complex-Type Glycosylation of Tetherin Is Required for Restriction of HIV-1 Release.
+Authors: ['Waheed AA', 'Gitzen A', 'Swiderski M', 'Freed EO']
+Source: Viruses. 2018 Jan 5;10(1). pii: v10010026. doi: 10.3390/v10010026.
+
+Title: Impact of cellular restriction gene (TRIM5alpha, BST-2) polymorphisms on the acquisition of HIV-1 and disease progression.
+Authors: ['Singh H', 'Samani D', 'Ghate MV', 'Gangakhedkar RR']
+Source: J Gene Med. 2018 Feb;20(2-3):e3004. doi: 10.1002/jgm.3004. Epub 2018 Jan 25.
+
+Title: Maintenance of AP-2-Dependent Functional Activities of Nef Restricts Pathways of Immune Escape from CD8 T Lymphocyte Responses.
+Authors: ['Schouest B', 'Weiler AM', 'Janaka SK', 'Myers TA', 'Das A', 'Wilder SC', 'Furlott J', 'Baddoo M', 'Flemington EK', 'Rakasz EG', 'Evans DT', 'Friedrich TC', 'Maness NJ']
+Source: J Virol. 2018 Feb 12;92(5). pii: JVI.01822-17. doi: 10.1128/JVI.01822-17. Print 2018 Mar 1.
+
+Title: The glycoprotein of vesicular stomatitis virus promotes release of virus-like particles from tetherin-positive cells.
+Authors: ['Brinkmann C', 'Hoffmann M', 'Lubke A', 'Nehlmeier I', 'Kramer-Kuhl A', 'Winkler M', 'Pohlmann S']
+Source: PLoS One. 2017 Dec 7;12(12):e0189073. doi: 10.1371/journal.pone.0189073. eCollection 2017.
+
+Title: BST2 inhibits type I IFN (interferon) signaling by accelerating MAVS degradation through CALCOCO2-directed autophagy.
+Authors: ['Jin S', 'Cui J']
+Source: Autophagy. 2018;14(1):171-172. doi: 10.1080/15548627.2017.1393590. Epub 2017 Dec 31.
+
+Title: FRET Analysis of the Promiscuous yet Specific Interactions of the HIV-1 Vpu Transmembrane Domain.
+Authors: ['Cole GB', 'Reichheld SE', 'Sharpe S']
+Source: Biophys J. 2017 Nov 7;113(9):1992-2003. doi: 10.1016/j.bpj.2017.09.010.
+
+Title: CXCR4/CXCR7/CXCL12 axis promotes an invasive phenotype in medullary thyroid carcinoma.
+Authors: ['Werner TA', 'Forster CM', 'Dizdar L', 'Verde PE', 'Raba K', 'Schott M', 'Knoefel WT', 'Krieg A']
+Source: Br J Cancer. 2017 Dec 5;117(12):1837-1845. doi: 10.1038/bjc.2017.364. Epub 2017 Nov 7.
+
+Title: Hepatitis E Virus (HEV) egress: Role of BST2 (Tetherin) and interferon induced long non- coding RNA (lncRNA) BISPR.
+Authors: ['Paliwal D', 'Joshi P', 'Panda SK']
+Source: PLoS One. 2017 Nov 1;12(11):e0187334. doi: 10.1371/journal.pone.0187334. eCollection 2017.
+
+Title: Hijacking of the Ubiquitin/Proteasome Pathway by the HIV Auxiliary Proteins.
+Authors: ['Seissler T', 'Marquet R', 'Paillart JC']
+Source: Viruses. 2017 Oct 31;9(11). pii: v9110322. doi: 10.3390/v9110322.
+
+Title: Systemic HIV-1 infection produces a unique glial footprint in humanized mouse brains.
+Authors: ['Li W', 'Gorantla S', 'Gendelman HE', 'Poluektova LY']
+Source: Dis Model Mech. 2017 Dec 19;10(12):1489-1502. doi: 10.1242/dmm.031773.
+
+Title: Modulation of the NF-kappaB signaling pathway by the HIV-2 envelope glycoprotein and its incomplete BST-2 antagonism.
+Authors: ['Dufrasne FE', 'Lucchetti M', 'Martin A', 'Andre E', 'Dessilly G', 'Kabamba B', 'Goubau P', 'Ruelle J']
+Source: Virology. 2018 Jan 1;513:11-16. doi: 10.1016/j.virol.2017.09.024. Epub 2017 Oct 11.
+
+Title: Tetherin Suppresses Type I Interferon Signaling by Targeting MAVS for NDP52-Mediated Selective Autophagic Degradation in Human Cells.
+Authors: ['Jin S', 'Tian S', 'Luo M', 'Xie W', 'Liu T', 'Duan T', 'Wu Y', 'Cui J']
+Source: Mol Cell. 2017 Oct 19;68(2):308-322.e4. doi: 10.1016/j.molcel.2017.09.005. Epub 2017 Sep 28.
+
+Title: Cooperation of the Ebola Virus Proteins VP40 and GP1,2 with BST2 To Activate NF-kappaB Independently of Virus-Like Particle Trapping.
+Authors: ['Rizk MG', 'Basler CF', 'Guatelli J']
+Source: J Virol. 2017 Oct 27;91(22). pii: JVI.01308-17. doi: 10.1128/JVI.01308-17. Print 2017 Nov 15.
+
+Title: The effect of bovine BST2A1 on the release and cell-to-cell transmission of retroviruses.
+Authors: ['Liang Z', 'Zhang Y', 'Song J', 'Zhang H', 'Zhang S', 'Li Y', 'Tan J', 'Qiao W']
+Source: Virol J. 2017 Sep 6;14(1):173. doi: 10.1186/s12985-017-0835-0.
+
+Title: Bending of the BST-2 coiled-coil during viral budding.
+Authors: ['Ozcan KA', 'Berndsen CE']
+Source: Proteins. 2017 Nov;85(11):2081-2087. doi: 10.1002/prot.25362. Epub 2017 Aug 12.
+
+Title: Japanese encephalitis virus counteracts BST2 restriction via its envelope protein E.
+Authors: ['Li M', 'Wang P', 'Zheng Z', 'Hu K', 'Zhang M', 'Guan X', 'Fu M', 'Zhang D', 'Wang W', 'Xiao G', 'Hu Q', 'Liu Y']
+Source: Virology. 2017 Oct;510:67-75. doi: 10.1016/j.virol.2017.07.008. Epub 2017 Jul 12.
+
+Title: Overexpression of the transmembrane protein BST-2 induces Akt and Erk phosphorylation in bladder cancer.
+Authors: ['Shigematsu Y', 'Oue N', 'Nishioka Y', 'Sakamoto N', 'Sentani K', 'Sekino Y', 'Mukai S', 'Teishima J', 'Matsubara A', 'Yasui W']
+Source: Oncol Lett. 2017 Jul;14(1):999-1004. doi: 10.3892/ol.2017.6230. Epub 2017 May 23.
+
+Title: Genome-wide expression and methylation profiling reveal candidate genes in osteoarthritis.
+Authors: ['Fan Y', 'Chen J', 'Yang Y', 'Lin J', 'Wu Z']
+Source: Clin Exp Rheumatol. 2017 Nov-Dec;35(6):983-990. Epub 2017 Jun 29.
+
+Title: Sensitivity to BST-2 restriction correlates with Orthobunyavirus host range.
+Authors: ['Varela M', 'Piras IM', 'Mullan C', 'Shi X', 'Tilston-Lunel NL', 'Pinto RM', 'Taggart A', 'Welch SR', 'Neil SJD', 'Kreher F', 'Elliott RM', 'Palmarini M']
+Source: Virology. 2017 Sep;509:121-130. doi: 10.1016/j.virol.2017.06.017. Epub 2017 Jun 17.
+
+Title: BST2 confers cisplatin resistance via NF-kappaB signaling in nasopharyngeal cancer.
+Authors: ['Kuang CM', 'Fu X', 'Hua YJ', 'Shuai WD', 'Ye ZH', 'Li Y', 'Peng QH', 'Li YZ', 'Chen S', 'Qian CN', 'Huang W', 'Liu RY']
+Source: Cell Death Dis. 2017 Jun 15;8(6):e2874. doi: 10.1038/cddis.2017.271.
+
+Title: Microarray-based detection and expression analysis of new genes associated with drug resistance in ovarian cancer cell lines.
+Authors: ['Januchowski R', 'Sterzynska K', 'Zawierucha P', 'Rucinski M', 'Swierczewska M', 'Partyka M', 'Bednarek-Rajewska K', 'Brazert M', 'Nowicki M', 'Zabel M', 'Klejewski A']
+Source: Oncotarget. 2017 Jul 25;8(30):49944-49958. doi: 10.18632/oncotarget.18278.
+
+Title: Acute bovine viral diarrhea virus infection inhibits expression of interferon tau-stimulated genes in bovine endometrium.
+Authors: ['Cheng Z', 'Chauhan L', 'Barry AT', 'Abudureyimu A', 'Oguejiofor CF', 'Chen X', 'Wathes DC']
+Source: Biol Reprod. 2017 Jun 1;96(6):1142-1153. doi: 10.1093/biolre/iox056.
+
+Title: The Expression of BTS-2 Enhances Cell Growth and Invasiveness in Renal Cell Carcinoma.
+Authors: ['Pham QT', 'Oue N', 'Yamamoto Y', 'Shigematsu Y', 'Sekino Y', 'Sakamoto N', 'Sentani K', 'Uraoka N', 'Tiwari M', 'Yasui W']
+Source: Anticancer Res. 2017 Jun;37(6):2853-2860. doi: 10.21873/anticanres.11637.
+
+Title: Endocytic activity of HIV-1 Vpu: Phosphoserine-dependent interactions with clathrin adaptors.
+Authors: ['Stoneham CA', 'Singh R', 'Jia X', 'Xiong Y', 'Guatelli J']
+Source: Traffic. 2017 Aug;18(8):545-561. doi: 10.1111/tra.12495. Epub 2017 Jun 27.
+
+Title: Increased S100A15 expression and decreased DNA methylation of its gene promoter are involved in high metastasis potential and poor outcome of lung adenocarcinoma.
+Authors: ['Chen YC', 'Lin MC', 'Hsiao CC', 'Zheng YX', 'Chen KD', 'Sung MT', 'Chen CJ', 'Wang TY', 'Lin YY', 'Chang HC', 'Chen YM', 'Chang JC']
+Source: Oncotarget. 2017 Jul 11;8(28):45710-45724. doi: 10.18632/oncotarget.17391.
+
+Title: Enhanced production of enveloped viruses in BST-2-deficient cell lines.
+Authors: ['Yi E', 'Oh J', 'Giao NQ', 'Oh S', 'Park SH']
+Source: Biotechnol Bioeng. 2017 Oct;114(10):2289-2297. doi: 10.1002/bit.26338. Epub 2017 Jun 29.
+
+Title: Tetherin antagonism by V proteins is a common trait among the genus Rubulavirus.
+Authors: ['Ohta K', 'Matsumoto Y', 'Ito M', 'Nishio M']
+Source: Med Microbiol Immunol. 2017 Aug;206(4):319-326. doi: 10.1007/s00430-017-0509-y. Epub 2017 May 2.
+
+Title: Human parainfluenza virus type 2 V protein inhibits induction of tetherin.
+Authors: ['Ohta K', 'Matsumoto Y', 'Yumine N', 'Nishio M']
+Source: Med Microbiol Immunol. 2017 Aug;206(4):311-318. doi: 10.1007/s00430-017-0508-z. Epub 2017 Apr 28.
+
+Title: Tetherin Inhibits Cell-Free Virus Dissemination and Retards Murine Leukemia Virus Pathogenesis.
+Authors: ['Liberatore RA', 'Mastrocola EJ', 'Powell C', 'Bieniasz PD']
+Source: J Virol. 2017 May 26;91(12). pii: JVI.02286-16. doi: 10.1128/JVI.02286-16. Print 2017 Jun 15.
+
+Title: Interferon induces interleukin 8 and bone marrow stromal cell antigen 2 expression, inhibiting the production of hepatitis B virus surface antigen from human hepatocytes.
+Authors: ['Haga Y', 'Kanda T', 'Nakamoto S', 'Nakamura M', 'Sasaki R', 'Wu S', 'Yokosuka O']
+Source: Biochem Biophys Res Commun. 2017 May 6;486(3):858-863. doi: 10.1016/j.bbrc.2017.03.150. Epub 2017 Mar 28.
+
+Title: BST-2 Expression Modulates Small CD4-Mimetic Sensitization of HIV-1-Infected Cells to Antibody-Dependent Cellular Cytotoxicity.
+Authors: ['Richard J', 'Prevost J', 'von Bredow B', 'Ding S', 'Brassard N', 'Medjahed H', 'Coutu M', 'Melillo B', 'Bibollet-Ruche F', 'Hahn BH', 'Kaufmann DE', 'Smith AB 3rd', 'Sodroski J', 'Sauter D', 'Kirchhoff F', 'Gee K', 'Neil SJ', 'Evans DT', 'Finzi A']
+Source: J Virol. 2017 May 12;91(11). pii: JVI.00219-17. doi: 10.1128/JVI.00219-17. Print 2017 Jun 1.
+
+Title: Characterization of E3 ligases involved in lysosomal sorting of the HIV-1 restriction factor BST2.
+Authors: ['Roy N', 'Pacini G', 'Berlioz-Torrent C', 'Janvier K']
+Source: J Cell Sci. 2017 May 1;130(9):1596-1611. doi: 10.1242/jcs.195412. Epub 2017 Mar 20.
+
+Title: Cysteine-linked dimerization of BST-2 confers anoikis resistance to breast cancer cells by negating proapoptotic activities to promote tumor cell survival and growth.
+Authors: ['Mahauad-Fernandez WD', 'Okeoma CM']
+Source: Cell Death Dis. 2017 Mar 16;8(3):e2687. doi: 10.1038/cddis.2017.68.
+
+Title: Conserved residues within the HIV-1 Vpu transmembrane-proximal hinge region modulate BST2 binding and antagonism.
+Authors: ['Lukhele S', 'Cohen EA']
+Source: Retrovirology. 2017 Mar 14;14(1):18. doi: 10.1186/s12977-017-0345-6.
+
+Title: Functional conservation and coherence of HIV-1 subtype A Vpu alleles.
+Authors: ['Romani B', 'Kavyanifard A', 'Allahbakhshi E']
+Source: Sci Rep. 2017 Dec;7(1):87. doi: 10.1038/s41598-017-00222-8. Epub 2017 Mar 7.
+
+Title: BCA2/Rabring7 Interferes with HIV-1 Proviral Transcription by Enhancing the SUMOylation of IkappaBalpha.
+Authors: ['Colomer-Lluch M', 'Serra-Moreno R']
+Source: J Virol. 2017 Mar 29;91(8). pii: JVI.02098-16. doi: 10.1128/JVI.02098-16. Print 2017 Apr 15.
+
+Title: BST-2 restricts IAV release and is countered by the viral M2 protein.
+Authors: ['Hu S', 'Yin L', 'Mei S', 'Li J', 'Xu F', 'Sun H', 'Liu X', 'Cen S', 'Liang C', 'Li A', 'Guo F']
+Source: Biochem J. 2017 Feb 20;474(5):715-730. doi: 10.1042/BCJ20160861.
+
+Title: Efficient Vpu-Mediated Tetherin Antagonism by an HIV-1 Group O Strain.
+Authors: ['Mack K', 'Starz K', 'Sauter D', 'Langer S', 'Bibollet-Ruche F', 'Learn GH', 'Sturzel CM', 'Leoz M', 'Plantier JC', 'Geyer M', 'Hahn BH', 'Kirchhoff F']
+Source: J Virol. 2017 Feb 28;91(6). pii: JVI.02177-16. doi: 10.1128/JVI.02177-16. Print 2017 Mar 15.
+
+Title: Mouse tetherin enhances moloney murine leukemia virus-induced syncytium formation.
+Authors: ['Kim HS', 'Han SY', 'Jung YT']
+Source: Acta Virol. 2016;60(4):372-378. doi: 10.4149/av_2016_04_372.
+
+Title: LC3C Contributes to Vpu-Mediated Antagonism of BST2/Tetherin Restriction on HIV-1 Release through a Non-canonical Autophagy Pathway.
+Authors: ['Madjo U', 'Leymarie O', 'Fremont S', 'Kuster A', 'Nehlich M', 'Gallois-Montbrun S', 'Janvier K', 'Berlioz-Torrent C']
+Source: Cell Rep. 2016 Nov 22;17(9):2221-2233. doi: 10.1016/j.celrep.2016.10.045.
+
+Title: In vitro functional assessment of natural HIV-1 group M Vpu sequences using a universal priming approach.
+Authors: ['Rahimi A', 'Anmole G', 'Soto-Nava M', 'Escamilla-Gomez T', 'Markle T', 'Jin SW', 'Lee GQ', 'Harrigan PR', 'Bangsberg DR', 'Martin J', 'Avila-Rios S', 'Reyes-Teran G', 'Brockman MA', 'Brumme ZL']
+Source: J Virol Methods. 2017 Feb;240:32-41. doi: 10.1016/j.jviromet.2016.11.004. Epub 2016 Nov 16.
+
+Title: Genetic and phenotypic analyses of sequential vpu alleles from HIV-infected IFN-treated patients.
+Authors: ['Vanwalscappel B', 'Rato S', 'Perez-Olmeda M', 'Diez Fuertes F', 'Casartelli N', 'Alcami J', 'Mammano F']
+Source: Virology. 2017 Jan;500:247-258. doi: 10.1016/j.virol.2016.10.028. Epub 2016 Nov 15.
+
+Title: Enhancing Virion Tethering by BST2 Sensitizes Productively and Latently HIV-infected T cells to ADCC Mediated by Broadly Neutralizing Antibodies.
+Authors: ['Pham TN', 'Lukhele S', 'Dallaire F', 'Perron G', 'Cohen EA']
+Source: Sci Rep. 2016 Nov 17;6:37225. doi: 10.1038/srep37225.
+
+Title: The Tetherin Antagonism of the Ebola Virus Glycoprotein Requires an Intact Receptor-Binding Domain and Can Be Blocked by GP1-Specific Antibodies.
+Authors: ['Brinkmann C', 'Nehlmeier I', 'Walendy-Gnirss K', 'Nehls J', 'Gonzalez Hernandez M', 'Hoffmann M', 'Qiu X', 'Takada A', 'Schindler M', 'Pohlmann S']
+Source: J Virol. 2016 Nov 28;90(24):11075-11086. doi: 10.1128/JVI.01563-16. Print 2016 Dec 15.
+
+Title: Differential Control of BST2 Restriction and Plasmacytoid Dendritic Cell Antiviral Response by Antagonists Encoded by HIV-1 Group M and O Strains.
+Authors: ['Bego MG', 'Cong L', 'Mack K', 'Kirchhoff F', 'Cohen EA']
+Source: J Virol. 2016 Oct 28;90(22):10236-10246. doi: 10.1128/JVI.01131-16. Print 2016 Nov 15.
+
+Title: HSV1 MicroRNA Modulation of GPI Anchoring and Downstream Immune Evasion.
+Authors: ['Enk J', 'Levi A', 'Weisblum Y', 'Yamin R', 'Charpak-Amikam Y', 'Wolf DG', 'Mandelboim O']
+Source: Cell Rep. 2016 Oct 18;17(4):949-956. doi: 10.1016/j.celrep.2016.09.077.
+
+Title: Single Amino Acid Substitution N659D in HIV-2 Envelope Glycoprotein (Env) Impairs Viral Release and Hampers BST-2 Antagonism.
+Authors: ['Dufrasne FE', 'Lombard C', 'Goubau P', 'Ruelle J']
+Source: Viruses. 2016 Oct 14;8(10). pii: v8100285. doi: 10.3390/v8100285.
+
+Title: Antagonism of BST-2/Tetherin Is a Conserved Function of the Env Glycoprotein of Primary HIV-2 Isolates.
+Authors: ['Chen CY', 'Shingai M', 'Welbourn S', 'Martin MA', 'Borrego P', 'Taveira N', 'Strebel K']
+Source: J Virol. 2016 Nov 28;90(24):11062-11074. doi: 10.1128/JVI.01451-16. Print 2016 Dec 15.
+
+Title: HSV-2 glycoprotein gD targets the CC domain of tetherin and promotes tetherin degradation via lysosomal pathway.
+Authors: ['Liu Y', 'Li M', 'Zhang D', 'Zhang M', 'Hu Q']
+Source: Virol J. 2016 Sep 15;13(1):154. doi: 10.1186/s12985-016-0610-7.
+
+Title: Expression, purification and characterization of a full-length recombinant HIV-1 Vpu from inclusion bodies.
+Authors: ['Njengele Z', 'Kleynhans R', 'Sayed Y', 'Mosebi S']
+Source: Protein Expr Purif. 2016 Dec;128:109-14. doi: 10.1016/j.pep.2016.08.018. Epub 2016 Aug 31.
+
+Title: Vpu-Mediated Counteraction of Tetherin Is a Major Determinant of HIV-1 Interferon Resistance.
+Authors: ['Kmiec D', 'Iyer SS', 'Sturzel CM', 'Sauter D', 'Hahn BH', 'Kirchhoff F']
+Source: mBio. 2016 Aug 16;7(4). pii: mBio.00934-16. doi: 10.1128/mBio.00934-16.
+
+Title: Novel Acylguanidine-Based Inhibitor of HIV-1.
+Authors: ['Mwimanzi P', 'Tietjen I', 'Miller SC', 'Shahid A', 'Cobarrubias K', 'Kinloch NN', 'Baraki B', 'Richard J', 'Finzi A', 'Fedida D', 'Brumme ZL', 'Brockman MA']
+Source: J Virol. 2016 Sep 29;90(20):9495-508. doi: 10.1128/JVI.01107-16. Print 2016 Oct 15.
+
+Title: CD317 Promotes the survival of cancer cells through apoptosis-inducing factor.
+Authors: ['Li X', 'Zhang G', 'Chen Q', 'Lin Y', 'Li J', 'Ruan Q', 'Chen Y', 'Yu G', 'Wan X']
+Source: J Exp Clin Cancer Res. 2016 Jul 22;35(1):117. doi: 10.1186/s13046-016-0391-2.
+
+Title: [Inhibition of HBV Release by BST-2].
+Authors: ['Han Z', 'Yu X', 'Zhang W']
+Source: Bing Du Xue Bao. 2016 Mar;32(2):215-21.
+
+Title: BST2 Mediates Osteoblast Differentiation via the BMP2 Signaling Pathway in Human Alveolar-Derived Bone Marrow Stromal Cells.
+Authors: ['Yoo SH', 'Kim JG', 'Kim BS', 'Lee J', 'Pi SH', 'Lim HD', 'Shin HI', 'Cho ES', 'You HK']
+Source: PLoS One. 2016 Jun 30;11(6):e0158481. doi: 10.1371/journal.pone.0158481. eCollection 2016.
+
+Title: Induction of IFNT-Stimulated Genes by Conceptus-Derived Exosomes during the Attachment Period.
+Authors: ['Nakamura K', 'Kusama K', 'Bai R', 'Sakurai T', 'Isuzugawa K', 'Godkin JD', 'Suda Y', 'Imakawa K']
+Source: PLoS One. 2016 Jun 28;11(6):e0158278. doi: 10.1371/journal.pone.0158278. eCollection 2016.
+
+Title: Transcriptome sequencing of neurologic diseases associated genes in HHV-6A infected human astrocyte.
+Authors: ['Shao Q', 'Lin Z', 'Wu X', 'Tang J', 'Lu S', 'Feng D', 'Cheng C', 'Qing L', 'Yao K', 'Chen Y']
+Source: Oncotarget. 2016 Jul 26;7(30):48070-48080. doi: 10.18632/oncotarget.10127.
+
+Title: Monoclonal Antibody Against Bone Marrow Stromal Cell Antigen 2 Protein of Swine.
+Authors: ?
+Source: Monoclon Antib Immunodiagn Immunother. 2016 Jun;35(3):178. doi: 10.1089/mab.2016.0018.
+
+Title: Effect of Cocaine on HIV Infection and Inflammasome Gene Expression Profile in HIV Infected Macrophages.
+Authors: ['Atluri VS', 'Pilakka-Kanthikeel S', 'Garcia G', 'Jayant RD', 'Sagar V', 'Samikkannu T', 'Yndart A', 'Nair M']
+Source: Sci Rep. 2016 Jun 20;6:27864. doi: 10.1038/srep27864.
+
+Title: MT1-MMP Inhibits the Activity of Bst-2 via Their Cytoplasmic Domains Dependent Interaction.
+Authors: ['Fan L', 'Liu L', 'Zhu C', 'Zhu Q', 'Lu S', 'Liu P']
+Source: Int J Mol Sci. 2016 May 26;17(6). pii: ijms17060818. doi: 10.3390/ijms17060818.
+
+Title: Two E-selectin ligands, BST-2 and LGALS3BP, predict metastasis and poor survival of ER-negative breast cancer.
+Authors: ['Woodman N', 'Pinder SE', 'Tajadura V', 'Le Bourhis X', 'Gillett C', 'Delannoy P', 'Burchell JM', 'Julien S']
+Source: Int J Oncol. 2016 Jul;49(1):265-75. doi: 10.3892/ijo.2016.3521. Epub 2016 May 13.
+
+Title: HIV-1 Vpu Antagonizes CD317/Tetherin by Adaptor Protein-1-Mediated Exclusion from Virus Assembly Sites.
+Authors: ['Pujol FM', 'Laketa V', 'Schmidt F', 'Mukenhirn M', 'Muller B', 'Boulant S', 'Grimm D', 'Keppler OT', 'Fackler OT']
+Source: J Virol. 2016 Jul 11;90(15):6709-6723. doi: 10.1128/JVI.00504-16. Print 2016 Aug 1.
+
+Title: Enhanced antagonism of BST-2 by a neurovirulent SIV envelope.
+Authors: ['Matsuda K', 'Chen CY', 'Whitted S', 'Chertova E', 'Roser DJ', 'Wu F', 'Plishka RJ', 'Ourmanov I', 'Buckler-White A', 'Lifson JD', 'Strebel K', 'Hirsch VM']
+Source: J Clin Invest. 2016 Jun 1;126(6):2295-307. doi: 10.1172/JCI83725. Epub 2016 May 9.
+
+Title: Helicobacter pylori Infection Increases Frequency of PDCA-1(+) (CD317(+)) B-cell Subsets.
+Authors: ['Ma Z', 'Liu G', 'Zhang M', 'Li M', 'Liu Y', 'Yanfang J']
+Source: Arch Med Res. 2016 Feb;47(2):96-104. doi: 10.1016/j.arcmed.2016.04.003. Epub 2016 Apr 28.
+
+Title: A Genetic Screen Identifies a Critical Role for the WDR81-WDR91 Complex in the Trafficking and Degradation of Tetherin.
+Authors: ['Rapiteanu R', 'Davis LJ', 'Williamson JC', 'Timms RT', 'Paul Luzio J', 'Lehner PJ']
+Source: Traffic. 2016 Aug;17(8):940-58. doi: 10.1111/tra.12409. Epub 2016 May 25.
+
+Title: The Vpu-interacting Protein SGTA Regulates Expression of a Non-glycosylated Tetherin Species.
+Authors: ['Waheed AA', 'MacDonald S', 'Khan M', 'Mounts M', 'Swiderski M', 'Xu Y', 'Ye Y', 'Freed EO']
+Source: Sci Rep. 2016 Apr 22;6:24934. doi: 10.1038/srep24934.
+
+Title: Interferon Alpha Subtype-Specific Suppression of HIV-1 Infection In Vivo.
+Authors: ['Lavender KJ', 'Gibbert K', 'Peterson KE', 'Van Dis E', 'Francois S', 'Woods T', 'Messer RJ', 'Gawanbacht A', 'Muller JA', 'Munch J', 'Phillips K', 'Race B', 'Harper MS', 'Guo K', 'Lee EJ', 'Trilling M', 'Hengel H', 'Piehler J', 'Verheyen J', 'Wilson CC', 'Santiago ML', 'Hasenkrug KJ', 'Dittmer U']
+Source: J Virol. 2016 Jun 10;90(13):6001-6013. doi: 10.1128/JVI.00451-16. Print 2016 Jul 1.
+
+Title: Tetherin/BST-2: Restriction Factor or Immunomodulator?
+Authors: ['Li SX', 'Barrett BS', 'Guo K', 'Santiago ML']
+Source: Curr HIV Res. 2016;14(3):235-46. doi: 10.2174/1570162x14999160224102752.
+
+Title: Anti-HIV Factors: Targeting Each Step of HIV's Replication Cycle.
+Authors: ['Colomer-Lluch M', 'Gollahon LS', 'Serra-Moreno R']
+Source: Curr HIV Res. 2016;14(3):175-82. doi: 10.2174/1570162x14999160224094621.
+
+Title: Mutation of Glycosylation Sites in BST-2 Leads to Its Accumulation at Intracellular CD63-Positive Vesicles without Affecting Its Antiviral Activity against Multivesicular Body-Targeted HIV-1 and Hepatitis B Virus.
+Authors: ['Han Z', 'Lv M', 'Shi Y', 'Yu J', 'Niu J', 'Yu XF', 'Zhang W']
+Source: Viruses. 2016 Feb 29;8(3):62. doi: 10.3390/v8030062.
+
+Title: 2-thio-6-azauridine inhibits Vpu mediated BST-2 degradation.
+Authors: ['Zhang Q', 'Mi Z', 'Huang Y', 'Ma L', 'Ding J', 'Wang J', 'Zhang Y', 'Chen Y', 'Zhou J', 'Guo F', 'Li X', 'Cen S']
+Source: Retrovirology. 2016 Mar 2;13:13. doi: 10.1186/s12977-016-0247-z.
+
+Title: Protective Role of BST2 Polymorphisms in Mother-to-Child Transmission of HIV-1 and Adult AIDS Progression.
+Authors: ['Kamada AJ', 'Bianco AM', 'Zupin L', 'Girardelli M', 'Matte MC', 'Medeiros RM', 'Almeida SE', 'Rocha MM', 'Segat L', 'Chies JA', 'Kuhn L', 'Crovella S']
+Source: J Acquir Immune Defic Syndr. 2016 Jul 1;72(3):237-41. doi: 10.1097/QAI.0000000000000949.
+
+Title: Constitutively Active MAVS Inhibits HIV-1 Replication via Type I Interferon Secretion and Induction of HIV-1 Restriction Factors.
+Authors: ['Gupta S', 'Termini JM', 'Issac B', 'Guirado E', 'Stone GW']
+Source: PLoS One. 2016 Feb 5;11(2):e0148929. doi: 10.1371/journal.pone.0148929. eCollection 2016.
+
+Title: Tetherin/BST-2 promotes dendritic cell activation and function during acute retrovirus infection.
+Authors: ['Li SX', 'Barrett BS', 'Guo K', 'Kassiotis G', 'Hasenkrug KJ', 'Dittmer U', 'Gibbert K', 'Santiago ML']
+Source: Sci Rep. 2016 Feb 5;6:20425. doi: 10.1038/srep20425.
+
+Title: Overexpression of Transmembrane Protein BST2 is Associated with Poor Survival of Patients with Esophageal, Gastric, or Colorectal Cancer.
+Authors: ['Mukai S', 'Oue N', 'Oshima T', 'Mukai R', 'Tatsumoto Y', 'Sakamoto N', 'Sentani K', 'Tanabe K', 'Egi H', 'Hinoi T', 'Ohdan H', 'Yasui W']
+Source: Ann Surg Oncol. 2017 Feb;24(2):594-602. doi: 10.1245/s10434-016-5100-z. Epub 2016 Feb 1.
+
+Title: The Disulfide Bonds within BST-2 Enhance Tensile Strength during Viral Tethering.
+Authors: ['Du Pont KE', 'McKenzie AM', 'Kokhan O', 'Sumner I', 'Berndsen CE']
+Source: Biochemistry. 2016 Feb 16;55(6):940-7. doi: 10.1021/acs.biochem.5b01362. Epub 2016 Feb 4.
+
+Title: Filamin A Is Involved in HIV-1 Vpu-mediated Evasion of Host Restriction by Modulating Tetherin Expression.
+Authors: ['Dotson D', 'Woodruff EA', 'Villalta F', 'Dong X']
+Source: J Biol Chem. 2016 Feb 19;291(8):4236-46. doi: 10.1074/jbc.M115.708123. Epub 2016 Jan 7.
+
+Title: ATP1B3 Protein Modulates the Restriction of HIV-1 Production and Nuclear Factor kappa Light Chain Enhancer of Activated B Cells (NF-kappaB) Activation by BST-2.
+Authors: ['Nishitsuji H', 'Sugiyama R', 'Abe M', 'Takaku H']
+Source: J Biol Chem. 2016 Feb 26;291(9):4754-62. doi: 10.1074/jbc.M115.679357. Epub 2015 Dec 22.
+
+Title: Pharmacologic Inhibition of Nedd8 Activation Enzyme Exposes CD4-Induced Epitopes within Env on Cells Expressing HIV-1.
+Authors: ['Tokarev A', 'Stoneham C', 'Lewinski MK', 'Mukim A', 'Deshmukh S', 'Vollbrecht T', 'Spina CA', 'Guatelli J']
+Source: J Virol. 2015 Dec 16;90(5):2486-502. doi: 10.1128/JVI.02736-15.
+
+Title: Human parainfluenza virus type 2 V protein inhibits and antagonizes tetherin.
+Authors: ['Ohta K', 'Goto H', 'Yumine N', 'Nishio M']
+Source: J Gen Virol. 2016 Mar;97(3):561-570. doi: 10.1099/jgv.0.000373. Epub 2015 Dec 16.
+
+Title: A small molecule compound IMB-LA inhibits HIV-1 infection by preventing viral Vpu from antagonizing the host restriction factor BST-2.
+Authors: ['Mi Z', 'Ding J', 'Zhang Q', 'Zhao J', 'Ma L', 'Yu H', 'Liu Z', 'Shan G', 'Li X', 'Zhou J', 'Wei T', 'Zhang L', 'Guo F', 'Liang C', 'Cen S']
+Source: Sci Rep. 2015 Dec 16;5:18499. doi: 10.1038/srep18499.
+
+Title: Cell Surface Downregulation of NK Cell Ligands by Patient-Derived HIV-1 Vpu and Nef Alleles.
+Authors: ['Galaski J', 'Ahmad F', 'Tibroni N', 'Pujol FM', 'Muller B', 'Schmidt RE', 'Fackler OT']
+Source: J Acquir Immune Defic Syndr. 2016 May 1;72(1):1-10. doi: 10.1097/QAI.0000000000000917.
+
+Title: A STING-dependent innate-sensing pathway mediates resistance to corneal HSV-1 infection via upregulation of the antiviral effector tetherin.
+Authors: ['Royer DJ', 'Carr DJ']
+Source: Mucosal Immunol. 2016 Jul;9(4):1065-75. doi: 10.1038/mi.2015.124. Epub 2015 Dec 2.
+
+Title: Three-Dimensional Structural Characterization of HIV-1 Tethered to Human Cells.
+Authors: ['Strauss JD', 'Hammonds JE', 'Yi H', 'Ding L', 'Spearman P', 'Wright ER']
+Source: J Virol. 2015 Nov 18;90(3):1507-21. doi: 10.1128/JVI.01880-15. Print 2016 Feb 1.
+
+Title: Endogenous Murine BST-2/Tetherin Is Not a Major Restriction Factor of Influenza A Virus Infection.
+Authors: ['Londrigan SL', 'Tate MD', 'Job ER', 'Moffat JM', 'Wakim LM', 'Gonelli CA', 'Purcell DF', 'Brooks AG', 'Villadangos JA', 'Reading PC', 'Mintern JD']
+Source: PLoS One. 2015 Nov 13;10(11):e0142925. doi: 10.1371/journal.pone.0142925. eCollection 2015.
+
+Title: Increased BST2 expression during simian immunodeficiency virus infection is not a determinant of disease progression in rhesus monkeys.
+Authors: ['Mussil B', 'Javed A', 'Topfer K', 'Sauermann U', 'Sopper S']
+Source: Retrovirology. 2015 Nov 10;12:92. doi: 10.1186/s12977-015-0219-8.
+
+Title: Short-term Treatment With Interferon Alfa Diminishes Expression of HIV-1 and Reduces CD4+ T-Cell Activation in Patients Coinfected With HIV and Hepatitis C Virus and Receiving Antiretroviral Therapy.
+Authors: ['Moron-Lopez S', 'Gomez-Mora E', 'Salgado M', 'Ouchi D', 'Puertas MC', 'Urrea V', 'Navarro J', 'Jou A', 'Perez M', 'Tural C', 'Clotet B', 'Montaner LJ', 'Blanco J', 'Crespo M', 'Martinez-Picado J']
+Source: J Infect Dis. 2016 Mar 15;213(6):1008-12. doi: 10.1093/infdis/jiv521. Epub 2015 Nov 1.
+
+Title: Requirements within the Ebola Viral Glycoprotein for Tetherin Antagonism.
+Authors: ['Vande Burgt NH', 'Kaletsky RL', 'Bates P']
+Source: Viruses. 2015 Oct 26;7(10):5587-602. doi: 10.3390/v7102888.
+
+Title: HIV-1 Adapts To Replicate in Cells Expressing Common Marmoset APOBEC3G and BST2.
+Authors: ['Fernandez-Oliva A', 'Finzi A', 'Haim H', 'Menendez-Arias L', 'Sodroski J', 'Pacheco B']
+Source: J Virol. 2015 Oct 28;90(2):725-40. doi: 10.1128/JVI.02431-15. Print 2016 Jan 15.
+
+Title: CpG oligodeoxynucleotides potentiate the antitumor activity of anti-BST2 antibody.
+Authors: ['Hiramatsu K', 'Serada S', 'Kobiyama K', 'Nakagawa S', 'Morimoto A', 'Matsuzaki S', 'Ueda Y', 'Fujimoto M', 'Yoshino K', 'Ishii KJ', 'Enomoto T', 'Kimura T', 'Naka T']
+Source: Cancer Sci. 2015 Oct;106(10):1474-8. doi: 10.1111/cas.12738.
+
+Title: Bone Marrow Stromal Antigen 2 Is a Novel Plasma Biomarker and Prognosticator for Colorectal Carcinoma: A Secretome-Based Verification Study.
+Authors: ['Chiang SF', 'Kan CY', 'Hsiao YC', 'Tang R', 'Hsieh LL', 'Chiang JM', 'Tsai WS', 'Yeh CY', 'Hsieh PS', 'Liang Y', 'Chen JS', 'Yu JS']
+Source: Dis Markers. 2015;2015:874054. doi: 10.1155/2015/874054. Epub 2015 Oct 1.
+
+Title: HIV-1 Nef hijacks clathrin coats by stabilizing AP-1:Arf1 polygons.
+Authors: ['Shen QT', 'Ren X', 'Zhang R', 'Lee IH', 'Hurley JH']
+Source: Science. 2015 Oct 23;350(6259):aac5137. doi: 10.1126/science.aac5137.
+
+Title: Early Vertebrate Evolution of the Host Restriction Factor Tetherin.
+Authors: ['Heusinger E', 'Kluge SF', 'Kirchhoff F', 'Sauter D']
+Source: J Virol. 2015 Dec;89(23):12154-65. doi: 10.1128/JVI.02149-15. Epub 2015 Sep 23.
+
+Title: A multi-scale mathematical modeling framework to investigate anti-viral therapeutic opportunities in targeting HIV-1 accessory proteins.
+Authors: ['Suryawanshi GW', 'Hoffmann A']
+Source: J Theor Biol. 2015 Dec 7;386:89-104. doi: 10.1016/j.jtbi.2015.08.032. Epub 2015 Sep 16.
+
+Title: Viral Restriction Activity of Feline BST2 Is Independent of Its N-Glycosylation and Induction of NF-kappaB Activation.
+Authors: ['Wang W', 'Wang J', 'Qu M', 'Li X', 'Zhang J', 'Zhang H', 'Wu J', 'Yu B', 'Wu H', 'Kong W', 'Yu X']
+Source: PLoS One. 2015 Sep 17;10(9):e0138190. doi: 10.1371/journal.pone.0138190. eCollection 2015.
+
+Title: Severe Acute Respiratory Syndrome Coronavirus ORF7a Inhibits Bone Marrow Stromal Antigen 2 Virion Tethering through a Novel Mechanism of Glycosylation Interference.
+Authors: ['Taylor JK', 'Coleman CM', 'Postel S', 'Sisk JM', 'Bernbaum JG', 'Venkataraman T', 'Sundberg EJ', 'Frieman MB']
+Source: J Virol. 2015 Dec;89(23):11820-33. doi: 10.1128/JVI.02274-15. Epub 2015 Sep 16.
+
+Title: Global transcriptomic profiling of bovine endometrial immune response in vitro. II. Effect of bovine viral diarrhea virus on the endometrial response to lipopolysaccharide.
+Authors: ['Oguejiofor CF', 'Cheng Z', 'Abudureyimu A', 'Anstaett OL', 'Brownlie J', 'Fouladi-Nashta AA', 'Wathes DC']
+Source: Biol Reprod. 2015 Oct;93(4):101. doi: 10.1095/biolreprod.115.128876. Epub 2015 Sep 9.
+
+Title: Global transcriptomic profiling of bovine endometrial immune response in vitro. I. Effect of lipopolysaccharide on innate immunity.
+Authors: ['Oguejiofor CF', 'Cheng Z', 'Abudureyimu A', 'Fouladi-Nashta AA', 'Wathes DC']
+Source: Biol Reprod. 2015 Oct;93(4):100. doi: 10.1095/biolreprod.115.128868. Epub 2015 Sep 9.
+
+Title: Molecular dissection of HBV evasion from restriction factor tetherin: A new perspective for antiviral cell therapy.
+Authors: ['Miyakawa K', 'Matsunaga S', 'Watashi K', 'Sugiyama M', 'Kimura H', 'Yamamoto N', 'Mizokami M', 'Wakita T', 'Ryo A']
+Source: Oncotarget. 2015 Sep 8;6(26):21840-52. doi: 10.18632/oncotarget.4808.
+
+Title: Serine Phosphorylation of HIV-1 Vpu and Its Binding to Tetherin Regulates Interaction with Clathrin Adaptors.
+Authors: ['Kueck T', 'Foster TL', 'Weinelt J', 'Sumner JC', 'Pickering S', 'Neil SJ']
+Source: PLoS Pathog. 2015 Aug 28;11(8):e1005141. doi: 10.1371/journal.ppat.1005141. eCollection 2015 Aug.
+
+Title: Bst2/Tetherin Is Induced in Neurons by Type I Interferon and Viral Infection but Is Dispensable for Protection against Neurotropic Viral Challenge.
+Authors: ['Holmgren AM', 'Miller KD', 'Cavanaugh SE', 'Rall GF']
+Source: J Virol. 2015 Nov;89(21):11011-8. doi: 10.1128/JVI.01745-15. Epub 2015 Aug 26.
+
+Title: Activation of TLR3/interferon signaling pathway by bluetongue virus results in HIV inhibition in macrophages.
+Authors: ['Dai M', 'Wang X', 'Li JL', 'Zhou Y', 'Sang M', 'Liu JB', 'Wu JG', 'Ho WZ']
+Source: FASEB J. 2015 Dec;29(12):4978-88. doi: 10.1096/fj.15-273128. Epub 2015 Aug 21.
+
+Title: Envelope Glycoprotein Internalization Protects Human and Simian Immunodeficiency Virus-Infected Cells from Antibody-Dependent Cell-Mediated Cytotoxicity.
+Authors: ['von Bredow B', 'Arias JF', 'Heyer LN', 'Gardner MR', 'Farzan M', 'Rakasz EG', 'Evans DT']
+Source: J Virol. 2015 Oct;89(20):10648-55. doi: 10.1128/JVI.01911-15. Epub 2015 Aug 12.
+
+Title: Determinants in HIV-2 Env and tetherin required for functional interaction.
+Authors: ['Exline CM', 'Yang SJ', 'Haworth KG', 'Rengarajan S', 'Lopez LA', 'Droniou ME', 'Seclen E', 'Cannon PM']
+Source: Retrovirology. 2015 Aug 7;12:67. doi: 10.1186/s12977-015-0194-0.
+
+Title: Pandemic HIV-1 Vpu overcomes intrinsic herd immunity mediated by tetherin.
+Authors: ['Iwami S', 'Sato K', 'Morita S', 'Inaba H', 'Kobayashi T', 'Takeuchi JS', 'Kimura Y', 'Misawa N', 'Ren F', 'Iwasa Y', 'Aihara K', 'Koyanagi Y']
+Source: Sci Rep. 2015 Jul 17;5:12256. doi: 10.1038/srep12256.
+
+Title: Vpu Exploits the Cross-Talk between BST2 and the ILT7 Receptor to Suppress Anti-HIV-1 Responses by Plasmacytoid Dendritic Cells.
+Authors: ['Bego MG', 'Cote E', 'Aschman N', 'Mercier J', 'Weissenhorn W', 'Cohen EA']
+Source: PLoS Pathog. 2015 Jul 14;11(7):e1005024. doi: 10.1371/journal.ppat.1005024. eCollection 2015 Jul.
+
+Title: Identification of BST-2/tetherin-induced hepatitis B virus restriction and hepatocyte-specific BST-2 inactivation.
+Authors: ['Lv M', 'Zhang B', 'Shi Y', 'Han Z', 'Zhang Y', 'Zhou Y', 'Zhang W', 'Niu J', 'Yu XF']
+Source: Sci Rep. 2015 Jun 29;5:11736. doi: 10.1038/srep11736.
+
+Title: The Interferon-Inducible Protein Tetherin Inhibits Hepatitis B Virus Virion Secretion.
+Authors: ['Yan R', 'Zhao X', 'Cai D', 'Liu Y', 'Block TM', 'Guo JT', 'Guo H']
+Source: J Virol. 2015 Sep;89(18):9200-12. doi: 10.1128/JVI.00933-15. Epub 2015 Jun 24.
+
+Title: Tetherin Sensitivity of Influenza A Viruses Is Strain Specific: Role of Hemagglutinin and Neuraminidase.
+Authors: ['Gnirss K', 'Zmora P', 'Blazejewska P', 'Winkler M', 'Lins A', 'Nehlmeier I', 'Gartner S', 'Moldenhauer AS', 'Hofmann-Winkler H', 'Wolff T', 'Schindler M', 'Pohlmann S']
+Source: J Virol. 2015 Sep;89(18):9178-88. doi: 10.1128/JVI.00615-15. Epub 2015 Jun 24.
+
+Title: Multiparameter Analysis of Human Bone Marrow Stromal Cells Identifies Distinct Immunomodulatory and Differentiation-Competent Subtypes.
+Authors: ['James S', 'Fox J', 'Afsari F', 'Lee J', 'Clough S', 'Knight C', 'Ashmore J', 'Ashton P', 'Preham O', 'Hoogduijn M', 'Ponzoni Rde A', 'Hancock Y', 'Coles M', 'Genever P']
+Source: Stem Cell Reports. 2015 Jun 9;4(6):1004-15. doi: 10.1016/j.stemcr.2015.05.005.
+
+Title: Restriction Factors in HIV-1 Disease Progression.
+Authors: ['Merindol N', 'Berthoux L']
+Source: Curr HIV Res. 2015;13(6):448-61. doi: 10.2174/1570162x13666150608104412.
+
+Title: Twelve-Month Antiretroviral Therapy Suppresses Plasma and Genital Viral Loads but Fails to Alter Genital Levels of Cytokines, in a Cohort of HIV-Infected Rwandan Women.
+Authors: ['Ondoa P', 'Gautam R', 'Rusine J', 'Lutter R', 'Jurriaans S', 'Kootstra N', 'Karita E', 'van de Wijgert J']
+Source: PLoS One. 2015 May 26;10(5):e0127201. doi: 10.1371/journal.pone.0127201. eCollection 2015.
+
+Title: The Broad-Spectrum Antiviral Protein ZAP Restricts Human Retrotransposition.
+Authors: ['Goodier JL', 'Pereira GC', 'Cheung LE', 'Rose RJ', 'Kazazian HH Jr']
+Source: PLoS Genet. 2015 May 22;11(5):e1005252. doi: 10.1371/journal.pgen.1005252. eCollection 2015 May.
+
+Title: Intrinsic host restrictions to HIV-1 and mechanisms of viral escape.
+Authors: ['Simon V', 'Bloch N', 'Landau NR']
+Source: Nat Immunol. 2015 Jun;16(6):546-53. doi: 10.1038/ni.3156.
+
+Title: Associations of common variants in the BST2 region with HIV-1 acquisition in African American and European American people who inject drugs.
+Authors: ['Hancock DB', 'Gaddis NC', 'Levy JL', 'Bierut LJ', 'Kral AH', 'Johnson EO']
+Source: AIDS. 2015 Apr 24;29(7):767-77. doi: 10.1097/QAD.0000000000000604.
+
+Title: CD317 is over-expressed in B-cell chronic lymphocytic leukemia, but not B-cell acute lymphoblastic leukemia.
+Authors: ['Gong S', 'Osei ES', 'Kaplan D', 'Chen YH', 'Meyerson H']
+Source: Int J Clin Exp Pathol. 2015 Feb 1;8(2):1613-21. eCollection 2015.
+
+Title: HIV suppression by host restriction factors and viral immune evasion.
+Authors: ['Jia X', 'Zhao Q', 'Xiong Y']
+Source: Curr Opin Struct Biol. 2015 Apr;31:106-14. doi: 10.1016/j.sbi.2015.04.004. Epub 2015 May 16.
+
+Title: BST2/tetherin inhibition of alphavirus exit.
+Authors: ['Ooi YS', 'Dube M', 'Kielian M']
+Source: Viruses. 2015 Apr 22;7(4):2147-67. doi: 10.3390/v7042147.
+
+Title: Potential of Proapoptotic Peptides to Induce the Formation of Giant Plasma Membrane Vesicles with Lipid Domains.
+Authors: ['Lauster D', 'Vazquez O', 'Schwarzer R', 'Seitz O', 'Herrmann A']
+Source: Chembiochem. 2015 Jun 15;16(9):1288-92. doi: 10.1002/cbic.201500045. Epub 2015 May 14.
+
+Title: Bone marrow stromal antigen 2 (BST-2) DNA is demethylated in breast tumors and breast cancer cells.
+Authors: ['Mahauad-Fernandez WD', 'Borcherding NC', 'Zhang W', 'Okeoma CM']
+Source: PLoS One. 2015 Apr 10;10(4):e0123931. doi: 10.1371/journal.pone.0123931. eCollection 2015.
+
+Title: Ebola Virus Glycoprotein Promotes Enhanced Viral Egress by Preventing Ebola VP40 From Associating With the Host Restriction Factor BST2/Tetherin.
+Authors: ['Gustin JK', 'Bai Y', 'Moses AV', 'Douglas JL']
+Source: J Infect Dis. 2015 Oct 1;212 Suppl 2:S181-90. doi: 10.1093/infdis/jiv125. Epub 2015 Mar 27.
+
+Title: Antiviral gene expression in psoriasis.
+Authors: ['Raposo RA', 'Gupta R', 'Abdel-Mohsen M', 'Dimon M', 'Debbaneh M', 'Jiang W', 'York VA', 'Leadabrand KS', 'Brown G', 'Malakouti M', 'Arron S', 'Kuebler PJ', 'Wu JJ', 'Pillai SK', 'Nixon DF', 'Liao W']
+Source: J Eur Acad Dermatol Venereol. 2015 Oct;29(10):1951-7. doi: 10.1111/jdv.13091. Epub 2015 Mar 23.
+
+Title: Membrane Anchoring by a C-terminal Tryptophan Enables HIV-1 Vpu to Displace Bone Marrow Stromal Antigen 2 (BST2) from Sites of Viral Assembly.
+Authors: ['Lewinski MK', 'Jafari M', 'Zhang H', 'Opella SJ', 'Guatelli J']
+Source: J Biol Chem. 2015 Apr 24;290(17):10919-33. doi: 10.1074/jbc.M114.630095. Epub 2015 Mar 10.
+
+Title: Regulation of Interferon-Stimulated Gene BST2 by a lncRNA Transcribed from a Shared Bidirectional Promoter.
+Authors: ['Kambara H', 'Gunawardane L', 'Zebrowski E', 'Kostadinova L', 'Jobava R', 'Krokowski D', 'Hatzoglou M', 'Anthony DD', 'Valadkhan S']
+Source: Front Immunol. 2015 Jan 30;5:676. doi: 10.3389/fimmu.2014.00676. eCollection 2014.
+
+Title: The viral restriction factor tetherin prevents leucine-rich pentatricopeptide repeat-containing protein (LRPPRC) from association with beclin 1 and B-cell CLL/lymphoma 2 (Bcl-2) and enhances autophagy and mitophagy.
+Authors: ['Zou J', 'Li W', 'Misra A', 'Yue F', 'Song K', 'Chen Q', 'Guo G', 'Yi J', 'Kimata JT', 'Liu L']
+Source: J Biol Chem. 2015 Mar 13;290(11):7269-79. doi: 10.1074/jbc.M114.627679. Epub 2015 Jan 28.
+
+Title: Long Non-Coding RNA BST2/BISPR is Induced by IFN and Regulates the Expression of the Antiviral Factor Tetherin.
+Authors: ['Barriocanal M', 'Carnero E', 'Segura V', 'Fortes P']
+Source: Front Immunol. 2015 Jan 9;5:655. doi: 10.3389/fimmu.2014.00655. eCollection 2014.
+
+Title: Nef proteins of epidemic HIV-1 group O strains antagonize human tetherin.
+Authors: ['Kluge SF', 'Mack K', 'Iyer SS', 'Pujol FM', 'Heigele A', 'Learn GH', 'Usmani SM', 'Sauter D', 'Joas S', 'Hotter D', 'Bibollet-Ruche F', 'Plenderleith LJ', 'Peeters M', 'Geyer M', 'Sharp PM', 'Fackler OT', 'Hahn BH', 'Kirchhoff F']
+Source: Cell Host Microbe. 2014 Nov 12;16(5):639-50. doi: 10.1016/j.chom.2014.10.002. Epub 2014 Nov 12.
+
+Title: Positioning of cysteine residues within the N-terminal portion of the BST-2/tetherin ectodomain is important for functional dimerization of BST-2.
+Authors: ['Welbourn S', 'Kao S', 'Du Pont KE', 'Andrew AJ', 'Berndsen CE', 'Strebel K']
+Source: J Biol Chem. 2015 Feb 6;290(6):3740-51. doi: 10.1074/jbc.M114.617639. Epub 2014 Dec 18.
+
+Title: Bone marrow stromal antigen 2 expressed in cancer cells promotes mammary tumor growth and metastasis.
+Authors: ['Mahauad-Fernandez WD', 'DeMali KA', 'Olivier AK', 'Okeoma CM']
+Source: Breast Cancer Res. 2014 Dec 13;16(6):493. doi: 10.1186/s13058-014-0493-8.
+
+Title: Tetherin restricts HSV-2 release and is counteracted by multiple viral glycoproteins.
+Authors: ['Liu Y', 'Luo S', 'He S', 'Zhang M', 'Wang P', 'Li C', 'Huang W', 'Hu B', 'Griffin GE', 'Shattock RJ', 'Hu Q']
+Source: Virology. 2015 Jan 15;475:96-109. doi: 10.1016/j.virol.2014.11.005. Epub 2014 Nov 27.
+
+Title: BST2/Tetherin is constitutively expressed on human thymocytes with the phenotype and function of Treg cells.
+Authors: ['Epeldegui M', 'Blom B', 'Uittenbogaart CH']
+Source: Eur J Immunol. 2015 Mar;45(3):728-37. doi: 10.1002/eji.201444787. Epub 2014 Dec 16.
+
+Title: The role of HIV-specific antibody-dependent cellular cytotoxicity in HIV prevention and the influence of the HIV-1 Vpu protein.
+Authors: ['Kramski M', 'Stratov I', 'Kent SJ']
+Source: AIDS. 2015 Jan 14;29(2):137-44. doi: 10.1097/QAD.0000000000000523.
+
+Title: In COS cells Vpu can both stabilize tetherin expression and counteract its antiviral activity.
+Authors: ['Waheed AA', 'Kuruppu ND', 'Felton KL', "D'Souza D", 'Freed EO']
+Source: PLoS One. 2014 Oct 31;9(10):e111628. doi: 10.1371/journal.pone.0111628. eCollection 2014.
+
+Title: Epitope tags beside the N-terminal cytoplasmic tail of human BST-2 alter its intracellular trafficking and HIV-1 restriction.
+Authors: ['Lv M', 'Wang J', 'Zhang J', 'Zhang B', 'Wang X', 'Zhu Y', 'Zuo T', 'Liu D', 'Li X', 'Wu J', 'Zhang H', 'Yu B', 'Wu H', 'Zhao X', 'Kong W', 'Yu X']
+Source: PLoS One. 2014 Oct 27;9(10):e111422. doi: 10.1371/journal.pone.0111422. eCollection 2014.
+
+Title: The sheep tetherin paralog oBST2B blocks envelope glycoprotein incorporation into nascent retroviral virions.
+Authors: ['Murphy L', 'Varela M', 'Desloire S', 'Ftaich N', 'Murgia C', 'Golder M', 'Neil S', 'Spencer TE', 'Wootton SK', 'Lavillette D', 'Terzian C', 'Palmarini M', 'Arnaud F']
+Source: J Virol. 2015 Jan;89(1):535-44. doi: 10.1128/JVI.02751-14. Epub 2014 Oct 22.
+
+Title: Epigenetic activation of immune genes in cervical cancer.
+Authors: ['Milutin Gasperov N', 'Farkas SA', 'Nilsson TK', 'Grce M']
+Source: Immunol Lett. 2014 Dec;162(2 Pt B):256-7. doi: 10.1016/j.imlet.2014.09.019. Epub 2014 Oct 13.
+
+Title: Short communication: Nitazoxanide inhibits HIV viral replication in monocyte-derived macrophages.
+Authors: ['Gekonge B', 'Bardin MC', 'Montaner LJ']
+Source: AIDS Res Hum Retroviruses. 2015 Feb;31(2):237-41. doi: 10.1089/aid.2014.0015. Epub 2014 Oct 10.
+
+Title: The VP40 protein of Marburg virus exhibits impaired budding and increased sensitivity to human tetherin following mouse adaptation.
+Authors: ['Feagins AR', 'Basler CF']
+Source: J Virol. 2014 Dec;88(24):14440-50. doi: 10.1128/JVI.02069-14. Epub 2014 Oct 8.
+
+Title: CD166/ALCAM expression is characteristic of tumorigenicity and invasive and migratory activities of pancreatic cancer cells.
+Authors: ['Fujiwara K', 'Ohuchida K', 'Sada M', 'Horioka K', 'Ulrich CD 3rd', 'Shindo K', 'Ohtsuka T', 'Takahata S', 'Mizumoto K', 'Oda Y', 'Tanaka M']
+Source: PLoS One. 2014 Sep 15;9(9):e107247. doi: 10.1371/journal.pone.0107247. eCollection 2014.
+
+Title: Retroviral retention activates a Syk-dependent HemITAM in human tetherin.
+Authors: ['Galao RP', 'Pickering S', 'Curnock R', 'Neil SJ']
+Source: Cell Host Microbe. 2014 Sep 10;16(3):291-303. doi: 10.1016/j.chom.2014.08.005.
+
+Title: Tethering viral restriction to signal transduction.
+Authors: ['Arias JF', 'Evans DT']
+Source: Cell Host Microbe. 2014 Sep 10;16(3):267-9. doi: 10.1016/j.chom.2014.08.013.
+
+Title: The HERV-K human endogenous retrovirus envelope protein antagonizes Tetherin antiviral activity.
+Authors: ['Lemaitre C', 'Harper F', 'Pierron G', 'Heidmann T', 'Dewannieux M']
+Source: J Virol. 2014 Dec;88(23):13626-37. doi: 10.1128/JVI.02234-14. Epub 2014 Sep 10.
+
+Title: Targeted therapy for HM1.24 (CD317) on multiple myeloma cells.
+Authors: ['Harada T', 'Ozaki S']
+Source: Biomed Res Int. 2014;2014:965384. doi: 10.1155/2014/965384. Epub 2014 Jul 17.
+
+Title: Critical role for bone marrow stromal antigen 2 in acute Chikungunya virus infection.
+Authors: ['Mahauad-Fernandez WD', 'Jones PH', 'Okeoma CM']
+Source: J Gen Virol. 2014 Nov;95(Pt 11):2450-2461. doi: 10.1099/vir.0.068643-0. Epub 2014 Jul 22.
+
+Title: An unconventional BST-2 function: down-regulation of transient protein expression.
+Authors: ['Narkpuk J', 'Wanitchang A', 'Kramyu J', 'Frantz PN', 'Jongkaewwattana A', 'Teeravechyan S']
+Source: Biochem Biophys Res Commun. 2014 Aug 8;450(4):1469-74. doi: 10.1016/j.bbrc.2014.07.022. Epub 2014 Jul 11.
+
+Title: Antiretroviral restriction factors in mice.
+Authors: ['Nair S', 'Rein A']
+Source: Virus Res. 2014 Nov 26;193:130-4. doi: 10.1016/j.virusres.2014.07.002. Epub 2014 Jul 10.
+
+Title: Tetherin can restrict cell-free and cell-cell transmission of HIV from primary macrophages to T cells.
+Authors: ['Giese S', 'Marsh M']
+Source: PLoS Pathog. 2014 Jul 3;10(7):e1004189. doi: 10.1371/journal.ppat.1004189. eCollection 2014 Jul.
+
+Title: The novel immunotoxin HM1.24-ETA' induces apoptosis in multiple myeloma cells.
+Authors: ['Staudinger M', 'Glorius P', 'Burger R', 'Kellner C', 'Klausz K', 'Gunther A', 'Repp R', 'Klapper W', 'Gramatzki M', 'Peipp M']
+Source: Blood Cancer J. 2014 Jun 13;4:e219. doi: 10.1038/bcj.2014.38.
+
+Title: Tetherin promotes the innate and adaptive cell-mediated immune response against retrovirus infection in vivo.
+Authors: ['Li SX', 'Barrett BS', 'Heilman KJ', 'Messer RJ', 'Liberatore RA', 'Bieniasz PD', 'Kassiotis G', 'Hasenkrug KJ', 'Santiago ML']
+Source: J Immunol. 2014 Jul 1;193(1):306-16. doi: 10.4049/jimmunol.1400490. Epub 2014 May 28.
+
+Title: BCA2/Rabring7 targets HIV-1 Gag for lysosomal degradation in a tetherin-independent manner.
+Authors: ['Nityanandam R', 'Serra-Moreno R']
+Source: PLoS Pathog. 2014 May 22;10(5):e1004151. doi: 10.1371/journal.ppat.1004151. eCollection 2014 May.
+
+Title: Structural basis of HIV-1 Vpu-mediated BST2 antagonism via hijacking of the clathrin adaptor protein complex 1.
+Authors: ['Jia X', 'Weber E', 'Tokarev A', 'Lewinski M', 'Rizk M', 'Suarez M', 'Guatelli J', 'Xiong Y']
+Source: Elife. 2014 Apr 29;3:e02362. doi: 10.7554/eLife.02362.
+
+Title: Mechanisms underlying HIV-1 Vpu-mediated viral egress.
+Authors: ['Roy N', 'Pacini G', 'Berlioz-Torrent C', 'Janvier K']
+Source: Front Microbiol. 2014 May 1;5:177. doi: 10.3389/fmicb.2014.00177. eCollection 2014.
+
+Title: Tetherin antagonism by Vpu protects HIV-infected cells from antibody-dependent cell-mediated cytotoxicity.
+Authors: ['Arias JF', 'Heyer LN', 'von Bredow B', 'Weisgrau KL', 'Moldt B', 'Burton DR', 'Rakasz EG', 'Evans DT']
+Source: Proc Natl Acad Sci U S A. 2014 Apr 29;111(17):6425-30. doi: 10.1073/pnas.1321507111. Epub 2014 Apr 14.
+
+Title: Analysis of determinants in filovirus glycoproteins required for tetherin antagonism.
+Authors: ['Gnirss K', 'Fiedler M', 'Kramer-Kuhl A', 'Bolduan S', 'Mittler E', 'Becker S', 'Schindler M', 'Pohlmann S']
+Source: Viruses. 2014 Apr 9;6(4):1654-71. doi: 10.3390/v6041654.
+
+Title: Tetherins of various species inhibit the release of porcine endogenous retrovirus from human cells.
+Authors: ['Bae EH', 'Jung YT']
+Source: Acta Virol. 2014;58(1):53-60. doi: 10.4149/av_2014_01_53.
+
+Title: Overexpression of BST2 is associated with nodal metastasis and poorer prognosis in oral cavity cancer.
+Authors: ['Fang KH', 'Kao HK', 'Chi LM', 'Liang Y', 'Liu SC', 'Hseuh C', 'Liao CT', 'Yen TC', 'Yu JS', 'Chang KP']
+Source: Laryngoscope. 2014 Sep;124(9):E354-60. doi: 10.1002/lary.24700. Epub 2014 May 27.
+
+Title: A novel peptide to disrupt the interaction of BST-2 and Vpu.
+Authors: ['Mi Z', 'Wang X', 'He Y', 'Li X', 'Ding J', 'Liu H', 'Zhou J', 'Cen S']
+Source: Biopolymers. 2014 May;102(3):280-7. doi: 10.1002/bip.22488.
+
+Title: HIV-1 Vpu antagonism of tetherin inhibits antibody-dependent cellular cytotoxic responses by natural killer cells.
+Authors: ['Alvarez RA', 'Hamlin RE', 'Monroe A', 'Moldt B', 'Hotta MT', 'Rodriguez Caprio G', 'Fierer DS', 'Simon V', 'Chen BK']
+Source: J Virol. 2014 Jun;88(11):6031-46. doi: 10.1128/JVI.00449-14. Epub 2014 Mar 12.
+
+Title: Differential sensitivities of tetherin isoforms to counteraction by primate lentiviruses.
+Authors: ['Weinelt J', 'Neil SJ']
+Source: J Virol. 2014 May;88(10):5845-58. doi: 10.1128/JVI.03818-13. Epub 2014 Mar 12.
+
+Title: Frequency variation among sub-Saharan populations in virus restriction gene, BST-2 proximal promoter polymorphisms: implications for HIV-1 prevalence differences among African countries.
+Authors: ['Skelton MM', 'Kampira EE', 'Wonkam AA', 'Mhandire KK', 'Kumwenda JJ', 'Duri KK', 'Dandara CC']
+Source: OMICS. 2014 Jul;18(7):461-71. doi: 10.1089/omi.2013.0127. Epub 2014 Mar 6.
+
+Title: Anti-inflammatory and anti-remodelling effects of ISU201, a modified form of the extracellular domain of human BST2, in experimental models of asthma: association with inhibition of histone acetylation.
+Authors: ['Herbert C', 'Shadie AM', 'Bunting MM', 'Tedla N', 'Garthwaite L', 'Freeman A', 'Yoo H', 'Park SH', 'Kumar RK']
+Source: PLoS One. 2014 Mar 3;9(3):e90436. doi: 10.1371/journal.pone.0090436. eCollection 2014.
+
+Title: Activities of transmitted/founder and chronic clade B HIV-1 Vpu and a C-terminal polymorphism specifically affecting virion release.
+Authors: ['Jafari M', 'Guatelli J', 'Lewinski MK']
+Source: J Virol. 2014 May;88(9):5062-78. doi: 10.1128/JVI.03472-13. Epub 2014 Feb 26.
+
+Title: HIV Nef and Vpu protect HIV-infected CD4+ T cells from antibody-mediated cell lysis through down-modulation of CD4 and BST2.
+Authors: ['Pham TN', 'Lukhele S', 'Hajjar F', 'Routy JP', 'Cohen EA']
+Source: Retrovirology. 2014 Feb 6;11:15. doi: 10.1186/1742-4690-11-15.
+
+Title: Preservation of tetherin and CD4 counter-activities in circulating Vpu alleles despite extensive sequence variation within HIV-1 infected individuals.
+Authors: ['Pickering S', 'Hue S', 'Kim EY', 'Reddy S', 'Wolinsky SM', 'Neil SJ']
+Source: PLoS Pathog. 2014 Jan;10(1):e1003895. doi: 10.1371/journal.ppat.1003895. Epub 2014 Jan 23.
+
+Title: Comparison of the effects of retroviral restriction factors involved in resistance to porcine endogenous retrovirus.
+Authors: ['Bae EH', 'Jung YT']
+Source: J Microbiol Biotechnol. 2014 Apr;24(4):577-83. doi: 10.4014/jmb.1312.12079.
+
+Title: BST2/CD317 counteracts human coronavirus 229E productive infection by tethering virions at the cell surface.
+Authors: ['Wang SM', 'Huang KJ', 'Wang CT']
+Source: Virology. 2014 Jan 20;449:287-96. doi: 10.1016/j.virol.2013.11.030. Epub 2013 Dec 15.
+
+Title: Feline immunodeficiency virus envelope glycoproteins antagonize tetherin through a distinctive mechanism that requires virion incorporation.
+Authors: ['Morrison JH', 'Guevara RB', 'Marcano AC', 'Saenz DT', 'Fadel HJ', 'Rogstad DK', 'Poeschla EM']
+Source: J Virol. 2014 Mar;88(6):3255-72. doi: 10.1128/JVI.03814-13. Epub 2014 Jan 3.
+
+Title: Combination with a defucosylated anti-HM1.24 monoclonal antibody plus lenalidomide induces marked ADCC against myeloma cells and their progenitors.
+Authors: ['Harada T', 'Ozaki S', 'Oda A', 'Tsuji D', 'Ikegame A', 'Iwasa M', 'Udaka K', 'Fujii S', 'Nakamura S', 'Miki H', 'Kagawa K', 'Kuroda Y', 'Kawai S', 'Itoh K', 'Yamada-Okabe H', 'Matsumoto T', 'Abe M']
+Source: PLoS One. 2013 Dec 26;8(12):e83905. doi: 10.1371/journal.pone.0083905. eCollection 2013.
+
+Title: Modulation of an ectodomain motif in the influenza A virus neuraminidase alters tetherin sensitivity and results in virus attenuation in vivo.
+Authors: ['Leyva-Grado VH', 'Hai R', 'Fernandes F', 'Belicha-Villanueva A', 'Carter C', 'Yondola MA']
+Source: J Mol Biol. 2014 Mar 20;426(6):1308-21. doi: 10.1016/j.jmb.2013.12.023. Epub 2013 Dec 29.
+
+Title: CD4 and BST-2/tetherin proteins retro-translocate from endoplasmic reticulum to cytosol as partially folded and multimeric molecules.
+Authors: ['Petris G', 'Casini A', 'Sasset L', 'Cesaratto F', 'Bestagno M', 'Cereseto A', 'Burrone OR']
+Source: J Biol Chem. 2014 Jan 3;289(1):1-12. doi: 10.1074/jbc.M113.512368. Epub 2013 Nov 20.
+
+Title: HIV accessory proteins versus host restriction factors.
+Authors: ['Strebel K']
+Source: Curr Opin Virol. 2013 Dec;3(6):692-9. doi: 10.1016/j.coviro.2013.08.004. Epub 2013 Nov 15.
+
+Title: BST-2 expression in human hepatocytes is inducible by all three types of interferons and restricts production of hepatitis C virus.
+Authors: ['Amet T', 'Byrd D', 'Hu N', 'Sun Q', 'Li F', 'Zhao Y', 'Hu S', 'Grantham A', 'Yu Q']
+Source: Curr Mol Med. 2014 Mar;14(3):349-60. doi: 10.2174/1566524013666131118111719.
+
+Title: Efficient BST2 antagonism by Vpu is critical for early HIV-1 dissemination in humanized mice.
+Authors: ['Dave VP', 'Hajjar F', 'Dieng MM', 'Haddad E', 'Cohen EA']
+Source: Retrovirology. 2013 Nov 6;10:128. doi: 10.1186/1742-4690-10-128.
+
+Title: Inhibition of virus replication and induction of human tetherin gene expression by equine IFN-alpha1.
+Authors: ['Hu Z', 'Wu X', 'Ge J', 'Wang X']
+Source: Vet Immunol Immunopathol. 2013 Nov 15;156(1-2):107-13. doi: 10.1016/j.vetimm.2013.09.009. Epub 2013 Sep 20.
+
+Title: Functional antagonism of rhesus macaque and chimpanzee BST-2 by HIV-1 Vpu is mediated by cytoplasmic domain interactions.
+Authors: ['Yoshida T', 'Koyanagi Y', 'Strebel K']
+Source: J Virol. 2013 Dec;87(24):13825-36. doi: 10.1128/JVI.02567-13. Epub 2013 Oct 9.
+
+Title: Expression of HIV-1 Vpu leads to loss of the viral restriction factor CD317/Tetherin from lipid rafts and its enhanced lysosomal degradation.
+Authors: ['Rollason R', 'Dunstan K', 'Billcliff PG', 'Bishop P', 'Gleeson P', 'Wise H', 'Digard P', 'Banting G']
+Source: PLoS One. 2013 Sep 24;8(9):e75680. doi: 10.1371/journal.pone.0075680. eCollection 2013.
+
+Title: Emerging role of the host restriction factor tetherin in viral immune sensing.
+Authors: ['Hotter D', 'Sauter D', 'Kirchhoff F']
+Source: J Mol Biol. 2013 Dec 13;425(24):4956-64. doi: 10.1016/j.jmb.2013.09.029. Epub 2013 Sep 26.
+
+Title: IL-29 is produced by T(H)17 cells and mediates the cutaneous antiviral competence in psoriasis.
+Authors: ['Wolk K', 'Witte K', 'Witte E', 'Raftery M', 'Kokolakis G', 'Philipp S', 'Schonrich G', 'Warszawska K', 'Kirsch S', 'Prosch S', 'Sterry W', 'Volk HD', 'Sabat R']
+Source: Sci Transl Med. 2013 Sep 25;5(204):204ra129. doi: 10.1126/scitranslmed.3006245.
+
+Title: Herpes simplex virus 1 counteracts tetherin restriction via its virion host shutoff activity.
+Authors: ['Zenner HL', 'Mauricio R', 'Banting G', 'Crump CM']
+Source: J Virol. 2013 Dec;87(24):13115-23. doi: 10.1128/JVI.02167-13. Epub 2013 Sep 25.
+
+Title: Tetherin restricts herpes simplex virus 1 and is antagonized by glycoprotein M.
+Authors: ['Blondeau C', 'Pelchen-Matthews A', 'Mlcochova P', 'Marsh M', 'Milne RS', 'Towers GJ']
+Source: J Virol. 2013 Dec;87(24):13124-33. doi: 10.1128/JVI.02250-13. Epub 2013 Sep 25.
+
+Title: Restriction genes for retroviruses influence the risk of multiple sclerosis.
+Authors: ['Nexo BA', 'Hansen B', 'Nissen KK', 'Gundestrup L', 'Terkelsen T', 'Villesen P', 'Bahrami S', 'Petersen T', 'Pedersen FS', 'Laska MJ']
+Source: PLoS One. 2013 Sep 16;8(9):e74063. doi: 10.1371/journal.pone.0074063. eCollection 2013.
+
+Title: Human MX2 is an interferon-induced post-entry inhibitor of HIV-1 infection.
+Authors: ['Goujon C', 'Moncorge O', 'Bauby H', 'Doyle T', 'Ward CC', 'Schaller T', 'Hue S', 'Barclay WS', 'Schulz R', 'Malim MH']
+Source: Nature. 2013 Oct 24;502(7472):559-62. doi: 10.1038/nature12542. Epub 2013 Sep 18.
+
+Title: Phosphatidylinositol 3-kinase is involved in Toll-like receptor 4-mediated BST-2/tetherin regulation.
+Authors: ['Jones PH', 'Okeoma CM']
+Source: Cell Signal. 2013 Dec;25(12):2752-61. doi: 10.1016/j.cellsig.2013.08.042. Epub 2013 Sep 13.
+
+Title: Correlation of biological activity with computationally derived structural features from transmembrane hetero-dimers of HIV-1 Vpu with host factors.
+Authors: ['Li LH', 'Fischer WB']
+Source: Biochim Biophys Acta. 2014 Apr;1838(4):1104-12. doi: 10.1016/j.bbamem.2013.07.032. Epub 2013 Sep 13.
+
+Title: Viral channel proteins in intracellular protein-protein communication: Vpu of HIV-1, E5 of HPV16 and p7 of HCV.
+Authors: ['Fischer WB', 'Li LH', 'Mahato DR', 'Wang YT', 'Chen CP']
+Source: Biochim Biophys Acta. 2014 Apr;1838(4):1113-21. doi: 10.1016/j.bbamem.2013.08.017. Epub 2013 Sep 12.
+
+Title: A rare missense variant abrogates the signaling activity of tetherin/BST-2 without affecting its effect on virus release.
+Authors: ['Sauter D', 'Hotter D', 'Engelhart S', 'Giehler F', 'Kieser A', 'Kubisch C', 'Kirchhoff F']
+Source: Retrovirology. 2013 Aug 10;10:85. doi: 10.1186/1742-4690-10-85.
+
+Title: Identification of novel key amino acids at the interface of the transmembrane domains of human BST-2 and HIV-1 Vpu.
+Authors: ['Pang X', 'Hu S', 'Li J', 'Xu F', 'Mei S', 'Zhou J', 'Cen S', 'Jin Q', 'Guo F']
+Source: Retrovirology. 2013 Aug 6;10:84. doi: 10.1186/1742-4690-10-84.
+
+Title: Purification of eukaryotic tetherin/Vpu proteins and detection of their interaction by ELISA.
+Authors: ['Lv M', 'Zhu Y', 'Wang J', 'Zhang H', 'Wang X', 'Zuo T', 'Liu D', 'Zhang J', 'Wu J', 'Kong W', 'Yu X']
+Source: Protein Expr Purif. 2013 Oct;91(2):112-8. doi: 10.1016/j.pep.2013.07.015. Epub 2013 Aug 3.
+
+Title: Mechanism of HIV-1 virion entrapment by tetherin.
+Authors: ['Venkatesh S', 'Bieniasz PD']
+Source: PLoS Pathog. 2013;9(7):e1003483. doi: 10.1371/journal.ppat.1003483. Epub 2013 Jul 18.
+
+Title: Tetherin/BST-2 antagonism by Nef depends on a direct physical interaction between Nef and tetherin, and on clathrin-mediated endocytosis.
+Authors: ['Serra-Moreno R', 'Zimmermann K', 'Stern LJ', 'Evans DT']
+Source: PLoS Pathog. 2013;9(7):e1003487. doi: 10.1371/journal.ppat.1003487. Epub 2013 Jul 11.
+
+Title: Aberrant regulation of the BST2 (Tetherin) promoter enhances cell proliferation and apoptosis evasion in high grade breast cancer cells.
+Authors: ['Sayeed A', 'Luciani-Torres G', 'Meng Z', 'Bennington JL', 'Moore DH', 'Dairkee SH']
+Source: PLoS One. 2013 Jun 20;8(6):e67191. doi: 10.1371/journal.pone.0067191. Print 2013.
+
+Title: HIV-1 Vpu - an ion channel in search of a job.
+Authors: ['Strebel K']
+Source: Biochim Biophys Acta. 2014 Apr;1838(4):1074-81. doi: 10.1016/j.bbamem.2013.06.029. Epub 2013 Jul 3.
+
+Title: BST-2/tetherin is overexpressed in mammary gland and tumor tissues in MMTV-induced mammary cancer.
+Authors: ['Jones PH', 'Mahauad-Fernandez WD', 'Madison MN', 'Okeoma CM']
+Source: Virology. 2013 Sep;444(1-2):124-39. doi: 10.1016/j.virol.2013.05.042. Epub 2013 Jun 25.
+
+Title: Tactics used by HIV-1 to evade host innate, adaptive, and intrinsic immunities.
+Authors: ['Lu L', 'Yu F', 'DU LY', 'Xu W', 'Jiang SB']
+Source: Chin Med J (Engl). 2013 Jun;126(12):2374-9.
+
+Title: RIG-I activation inhibits HIV replication in macrophages.
+Authors: ['Wang Y', 'Wang X', 'Li J', 'Zhou Y', 'Ho W']
+Source: J Leukoc Biol. 2013 Aug;94(2):337-41. doi: 10.1189/jlb.0313158. Epub 2013 Jun 6.
+
+Title: BST-2 is a potential activator of invasion and migration in tamoxifen-resistant breast cancer cells.
+Authors: ['Yi EH', 'Yoo H', 'Noh KH', 'Han S', 'Lee H', 'Lee JK', 'Won C', 'Kim BH', 'Kim MH', 'Cho CH', 'Ye SK']
+Source: Biochem Biophys Res Commun. 2013 Jun 14;435(4):685-90. doi: 10.1016/j.bbrc.2013.05.043. Epub 2013 May 20.
+
+Title: Some mechanisms of FLIP expression in inhibition of HIV-1 replication in Jurkat cells, CD4+ T cells and PBMCs.
+Authors: ['Tan J', 'Wang X', 'Devadas K', 'Zhao J', 'Zhang P', 'Hewlett I']
+Source: J Cell Physiol. 2013 Dec;228(12):2305-13. doi: 10.1002/jcp.24397.
+
+Title: The antiviral activities of tetherin.
+Authors: ['Neil SJ']
+Source: Curr Top Microbiol Immunol. 2013;371:67-104. doi: 10.1007/978-3-642-37765-5_3.
+
+Title: High doses of CpG oligodeoxynucleotides stimulate a tolerogenic TLR9-TRIF pathway.
+Authors: ['Volpi C', 'Fallarino F', 'Pallotta MT', 'Bianchi R', 'Vacca C', 'Belladonna ML', 'Orabona C', 'De Luca A', 'Boon L', 'Romani L', 'Grohmann U', 'Puccetti P']
+Source: Nat Commun. 2013;4:1852. doi: 10.1038/ncomms2874.
+
+Title: Vpu binds directly to tetherin and displaces it from nascent virions.
+Authors: ['McNatt MW', 'Zang T', 'Bieniasz PD']
+Source: PLoS Pathog. 2013;9(4):e1003299. doi: 10.1371/journal.ppat.1003299. Epub 2013 Apr 25.
+
+Title: Genome-wide DNA methylation study suggests epigenetic accessibility and transcriptional poising of interferon-regulated genes in naive CD4+ T cells from lupus patients.
+Authors: ['Coit P', 'Jeffries M', 'Altorok N', 'Dozmorov MG', 'Koelsch KA', 'Wren JD', 'Merrill JT', 'McCune WJ', 'Sawalha AH']
+Source: J Autoimmun. 2013 Jun;43:78-84. doi: 10.1016/j.jaut.2013.04.003. Epub 2013 Apr 24.
+
+Title: Differential type 1 interferon-regulated gene expression in the brain during AIDS: interactions with viral diversity and neurovirulence.
+Authors: ['Polyak MJ', 'Vivithanaporn P', 'Maingat FG', 'Walsh JG', 'Branton W', 'Cohen EA', 'Meeker R', 'Power C']
+Source: FASEB J. 2013 Jul;27(7):2829-44. doi: 10.1096/fj.13-227868. Epub 2013 Apr 22.
+
+Title: A new approach to establish a cell line with reduced risk of endogenous retroviruses.
+Authors: ['Fukuma A', 'Yoshikawa R', 'Miyazawa T', 'Yasuda J']
+Source: PLoS One. 2013 Apr 9;8(4):e61530. doi: 10.1371/journal.pone.0061530. Print 2013.
+
+Title: A comparative mutational analysis of HIV-1 Vpu subtypes B and C for the identification of determinants required to counteract BST-2/Tetherin and enhance viral egress.
+Authors: ['Douglas JL', 'Bai Y', 'Gustin JK', 'Moses AV']
+Source: Virology. 2013 Jul 5;441(2):182-96. doi: 10.1016/j.virol.2013.03.015. Epub 2013 Apr 10.
+
+Title: A variant macaque-tropic human immunodeficiency virus type 1 is resistant to alpha interferon-induced restriction in pig-tailed macaque CD4+ T cells.
+Authors: ['Thippeshappa R', 'Ruan H', 'Wang W', 'Zhou P', 'Kimata JT']
+Source: J Virol. 2013 Jun;87(12):6678-92. doi: 10.1128/JVI.00338-13. Epub 2013 Apr 3.
+
+Title: A potential autocrine role for interferon tau in ovine trophectoderm.
+Authors: ['Wang XL', 'Wang K', 'Han GC', 'Zeng SM']
+Source: Reprod Domest Anim. 2013 Oct;48(5):819-25. doi: 10.1111/rda.12169. Epub 2013 Apr 2.
+
+Title: The transmembrane domain of HIV-1 Vpu is sufficient to confer anti-tetherin activity to SIVcpz and SIVgor Vpu proteins: cytoplasmic determinants of Vpu function.
+Authors: ['Kluge SF', 'Sauter D', 'Vogl M', 'Peeters M', 'Li Y', 'Bibollet-Ruche F', 'Hahn BH', 'Kirchhoff F']
+Source: Retrovirology. 2013 Mar 20;10:32. doi: 10.1186/1742-4690-10-32.
+
+Title: Antagonism to human BST-2/tetherin by Sendai virus glycoproteins.
+Authors: ['Bampi C', 'Rasga L', 'Roux L']
+Source: J Gen Virol. 2013 Jun;94(Pt 6):1211-1219. doi: 10.1099/vir.0.051771-0. Epub 2013 Mar 6.
+
+Title: Functional characterization of the MECP2/IRAK1 lupus risk haplotype in human T cells and a human MECP2 transgenic mouse.
+Authors: ['Koelsch KA', 'Webb R', 'Jeffries M', 'Dozmorov MG', 'Frank MB', 'Guthridge JM', 'James JA', 'Wren JD', 'Sawalha AH']
+Source: J Autoimmun. 2013 Mar;41:168-74. doi: 10.1016/j.jaut.2012.12.012. Epub 2013 Feb 18.
+
+Title: Harnessing the therapeutic potential of host antiviral restriction factors that target HIV.
+Authors: ['Sloan RD', 'Wainberg MA']
+Source: Expert Rev Anti Infect Ther. 2013 Jan;11(1):1-4. doi: 10.1586/eri.12.146.
+
+Title: BST2/Tetherin inhibits hepatitis C virus production in human hepatoma cells.
+Authors: ['Pan XB', 'Qu XW', 'Jiang D', 'Zhao XL', 'Han JC', 'Wei L']
+Source: Antiviral Res. 2013 Apr;98(1):54-60. doi: 10.1016/j.antiviral.2013.01.009. Epub 2013 Feb 16.
+
+Title: BST-2/tetherin-mediated restriction of chikungunya (CHIKV) VLP budding is counteracted by CHIKV non-structural protein 1 (nsP1).
+Authors: ['Jones PH', 'Maric M', 'Madison MN', 'Maury W', 'Roller RJ', 'Okeoma CM']
+Source: Virology. 2013 Mar 30;438(1):37-49. doi: 10.1016/j.virol.2013.01.010. Epub 2013 Feb 12.
+
+Title: Roles played by capsid-dependent induction of membrane curvature and Gag-ESCRT interactions in tetherin recruitment to HIV-1 assembly sites.
+Authors: ['Grover JR', 'Llewellyn GN', 'Soheilian F', 'Nagashima K', 'Veatch SL', 'Ono A']
+Source: J Virol. 2013 Apr;87(8):4650-64. doi: 10.1128/JVI.03526-12. Epub 2013 Feb 13.
+
+Title: Ig-like transcript 7, but not bone marrow stromal cell antigen 2 (also known as HM1.24, tetherin, or CD317), modulates plasmacytoid dendritic cell function in primary human blood leukocytes.
+Authors: ['Tavano B', 'Galao RP', 'Graham DR', 'Neil SJ', 'Aquino VN', 'Fuchs D', 'Boasso A']
+Source: J Immunol. 2013 Mar 15;190(6):2622-30. doi: 10.4049/jimmunol.1202391. Epub 2013 Feb 11.
+
+Title: CD317/tetherin is an organiser of membrane microdomains.
+Authors: ['Billcliff PG', 'Rollason R', 'Prior I', 'Owen DM', 'Gaus K', 'Banting G']
+Source: J Cell Sci. 2013 Apr 1;126(Pt 7):1553-64. doi: 10.1242/jcs.112953. Epub 2013 Feb 1.
+
+Title: [Establishment of a high-throughput screening assay for interaction inhibitor between BST-2 and Vpu].
+Authors: ['Pang XJ', 'Hu SQ', 'Zhang Y', 'Cen S', 'Jin Q', 'Guo F']
+Source: Bing Du Xue Bao. 2012 Nov;28(6):633-8.
+
+Title: IFN-alpha treatment inhibits acute Friend retrovirus replication primarily through the antiviral effector molecule Apobec3.
+Authors: ['Harper MS', 'Barrett BS', 'Smith DS', 'Li SX', 'Gibbert K', 'Dittmer U', 'Hasenkrug KJ', 'Santiago ML']
+Source: J Immunol. 2013 Feb 15;190(4):1583-90. doi: 10.4049/jimmunol.1202920. Epub 2013 Jan 11.
+
+Title: TLR-4 engagement of dendritic cells confers a BST-2/tetherin-mediated restriction of HIV-1 infection to CD4+ T cells across the virological synapse.
+Authors: ['Blanchet FP', 'Stalder R', 'Czubala M', 'Lehmann M', 'Rio L', 'Mangeat B', 'Piguet V']
+Source: Retrovirology. 2013 Jan 11;10:6. doi: 10.1186/1742-4690-10-6.
+
+Title: Human tetherin exerts strong selection pressure on the HIV-1 group N Vpu protein.
+Authors: ['Sauter D', 'Unterweger D', 'Vogl M', 'Usmani SM', 'Heigele A', 'Kluge SF', 'Hermkes E', 'Moll M', 'Barker E', 'Peeters M', 'Learn GH', 'Bibollet-Ruche F', 'Fritz JV', 'Fackler OT', 'Hahn BH', 'Kirchhoff F']
+Source: PLoS Pathog. 2012 Dec;8(12):e1003093. doi: 10.1371/journal.ppat.1003093. Epub 2012 Dec 20.
+
+Title: Targeting antigen to bone marrow stromal cell-2 expressed by conventional and plasmacytoid dendritic cells elicits efficient antigen presentation.
+Authors: ['Moffat JM', 'Segura E', 'Khoury G', 'Caminschi I', 'Cameron PU', 'Lewin SR', 'Villadangos JA', 'Mintern JD']
+Source: Eur J Immunol. 2013 Mar;43(3):595-605. doi: 10.1002/eji.201242799. Epub 2013 Feb 6.
+
+Title: Vpu downmodulates two distinct targets, tetherin and gibbon ape leukemia virus envelope, through shared features in the Vpu cytoplasmic tail.
+Authors: ['Lucas TM', 'Janaka SK', 'Stephens EB', 'Johnson MC']
+Source: PLoS One. 2012;7(12):e51741. doi: 10.1371/journal.pone.0051741. Epub 2012 Dec 19.
+
+Title: [Multifunctional HIV accessory proteins are hub proteins antagonizing host antiviral factors].
+Authors: ['Kitamura S', 'Iwatani Y']
+Source: Uirusu. 2013;63(2):187-98. doi: 10.2222/jsv.63.187.
+
+Title: Cell-cell transmission allows human T-lymphotropic virus 1 to circumvent tetherin restriction.
+Authors: ['Ilinskaya A', 'Derse D', 'Hill S', 'Princler G', 'Heidecker G']
+Source: Virology. 2013 Feb 5;436(1):201-9. doi: 10.1016/j.virol.2012.11.012. Epub 2012 Dec 20.
+
+Title: IL-27 increases BST-2 expression in human monocytes and T cells independently of type I IFN.
+Authors: ['Guzzo C', 'Jung M', 'Graveline A', 'Banfield BW', 'Gee K']
+Source: Sci Rep. 2012;2:974. doi: 10.1038/srep00974. Epub 2012 Dec 13.
+
+Title: BST2/tetherin inhibits dengue virus release from human hepatoma cells.
+Authors: ['Pan XB', 'Han JC', 'Cong X', 'Wei L']
+Source: PLoS One. 2012;7(12):e51033. doi: 10.1371/journal.pone.0051033. Epub 2012 Dec 7.
+
+Title: [Molecular cloning and expression of bone marrow stromal antigen-2 and detection of its biological activity].
+Authors: ['Zhang TH', 'Zhao X', 'Cao GM', 'Zhang ZJ', 'Chang WS']
+Source: Bing Du Xue Bao. 2012 Sep;28(5):548-53.
+
+Title: Human immunodeficiency virus-1 BF intersubtype recombinant viral protein U second alpha helix plays an important role in viral release and BST-2 degradation.
+Authors: ['De Candia C', 'Espada C', 'Duette G', 'Salomon H', 'Carobene M']
+Source: J Gen Virol. 2013 Apr;94(Pt 4):758-766. doi: 10.1099/vir.0.047746-0. Epub 2012 Dec 5.
+
+Title: Stimulation of NF-kappaB activity by the HIV restriction factor BST2.
+Authors: ['Tokarev A', 'Suarez M', 'Kwan W', 'Fitzpatrick K', 'Singh R', 'Guatelli J']
+Source: J Virol. 2013 Feb;87(4):2046-57. doi: 10.1128/JVI.02272-12. Epub 2012 Dec 5.
+
+Title: Overexpression of inactive tetherin delGPI mutant inhibits HIV-1 Vpu-mediated antagonism of endogenous tetherin.
+Authors: ['Lv M', 'Wang J', 'Zhu Y', 'Wang X', 'Zuo T', 'Liu D', 'Zhang J', 'Wu J', 'Zhang H', 'Kong W', 'Yu X']
+Source: FEBS Lett. 2013 Jan 4;587(1):37-43. doi: 10.1016/j.febslet.2012.11.022. Epub 2012 Nov 28.
+
+Title: Two retroviruses packaged in one cell line can combined inhibit the replication of HIV-1 in TZM-bl cells.
+Authors: ['Liang Z', 'Guo Z', 'Wang X', 'Kong X', 'Liu C']
+Source: Virol Sin. 2012 Dec;27(6):339-44. doi: 10.1007/s12250-012-3263-8. Epub 2012 Nov 27.
+
+Title: Innate sensing of HIV-1 assembly by Tetherin induces NFkappaB-dependent proinflammatory responses.
+Authors: ['Galao RP', 'Le Tortorec A', 'Pickering S', 'Kueck T', 'Neil SJ']
+Source: Cell Host Microbe. 2012 Nov 15;12(5):633-44. doi: 10.1016/j.chom.2012.10.007.
+
+Title: The size and conservation of a coiled-coil structure in the ectodomain of human BST-2/tetherin is dispensable for inhibition of HIV-1 virion release.
+Authors: ['Andrew AJ', 'Berndsen CE', 'Kao S', 'Strebel K']
+Source: J Biol Chem. 2012 Dec 28;287(53):44278-88. doi: 10.1074/jbc.M112.418822. Epub 2012 Nov 14.
+
+Title: Association of BST-2 gene variants with HIV disease progression underscores the role of BST-2 in HIV type 1 infection.
+Authors: ['Laplana M', 'Caruz A', 'Pineda JA', 'Puig T', 'Fibla J']
+Source: J Infect Dis. 2013 Feb 1;207(3):411-9. doi: 10.1093/infdis/jis685. Epub 2012 Nov 12.
+
+Title: Thalidomide maintenance therapy maturates the T cell compartment and compromises antigen-specific antitumor immunity in patients with multiple myeloma.
+Authors: ['Herth I', 'Witzens-Harig M', 'Beckhove P', 'Hose D', 'Meissner T', 'Neuber B', 'Engelhardt M', 'Haas J', 'Neben K', 'Ho AD', 'Klein B', 'Goldschmidt H', 'Hundemer M']
+Source: Exp Hematol. 2013 Mar;41(3):231-40. doi: 10.1016/j.exphem.2012.10.018. Epub 2012 Nov 8.
+
+Title: Recombination activating gene-2 regulates CpG-mediated interferon-alpha production in mouse bone marrow-derived plasmacytoid dendritic cells.
+Authors: ['Luo XM', 'Lei MY']
+Source: PLoS One. 2012;7(10):e47952. doi: 10.1371/journal.pone.0047952. Epub 2012 Oct 24.
+
+Title: Characterization of 5C11-positive activated interferon-producing cells in patients with systemic lupus erythematosus.
+Authors: ['Ohshima M', 'Kanda H', 'Kubo K', 'Yonezumi-Hayashi A', 'Tateishi S', 'Yamamoto K']
+Source: Lupus. 2013 Jan;22(1):44-51. doi: 10.1177/0961203312463620. Epub 2012 Oct 19.
+
+Title: Inhibition of virus-like particle release of Sendai virus and Nipah virus, but not that of mumps virus, by tetherin/CD317/BST-2.
+Authors: ['Kong WS', 'Irie T', 'Yoshida A', 'Kawabata R', 'Kadoi T', 'Sakaguchi T']
+Source: Hiroshima J Med Sci. 2012 Sep;61(3):59-67.
+
+Title: Interferon-induced SCYL2 limits release of HIV-1 by triggering PP2A-mediated dephosphorylation of the viral protein Vpu.
+Authors: ['Miyakawa K', 'Sawasaki T', 'Matsunaga S', 'Tokarev A', 'Quinn G', 'Kimura H', 'Nomaguchi M', 'Adachi A', 'Yamamoto N', 'Guatelli J', 'Ryo A']
+Source: Sci Signal. 2012 Oct 9;5(245):ra73. doi: 10.1126/scisignal.2003212.
+
+Title: The role of the structural domains of human BST-2 in inhibiting the release of xenotropic murine leukemia virus-related virus.
+Authors: ['Hu S', 'Pang X', 'Li J', 'Cen S', 'Jin Q', 'Guo F']
+Source: Biochem Biophys Res Commun. 2012 Nov 9;428(1):17-23. doi: 10.1016/j.bbrc.2012.10.001. Epub 2012 Oct 6.
+
+Title: The restriction factors of human immunodeficiency virus.
+Authors: ['Harris RS', 'Hultquist JF', 'Evans DT']
+Source: J Biol Chem. 2012 Nov 30;287(49):40875-83. doi: 10.1074/jbc.R112.416925. Epub 2012 Oct 5.
+
+Title: Identification of alternatively translated Tetherin isoforms with differing antiviral and signaling activities.
+Authors: ['Cocka LJ', 'Bates P']
+Source: PLoS Pathog. 2012 Sep;8(9):e1002931. doi: 10.1371/journal.ppat.1002931. Epub 2012 Sep 27.
+
+Title: Intrinsic cellular defenses against human immunodeficiency viruses.
+Authors: ['Blanco-Melo D', 'Venkatesh S', 'Bieniasz PD']
+Source: Immunity. 2012 Sep 21;37(3):399-411. doi: 10.1016/j.immuni.2012.08.013.
+
+Title: Tetherin/BST-2 is essential for the formation of the intracellular virus-containing compartment in HIV-infected macrophages.
+Authors: ['Chu H', 'Wang JJ', 'Qi M', 'Yoon JJ', 'Chen X', 'Wen X', 'Hammonds J', 'Ding L', 'Spearman P']
+Source: Cell Host Microbe. 2012 Sep 13;12(3):360-72. doi: 10.1016/j.chom.2012.07.011.
+
+Title: Influenza A virus does not encode a tetherin antagonist with Vpu-like activity and induces IFN-dependent tetherin expression in infected cells.
+Authors: ['Winkler M', 'Bertram S', 'Gnirss K', 'Nehlmeier I', 'Gawanbacht A', 'Kirchhoff F', 'Ehrhardt C', 'Ludwig S', 'Kiene M', 'Moldenhauer AS', 'Goedecke U', 'Karsten CB', 'Kuhl A', 'Pohlmann S']
+Source: PLoS One. 2012;7(8):e43337. doi: 10.1371/journal.pone.0043337. Epub 2012 Aug 27.
+
+Title: Identification and functional analysis of three isoforms of bovine BST-2.
+Authors: ['Takeda E', 'Nakagawa S', 'Nakaya Y', 'Tanaka A', 'Miyazawa T', 'Yasuda J']
+Source: PLoS One. 2012;7(7):e41483. doi: 10.1371/journal.pone.0041483. Epub 2012 Jul 20.
+
+Title: Type I interferons promote fatal immunopathology by regulating inflammatory monocytes and neutrophils during Candida infections.
+Authors: ['Majer O', 'Bourgeois C', 'Zwolanek F', 'Lassnig C', 'Kerjaschki D', 'Mack M', 'Muller M', 'Kuchler K']
+Source: PLoS Pathog. 2012;8(7):e1002811. doi: 10.1371/journal.ppat.1002811. Epub 2012 Jul 26.
+
+Title: A dichotomy in cortical actin and chemotactic actin activity between human memory and naive T cells contributes to their differential susceptibility to HIV-1 infection.
+Authors: ['Wang W', 'Guo J', 'Yu D', 'Vorster PJ', 'Chen W', 'Wu Y']
+Source: J Biol Chem. 2012 Oct 12;287(42):35455-69. doi: 10.1074/jbc.M112.362400. Epub 2012 Aug 9.
+
+Title: Plasma membrane proteomics identifies bone marrow stromal antigen 2 as a potential therapeutic target in endometrial cancer.
+Authors: ['Yokoyama T', 'Enomoto T', 'Serada S', 'Morimoto A', 'Matsuzaki S', 'Ueda Y', 'Yoshino K', 'Fujita M', 'Kyo S', 'Iwahori K', 'Fujimoto M', 'Kimura T', 'Naka T']
+Source: Int J Cancer. 2013 Jan 15;132(2):472-84. doi: 10.1002/ijc.27679. Epub 2012 Jul 9.
+
+Title: Dimerization of the transmembrane domain of human tetherin in membrane mimetic environments.
+Authors: ['Cole G', 'Simonetti K', 'Ademi I', 'Sharpe S']
+Source: Biochemistry. 2012 Jun 26;51(25):5033-40. doi: 10.1021/bi201747t. Epub 2012 Jun 13.
+
+Title: Plasmacytoids dendritic cells are a therapeutic target in anticancer immunity.
+Authors: ['Palma G', 'De Laurenzi V', 'De Marco M', 'Barbieri A', 'Petrillo A', 'Turco MC', 'Arra C']
+Source: Biochim Biophys Acta. 2012 Dec;1826(2):407-14. doi: 10.1016/j.bbcan.2012.04.007. Epub 2012 May 9.
+
+Title: A facile quantitative assay for viral particle genesis reveals cooperativity in virion assembly and saturation of an antiviral protein.
+Authors: ['Yadav SS', 'Wilson SJ', 'Bieniasz PD']
+Source: Virology. 2012 Aug 1;429(2):155-62. doi: 10.1016/j.virol.2012.04.008. Epub 2012 May 8.
+
+Title: HIV Restriction Factors and Mechanisms of Evasion.
+Authors: ['Malim MH', 'Bieniasz PD']
+Source: Cold Spring Harb Perspect Med. 2012 May;2(5):a006940. doi: 10.1101/cshperspect.a006940.
+
+Title: Intracellular logistics of BST-2/tetherin.
+Authors: ['Fujita H', 'Fujimoto K', 'Tokunaga K', 'Tanaka Y']
+Source: Curr HIV Res. 2012 Jun;10(4):321-6. doi: 10.2174/157016212800792522.
+
+Title: HIV-1 Vpu and BST-2/tetherin: enemies at the gates.
+Authors: ['Tokunaga K']
+Source: Curr HIV Res. 2012 Jun;10(4):275-6. doi: 10.2174/157016212800792478.
+
+Title: Counteraction of tetherin antiviral activity by two closely related SIVs differing by the presence of a Vpu gene.
+Authors: ['Nikovics K', 'Dazza MC', 'Ekwalanga M', 'Mammano F', 'Clavel F', 'Saragosti S']
+Source: PLoS One. 2012;7(4):e35411. doi: 10.1371/journal.pone.0035411. Epub 2012 Apr 17.
+
+Title: Role of the endosomal ESCRT machinery in HIV-1 Vpu-induced down-regulation of BST2/tetherin.
+Authors: ['Janvier K', 'Roy N', 'Berlioz-Torrent C']
+Source: Curr HIV Res. 2012 Jun;10(4):315-20. doi: 10.2174/157016212800792414.
+
+Title: beta-TrCP dependency of HIV-1 Vpu-induced downregulation of CD4 and BST-2/tetherin.
+Authors: ['Blanchet FP', 'Mitchell JP', 'Piguet V']
+Source: Curr HIV Res. 2012 Jun;10(4):307-14. doi: 10.2174/157016212800792441.
+
+Title: Structural basis of tetherin function.
+Authors: ['Weissenhorn W', 'Miguet N', 'Aschman N', 'Renesto P', 'Usami Y', 'Gottlinger HG']
+Source: Curr HIV Res. 2012 Jun;10(4):298-306. doi: 10.2174/157016212800792487.
+
+Title: Transmembrane interactions of HIV-1 Vpu and tetherin.
+Authors: ['Guo F', 'Liang C']
+Source: Curr HIV Res. 2012 Jun;10(4):292-7. doi: 10.2174/157016212800792450.
+
+Title: Sites of action of HIV-1 Vpu in BST-2/tetherin downregulation.
+Authors: ['Arias JF', 'Iwabu Y', 'Tokunaga K']
+Source: Curr HIV Res. 2012 Jun;10(4):283-91. doi: 10.2174/157016212800792423.
+
+Title: Adaptation of human and simian immunodeficiency viruses for resistance to tetherin/BST-2.
+Authors: ['Serra-Moreno R', 'Evans DT']
+Source: Curr HIV Res. 2012 Jun;10(4):277-82. doi: 10.2174/157016212800792496.
+
+Title: Modulation of hepatitis C virus release by the interferon-induced protein BST-2/tetherin.
+Authors: ['Dafa-Berger A', 'Kuzmina A', 'Fassler M', 'Yitzhak-Asraf H', 'Shemer-Avni Y', 'Taube R']
+Source: Virology. 2012 Jul 5;428(2):98-111. doi: 10.1016/j.virol.2012.03.011. Epub 2012 Apr 20.
+
+Title: Feline tetherin is characterized by a short N-terminal region and is counteracted by the feline immunodeficiency virus envelope glycoprotein.
+Authors: ['Celestino M', 'Calistri A', 'Del Vecchio C', 'Salata C', 'Chiuppesi F', 'Pistello M', 'Borsetti A', 'Palu G', 'Parolin C']
+Source: J Virol. 2012 Jun;86(12):6688-700. doi: 10.1128/JVI.07037-11. Epub 2012 Apr 18.
+
+Title: Vpu and BST2: Still Not There Yet?
+Authors: ['Sato K', 'Gee P', 'Koyanagi Y']
+Source: Front Microbiol. 2012 Apr 9;3:131. doi: 10.3389/fmicb.2012.00131. eCollection 2012.
+
+Title: Influenza virus partially counteracts restriction imposed by tetherin/BST-2.
+Authors: ['Mangeat B', 'Cavagliotti L', 'Lehmann M', 'Gers-Huber G', 'Kaur I', 'Thomas Y', 'Kaiser L', 'Piguet V']
+Source: J Biol Chem. 2012 Jun 22;287(26):22015-29. doi: 10.1074/jbc.M111.319996. Epub 2012 Apr 6.
+
+Title: Expression analysis of LEDGF/p75, APOBEC3G, TRIM5alpha, and tetherin in a Senegalese cohort of HIV-1-exposed seronegative individuals.
+Authors: ['Mous K', 'Jennes W', 'Camara M', 'Seydi M', 'Daneau G', 'Mboup S', 'Kestens L', 'Van Ostade X']
+Source: PLoS One. 2012;7(3):e33934. doi: 10.1371/journal.pone.0033934. Epub 2012 Mar 27.
+
+Title: A cytoplasmic tail determinant in HIV-1 Vpu mediates targeting of tetherin for endosomal degradation and counteracts interferon-induced restriction.
+Authors: ['Kueck T', 'Neil SJ']
+Source: PLoS Pathog. 2012;8(3):e1002609. doi: 10.1371/journal.ppat.1002609. Epub 2012 Mar 29.
+
+Title: A single nucleotide polymorphism in tetherin promotes retrovirus restriction in vivo.
+Authors: ['Barrett BS', 'Smith DS', 'Li SX', 'Guo K', 'Hasenkrug KJ', 'Santiago ML']
+Source: PLoS Pathog. 2012;8(3):e1002596. doi: 10.1371/journal.ppat.1002596. Epub 2012 Mar 22.
+
+Title: The UBAP1 subunit of ESCRT-I interacts with ubiquitin via a SOUBA domain.
+Authors: ['Agromayor M', 'Soler N', 'Caballe A', 'Kueck T', 'Freund SM', 'Allen MD', 'Bycroft M', 'Perisic O', 'Ye Y', 'McDonald B', 'Scheel H', 'Hofmann K', 'Neil SJ', 'Martin-Serrano J', 'Williams RL']
+Source: Structure. 2012 Mar 7;20(3):414-28. doi: 10.1016/j.str.2011.12.013.
+
+Title: Anti-tetherin activities of HIV-1 Vpu and Ebola virus glycoprotein do not involve removal of tetherin from lipid rafts.
+Authors: ['Lopez LA', 'Yang SJ', 'Exline CM', 'Rengarajan S', 'Haworth KG', 'Cannon PM']
+Source: J Virol. 2012 May;86(10):5467-80. doi: 10.1128/JVI.06280-11. Epub 2012 Mar 7.
+
+Title: Ubiquitination of BST-2 protein by HIV-1 Vpu protein does not require lysine, serine, or threonine residues within the BST-2 cytoplasmic domain.
+Authors: ['Gustin JK', 'Douglas JL', 'Bai Y', 'Moses AV']
+Source: J Biol Chem. 2012 Apr 27;287(18):14837-50. doi: 10.1074/jbc.M112.349928. Epub 2012 Mar 1.
+
+Title: Vpu augments the initial burst phase of HIV-1 propagation and downregulates BST2 and CD4 in humanized mice.
+Authors: ['Sato K', 'Misawa N', 'Fukuhara M', 'Iwami S', 'An DS', 'Ito M', 'Koyanagi Y']
+Source: J Virol. 2012 May;86(9):5000-13. doi: 10.1128/JVI.07062-11. Epub 2012 Feb 22.
+
+Title: Cutting edge: paradoxical roles of BST2/tetherin in promoting type I IFN response and viral infection.
+Authors: ['Swiecki M', 'Wang Y', 'Gilfillan S', 'Lenschow DJ', 'Colonna M']
+Source: J Immunol. 2012 Mar 15;188(6):2488-92. doi: 10.4049/jimmunol.1103145. Epub 2012 Feb 10.
+
+Title: Role of retroviral restriction factors in the interferon-alpha-mediated suppression of HIV-1 in vivo.
+Authors: ['Pillai SK', 'Abdel-Mohsen M', 'Guatelli J', 'Skasko M', 'Monto A', 'Fujimoto K', 'Yukl S', 'Greene WC', 'Kovari H', 'Rauch A', 'Fellay J', 'Battegay M', 'Hirschel B', 'Witteck A', 'Bernasconi E', 'Ledergerber B', 'Gunthard HF', 'Wong JK']
+Source: Proc Natl Acad Sci U S A. 2012 Feb 21;109(8):3035-40. doi: 10.1073/pnas.1111573109. Epub 2012 Feb 6.
+
+Title: Virus-activated interferon regulatory factor 7 upregulates expression of the interferon-regulated BST2 gene independently of interferon signaling.
+Authors: ['Bego MG', 'Mercier J', 'Cohen EA']
+Source: J Virol. 2012 Apr;86(7):3513-27. doi: 10.1128/JVI.06971-11. Epub 2012 Feb 1.
+
+Title: Bone marrow stromal cell antigen 2 (BST-2) restricts mouse mammary tumor virus (MMTV) replication in vivo.
+Authors: ['Jones PH', 'Mehta HV', 'Maric M', 'Roller RJ', 'Okeoma CM']
+Source: Retrovirology. 2012 Jan 27;9:10. doi: 10.1186/1742-4690-9-10.
+
+Title: Characterization of the interface of the bone marrow stromal cell antigen 2-Vpu protein complex via computational chemistry.
+Authors: ['Zhou J', 'Zhang Z', 'Mi Z', 'Wang X', 'Zhang Q', 'Li X', 'Liang C', 'Cen S']
+Source: Biochemistry. 2012 Feb 14;51(6):1288-96. doi: 10.1021/bi2015986. Epub 2012 Jan 30.
+
+Title: Release of filamentous and spherical influenza A virus is not restricted by tetherin.
+Authors: ['Bruce EA', 'Abbink TE', 'Wise HM', 'Rollason R', 'Galao RP', 'Banting G', 'Neil SJ', 'Digard P']
+Source: J Gen Virol. 2012 May;93(Pt 5):963-969. doi: 10.1099/vir.0.038778-0. Epub 2012 Jan 18.
+
+Title: Potent in vitro and in vivo activity of an Fc-engineered humanized anti-HM1.24 antibody against multiple myeloma via augmented effector function.
+Authors: ['Tai YT', 'Horton HM', 'Kong SY', 'Pong E', 'Chen H', 'Cemerski S', 'Bernett MJ', 'Nguyen DH', 'Karki S', 'Chu SY', 'Lazar GA', 'Munshi NC', 'Desjarlais JR', 'Anderson KC', 'Muchhal US']
+Source: Blood. 2012 Mar 1;119(9):2074-82. doi: 10.1182/blood-2011-06-364521. Epub 2012 Jan 13.
+
+Title: HIV-1 Vpu's lipid raft association is dispensable for counteraction of the particle release restriction imposed by CD317/Tetherin.
+Authors: ['Fritz JV', 'Tibroni N', 'Keppler OT', 'Fackler OT']
+Source: Virology. 2012 Mar 1;424(1):33-44. doi: 10.1016/j.virol.2011.12.008. Epub 2012 Jan 4.
+
+Title: Quantitative multicolor super-resolution microscopy reveals tetherin HIV-1 interaction.
+Authors: ['Lehmann M', 'Rocha S', 'Mangeat B', 'Blanchet F', 'Uji-I H', 'Hofkens J', 'Piguet V']
+Source: PLoS Pathog. 2011 Dec;7(12):e1002456. doi: 10.1371/journal.ppat.1002456. Epub 2011 Dec 15.
+
+Title: Structural Basis for the Antiviral Activity of BST-2/Tetherin and Its Viral Antagonism.
+Authors: ['Arias JF', 'Iwabu Y', 'Tokunaga K']
+Source: Front Microbiol. 2011 Dec 12;2:250. doi: 10.3389/fmicb.2011.00250. eCollection 2011.
+
+Title: HIV-1 Group P is unable to antagonize human tetherin by Vpu, Env or Nef.
+Authors: ['Sauter D', 'Hue S', 'Petit SJ', 'Plantier JC', 'Towers GJ', 'Kirchhoff F', 'Gupta RK']
+Source: Retrovirology. 2011 Dec 15;8:103. doi: 10.1186/1742-4690-8-103.
+
+Title: The tetherin/BST-2 coiled-coil ectodomain mediates plasma membrane microdomain localization and restriction of particle release.
+Authors: ['Hammonds J', 'Ding L', 'Chu H', 'Geller K', 'Robbins A', 'Wang JJ', 'Yi H', 'Spearman P']
+Source: J Virol. 2012 Feb;86(4):2259-72. doi: 10.1128/JVI.05906-11. Epub 2011 Nov 30.
+
+Title: The HIV-1 Vpu viroporin inhibitor BIT225 does not affect Vpu-mediated tetherin antagonism.
+Authors: ['Kuhl BD', 'Cheng V', 'Donahue DA', 'Sloan RD', 'Liang C', 'Wilkinson J', 'Wainberg MA']
+Source: PLoS One. 2011;6(11):e27660. doi: 10.1371/journal.pone.0027660. Epub 2011 Nov 14.
+
+Title: Tetherin antagonism by primate lentiviral nef proteins.
+Authors: ['Sauter D', 'Kirchhoff F']
+Source: Curr HIV Res. 2011 Oct;9(7):514-23. doi: 10.2174/157016211798842044.
+
+Title: The cellular antiviral restriction factor tetherin does not inhibit poxviral replication.
+Authors: ['Sliva K', 'Resch T', 'Kraus B', 'Goffinet C', 'Keppler OT', 'Schnierle BS']
+Source: J Virol. 2012 Feb;86(3):1893-6. doi: 10.1128/JVI.05198-11. Epub 2011 Nov 16.
+
+Title: Functional mechanisms of the cellular prion protein (PrP(C)) associated anti-HIV-1 properties.
+Authors: ['Alais S', 'Soto-Rifo R', 'Balter V', 'Gruffat H', 'Manet E', 'Schaeffer L', 'Darlix JL', 'Cimarelli A', 'Raposo G', 'Ohlmann T', 'Leblanc P']
+Source: Cell Mol Life Sci. 2012 Apr;69(8):1331-52. doi: 10.1007/s00018-011-0879-z. Epub 2011 Nov 11.
+
+Title: Rab7A is required for efficient production of infectious HIV-1.
+Authors: ['Caillet M', 'Janvier K', 'Pelchen-Matthews A', 'Delcroix-Genete D', 'Camus G', 'Marsh M', 'Berlioz-Torrent C']
+Source: PLoS Pathog. 2011 Nov;7(11):e1002347. doi: 10.1371/journal.ppat.1002347. Epub 2011 Nov 3.
+
+Title: BST2/Tetherin enhances entry of human cytomegalovirus.
+Authors: ['Viswanathan K', 'Smith MS', 'Malouli D', 'Mansouri M', 'Nelson JA', 'Fruh K']
+Source: PLoS Pathog. 2011 Nov;7(11):e1002332. doi: 10.1371/journal.ppat.1002332. Epub 2011 Nov 3.
+
+Title: HIV-1 Vpu protein antagonizes innate restriction factor BST-2 via lipid-embedded helix-helix interactions.
+Authors: ['Skasko M', 'Wang Y', 'Tian Y', 'Tokarev A', 'Munguia J', 'Ruiz A', 'Stephens EB', 'Opella SJ', 'Guatelli J']
+Source: J Biol Chem. 2012 Jan 2;287(1):58-67. doi: 10.1074/jbc.M111.296772. Epub 2011 Nov 9.
+
+Title: BST-2 binding with cellular MT1-MMP blocks cell growth and migration via decreasing MMP2 activity.
+Authors: ['Gu G', 'Zhao D', 'Yin Z', 'Liu P']
+Source: J Cell Biochem. 2012 Mar;113(3):1013-21. doi: 10.1002/jcb.23433.
+
+Title: Induction and evasion of type I interferon responses by influenza viruses.
+Authors: ['Garcia-Sastre A']
+Source: Virus Res. 2011 Dec;162(1-2):12-8. doi: 10.1016/j.virusres.2011.10.017. Epub 2011 Oct 21.
+
+Title: Tetherin is a key effector of the antiretroviral activity of type I interferon in vitro and in vivo.
+Authors: ['Liberatore RA', 'Bieniasz PD']
+Source: Proc Natl Acad Sci U S A. 2011 Nov 1;108(44):18097-101. doi: 10.1073/pnas.1113694108. Epub 2011 Oct 24.
+
+Title: No trespassing: ancient BST2 deletion confers protection against simian immunodeficiency virus infection of humans.
+Authors: ['Gifford RJ']
+Source: Hum Mutat. 2011 Nov;32(11):v. doi: 10.1002/humu.21619.
+
+Title: The Ebola virus glycoprotein and HIV-1 Vpu employ different strategies to counteract the antiviral factor tetherin.
+Authors: ['Kuhl A', 'Banning C', 'Marzi A', 'Votteler J', 'Steffen I', 'Bertram S', 'Glowacka I', 'Konrad A', 'Sturzl M', 'Guo JT', 'Schubert U', 'Feldmann H', 'Behrens G', 'Schindler M', 'Pohlmann S']
+Source: J Infect Dis. 2011 Nov;204 Suppl 3:S850-60. doi: 10.1093/infdis/jir378.
+
+Title: Antiviral inhibition of enveloped virus release by tetherin/BST-2: action and counteraction.
+Authors: ['Le Tortorec A', 'Willey S', 'Neil SJ']
+Source: Viruses. 2011 May;3(5):520-40. doi: 10.3390/v3050520. Epub 2011 May 6.
+
+Title: Lack of adaptation to human tetherin in HIV-1 group O and P.
+Authors: ['Yang SJ', 'Lopez LA', 'Exline CM', 'Haworth KG', 'Cannon PM']
+Source: Retrovirology. 2011 Sep 28;8:78. doi: 10.1186/1742-4690-8-78.
+
+Title: Tetherin has negligible activity in restricting hepatitis C virus in hepatocytes.
+Authors: ['Ye L', 'Wang X', 'Li J', 'Liu J', 'Ramirez SH', 'Wu J', 'Ho W']
+Source: Innate Immun. 2012 Jun;18(3):398-405. doi: 10.1177/1753425911412984. Epub 2011 Sep 22.
+
+Title: C-terminal hydrophobic region in human bone marrow stromal cell antigen 2 (BST-2)/tetherin protein functions as second transmembrane motif.
+Authors: ['Andrew AJ', 'Kao S', 'Strebel K']
+Source: J Biol Chem. 2011 Nov 18;286(46):39967-81. doi: 10.1074/jbc.M111.287011. Epub 2011 Sep 21.
+
+Title: Interferon-induced tetherin restricts vesicular stomatitis virus release in neurons.
+Authors: ['Sarojini S', 'Theofanis T', 'Reiss CS']
+Source: DNA Cell Biol. 2011 Dec;30(12):965-74. doi: 10.1089/dna.2011.1384. Epub 2011 Sep 15.
+
+Title: Antibody-mediated enhancement of HIV-1 and HIV-2 production from BST-2/tetherin-positive cells.
+Authors: ['Miyagi E', 'Andrew A', 'Kao S', 'Yoshida T', 'Strebel K']
+Source: J Virol. 2011 Nov;85(22):11981-94. doi: 10.1128/JVI.05176-11. Epub 2011 Sep 14.
+
+Title: HIV-1 Vpu antagonizes BST-2 by interfering mainly with the trafficking of newly synthesized BST-2 to the cell surface.
+Authors: ['Dube M', 'Paquay C', 'Roy BB', 'Bego MG', 'Mercier J', 'Cohen EA']
+Source: Traffic. 2011 Dec;12(12):1714-29. doi: 10.1111/j.1600-0854.2011.01277.x. Epub 2011 Oct 3.
+
+Title: Analysis of the human immunodeficiency virus type 1 M group Vpu domains involved in antagonizing tetherin.
+Authors: ['Petit SJ', 'Blondeau C', 'Towers GJ']
+Source: J Gen Virol. 2011 Dec;92(Pt 12):2937-2948. doi: 10.1099/vir.0.035931-0. Epub 2011 Sep 7.
+
+Title: [Inhibition of HIV virus-like particles production by BST-2].
+Authors: ['Du YL', 'Hu SQ', 'Pang XJ', 'Cen S', 'Jin Q', 'Guo F']
+Source: Bing Du Xue Bao. 2011 Jul;27(4):319-25.
+
+Title: Upregulation of BST-2/Tetherin by HIV infection in vivo.
+Authors: ['Homann S', 'Smith D', 'Little S', 'Richman D', 'Guatelli J']
+Source: J Virol. 2011 Oct;85(20):10659-68. doi: 10.1128/JVI.05524-11. Epub 2011 Aug 17.
+
+Title: Role of the endocytic pathway in the counteraction of BST-2 by human lentiviral pathogens.
+Authors: ['Lau D', 'Kwan W', 'Guatelli J']
+Source: J Virol. 2011 Oct;85(19):9834-46. doi: 10.1128/JVI.02633-10. Epub 2011 Aug 3.
+
+Title: In vivo expression profile of the antiviral restriction factor and tumor-targeting antigen CD317/BST-2/HM1.24/tetherin in humans.
+Authors: ['Erikson E', 'Adam T', 'Schmidt S', 'Lehmann-Koch J', 'Over B', 'Goffinet C', 'Harter C', 'Bekeredjian-Ding I', 'Sertel S', 'Lasitschka F', 'Keppler OT']
+Source: Proc Natl Acad Sci U S A. 2011 Aug 16;108(33):13688-93. doi: 10.1073/pnas.1101684108. Epub 2011 Aug 1.
+
+Title: Ancient origin of a deletion in human BST2/Tetherin that confers protection against viral zoonoses.
+Authors: ['Sauter D', 'Vogl M', 'Kirchhoff F']
+Source: Hum Mutat. 2011 Nov;32(11):1243-5. doi: 10.1002/humu.21571. Epub 2011 Aug 11.
+
+Title: High-throughput assay to identify inhibitors of Vpu-mediated down-regulation of cell surface BST-2.
+Authors: ['Zhang Q', 'Liu Z', 'Mi Z', 'Li X', 'Jia P', 'Zhou J', 'Yin X', 'You X', 'Yu L', 'Guo F', 'Ma J', 'Liang C', 'Cen S']
+Source: Antiviral Res. 2011 Sep;91(3):321-9. doi: 10.1016/j.antiviral.2011.07.007. Epub 2011 Jul 14.
+
+Title: Separable determinants of subcellular localization and interaction account for the inability of group O HIV-1 Vpu to counteract tetherin.
+Authors: ['Vigan R', 'Neil SJ']
+Source: J Virol. 2011 Oct;85(19):9737-48. doi: 10.1128/JVI.00479-11. Epub 2011 Jul 20.
+
+Title: Vpu-mediated tetherin antagonism of ongoing HIV-1 infection in CD4(+) T-cells is not directly related to the extent of tetherin cell surface downmodulation.
+Authors: ['Kuhl BD', 'Sloan RD', 'Donahue DA', 'Liang C', 'Wainberg MA']
+Source: Virology. 2011 Sep 1;417(2):353-61. doi: 10.1016/j.virol.2011.06.012. Epub 2011 Jul 14.
+
+Title: Intracellular defenses against HIV, viral evasion and novel therapeutic approaches.
+Authors: ['Lever RA', 'Lever AM']
+Source: J Formos Med Assoc. 2011 Jun;110(6):350-62. doi: 10.1016/S0929-6646(11)60053-3.
+
+Title: Induction of innate immunity in control of mucosal transmission of HIV.
+Authors: ['Wang Y', 'Lehner T']
+Source: Curr Opin HIV AIDS. 2011 Sep;6(5):398-404. doi: 10.1097/COH.0b013e3283499df7.
+
+Title: The role of BST2/tetherin in feline retrovirus infection.
+Authors: ['Dietrich I', 'Hosie MJ', 'Willett BJ']
+Source: Vet Immunol Immunopathol. 2011 Oct 15;143(3-4):255-64. doi: 10.1016/j.vetimm.2011.06.020. Epub 2011 Jun 12.
+
+Title: Rodent blood-stage Plasmodium survive in dendritic cells that infect naive mice.
+Authors: ['Wykes MN', 'Kay JG', 'Manderson A', 'Liu XQ', 'Brown DL', 'Richard DJ', 'Wipasa J', 'Jiang SH', 'Jones MK', 'Janse CJ', 'Waters AP', 'Pierce SK', 'Miller LH', 'Stow JL', 'Good MF']
+Source: Proc Natl Acad Sci U S A. 2011 Jul 5;108(27):11205-10. doi: 10.1073/pnas.1108579108. Epub 2011 Jun 20.
+
+Title: Host factors involved in retroviral budding and release.
+Authors: ['Martin-Serrano J', 'Neil SJ']
+Source: Nat Rev Microbiol. 2011 Jun 16;9(7):519-31. doi: 10.1038/nrmicro2596.
+
+Title: Polarity changes in the transmembrane domain core of HIV-1 Vpu inhibits its anti-tetherin activity.
+Authors: ['Lv M', 'Wang J', 'Wang X', 'Zuo T', 'Zhu Y', 'Kong W', 'Yu X']
+Source: PLoS One. 2011;6(6):e20890. doi: 10.1371/journal.pone.0020890. Epub 2011 Jun 2.
+
+Title: Interactions between human immunodeficiency virus (HIV)-1 Vpr expression and innate immunity influence neurovirulence.
+Authors: ['Na H', 'Acharjee S', 'Jones G', 'Vivithanaporn P', 'Noorbakhsh F', 'McFarlane N', 'Maingat F', 'Ballanyi K', 'Pardo CA', 'Cohen EA', 'Power C']
+Source: Retrovirology. 2011 Jun 6;8:44. doi: 10.1186/1742-4690-8-44.
+
+Title: SIV Nef proteins recruit the AP-2 complex to antagonize Tetherin and facilitate virion release.
+Authors: ['Zhang F', 'Landford WN', 'Ng M', 'McNatt MW', 'Bieniasz PD', 'Hatziioannou T']
+Source: PLoS Pathog. 2011 May;7(5):e1002039. doi: 10.1371/journal.ppat.1002039. Epub 2011 May 19.
+
+Title: Influenza virus is not restricted by tetherin whereas influenza VLP production is restricted by tetherin.
+Authors: ['Watanabe R', 'Leser GP', 'Lamb RA']
+Source: Virology. 2011 Aug 15;417(1):50-6. doi: 10.1016/j.virol.2011.05.006. Epub 2011 May 28.
+
+Title: HIV-1 Vpu blocks recycling and biosynthetic transport of the intrinsic immunity factor CD317/tetherin to overcome the virion release restriction.
+Authors: ['Schmidt S', 'Fritz JV', 'Bitzegeio J', 'Fackler OT', 'Keppler OT']
+Source: mBio. 2011 May 24;2(3):e00036-11. doi: 10.1128/mBio.00036-11. Print 2011.
+
+Title: Ion channel activity of HIV-1 Vpu is dispensable for counteraction of CD317.
+Authors: ['Bolduan S', 'Votteler J', 'Lodermeyer V', 'Greiner T', 'Koppensteiner H', 'Schindler M', 'Thiel G', 'Schubert U']
+Source: Virology. 2011 Jul 20;416(1-2):75-85. doi: 10.1016/j.virol.2011.04.009. Epub 2011 May 23.
+
+Title: Osteoblast-enriched membrane protein IFITM5 regulates the association of CD9 with an FKBP11-CD81-FPRP complex and stimulates expression of interferon-induced genes.
+Authors: ['Hanagata N', 'Li X']
+Source: Biochem Biophys Res Commun. 2011 Jun 10;409(3):378-84. doi: 10.1016/j.bbrc.2011.04.136. Epub 2011 May 11.
+
+Title: The expression of BST2 in human and experimental mouse brain tumors.
+Authors: ['Wainwright DA', 'Balyasnikova IV', 'Han Y', 'Lesniak MS']
+Source: Exp Mol Pathol. 2011 Aug;91(1):440-6. doi: 10.1016/j.yexmp.2011.04.012. Epub 2011 May 1.
+
+Title: Antigen delivery to plasmacytoid dendritic cells via BST2 induces protective T cell-mediated immunity.
+Authors: ['Loschko J', 'Schlitzer A', 'Dudziak D', 'Drexler I', 'Sandholzer N', 'Bourquin C', 'Reindl W', 'Krug AB']
+Source: J Immunol. 2011 Jun 15;186(12):6718-25. doi: 10.4049/jimmunol.1004029. Epub 2011 May 9.
+
+Title: Tetherin inhibits prototypic foamy virus release.
+Authors: ['Xu F', 'Tan J', 'Liu R', 'Xu D', 'Li Y', 'Geng Y', 'Liang C', 'Qiao W']
+Source: Virol J. 2011 May 2;8:198. doi: 10.1186/1743-422X-8-198.
+
+Title: Tetherin does not significantly restrict dendritic cell-mediated HIV-1 transmission and its expression is upregulated by newly synthesized HIV-1 Nef.
+Authors: ['Coleman CM', 'Spearman P', 'Wu L']
+Source: Retrovirology. 2011 Apr 19;8:26. doi: 10.1186/1742-4690-8-26.
+
+Title: Feline tetherin efficiently restricts release of feline immunodeficiency virus but not spreading of infection.
+Authors: ['Dietrich I', 'McMonagle EL', 'Petit SJ', 'Vijayakrishnan S', 'Logan N', 'Chan CN', 'Towers GJ', 'Hosie MJ', 'Willett BJ']
+Source: J Virol. 2011 Jun;85(12):5840-52. doi: 10.1128/JVI.00071-11. Epub 2011 Apr 13.
+
+Title: Genome-wide DNA methylation patterns in CD4+ T cells from patients with systemic lupus erythematosus.
+Authors: ['Jeffries MA', 'Dozmorov M', 'Tang Y', 'Merrill JT', 'Wren JD', 'Sawalha AH']
+Source: Epigenetics. 2011 May;6(5):593-601. doi: 10.4161/epi.6.5.15374. Epub 2011 May 1.
+
+Title: Conceptus-induced changes in the endometrial transcriptome: how soon does the cow know she is pregnant?
+Authors: ['Forde N', 'Carter F', 'Spencer TE', 'Bazer FW', 'Sandra O', 'Mansouri-Attia N', 'Okumu LA', 'McGettigan PA', 'Mehta JP', 'McBride R', "O'Gaora P", 'Roche JF', 'Lonergan P']
+Source: Biol Reprod. 2011 Jul;85(1):144-56. doi: 10.1095/biolreprod.110.090019. Epub 2011 Feb 23.
+
+Title: beta-TrCP is dispensable for Vpu's ability to overcome the CD317/Tetherin-imposed restriction to HIV-1 release.
+Authors: ['Tervo HM', 'Homann S', 'Ambiel I', 'Fritz JV', 'Fackler OT', 'Keppler OT']
+Source: Retrovirology. 2011 Feb 10;8:9. doi: 10.1186/1742-4690-8-9.
+
+Title: The ESCRT-0 component HRS is required for HIV-1 Vpu-mediated BST-2/tetherin down-regulation.
+Authors: ['Janvier K', 'Pelchen-Matthews A', 'Renaud JB', 'Caillet M', 'Marsh M', 'Berlioz-Torrent C']
+Source: PLoS Pathog. 2011 Feb 3;7(2):e1001265. doi: 10.1371/journal.ppat.1001265.
+
+Title: SIV envelope acquires a nefarious habit.
+Authors: ['Neil S']
+Source: Cell Host Microbe. 2011 Jan 20;9(1):3-5. doi: 10.1016/j.chom.2011.01.003.
+
+Title: BST-2 is rapidly down-regulated from the cell surface by the HIV-1 protein Vpu: evidence for a post-ER mechanism of Vpu-action.
+Authors: ['Skasko M', 'Tokarev A', 'Chen CC', 'Fischer WB', 'Pillai SK', 'Guatelli J']
+Source: Virology. 2011 Mar 1;411(1):65-77. doi: 10.1016/j.virol.2010.12.038. Epub 2011 Jan 14.
+
+Title: Tetherin and its viral antagonists.
+Authors: ['Kuhl BD', 'Cheng V', 'Wainberg MA', 'Liang C']
+Source: J Neuroimmune Pharmacol. 2011 Jun;6(2):188-201. doi: 10.1007/s11481-010-9256-1. Epub 2011 Jan 11.
+
+Title: Budding capability of the influenza virus neuraminidase can be modulated by tetherin.
+Authors: ['Yondola MA', 'Fernandes F', 'Belicha-Villanueva A', 'Uccelini M', 'Gao Q', 'Carter C', 'Palese P']
+Source: J Virol. 2011 Mar;85(6):2480-91. doi: 10.1128/JVI.02188-10. Epub 2011 Jan 5.
+
+Title: Differential effects of human immunodeficiency virus type 1 Vpu on the stability of BST-2/tetherin.
+Authors: ['Andrew AJ', 'Miyagi E', 'Strebel K']
+Source: J Virol. 2011 Mar;85(6):2611-9. doi: 10.1128/JVI.02080-10. Epub 2010 Dec 29.
+
+Title: Tetherin restricts direct cell-to-cell infection of HIV-1.
+Authors: ['Kuhl BD', 'Sloan RD', 'Donahue DA', 'Bar-Magen T', 'Liang C', 'Wainberg MA']
+Source: Retrovirology. 2010 Dec 24;7:115. doi: 10.1186/1742-4690-7-115.
+
+Title: Modulation of HIV-1-host interaction: role of the Vpu accessory protein.
+Authors: ['Dube M', 'Bego MG', 'Paquay C', 'Cohen EA']
+Source: Retrovirology. 2010 Dec 22;7:114. doi: 10.1186/1742-4690-7-114.
+
+Title: The interferon-inducible host factor bone marrow stromal antigen 2/tetherin restricts virion release, but is it actually a viral restriction factor?
+Authors: ['Andrew A', 'Strebel K']
+Source: J Interferon Cytokine Res. 2011 Jan;31(1):137-44. doi: 10.1089/jir.2010.0108. Epub 2010 Dec 19.
+
+Title: Transcriptional expression of type-I interferon response genes and stability of housekeeping genes in the human endometrium and endometriosis.
+Authors: ['Vestergaard AL', 'Knudsen UB', 'Munk T', 'Rosbach H', 'Martensen PM']
+Source: Mol Hum Reprod. 2011 Apr;17(4):243-54. doi: 10.1093/molehr/gaq100. Epub 2010 Dec 14.
+
+Title: DNA methylation in glioblastoma: impact on gene expression and clinical outcome.
+Authors: ['Etcheverry A', 'Aubry M', 'de Tayrac M', 'Vauleon E', 'Boniface R', 'Guenot F', 'Saikali S', 'Hamlat A', 'Riffaud L', 'Menei P', 'Quillien V', 'Mosser J']
+Source: BMC Genomics. 2010 Dec 14;11:701. doi: 10.1186/1471-2164-11-701.
+
+Title: CREB5 computational regulation network construction and analysis between frontal cortex of HIV encephalitis (HIVE) and HIVE-control patients.
+Authors: ['Wang L', 'Huang J', 'Jiang M']
+Source: Cell Biochem Biophys. 2011 Jul;60(3):199-207. doi: 10.1007/s12013-010-9140-x.
+
+Title: IFN-gamma-induced BST2 mediates monocyte adhesion to human endothelial cells.
+Authors: ['Yoo H', 'Park SH', 'Ye SK', 'Kim M']
+Source: Cell Immunol. 2011;267(1):23-9. doi: 10.1016/j.cellimm.2010.10.011. Epub 2010 Nov 3.
+
+Title: Structural and biophysical analysis of BST-2/tetherin ectodomains reveals an evolutionary conserved design to inhibit virus release.
+Authors: ['Swiecki M', 'Scheaffer SM', 'Allaire M', 'Fremont DH', 'Colonna M', 'Brett TJ']
+Source: J Biol Chem. 2011 Jan 28;286(4):2987-97. doi: 10.1074/jbc.M110.190538. Epub 2010 Nov 17.
+
+Title: Identification of amino acids in the human tetherin transmembrane domain responsible for HIV-1 Vpu interaction and susceptibility.
+Authors: ['Kobayashi T', 'Ode H', 'Yoshida T', 'Sato K', 'Gee P', 'Yamamoto SP', 'Ebina H', 'Strebel K', 'Sato H', 'Koyanagi Y']
+Source: J Virol. 2011 Jan;85(2):932-45. doi: 10.1128/JVI.01668-10. Epub 2010 Nov 10.
+
+Title: Serine-threonine ubiquitination mediates downregulation of BST-2/tetherin and relief of restricted virion release by HIV-1 Vpu.
+Authors: ['Tokarev AA', 'Munguia J', 'Guatelli JC']
+Source: J Virol. 2011 Jan;85(1):51-63. doi: 10.1128/JVI.01795-10. Epub 2010 Oct 27.
+
+Title: Interferon-induced cell membrane proteins, IFITM3 and tetherin, inhibit vesicular stomatitis virus infection via distinct mechanisms.
+Authors: ['Weidner JM', 'Jiang D', 'Pan XB', 'Chang J', 'Block TM', 'Guo JT']
+Source: J Virol. 2010 Dec;84(24):12646-57. doi: 10.1128/JVI.01328-10. Epub 2010 Oct 13.
+
+Title: Plasmacytoid dendritic cells in tolerance.
+Authors: ['Gehrie E', 'Van der Touw W', 'Bromberg JS', 'Ochando JC']
+Source: Methods Mol Biol. 2011;677:127-47. doi: 10.1007/978-1-60761-869-0_9.
+
+Title: Structural insight into the mechanisms of enveloped virus tethering by tetherin.
+Authors: ['Yang H', 'Wang J', 'Jia X', 'McNatt MW', 'Zang T', 'Pan B', 'Meng W', 'Wang HW', 'Bieniasz PD', 'Xiong Y']
+Source: Proc Natl Acad Sci U S A. 2010 Oct 26;107(43):18428-32. doi: 10.1073/pnas.1011485107. Epub 2010 Oct 12.
+
+Title: Determinants of tetherin antagonism in the transmembrane domain of the human immunodeficiency virus type 1 Vpu protein.
+Authors: ['Vigan R', 'Neil SJ']
+Source: J Virol. 2010 Dec;84(24):12958-70. doi: 10.1128/JVI.01699-10. Epub 2010 Oct 6.
+
+Title: TNFRSF11B computational development network construction and analysis between frontal cortex of HIV encephalitis (HIVE) and HIVE-control patients.
+Authors: ['Huang JX', 'Wang L', 'Jiang MH']
+Source: J Inflamm (Lond). 2010 Sep 30;7:50. doi: 10.1186/1476-9255-7-50.
+
+Title: Structural and functional studies on the extracellular domain of BST2/tetherin in reduced and oxidized conformations.
+Authors: ['Schubert HL', 'Zhai Q', 'Sandrin V', 'Eckert DM', 'Garcia-Maya M', 'Saul L', 'Sundquist WI', 'Steiner RA', 'Hill CP']
+Source: Proc Natl Acad Sci U S A. 2010 Oct 19;107(42):17951-6. doi: 10.1073/pnas.1008206107. Epub 2010 Sep 29.
+
+Title: BST-2 diminishes HIV-1 infectivity.
+Authors: ['Zhang J', 'Liang C']
+Source: J Virol. 2010 Dec;84(23):12336-43. doi: 10.1128/JVI.01228-10. Epub 2010 Sep 22.
+
+Title: Cell-cell spread of human immunodeficiency virus type 1 overcomes tetherin/BST-2-mediated restriction in T cells.
+Authors: ['Jolly C', 'Booth NJ', 'Neil SJ']
+Source: J Virol. 2010 Dec;84(23):12185-99. doi: 10.1128/JVI.01447-10. Epub 2010 Sep 22.
+
+Title: HIV-1 Vpu targets cell surface markers CD4 and BST-2 through distinct mechanisms.
+Authors: ['Andrew A', 'Strebel K']
+Source: Mol Aspects Med. 2010 Oct;31(5):407-17. doi: 10.1016/j.mam.2010.08.002. Epub 2010 Sep 19.
+
+Title: Tethered virions are intermediates in the assembly and release of HIV-1 particles.
+Authors: ['Karetnikov A', 'Suomalainen M']
+Source: Virology. 2010 Nov 25;407(2):289-95. doi: 10.1016/j.virol.2010.08.020. Epub 2010 Sep 20.
+
+Title: Antigen-dependent internalization is related to rapid elimination from plasma of humanized anti-HM1.24 monoclonal antibody.
+Authors: ['Amano J', 'Masuyama N', 'Hirota Y', 'Tanaka Y', 'Igawa Y', 'Shiokawa R', 'Okutani T', 'Miyayama T', 'Nanami M', 'Ishigai M']
+Source: Drug Metab Dispos. 2010 Dec;38(12):2339-46. doi: 10.1124/dmd.110.035709. Epub 2010 Sep 7.
+
+Title: BST-2 mediated restriction of simian-human immunodeficiency virus.
+Authors: ['Ruiz A', 'Lau D', 'Mitchell RS', 'Hill MS', 'Schmitt K', 'Guatelli JC', 'Stephens EB']
+Source: Virology. 2010 Oct 25;406(2):312-21. doi: 10.1016/j.virol.2010.07.021. Epub 2010 Aug 13.
+
+Title: Endogenous CD317/Tetherin limits replication of HIV-1 and murine leukemia virus in rodent cells and is resistant to antagonists from primate viruses.
+Authors: ['Goffinet C', 'Schmidt S', 'Kern C', 'Oberbremer L', 'Keppler OT']
+Source: J Virol. 2010 Nov;84(21):11374-84. doi: 10.1128/JVI.01067-10. Epub 2010 Aug 11.
+
+Title: A defucosylated anti-CD317 antibody exhibited enhanced antibody-dependent cellular cytotoxicity against primary myeloma cells in the presence of effectors from patients.
+Authors: ['Ishiguro T', 'Kawai S', 'Habu K', 'Sugimoto M', 'Shiraiwa H', 'Iijima S', 'Ozaki S', 'Matsumoto T', 'Yamada-Okabe H']
+Source: Cancer Sci. 2010 Oct;101(10):2227-33. doi: 10.1111/j.1349-7006.2010.01663.x. Epub 2010 Aug 5.
+
+Title: Molecular evolution of the primate antiviral restriction factor tetherin.
+Authors: ['Liu J', 'Chen K', 'Wang JH', 'Zhang C']
+Source: PLoS One. 2010 Jul 30;5(7):e11904. doi: 10.1371/journal.pone.0011904.
+
+Title: BST-2/tetherin: a new component of the innate immune response to enveloped viruses.
+Authors: ['Evans DT', 'Serra-Moreno R', 'Singh RK', 'Guatelli JC']
+Source: Trends Microbiol. 2010 Sep;18(9):388-96. doi: 10.1016/j.tim.2010.06.010. Epub 2010 Aug 3.
+
+Title: Infectious Lassa virus, but not filoviruses, is restricted by BST-2/tetherin.
+Authors: ['Radoshitzky SR', 'Dong L', 'Chi X', 'Clester JC', 'Retterer C', 'Spurgers K', 'Kuhn JH', 'Sandwick S', 'Ruthel G', 'Kota K', 'Boltz D', 'Warren T', 'Kranzusch PJ', 'Whelan SP', 'Bavari S']
+Source: J Virol. 2010 Oct;84(20):10569-80. doi: 10.1128/JVI.00103-10. Epub 2010 Aug 4.
+
+Title: Retroviral restriction factors and infectious risk in xenotransplantation.
+Authors: ['Meije Y', 'Tonjes RR', 'Fishman JA']
+Source: Am J Transplant. 2010 Jul;10(7):1511-6. doi: 10.1111/j.1600-6143.2010.03146.x.
+
+Title: A critical function of toll-like receptor-3 in the induction of anti-human immunodeficiency virus activities in macrophages.
+Authors: ['Zhou Y', 'Wang X', 'Liu M', 'Hu Q', 'Song L', 'Ye L', 'Zhou D', 'Ho W']
+Source: Immunology. 2010 Sep;131(1):40-9. doi: 10.1111/j.1365-2567.2010.03270.x. Epub 2010 Jul 16.
+
+Title: Tetherin restricts productive HIV-1 cell-to-cell transmission.
+Authors: ['Casartelli N', 'Sourisseau M', 'Feldmann J', 'Guivel-Benhassine F', 'Mallet A', 'Marcelin AG', 'Guatelli J', 'Schwartz O']
+Source: PLoS Pathog. 2010 Jun 17;6(6):e1000955. doi: 10.1371/journal.ppat.1000955.
+
+Title: HIV-1 Vpu and HIV-2 Env counteract BST-2/tetherin by sequestration in a perinuclear compartment.
+Authors: ['Hauser H', 'Lopez LA', 'Yang SJ', 'Oldenburg JE', 'Exline CM', 'Guatelli JC', 'Cannon PM']
+Source: Retrovirology. 2010 Jun 7;7:51. doi: 10.1186/1742-4690-7-51.
+
+Title: Search for transmembrane protein in gastric cancer by the Escherichia coli ampicillin secretion trap: expression of DSC2 in gastric cancer with intestinal phenotype.
+Authors: ['Anami K', 'Oue N', 'Noguchi T', 'Sakamoto N', 'Sentani K', 'Hayashi T', 'Hinoi T', 'Okajima M', 'Graff JM', 'Yasui W']
+Source: J Pathol. 2010 Jul;221(3):275-84. doi: 10.1002/path.2717.
+
+Title: The great escape: viral strategies to counter BST-2/tetherin.
+Authors: ['Douglas JL', 'Gustin JK', 'Viswanathan K', 'Mansouri M', 'Moses AV', 'Fruh K']
+Source: PLoS Pathog. 2010 May 13;6(5):e1000913. doi: 10.1371/journal.ppat.1000913.
+
+Title: Ancient adaptive evolution of tetherin shaped the functions of Vpu and Nef in human immunodeficiency virus and primate lentiviruses.
+Authors: ['Lim ES', 'Malik HS', 'Emerman M']
+Source: J Virol. 2010 Jul;84(14):7124-34. doi: 10.1128/JVI.00468-10. Epub 2010 May 5.
+
+Title: Ebola virus glycoprotein counteracts BST-2/Tetherin restriction in a sequence-independent manner that does not require tetherin surface removal.
+Authors: ['Lopez LA', 'Yang SJ', 'Hauser H', 'Exline CM', 'Haworth KG', 'Oldenburg J', 'Cannon PM']
+Source: J Virol. 2010 Jul;84(14):7243-55. doi: 10.1128/JVI.02636-09. Epub 2010 May 5.
+
+Title: Tetherin: holding on and letting go.
+Authors: ['Sauter D', 'Specht A', 'Kirchhoff F']
+Source: Cell. 2010 Apr 30;141(3):392-8. doi: 10.1016/j.cell.2010.04.022.
+
+Title: The RING-CH ligase K5 antagonizes restriction of KSHV and HIV-1 particle release by mediating ubiquitin-dependent endosomal degradation of tetherin.
+Authors: ['Pardieu C', 'Vigan R', 'Wilson SJ', 'Calvi A', 'Zang T', 'Bieniasz P', 'Kellam P', 'Towers GJ', 'Neil SJ']
+Source: PLoS Pathog. 2010 Apr 15;6(4):e1000843. doi: 10.1371/journal.ppat.1000843.
+
+Title: Structural basis of HIV-1 tethering to membranes by the BST-2/tetherin ectodomain.
+Authors: ['Hinz A', 'Miguet N', 'Natrajan G', 'Usami Y', 'Yamanaka H', 'Renesto P', 'Hartlieb B', 'McCarthy AA', 'Simorre JP', 'Gottlinger H', 'Weissenhorn W']
+Source: Cell Host Microbe. 2010 Apr 22;7(4):314-23. doi: 10.1016/j.chom.2010.03.005.
+
+Title: Antagonism of tetherin restriction of HIV-1 release by Vpu involves binding and sequestration of the restriction factor in a perinuclear compartment.
+Authors: ['Dube M', 'Roy BB', 'Guiot-Guillain P', 'Binette J', 'Mercier J', 'Chiasson A', 'Cohen EA']
+Source: PLoS Pathog. 2010 Apr 8;6(4):e1000856. doi: 10.1371/journal.ppat.1000856.
+
+Title: [A novel innate antiviral factor-tetherin].
+Authors: ['Yang YS', 'Wang XL', 'Li ZL', 'Zeng Y']
+Source: Bing Du Xue Bao. 2010 Jan;26(1):71-5.
+
+Title: Direct restriction of virus release and incorporation of the interferon-induced protein BST-2 into HIV-1 particles.
+Authors: ['Fitzpatrick K', 'Skasko M', 'Deerinck TJ', 'Crum J', 'Ellisman MH', 'Guatelli J']
+Source: PLoS Pathog. 2010 Mar 5;6(3):e1000701. doi: 10.1371/journal.ppat.1000701.
+
+Title: The Vpu protein: new concepts in virus release and CD4 down-modulation.
+Authors: ['Ruiz A', 'Guatelli JC', 'Stephens EB']
+Source: Curr HIV Res. 2010 Apr;8(3):240-52. doi: 10.2174/157016210791111124.
+
+Title: Susceptibility of xenotropic murine leukemia virus-related virus (XMRV) to retroviral restriction factors.
+Authors: ['Groom HC', 'Yap MW', 'Galao RP', 'Neil SJ', 'Bishop KN']
+Source: Proc Natl Acad Sci U S A. 2010 Mar 16;107(11):5166-71. doi: 10.1073/pnas.0913650107. Epub 2010 Mar 1.
+
+Title: Signaling and ligand interaction of ILT7: receptor-mediated regulatory mechanisms for plasmacytoid dendritic cells.
+Authors: ['Cao W', 'Bover L']
+Source: Immunol Rev. 2010 Mar;234(1):163-76. doi: 10.1111/j.0105-2896.2009.00867.x.
+
+Title: Unraveling the functions of plasmacytoid dendritic cells during viral infections, autoimmunity, and tolerance.
+Authors: ['Swiecki M', 'Colonna M']
+Source: Immunol Rev. 2010 Mar;234(1):142-62. doi: 10.1111/j.0105-2896.2009.00881.x.
+
+Title: Interplay between ovine bone marrow stromal cell antigen 2/tetherin and endogenous retroviruses.
+Authors: ['Arnaud F', 'Black SG', 'Murphy L', 'Griffiths DJ', 'Neil SJ', 'Spencer TE', 'Palmarini M']
+Source: J Virol. 2010 May;84(9):4415-25. doi: 10.1128/JVI.00029-10. Epub 2010 Feb 24.
+
+Title: A flow cytometry-based FRET assay to identify and analyse protein-protein interactions in living cells.
+Authors: ['Banning C', 'Votteler J', 'Hoffmann D', 'Koppensteiner H', 'Warmer M', 'Reimer R', 'Kirchhoff F', 'Schubert U', 'Hauber J', 'Schindler M']
+Source: PLoS One. 2010 Feb 22;5(2):e9344. doi: 10.1371/journal.pone.0009344.
+
+Title: Anti-tetherin activities in Vpu-expressing primate lentiviruses.
+Authors: ['Yang SJ', 'Lopez LA', 'Hauser H', 'Exline CM', 'Haworth KG', 'Cannon PM']
+Source: Retrovirology. 2010 Feb 18;7:13. doi: 10.1186/1742-4690-7-13.
+
+Title: How innate immunity can inhibit the release of HIV-1 from infected cells.
+Authors: ['Guatelli J']
+Source: N Engl J Med. 2010 Feb 11;362(6):553-4. doi: 10.1056/NEJMcibr0911557.
+
+Title: Antagonism of CD317 restriction of human immunodeficiency virus type 1 (HIV-1) particle release and depletion of CD317 are separable activities of HIV-1 Vpu.
+Authors: ['Goffinet C', 'Homann S', 'Ambiel I', 'Tibroni N', 'Rupp D', 'Keppler OT', 'Fackler OT']
+Source: J Virol. 2010 Apr;84(8):4089-94. doi: 10.1128/JVI.01549-09. Epub 2010 Feb 10.
+
+Title: CD317/tetherin is enriched in the HIV-1 envelope and downregulated from the plasma membrane upon virus infection.
+Authors: ['Habermann A', 'Krijnse-Locker J', 'Oberwinkler H', 'Eckhardt M', 'Homann S', 'Andrew A', 'Strebel K', 'Krausslich HG']
+Source: J Virol. 2010 May;84(9):4646-58. doi: 10.1128/JVI.02421-09. Epub 2010 Feb 10.
+
+Title: Immunoelectron microscopic evidence for Tetherin/BST2 as the physical bridge between HIV-1 virions and the plasma membrane.
+Authors: ['Hammonds J', 'Wang JJ', 'Yi H', 'Spearman P']
+Source: PLoS Pathog. 2010 Feb 5;6(2):e1000749. doi: 10.1371/journal.ppat.1000749.
+
+Title: CAML does not modulate tetherin-mediated restriction of HIV-1 particle release.
+Authors: ['Ali MS', 'Hammonds J', 'Ding L', 'Spearman P']
+Source: PLoS One. 2010 Feb 2;5(2):e9005. doi: 10.1371/journal.pone.0009005.
+
+Title: Vpu serine 52 dependent counteraction of tetherin is required for HIV-1 replication in macrophages, but not in ex vivo human lymphoid tissue.
+Authors: ['Schindler M', 'Rajan D', 'Banning C', 'Wimmer P', 'Koppensteiner H', 'Iwanski A', 'Specht A', 'Sauter D', 'Dobner T', 'Kirchhoff F']
+Source: Retrovirology. 2010 Jan 15;7:1. doi: 10.1186/1742-4690-7-1.
+
+Title: BCA2/Rabring7 promotes tetherin-dependent HIV-1 restriction.
+Authors: ['Miyakawa K', 'Ryo A', 'Murakami T', 'Ohba K', 'Yamaoka S', 'Fukuda M', 'Guatelli J', 'Yamamoto N']
+Source: PLoS Pathog. 2009 Dec;5(12):e1000700. doi: 10.1371/journal.ppat.1000700. Epub 2009 Dec 18.
+
+Title: Regulation of porcine endogenous retrovirus release by porcine and human tetherins.
+Authors: ['Mattiuzzo G', 'Ivol S', 'Takeuchi Y']
+Source: J Virol. 2010 Mar;84(5):2618-22. doi: 10.1128/JVI.01928-09. Epub 2009 Dec 16.
+
+Title: Interactions of viral protein U (Vpu) with cellular factors.
+Authors: ['Guatelli JC']
+Source: Curr Top Microbiol Immunol. 2009;339:27-45. doi: 10.1007/978-3-642-02175-6_2.
+
+Title: Antiviral activity of the interferon-induced cellular protein BST-2/tetherin.
+Authors: ['Tokarev A', 'Skasko M', 'Fitzpatrick K', 'Guatelli J']
+Source: AIDS Res Hum Retroviruses. 2009 Dec;25(12):1197-210. doi: 10.1089/aid.2009.0253.
+
+Title: Tetherin-driven adaptation of Vpu and Nef function and the evolution of pandemic and nonpandemic HIV-1 strains.
+Authors: ['Sauter D', 'Schindler M', 'Specht A', 'Landford WN', 'Munch J', 'Kim KA', 'Votteler J', 'Schubert U', 'Bibollet-Ruche F', 'Keele BF', 'Takehisa J', 'Ogando Y', 'Ochsenbauer C', 'Kappes JC', 'Ayouba A', 'Peeters M', 'Learn GH', 'Shaw G', 'Sharp PM', 'Bieniasz P', 'Hahn BH', 'Hatziioannou T', 'Kirchhoff F']
+Source: Cell Host Microbe. 2009 Nov 19;6(5):409-21. doi: 10.1016/j.chom.2009.10.004.
+
+Title: In vivo biotinylation of the vasculature in B-cell lymphoma identifies BST-2 as a target for antibody-based therapy.
+Authors: ['Schliemann C', 'Roesli C', 'Kamada H', 'Borgia B', 'Fugmann T', 'Klapper W', 'Neri D']
+Source: Blood. 2010 Jan 21;115(3):736-44. doi: 10.1182/blood-2009-08-239004. Epub 2009 Nov 10.
+
+Title: Tetherin inhibits HIV-1 release by directly tethering virions to cells.
+Authors: ['Perez-Caballero D', 'Zang T', 'Ebrahimi A', 'McNatt MW', 'Gregory DA', 'Johnson MC', 'Bieniasz PD']
+Source: Cell. 2009 Oct 30;139(3):499-511. doi: 10.1016/j.cell.2009.08.039.
+
+Title: Tetherin is as tetherin does.
+Authors: ['Hammonds J', 'Spearman P']
+Source: Cell. 2009 Oct 30;139(3):456-7. doi: 10.1016/j.cell.2009.10.011.
+
+Title: Simian immunodeficiency virus envelope glycoprotein counteracts tetherin/BST-2/CD317 by intracellular sequestration.
+Authors: ['Gupta RK', 'Mlcochova P', 'Pelchen-Matthews A', 'Petit SJ', 'Mattiuzzo G', 'Pillay D', 'Takeuchi Y', 'Marsh M', 'Towers GJ']
+Source: Proc Natl Acad Sci U S A. 2009 Dec 8;106(49):20889-94. doi: 10.1073/pnas.0907075106. Epub 2009 Oct 28.
+
+Title: HIV-1 accessory protein Vpu internalizes cell-surface BST-2/tetherin through transmembrane interactions leading to lysosomes.
+Authors: ['Iwabu Y', 'Fujita H', 'Kinomoto M', 'Kaneko K', 'Ishizaka Y', 'Tanaka Y', 'Sata T', 'Tokunaga K']
+Source: J Biol Chem. 2009 Dec 11;284(50):35060-72. doi: 10.1074/jbc.M109.058305. Epub 2009 Oct 16.
+
+Title: Effect of calcium-modulating cyclophilin ligand on human immunodeficiency virus type 1 particle release and cell surface expression of tetherin.
+Authors: ['Bego MG', 'Dube M', 'Mercier J', 'Cohen EA']
+Source: J Virol. 2009 Dec;83(24):13032-6. doi: 10.1128/JVI.01786-09. Epub 2009 Sep 30.
+
+Title: Human cellular restriction factors that target HIV-1 replication.
+Authors: ['Strebel K', 'Luban J', 'Jeang KT']
+Source: BMC Med. 2009 Sep 16;7:48. doi: 10.1186/1741-7015-7-48.
+
+Title: Dimerization of tetherin is not essential for its antiviral activity against Lassa and Marburg viruses.
+Authors: ['Sakuma T', 'Sakurai A', 'Yasuda J']
+Source: PLoS One. 2009 Sep 9;4(9):e6934. doi: 10.1371/journal.pone.0006934.
+
+Title: Antagonism to and intracellular sequestration of human tetherin by the human immunodeficiency virus type 2 envelope glycoprotein.
+Authors: ['Le Tortorec A', 'Neil SJ']
+Source: J Virol. 2009 Nov;83(22):11966-78. doi: 10.1128/JVI.01515-09. Epub 2009 Sep 9.
+
+Title: The formation of cysteine-linked dimers of BST-2/tetherin is important for inhibition of HIV-1 virus release but not for sensitivity to Vpu.
+Authors: ['Andrew AJ', 'Miyagi E', 'Kao S', 'Strebel K']
+Source: Retrovirology. 2009 Sep 8;6:80. doi: 10.1186/1742-4690-6-80.
+
+Title: HIV-1 Vpu neutralizes the antiviral factor Tetherin/BST-2 by binding it and directing its beta-TrCP2-dependent degradation.
+Authors: ['Mangeat B', 'Gers-Huber G', 'Lehmann M', 'Zufferey M', 'Luban J', 'Piguet V']
+Source: PLoS Pathog. 2009 Sep;5(9):e1000574. doi: 10.1371/journal.ppat.1000574. Epub 2009 Sep 4.
+
+Title: Evolutionary trajectories of primate genes involved in HIV pathogenesis.
+Authors: ['Ortiz M', 'Guex N', 'Patin E', 'Martin O', 'Xenarios I', 'Ciuffi A', 'Quintana-Murci L', 'Telenti A']
+Source: Mol Biol Evol. 2009 Dec;26(12):2865-75. doi: 10.1093/molbev/msp197. Epub 2009 Sep 2.
+
+Title: Human immunodeficiency virus, restriction factors, and interferon.
+Authors: ['Neil S', 'Bieniasz P']
+Source: J Interferon Cytokine Res. 2009 Sep;29(9):569-80. doi: 10.1089/jir.2009.0077.
+
+Title: Molecular mechanism of BST2/tetherin downregulation by K5/MIR2 of Kaposi's sarcoma-associated herpesvirus.
+Authors: ['Mansouri M', 'Viswanathan K', 'Douglas JL', 'Hines J', 'Gustin J', 'Moses AV', 'Fruh K']
+Source: J Virol. 2009 Oct;83(19):9672-81. doi: 10.1128/JVI.00597-09. Epub 2009 Jul 15.
+
+Title: Regulation of TLR7/9 responses in plasmacytoid dendritic cells by BST2 and ILT7 receptor interaction.
+Authors: ['Cao W', 'Bover L', 'Cho M', 'Wen X', 'Hanabuchi S', 'Bao M', 'Rosen DB', 'Wang YH', 'Shaw JL', 'Du Q', 'Li C', 'Arai N', 'Yao Z', 'Lanier LL', 'Liu YJ']
+Source: J Exp Med. 2009 Jul 6;206(7):1603-14. doi: 10.1084/jem.20090547. Epub 2009 Jun 29.
+
+Title: Vpu directs the degradation of the human immunodeficiency virus restriction factor BST-2/Tetherin via a {beta}TrCP-dependent mechanism.
+Authors: ['Douglas JL', 'Viswanathan K', 'McCarroll MN', 'Gustin JK', 'Fruh K', 'Moses AV']
+Source: J Virol. 2009 Aug;83(16):7931-47. doi: 10.1128/JVI.00242-09. Epub 2009 Jun 10.
+
+Title: Nef proteins from simian immunodeficiency viruses are tetherin antagonists.
+Authors: ['Zhang F', 'Wilson SJ', 'Landford WC', 'Virgen B', 'Gregory D', 'Johnson MC', 'Munch J', 'Kirchhoff F', 'Bieniasz PD', 'Hatziioannou T']
+Source: Cell Host Microbe. 2009 Jul 23;6(1):54-67. doi: 10.1016/j.chom.2009.05.008. Epub 2009 Jun 4.
+
+Title: Comparative study on the effect of human BST-2/Tetherin on HIV-1 release in cells of various species.
+Authors: ['Sato K', 'Yamamoto SP', 'Misawa N', 'Yoshida T', 'Miyazawa T', 'Koyanagi Y']
+Source: Retrovirology. 2009 Jun 2;6:53. doi: 10.1186/1742-4690-6-53.
+
+Title: Melan-A/MART1 analog peptide triggers anti-myeloma T-cells through crossreactivity with HM1.24.
+Authors: ['Christensen O', 'Lupu A', 'Schmidt S', 'Condomines M', 'Belle S', 'Maier A', 'Hose D', 'Neuber B', 'Moos M', 'Kleist C', 'Terness P', 'Ho AD', 'Goldschmidt H', 'Klein B', 'Hundemer M']
+Source: J Immunother. 2009 Jul-Aug;32(6):613-21. doi: 10.1097/CJI.0b013e3181a95198.
+
+Title: Vpu antagonizes BST-2-mediated restriction of HIV-1 release via beta-TrCP and endo-lysosomal trafficking.
+Authors: ['Mitchell RS', 'Katsura C', 'Skasko MA', 'Fitzpatrick K', 'Lau D', 'Ruiz A', 'Stephens EB', 'Margottin-Goguet F', 'Benarous R', 'Guatelli JC']
+Source: PLoS Pathog. 2009 May;5(5):e1000450. doi: 10.1371/journal.ppat.1000450. Epub 2009 May 29.
+
+Title: Unphosphorylated STAT1 prolongs the expression of interferon-induced immune regulatory genes.
+Authors: ['Cheon H', 'Stark GR']
+Source: Proc Natl Acad Sci U S A. 2009 Jun 9;106(23):9373-8. doi: 10.1073/pnas.0903487106. Epub 2009 May 28.
+
+Title: The transmembrane domain of BST-2 determines its sensitivity to down-modulation by human immunodeficiency virus type 1 Vpu.
+Authors: ['Rong L', 'Zhang J', 'Lu J', 'Pan Q', 'Lorgeoux RP', 'Aloysius C', 'Guo F', 'Liu SL', 'Wainberg MA', 'Liang C']
+Source: J Virol. 2009 Aug;83(15):7536-46. doi: 10.1128/JVI.00620-09. Epub 2009 May 27.
+
+Title: Mutation of a single residue renders human tetherin resistant to HIV-1 Vpu-mediated depletion.
+Authors: ['Gupta RK', 'Hue S', 'Schaller T', 'Verschoor E', 'Pillay D', 'Towers GJ']
+Source: PLoS Pathog. 2009 May;5(5):e1000443. doi: 10.1371/journal.ppat.1000443. Epub 2009 May 22.
+
+Title: Species-specific activity of SIV Nef and HIV-1 Vpu in overcoming restriction by tetherin/BST2.
+Authors: ['Jia B', 'Serra-Moreno R', 'Neidermyer W', 'Rahmberg A', 'Mackey J', 'Fofana IB', 'Johnson WE', 'Westmoreland S', 'Evans DT']
+Source: PLoS Pathog. 2009 May;5(5):e1000429. doi: 10.1371/journal.ppat.1000429. Epub 2009 May 15.
+
+Title: HM1.24 is internalized from lipid rafts by clathrin-mediated endocytosis through interaction with alpha-adaptin.
+Authors: ['Masuyama N', 'Kuronita T', 'Tanaka R', 'Muto T', 'Hirota Y', 'Takigawa A', 'Fujita H', 'Aso Y', 'Amano J', 'Tanaka Y']
+Source: J Biol Chem. 2009 Jun 5;284(23):15927-41. doi: 10.1074/jbc.M109.005124. Epub 2009 Apr 8.
+
+Title: Up-regulation of bone marrow stromal protein 2 (BST2) in breast cancer with bone metastasis.
+Authors: ['Cai D', 'Cao J', 'Li Z', 'Zheng X', 'Yao Y', 'Li W', 'Yuan Z']
+Source: BMC Cancer. 2009 Apr 1;9:102. doi: 10.1186/1471-2407-9-102.
+
+Title: HIV-1 antagonism of CD317 is species specific and involves Vpu-mediated proteasomal degradation of the restriction factor.
+Authors: ['Goffinet C', 'Allespach I', 'Homann S', 'Tervo HM', 'Habermann A', 'Rupp D', 'Oberbremer L', 'Kern C', 'Tibroni N', 'Welsch S', 'Krijnse-Locker J', 'Banting G', 'Krausslich HG', 'Fackler OT', 'Keppler OT']
+Source: Cell Host Microbe. 2009 Mar 19;5(3):285-97. doi: 10.1016/j.chom.2009.01.009.
+
+Title: This bud's for Vpu.
+Authors: ['Collins KL']
+Source: Cell Host Microbe. 2009 Mar 19;5(3):217-9. doi: 10.1016/j.chom.2009.02.002.
+
+Title: A CD317/tetherin-RICH2 complex plays a critical role in the organization of the subapical actin cytoskeleton in polarized epithelial cells.
+Authors: ['Rollason R', 'Korolchuk V', 'Hamilton C', 'Jepson M', 'Banting G']
+Source: J Cell Biol. 2009 Mar 9;184(5):721-36. doi: 10.1083/jcb.200804154.
+
+Title: Suppression of Tetherin-restricting activity upon human immunodeficiency virus type 1 particle release correlates with localization of Vpu in the trans-Golgi network.
+Authors: ['Dube M', 'Roy BB', 'Guiot-Guillain P', 'Mercier J', 'Binette J', 'Leung G', 'Cohen EA']
+Source: J Virol. 2009 May;83(9):4574-90. doi: 10.1128/JVI.01800-08. Epub 2009 Feb 25.
+
+Title: Species-specific activity of HIV-1 Vpu and positive selection of tetherin transmembrane domain variants.
+Authors: ['McNatt MW', 'Zang T', 'Hatziioannou T', 'Bartlett M', 'Fofana IB', 'Johnson WE', 'Neil SJ', 'Bieniasz PD']
+Source: PLoS Pathog. 2009 Feb;5(2):e1000300. doi: 10.1371/journal.ppat.1000300. Epub 2009 Feb 13.
+
+Title: Vpu enhances HIV-1 virus release in the absence of Bst-2 cell surface down-modulation and intracellular depletion.
+Authors: ['Miyagi E', 'Andrew AJ', 'Kao S', 'Strebel K']
+Source: Proc Natl Acad Sci U S A. 2009 Feb 24;106(8):2868-73. doi: 10.1073/pnas.0813223106. Epub 2009 Feb 5.
+
+Title: Tetherin-mediated restriction of filovirus budding is antagonized by the Ebola glycoprotein.
+Authors: ['Kaletsky RL', 'Francica JR', 'Agrawal-Gamse C', 'Bates P']
+Source: Proc Natl Acad Sci U S A. 2009 Feb 24;106(8):2886-91. doi: 10.1073/pnas.0811014106. Epub 2009 Jan 28.
+
+Title: Inhibition of Lassa and Marburg virus production by tetherin.
+Authors: ['Sakuma T', 'Noda T', 'Urata S', 'Kawaoka Y', 'Yasuda J']
+Source: J Virol. 2009 Mar;83(5):2382-5. doi: 10.1128/JVI.01607-08. Epub 2008 Dec 17.
+
+Title: Broad-spectrum inhibition of retroviral and filoviral particle release by tetherin.
+Authors: ['Jouvenet N', 'Neil SJ', 'Zhadina M', 'Zang T', 'Kratovac Z', 'Lee Y', 'McNatt M', 'Hatziioannou T', 'Bieniasz PD']
+Source: J Virol. 2009 Feb;83(4):1837-44. doi: 10.1128/JVI.02211-08. Epub 2008 Nov 26.
+
+Title: Interferon-alpha enhances CD317 expression and the antitumor activity of anti-CD317 monoclonal antibody in renal cell carcinoma xenograft models.
+Authors: ['Kawai S', 'Azuma Y', 'Fujii E', 'Furugaki K', 'Ozaki S', 'Matsumoto T', 'Kosaka M', 'Yamada-Okabe H']
+Source: Cancer Sci. 2008 Dec;99(12):2461-6. doi: 10.1111/j.1349-7006.2008.00968.x. Epub 2008 Nov 20.
+
+Title: Searching for molecular markers in head and neck squamous cell carcinomas (HNSCC) by statistical and bioinformatic analysis of larynx-derived SAGE libraries.
+Authors: ['Silveira NJ', 'Varuzza L', 'Machado-Lima A', 'Lauretto MS', 'Pinheiro DG', 'Rodrigues RV', 'Severino P', 'Nobrega FG', 'Silva WA Jr', 'de B Pereira CA', 'Tajara EH']
+Source: BMC Med Genomics. 2008 Nov 11;1:56. doi: 10.1186/1755-8794-1-56.
+
+Title: HM1.24 (CD317) is a novel target against lung cancer for immunotherapy using anti-HM1.24 antibody.
+Authors: ['Wang W', 'Nishioka Y', 'Ozaki S', 'Jalili A', 'Abe S', 'Kakiuchi S', 'Kishuku M', 'Minakuchi K', 'Matsumoto T', 'Sone S']
+Source: Cancer Immunol Immunother. 2009 Jun;58(6):967-76. doi: 10.1007/s00262-008-0612-4. Epub 2008 Nov 1.
+
+Title: Demonstration of a novel HIV-1 restriction phenotype from a human T cell line.
+Authors: ['Han Y', 'Wang X', 'Dang Y', 'Zheng YH']
+Source: PLoS One. 2008 Jul 30;3(7):e2796. doi: 10.1371/journal.pone.0002796.
+
+Title: Inhibition of human immunodeficiency virus type 1 assembly and release by the cholesterol-binding compound amphotericin B methyl ester: evidence for Vpu dependence.
+Authors: ['Waheed AA', 'Ablan SD', 'Soheilian F', 'Nagashima K', 'Ono A', 'Schaffner CP', 'Freed EO']
+Source: J Virol. 2008 Oct;82(19):9776-81. doi: 10.1128/JVI.00917-08. Epub 2008 Jul 23.
+
+Title: Transcriptional profiling defines the effects of nickel in human epidermal keratinocytes.
+Authors: ['Gazel A', 'Rosdy M', 'Tornier C', 'De Fraissinette Ade B', 'Blumenberg M']
+Source: J Cell Physiol. 2008 Dec;217(3):686-92. doi: 10.1002/jcp.21536.
+
+Title: Type I IFN-induced, NKT cell-mediated negative control of CD8 T cell priming by dendritic cells.
+Authors: ['Bochtler P', 'Kroger A', 'Schirmbeck R', 'Reimann J']
+Source: J Immunol. 2008 Aug 1;181(3):1633-43. doi: 10.4049/jimmunol.181.3.1633.
+
+Title: Host restriction factors blocking retroviral replication.
+Authors: ['Wolf D', 'Goff SP']
+Source: Annu Rev Genet. 2008;42:143-63. doi: 10.1146/annurev.genet.42.110807.091704.
+
+Title: Transcriptome studies of bovine endometrium reveal molecular profiles characteristic for specific stages of estrous cycle and early pregnancy.
+Authors: ['Bauersachs S', 'Mitko K', 'Ulbrich SE', 'Blum H', 'Wolf E']
+Source: Exp Clin Endocrinol Diabetes. 2008 Jul;116(7):371-84. doi: 10.1055/s-2008-1076714. Epub 2008 Jun 17.
+
+Title: Chimeric and humanized anti-HM1.24 antibodies mediate antibody-dependent cellular cytotoxicity against lung cancer cells.
+Authors: ['Wang W', 'Nishioka Y', 'Ozaki S', 'Jalili A', 'Verma VK', 'Hanibuchi M', 'Abe S', 'Minakuchi K', 'Matsumoto T', 'Sone S']
+Source: Lung Cancer. 2009 Jan;63(1):23-31. doi: 10.1016/j.lungcan.2008.04.009. Epub 2008 Jun 3.
+
+Title: Dynamics of immune cell recruitment during West Nile encephalitis and identification of a new CD19+B220-BST-2+ leukocyte population.
+Authors: ['Brehin AC', 'Mouries J', 'Frenkiel MP', 'Dadaglio G', 'Despres P', 'Lafon M', 'Couderc T']
+Source: J Immunol. 2008 May 15;180(10):6760-7. doi: 10.4049/jimmunol.180.10.6760.
+
+Title: Multiple genotypic aberrances associate to terminal differentiation-deficiency of an oral squamous cell carcinoma in serum-free culture.
+Authors: ['Roberg K', 'Ceder R', 'Farnebo L', 'Norberg-Spaak L', 'Grafstrom RC']
+Source: Differentiation. 2008 Oct;76(8):868-80. doi: 10.1111/j.1432-0436.2008.00267.x. Epub 2008 Apr 29.
+
+Title: The interferon-induced protein BST-2 restricts HIV-1 release and is downregulated from the cell surface by the viral Vpu protein.
+Authors: ['Van Damme N', 'Goff D', 'Katsura C', 'Jorgenson RL', 'Mitchell R', 'Johnson MC', 'Stephens EB', 'Guatelli J']
+Source: Cell Host Microbe. 2008 Apr 17;3(4):245-52. doi: 10.1016/j.chom.2008.03.001. Epub 2008 Mar 13.
+
+Title: HIV/AIDS: virus kept on a leash.
+Authors: ['Gottlinger HG']
+Source: Nature. 2008 Jan 24;451(7177):406-8. doi: 10.1038/nature06364.
+
+Title: Tetherin inhibits retrovirus release and is antagonized by HIV-1 Vpu.
+Authors: ['Neil SJ', 'Zang T', 'Bieniasz PD']
+Source: Nature. 2008 Jan 24;451(7177):425-30. doi: 10.1038/nature06553. Epub 2008 Jan 16.
+
+Title: Clathrin-mediated endocytosis of a lipid-raft-associated protein is mediated through a dual tyrosine motif.
+Authors: ['Rollason R', 'Korolchuk V', 'Hamilton C', 'Schu P', 'Banting G']
+Source: J Cell Sci. 2007 Nov 1;120(Pt 21):3850-8. doi: 10.1242/jcs.003343. Epub 2007 Oct 16.
+
+Title: Quantitative membrane proteomics reveals new cellular targets of viral immune modulators.
+Authors: ['Bartee E', 'McCormack A', 'Fruh K']
+Source: PLoS Pathog. 2006 Oct;2(10):e107. doi: 10.1371/journal.ppat.0020107.
+
+Title: Identification of molecular markers and signaling pathway in endometrial cancer in Hong Kong Chinese women by genome-wide gene expression profiling.
+Authors: ['Wong YF', 'Cheung TH', 'Lo KW', 'Yim SF', 'Siu NS', 'Chan SC', 'Ho TW', 'Wong KW', 'Yu MY', 'Wang VW', 'Li C', 'Gardner GJ', 'Bonome T', 'Johnson WB', 'Smith DI', 'Chung TK', 'Birrer MJ']
+Source: Oncogene. 2007 Mar 22;26(13):1971-82. doi: 10.1038/sj.onc.1209986. Epub 2006 Oct 16.
+
+Title: Bone marrow stromal cell antigen 2 is a specific marker of type I IFN-producing cells in the naive mouse, but a promiscuous cell surface antigen following IFN stimulation.
+Authors: ['Blasius AL', 'Giurisato E', 'Cella M', 'Schreiber RD', 'Shaw AS', 'Colonna M']
+Source: J Immunol. 2006 Sep 1;177(5):3260-5. doi: 10.4049/jimmunol.177.5.3260.
+
+Title: Embryo-induced transcriptome changes in bovine endometrium reveal species-specific and common molecular markers of uterine receptivity.
+Authors: ['Bauersachs S', 'Ulbrich SE', 'Gross K', 'Schmidt SE', 'Meyer HH', 'Wenigerkind H', 'Vermehren M', 'Sinowatz F', 'Blum H', 'Wolf E']
+Source: Reproduction. 2006 Aug;132(2):319-31. doi: 10.1530/rep.1.00996.
+
+Title: Gene expression profiles of progressive pancreatic endocrine tumours and their liver metastases reveal potential novel markers and therapeutic targets.
+Authors: ['Capurso G', 'Lattimore S', 'Crnogorac-Jurcevic T', 'Panzuto F', 'Milione M', 'Bhakta V', 'Campanini N', 'Swift SM', 'Bordi C', 'Delle Fave G', 'Lemoine NR']
+Source: Endocr Relat Cancer. 2006 Jun;13(2):541-58. doi: 10.1677/erc.1.01153.
+
+Title: Identification of a new HLA-A2-restricted T-cell epitope within HM1.24 as immunotherapy target for multiple myeloma.
+Authors: ['Hundemer M', 'Schmidt S', 'Condomines M', 'Lupu A', 'Hose D', 'Moos M', 'Cremer F', 'Kleist C', 'Terness P', 'Belle S', 'Ho AD', 'Goldschmidt H', 'Klein B', 'Christensen O']
+Source: Exp Hematol. 2006 Apr;34(4):486-96. doi: 10.1016/j.exphem.2006.01.008.
+
+Title: Construction of a conventional non-radioisotope method to quantify HM1.24 antigens: correlation of HM1.24 levels and ADCC activity of the humanized antibody against HM1.24.
+Authors: ['Kawai S', 'Koishihara Y', 'Iida S', 'Ozaki S', 'Matsumoto T', 'Kosaka M', 'Yamada-Okabe H']
+Source: Leuk Res. 2006 Aug;30(8):949-56. doi: 10.1016/j.leukres.2005.11.023. Epub 2006 Feb 13.
+
+Title: Antitumor activity of humanized monoclonal antibody against HM1.24 antigen in human myeloma xenograft models.
+Authors: ['Kawai S', 'Yoshimura Y', 'Iida S', 'Kinoshita Y', 'Koishihara Y', 'Ozaki S', 'Matsumoto T', 'Kosaka M', 'Yamada-Okabe H']
+Source: Oncol Rep. 2006 Feb;15(2):361-7.
+
+Title: Differential gene expression, GATA1 target genes, and the chemotherapy sensitivity of Down syndrome megakaryocytic leukemia.
+Authors: ['Ge Y', 'Dombkowski AA', 'LaFiura KM', 'Tatman D', 'Yedidi RS', 'Stout ML', 'Buck SA', 'Massey G', 'Becton DL', 'Weinstein HJ', 'Ravindranath Y', 'Matherly LH', 'Taub JW']
+Source: Blood. 2006 Feb 15;107(4):1570-81. doi: 10.1182/blood-2005-06-2219. Epub 2005 Oct 25.
+
+Title: Characterization of antibodies submitted to the B cell section of the 8th Human Leukocyte Differentiation Antigens Workshop by flow cytometry and immunohistochemistry.
+Authors: ['Vidal-Laliena M', 'Romero X', 'March S', 'Requena V', 'Petriz J', 'Engel P']
+Source: Cell Immunol. 2005 Jul-Aug;236(1-2):6-16. doi: 10.1016/j.cellimm.2005.08.002. Epub 2005 Sep 12.
+
+Title: Induction of HM1.24 peptide-specific cytotoxic T lymphocytes by using peripheral-blood stem-cell harvests in patients with multiple myeloma.
+Authors: ['Jalili A', 'Ozaki S', 'Hara T', 'Shibata H', 'Hashimoto T', 'Abe M', 'Nishioka Y', 'Matsumoto T']
+Source: Blood. 2005 Nov 15;106(10):3538-45. doi: 10.1182/blood-2005-04-1438. Epub 2005 Jul 21.
+
+Title: Generation of potent antitumor CTL from patients with multiple myeloma directed against HM1.24.
+Authors: ['Rew SB', 'Peggs K', 'Sanjuan I', 'Pizzey AR', 'Koishihara Y', 'Kawai S', 'Kosaka M', 'Ozaki S', 'Chain B', 'Yong KL']
+Source: Clin Cancer Res. 2005 May 1;11(9):3377-84. doi: 10.1158/1078-0432.CCR-04-0650.
+
+Title: Proteomic profiling of surface proteins on Th1 and Th2 cells.
+Authors: ['Loyet KM', 'Ouyang W', 'Eaton DL', 'Stults JT']
+Source: J Proteome Res. 2005 Mar-Apr;4(2):400-9. doi: 10.1021/pr049810q.
+
+Title: Distinct gene expression patterns in a tamoxifen-sensitive human mammary carcinoma xenograft and its tamoxifen-resistant subline MaCa 3366/TAM.
+Authors: ['Becker M', 'Sommer A', 'Kratzschmar JR', 'Seidel H', 'Pohlenz HD', 'Fichtner I']
+Source: Mol Cancer Ther. 2005 Jan;4(1):151-68.
+
+Title: Identification of genes expressed in malignant cells that promote invasion.
+Authors: ['Walter-Yohrling J', 'Cao X', 'Callahan M', 'Weber W', 'Morgenbesser S', 'Madden SL', 'Wang C', 'Teicher BA']
+Source: Cancer Res. 2003 Dec 15;63(24):8939-47.
+
+Title: Bst-2/HM1.24 is a raft-associated apical membrane protein with an unusual topology.
+Authors: ['Kupzig S', 'Korolchuk V', 'Rollason R', 'Sugden A', 'Wilde A', 'Banting G']
+Source: Traffic. 2003 Oct;4(10):694-709. doi: 10.1034/j.1600-0854.2003.00129.x.
+
+Title: The humanized anti-HM1.24 antibody effectively kills multiple myeloma cells by human effector cell-mediated cytotoxicity.
+Authors: ['Ono K', 'Ohtomo T', 'Yoshida K', 'Yoshimura Y', 'Kawai S', 'Koishihara Y', 'Ozaki S', 'Kosaka M', 'Tsuchiya M']
+Source: Mol Immunol. 1999 Apr;36(6):387-95. doi: 10.1016/s0161-5890(99)00029-2.
+
+Title: Humanized anti-HM1.24 antibody mediates myeloma cell cytotoxicity that is enhanced by cytokine stimulation of effector cells.
+Authors: ['Ozaki S', 'Kosaka M', 'Wakahara Y', 'Ozaki Y', 'Tsuchiya M', 'Koishihara Y', 'Goto T', 'Matsumoto T']
+Source: Blood. 1999 Jun 1;93(11):3922-30.
+
+Title: Molecular cloning and characterization of a surface antigen preferentially overexpressed on multiple myeloma cells.
+Authors: ['Ohtomo T', 'Sugamata Y', 'Ozaki Y', 'Ono K', 'Yoshimura Y', 'Kawai S', 'Koishihara Y', 'Ozaki S', 'Kosaka M', 'Hirano T', 'Tsuchiya M']
+Source: Biochem Biophys Res Commun. 1999 May 19;258(3):583-91. doi: 10.1006/bbrc.1999.0683.
+
+Title: Radioimmunodetection of human myeloma xenografts with a monoclonal antibody directed against a plasma cell specific antigen, HM1.24.
+Authors: ['Ozaki S', 'Kosaka M', 'Harada M', 'Nishitani H', 'Odomi M', 'Matsumoto T']
+Source: Cancer. 1998 Jun 1;82(11):2184-90. doi: 10.1002/(sici)1097-0142(19980601)82:11<2184::aid-cncr13>3.0.co;2-q.
+
+Title: Immunotherapy of multiple myeloma with a monoclonal antibody directed against a plasma cell-specific antigen, HM1.24.
+Authors: ['Ozaki S', 'Kosaka M', 'Wakatsuki S', 'Abe M', 'Koishihara Y', 'Matsumoto T']
+Source: Blood. 1997 Oct 15;90(8):3179-86.
+
+Title: Genes that control the fidelity of endoplasmic reticulum to Golgi transport identified as suppressors of vesicle budding mutations.
+Authors: ['Elrod-Erickson MJ', 'Kaiser CA']
+Source: Mol Biol Cell. 1996 Jul;7(7):1043-58. doi: 10.1091/mbc.7.7.1043.
+
+Title: Localization and imaging of human plasmacytoma xenografts in severe combined immunodeficiency mice by a new murine monoclonal antibody, anti-HM1.24.
+Authors: ['Ozaki K', 'Ozaki S', 'Kosaka M', 'Saito S']
+Source: Tokushima J Exp Med. 1996 Jun;43(1-2):7-15.
+
+Title: Molecular cloning and chromosomal mapping of a bone marrow stromal cell surface gene, BST2, that may be involved in pre-B-cell growth.
+Authors: ['Ishikawa J', 'Kaisho T', 'Tomizawa H', 'Lee BO', 'Kobune Y', 'Inazawa J', 'Oritani K', 'Itoh M', 'Ochi T', 'Ishihara K', 'et al.']
+Source: Genomics. 1995 Apr 10;26(3):527-34. doi: 10.1016/0888-7543(95)80171-h.
+
+Title: A novel membrane antigen selectively expressed on terminally differentiated human B cells.
+Authors: ['Goto T', 'Kennel SJ', 'Abe M', 'Takishita M', 'Kosaka M', 'Solomon A', 'Saito S']
+Source: Blood. 1994 Sep 15;84(6):1922-30.
+
+Title: Effect of nonnutritive sucking on behavioral state in preterm infants before feeding.
+Authors: ['Gill NE', 'Behnke M', 'Conlon M', 'McNeely JB', 'Anderson GC']
+Source: Nurs Res. 1988 Nov-Dec;37(6):347-50.
+

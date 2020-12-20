@@ -1,18 +1,18 @@
 from Bio import Entrez
 from Bio import Medline
 Entrez.email = "pg42874@alunos.uminho.pt"
-handle = Entrez.egquery(term = "PRSS1")
+handle = Entrez.egquery(term = "Spike glicoprotein")
 record = Entrez.read(handle)
 for row in record["eGQueryResult"]:
     if row["DbName"]=="pubmed":
         total = row["Count"]
 
-handle = Entrez.esearch(db = "pubmed", term = "PRSS1", retmax=total)
+handle = Entrez.esearch(db = "pubmed", term = "Spike glicoprotein", retmax=total)
 record = Entrez.read(handle)
 idlist = record["IdList"]
 handle = Entrez.efetch(db="pubmed", id=idlist, rettype="medline", retmode="text")
 records = list(Medline.parse(handle))
-record_results = open("artigos_PubMedPRSS1.txt", 'w')
+record_results = open("artigos_PubMedSpike.txt", 'w')
 for record in records: 
     a1 = "Title: " + str(record.get("TI", "?"))
     a2 = "\nAuthors: " + str(record.get("AU", "?"))
