@@ -16,5 +16,3 @@ print('\n',len(record.features), '\n')
 for i in record.features:
     print(i)
 print('\n', record.features, '\n')
-
-
