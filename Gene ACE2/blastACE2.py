@@ -19,6 +19,7 @@ for alignment in blast_record.alignments:
 from Bio import SearchIO
 blast_qresult = SearchIO.read("ACE2blast.xml", "blast-xml")
 print(blast_qresult)
-
 blast_hit = blast_qresult[0]    # first hit from the query result('que é o nosso gene')
 print(blast_hit)
+for i in range(1,5):
+    print(blast_qresult[i])
