@@ -1,0 +1,1442 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.11.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_51271</BlastOutput_query-ID>
+  <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
+  <BlastOutput_query-len>154</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_51271</Iteration_query-ID>
+  <Iteration_query-def>unnamed protein product</Iteration_query-def>
+  <Iteration_query-len>154</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>ref|XP_011514713.1|</Hit_id>
+  <Hit_def>trypsin-1 isoform X1 [Homo sapiens]</Hit_def>
+  <Hit_accession>XP_011514713</Hit_accession>
+  <Hit_len>472</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>103.99</Hsp_bit-score>
+      <Hsp_score>258</Hsp_score>
+      <Hsp_evalue>8.54252e-23</Hsp_evalue>
+      <Hsp_query-from>5</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>213</Hsp_hit-from>
+      <Hsp_hit-to>270</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>48</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>58</Hsp_align-len>
+      <Hsp_qseq>DPSEQSEQUENCEMNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_qseq>
+      <Hsp_hseq>DESSTTSQAHSTTMNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_hseq>
+      <Hsp_midline>D S  + Q  +  MNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gb|ABI63347.1|</Hit_id>
+  <Hit_def>protease serine 1 [Homo sapiens]</Hit_def>
+  <Hit_accession>ABI63347</Hit_accession>
+  <Hit_len>237</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>98.9821</Hsp_bit-score>
+      <Hsp_score>245</Hsp_score>
+      <Hsp_evalue>2.6028e-22</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>45</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>45</Hsp_identity>
+      <Hsp_positive>45</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>MNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_qseq>
+      <Hsp_hseq>MNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_hseq>
+      <Hsp_midline>MNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>ref|NP_002760.1|</Hit_id>
+  <Hit_def>trypsin-1 preproprotein [Homo sapiens] &gt;sp|P07477.1| RecName: Full=Trypsin-1; AltName: Full=Beta-trypsin; AltName: Full=Cationic trypsinogen; AltName: Full=Serine protease 1; AltName: Full=Trypsin I; Contains: RecName: Full=Alpha-trypsin chain 1; Contains: RecName: Full=Alpha-trypsin chain 2; Flags: Precursor [Homo sapiens] &gt;dbj|BAI46887.1| protease, serine, 1, partial [synthetic construct] &gt;gb|AAA61231.1| trypsinogen [Homo sapiens] &gt;gb|AAC80207.1| trypsinogen A [Homo sapiens] &gt;gb|EAL23773.1| protease, serine, 1 (trypsin 1) [Homo sapiens] &gt;gb|EAW51925.1| protease, serine, 1 (trypsin 1) [Homo sapiens]</Hit_def>
+  <Hit_accession>NP_002760</Hit_accession>
+  <Hit_len>247</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>98.9821</Hsp_bit-score>
+      <Hsp_score>245</Hsp_score>
+      <Hsp_evalue>3.44693e-22</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>45</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>45</Hsp_identity>
+      <Hsp_positive>45</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>MNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_qseq>
+      <Hsp_hseq>MNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_hseq>
+      <Hsp_midline>MNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gb|AAI03999.1|</Hit_id>
+  <Hit_def>PRSS1 protein [Homo sapiens]</Hit_def>
+  <Hit_accession>AAI03999</Hit_accession>
+  <Hit_len>247</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>98.9821</Hsp_bit-score>
+      <Hsp_score>245</Hsp_score>
+      <Hsp_evalue>3.87439e-22</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>45</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>45</Hsp_identity>
+      <Hsp_positive>45</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>MNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_qseq>
+      <Hsp_hseq>MNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_hseq>
+      <Hsp_midline>MNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gb|AAI28227.1|</Hit_id>
+  <Hit_def>Protease, serine, 1 (trypsin 1) [Homo sapiens] &gt;gb|AIC54959.1| PRSS1, partial [synthetic construct] &gt;emb|SJX48370.1| unnamed protein product, partial [Human ORFeome Gateway entry vector]</Hit_def>
+  <Hit_accession>AAI28227</Hit_accession>
+  <Hit_len>247</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>97.8265</Hsp_bit-score>
+      <Hsp_score>242</Hsp_score>
+      <Hsp_evalue>1.16945e-21</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>45</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>44</Hsp_identity>
+      <Hsp_positive>44</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>MNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_qseq>
+      <Hsp_hseq>MNPFLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_hseq>
+      <Hsp_midline>MNP LILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>ref|XP_014990577.2|</Hit_id>
+  <Hit_def>trypsin-2 isoform X1 [Macaca mulatta] &gt;ref|XP_014990578.1| trypsin-2 isoform X1 [Macaca mulatta]</Hit_def>
+  <Hit_accession>XP_014990577</Hit_accession>
+  <Hit_len>295</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>96.2857</Hsp_bit-score>
+      <Hsp_score>238</Hsp_score>
+      <Hsp_evalue>1.00332e-20</Hsp_evalue>
+      <Hsp_query-from>5</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>36</Hsp_hit-from>
+      <Hsp_hit-to>93</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>43</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>58</Hsp_align-len>
+      <Hsp_qseq>DPSEQSEQUENCEMNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_qseq>
+      <Hsp_hseq>DGSSTTSQAHSTTMNPLLILAFVGVAVAAPFDDDDKIVGGYTCEENSVPYQVSLNSGY</Hsp_hseq>
+      <Hsp_midline>D S  + Q  +  MNPLLIL FV  A+AAPFDDDDKIVGGY CEENSVPYQVSLNSGY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>ref|XP_024645359.1|</Hit_id>
+  <Hit_def>trypsin-2 isoform X1 [Macaca nemestrina]</Hit_def>
+  <Hit_accession>XP_024645359</Hit_accession>
+  <Hit_len>295</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>96.2857</Hsp_bit-score>
+      <Hsp_score>238</Hsp_score>
+      <Hsp_evalue>1.03533e-20</Hsp_evalue>
+      <Hsp_query-from>5</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>36</Hsp_hit-from>
+      <Hsp_hit-to>93</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>43</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>58</Hsp_align-len>
+      <Hsp_qseq>DPSEQSEQUENCEMNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_qseq>
+      <Hsp_hseq>DGSSTTSQAHSTTMNPLLILAFVGVAVAAPFDDDDKIVGGYTCEENSVPYQVSLNSGY</Hsp_hseq>
+      <Hsp_midline>D S  + Q  +  MNPLLIL FV  A+AAPFDDDDKIVGGY CEENSVPYQVSLNSGY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>ref|XP_030681789.1|</Hit_id>
+  <Hit_def>trypsin-2 isoform X3 [Nomascus leucogenys]</Hit_def>
+  <Hit_accession>XP_030681789</Hit_accession>
+  <Hit_len>247</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>94.3597</Hsp_bit-score>
+      <Hsp_score>233</Hsp_score>
+      <Hsp_evalue>2.04869e-20</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>45</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>42</Hsp_identity>
+      <Hsp_positive>43</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>MNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_qseq>
+      <Hsp_hseq>MNPLLILTFVGAAVAAPFDDDDKIVGGYTCEENSVPYQVSLNSGY</Hsp_hseq>
+      <Hsp_midline>MNPLLILTFV AA+AAPFDDDDKIVGGY CEENSVPYQVSLNSGY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>ref|XP_012367616.2|</Hit_id>
+  <Hit_def>trypsin-2 isoform X2 [Nomascus leucogenys]</Hit_def>
+  <Hit_accession>XP_012367616</Hit_accession>
+  <Hit_len>261</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>94.3597</Hsp_bit-score>
+      <Hsp_score>233</Hsp_score>
+      <Hsp_evalue>3.21951e-20</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>45</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>42</Hsp_identity>
+      <Hsp_positive>43</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>MNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_qseq>
+      <Hsp_hseq>MNPLLILTFVGAAVAAPFDDDDKIVGGYTCEENSVPYQVSLNSGY</Hsp_hseq>
+      <Hsp_midline>MNPLLILTFV AA+AAPFDDDDKIVGGY CEENSVPYQVSLNSGY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>ref|XP_026305116.1|</Hit_id>
+  <Hit_def>trypsin-1 isoform X3 [Piliocolobus tephrosceles]</Hit_def>
+  <Hit_accession>XP_026305116</Hit_accession>
+  <Hit_len>247</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>93.5893</Hsp_bit-score>
+      <Hsp_score>231</Hsp_score>
+      <Hsp_evalue>4.29879e-20</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>45</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>41</Hsp_identity>
+      <Hsp_positive>43</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>MNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_qseq>
+      <Hsp_hseq>MNPLLILTFVGAAVAAPFDDDDKIVGGYTCEKNSVPYQVSLNSGY</Hsp_hseq>
+      <Hsp_midline>MNPLLILTFV AA+AAPFDDDDKIVGGY CE+NSVPYQVSLNSGY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>ref|XP_026305115.1|</Hit_id>
+  <Hit_def>trypsin-1 isoform X2 [Piliocolobus tephrosceles]</Hit_def>
+  <Hit_accession>XP_026305115</Hit_accession>
+  <Hit_len>261</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>93.5893</Hsp_bit-score>
+      <Hsp_score>231</Hsp_score>
+      <Hsp_evalue>4.85797e-20</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>45</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>41</Hsp_identity>
+      <Hsp_positive>43</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>MNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_qseq>
+      <Hsp_hseq>MNPLLILTFVGAAVAAPFDDDDKIVGGYTCEKNSVPYQVSLNSGY</Hsp_hseq>
+      <Hsp_midline>MNPLLILTFV AA+AAPFDDDDKIVGGY CE+NSVPYQVSLNSGY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>ref|XP_005551079.2|</Hit_id>
+  <Hit_def>PREDICTED: putative trypsin-6 [Macaca fascicularis]</Hit_def>
+  <Hit_accession>XP_005551079</Hit_accession>
+  <Hit_len>296</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>94.3597</Hsp_bit-score>
+      <Hsp_score>233</Hsp_score>
+      <Hsp_evalue>5.78478e-20</Hsp_evalue>
+      <Hsp_query-from>5</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>36</Hsp_hit-from>
+      <Hsp_hit-to>93</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>43</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>58</Hsp_align-len>
+      <Hsp_qseq>DPSEQSEQUENCEMNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_qseq>
+      <Hsp_hseq>DWSSTTSQGHSTTMNPLLILAFVGAAVAAPFDDDDKIVGGYTCEENSVPYQVSLNYGY</Hsp_hseq>
+      <Hsp_midline>D S  + Q  +  MNPLLIL FV AA+AAPFDDDDKIVGGY CEENSVPYQVSLN GY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>ref|XP_030787954.1|</Hit_id>
+  <Hit_def>LOW QUALITY PROTEIN: trypsin-1-like [Rhinopithecus roxellana]</Hit_def>
+  <Hit_accession>XP_030787954</Hit_accession>
+  <Hit_len>247</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>92.4337</Hsp_bit-score>
+      <Hsp_score>228</Hsp_score>
+      <Hsp_evalue>1.12574e-19</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>45</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>41</Hsp_identity>
+      <Hsp_positive>42</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>MNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_qseq>
+      <Hsp_hseq>MNPLLILTFVGAAVAAPFDDDDKIVGGYTCXENSVPYQVSLNSGY</Hsp_hseq>
+      <Hsp_midline>MNPLLILTFV AA+AAPFDDDDKIVGGY C ENSVPYQVSLNSGY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>ref|XP_011796720.1|</Hit_id>
+  <Hit_def>PREDICTED: trypsin-2 isoform X3 [Colobus angolensis palliatus]</Hit_def>
+  <Hit_accession>XP_011796720</Hit_accession>
+  <Hit_len>255</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>92.4337</Hsp_bit-score>
+      <Hsp_score>228</Hsp_score>
+      <Hsp_evalue>1.16236e-19</Hsp_evalue>
+      <Hsp_query-from>12</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>53</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>42</Hsp_identity>
+      <Hsp_positive>44</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>51</Hsp_align-len>
+      <Hsp_qseq>QUENCEMNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_qseq>
+      <Hsp_hseq>QAHSTTMNPLLILAFVGAAVAAPFDDDDKIVGGYPCEENSVPYQVSLNSGY</Hsp_hseq>
+      <Hsp_midline>Q  +  MNPLLIL FV AA+AAPFDDDDKIVGGY CEENSVPYQVSLNSGY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gb|PNI99872.1|</Hit_id>
+  <Hit_def>PRSS2 isoform 1 [Pan troglodytes]</Hit_def>
+  <Hit_accession>PNI99872</Hit_accession>
+  <Hit_len>247</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>92.4337</Hsp_bit-score>
+      <Hsp_score>228</Hsp_score>
+      <Hsp_evalue>1.2513e-19</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>45</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>41</Hsp_identity>
+      <Hsp_positive>42</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>MNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_qseq>
+      <Hsp_hseq>MNPLLILAFVGAAVAAPFDDDDKIVGGYTCEENSVPYQVSLNSGY</Hsp_hseq>
+      <Hsp_midline>MNPLLIL FV AA+AAPFDDDDKIVGGY CEENSVPYQVSLNSGY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>ref|XP_011796718.1|</Hit_id>
+  <Hit_def>PREDICTED: trypsin-2 isoform X1 [Colobus angolensis palliatus]</Hit_def>
+  <Hit_accession>XP_011796718</Hit_accession>
+  <Hit_len>269</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>92.4337</Hsp_bit-score>
+      <Hsp_score>228</Hsp_score>
+      <Hsp_evalue>1.56876e-19</Hsp_evalue>
+      <Hsp_query-from>12</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>53</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>42</Hsp_identity>
+      <Hsp_positive>44</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>51</Hsp_align-len>
+      <Hsp_qseq>QUENCEMNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_qseq>
+      <Hsp_hseq>QAHSTTMNPLLILAFVGAAVAAPFDDDDKIVGGYPCEENSVPYQVSLNSGY</Hsp_hseq>
+      <Hsp_midline>Q  +  MNPLLIL FV AA+AAPFDDDDKIVGGY CEENSVPYQVSLNSGY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>ref|XP_010377682.2|</Hit_id>
+  <Hit_def>trypsin-2 [Rhinopithecus roxellana] &gt;ref|XP_017722313.1| PREDICTED: trypsin-2 isoform X3 [Rhinopithecus bieti]</Hit_def>
+  <Hit_accession>XP_010377682</Hit_accession>
+  <Hit_len>247</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>92.0485</Hsp_bit-score>
+      <Hsp_score>227</Hsp_score>
+      <Hsp_evalue>1.61269e-19</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>45</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>41</Hsp_identity>
+      <Hsp_positive>42</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>MNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_qseq>
+      <Hsp_hseq>MNPLLILAFVGAAVAAPFDDDDKIVGGYTCEENSVPYQVSLNSGY</Hsp_hseq>
+      <Hsp_midline>MNPLLIL FV AA+AAPFDDDDKIVGGY CEENSVPYQVSLNSGY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>ref|XP_031521747.1|</Hit_id>
+  <Hit_def>trypsin-2 isoform X1 [Papio anubis]</Hit_def>
+  <Hit_accession>XP_031521747</Hit_accession>
+  <Hit_len>296</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>92.8189</Hsp_bit-score>
+      <Hsp_score>229</Hsp_score>
+      <Hsp_evalue>1.74939e-19</Hsp_evalue>
+      <Hsp_query-from>5</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>36</Hsp_hit-from>
+      <Hsp_hit-to>93</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>42</Hsp_identity>
+      <Hsp_positive>45</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>58</Hsp_align-len>
+      <Hsp_qseq>DPSEQSEQUENCEMNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_qseq>
+      <Hsp_hseq>DGSSTTSQAHSTTMNPLLILAFVGAAVAVPLDDDDKIVGGYTCEENSVPYQVSLNSGY</Hsp_hseq>
+      <Hsp_midline>D S  + Q  +  MNPLLIL FV AA+A P DDDDKIVGGY CEENSVPYQVSLNSGY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>ref|XP_032617875.1|</Hit_id>
+  <Hit_def>LOW QUALITY PROTEIN: trypsin-2-like [Hylobates moloch]</Hit_def>
+  <Hit_accession>XP_032617875</Hit_accession>
+  <Hit_len>263</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>92.4337</Hsp_bit-score>
+      <Hsp_score>228</Hsp_score>
+      <Hsp_evalue>1.85899e-19</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>45</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>41</Hsp_identity>
+      <Hsp_positive>42</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>MNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_qseq>
+      <Hsp_hseq>MNPLLILAFVGAAVAAPFDDDDKIVGGYTCEENSVPYQVSLNSGY</Hsp_hseq>
+      <Hsp_midline>MNPLLIL FV AA+AAPFDDDDKIVGGY CEENSVPYQVSLNSGY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>ref|XP_034821021.1|</Hit_id>
+  <Hit_def>trypsin-1 isoform X4 [Pan paniscus]</Hit_def>
+  <Hit_accession>XP_034821021</Hit_accession>
+  <Hit_len>248</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>91.6633</Hsp_bit-score>
+      <Hsp_score>226</Hsp_score>
+      <Hsp_evalue>2.00845e-19</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>45</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>43</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>MNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_qseq>
+      <Hsp_hseq>MNPLLILTFVAATLAAPFDDDDKIVGGYTCQKNSLPYQVSLNSGY</Hsp_hseq>
+      <Hsp_midline>MNPLLILTFVAA LAAPFDDDDKIVGGY C++NS+PYQVSLNSGY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>ref|XP_003820611.1|</Hit_id>
+  <Hit_def>trypsin-1 isoform X3 [Pan paniscus] &gt;gb|PNI99868.1| PRSS1 isoform 1 [Pan troglodytes] &gt;gb|PNI99870.1| PRSS1 isoform 4 [Pan troglodytes]</Hit_def>
+  <Hit_accession>XP_003820611</Hit_accession>
+  <Hit_len>247</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>91.6633</Hsp_bit-score>
+      <Hsp_score>226</Hsp_score>
+      <Hsp_evalue>2.05648e-19</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>45</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>43</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>MNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_qseq>
+      <Hsp_hseq>MNPLLILTFVAATLAAPFDDDDKIVGGYTCQKNSLPYQVSLNSGY</Hsp_hseq>
+      <Hsp_midline>MNPLLILTFVAA LAAPFDDDDKIVGGY C++NS+PYQVSLNSGY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>ref|XP_017722312.1|</Hit_id>
+  <Hit_def>PREDICTED: trypsin-2 isoform X2 [Rhinopithecus bieti]</Hit_def>
+  <Hit_accession>XP_017722312</Hit_accession>
+  <Hit_len>261</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>92.0485</Hsp_bit-score>
+      <Hsp_score>227</Hsp_score>
+      <Hsp_evalue>2.14667e-19</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>45</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>41</Hsp_identity>
+      <Hsp_positive>42</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>MNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_qseq>
+      <Hsp_hseq>MNPLLILAFVGAAVAAPFDDDDKIVGGYTCEENSVPYQVSLNSGY</Hsp_hseq>
+      <Hsp_midline>MNPLLIL FV AA+AAPFDDDDKIVGGY CEENSVPYQVSLNSGY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>ref|XP_034821020.1|</Hit_id>
+  <Hit_def>trypsin-1 isoform X2 [Pan paniscus] &gt;gb|PNI99869.1| PRSS1 isoform 2 [Pan troglodytes]</Hit_def>
+  <Hit_accession>XP_034821020</Hit_accession>
+  <Hit_len>261</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>92.0485</Hsp_bit-score>
+      <Hsp_score>227</Hsp_score>
+      <Hsp_evalue>2.38502e-19</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>45</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>43</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>MNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_qseq>
+      <Hsp_hseq>MNPLLILTFVAATLAAPFDDDDKIVGGYTCQKNSLPYQVSLNSGY</Hsp_hseq>
+      <Hsp_midline>MNPLLILTFVAA LAAPFDDDDKIVGGY C++NS+PYQVSLNSGY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>ref|XP_011845228.1|</Hit_id>
+  <Hit_def>PREDICTED: trypsin-2 isoform X5 [Mandrillus leucophaeus]</Hit_def>
+  <Hit_accession>XP_011845228</Hit_accession>
+  <Hit_len>224</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>90.8929</Hsp_bit-score>
+      <Hsp_score>224</Hsp_score>
+      <Hsp_evalue>2.47947e-19</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>45</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>41</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>MNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_qseq>
+      <Hsp_hseq>MNPLLILAFVGVAVAAPFDDDDKIVGGYTCEENSVPYQVSLNSGY</Hsp_hseq>
+      <Hsp_midline>MNPLLIL FV  A+AAPFDDDDKIVGGY CEENSVPYQVSLNSGY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>ref|XP_003820616.2|</Hit_id>
+  <Hit_def>putative trypsin-6 [Pan paniscus]</Hit_def>
+  <Hit_accession>XP_003820616</Hit_accession>
+  <Hit_len>295</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>92.4337</Hsp_bit-score>
+      <Hsp_score>228</Hsp_score>
+      <Hsp_evalue>2.93361e-19</Hsp_evalue>
+      <Hsp_query-from>5</Hsp_query-from>
+      <Hsp_query-to>71</Hsp_query-to>
+      <Hsp_hit-from>36</Hsp_hit-from>
+      <Hsp_hit-to>104</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>45</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>69</Hsp_align-len>
+      <Hsp_qseq>DPSEQSEQUENCEMNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSG--YANSSEQSEQ</Hsp_qseq>
+      <Hsp_hseq>DGPSTTRQAHSTTMNPLLILAFVGAAVAVPFDDDDKIVGGYTCEENSVPYQVSLNSGSHFCGGSLISEQ</Hsp_hseq>
+      <Hsp_midline>D    + Q  +  MNPLLIL FV AA+A PFDDDDKIVGGY CEENSVPYQVSLNSG  +   S  SEQ</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>ref|XP_030787952.1|</Hit_id>
+  <Hit_def>trypsin-1-like [Rhinopithecus roxellana] &gt;ref|XP_030787953.1| trypsin-1-like [Rhinopithecus roxellana]</Hit_def>
+  <Hit_accession>XP_030787952</Hit_accession>
+  <Hit_len>247</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>91.2781</Hsp_bit-score>
+      <Hsp_score>225</Hsp_score>
+      <Hsp_evalue>3.23915e-19</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>45</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>42</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>MNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_qseq>
+      <Hsp_hseq>MNPLLILTFVGAAVAAPFDDDDKIVGGYTCGKNSVPYQVSLNSGY</Hsp_hseq>
+      <Hsp_midline>MNPLLILTFV AA+AAPFDDDDKIVGGY C +NSVPYQVSLNSGY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>ref|XP_017722317.1|</Hit_id>
+  <Hit_def>PREDICTED: trypsin-1 isoform X3 [Rhinopithecus bieti]</Hit_def>
+  <Hit_accession>XP_017722317</Hit_accession>
+  <Hit_len>247</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>91.2781</Hsp_bit-score>
+      <Hsp_score>225</Hsp_score>
+      <Hsp_evalue>3.37894e-19</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>45</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>42</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>MNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_qseq>
+      <Hsp_hseq>MNPLLILTFVGAAVAAPFDDDDKIVGGYTCGKNSVPYQVSLNSGY</Hsp_hseq>
+      <Hsp_midline>MNPLLILTFV AA+AAPFDDDDKIVGGY C +NSVPYQVSLNSGY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>ref|XP_011796721.1|</Hit_id>
+  <Hit_def>PREDICTED: trypsin-2 isoform X4 [Colobus angolensis palliatus]</Hit_def>
+  <Hit_accession>XP_011796721</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>91.2781</Hsp_bit-score>
+      <Hsp_score>225</Hsp_score>
+      <Hsp_evalue>3.45992e-19</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>45</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>41</Hsp_identity>
+      <Hsp_positive>42</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>MNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_qseq>
+      <Hsp_hseq>MNPLLILAFVGAAVAAPFDDDDKIVGGYPCEENSVPYQVSLNSGY</Hsp_hseq>
+      <Hsp_midline>MNPLLIL FV AA+AAPFDDDDKIVGGY CEENSVPYQVSLNSGY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>ref|XP_011845227.1|</Hit_id>
+  <Hit_def>PREDICTED: trypsin-2 isoform X4 [Mandrillus leucophaeus]</Hit_def>
+  <Hit_accession>XP_011845227</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>90.8929</Hsp_bit-score>
+      <Hsp_score>224</Hsp_score>
+      <Hsp_evalue>4.01142e-19</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>45</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>41</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>MNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_qseq>
+      <Hsp_hseq>MNPLLILAFVGVAVAAPFDDDDKIVGGYTCEENSVPYQVSLNSGY</Hsp_hseq>
+      <Hsp_midline>MNPLLIL FV  A+AAPFDDDDKIVGGY CEENSVPYQVSLNSGY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>ref|NP_001040585.1|</Hit_id>
+  <Hit_def>trypsin-2 precursor [Macaca mulatta] &gt;ref|XP_005551067.1| PREDICTED: trypsin-2 isoform X2 [Macaca fascicularis] &gt;ref|XP_011845226.1| PREDICTED: trypsin-2 isoform X3 [Mandrillus leucophaeus] &gt;ref|XP_014990580.1| trypsin-2 isoform X3 [Macaca mulatta] &gt;gb|AAW69367.1| try16 [Macaca mulatta]</Hit_def>
+  <Hit_accession>NP_001040585</Hit_accession>
+  <Hit_len>247</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>90.8929</Hsp_bit-score>
+      <Hsp_score>224</Hsp_score>
+      <Hsp_evalue>4.12981e-19</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>45</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>41</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>MNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_qseq>
+      <Hsp_hseq>MNPLLILAFVGVAVAAPFDDDDKIVGGYTCEENSVPYQVSLNSGY</Hsp_hseq>
+      <Hsp_midline>MNPLLIL FV  A+AAPFDDDDKIVGGY CEENSVPYQVSLNSGY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>ref|XP_017722316.1|</Hit_id>
+  <Hit_def>PREDICTED: trypsin-1 isoform X2 [Rhinopithecus bieti]</Hit_def>
+  <Hit_accession>XP_017722316</Hit_accession>
+  <Hit_len>261</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>91.2781</Hsp_bit-score>
+      <Hsp_score>225</Hsp_score>
+      <Hsp_evalue>4.16643e-19</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>45</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>42</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>MNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_qseq>
+      <Hsp_hseq>MNPLLILTFVGAAVAAPFDDDDKIVGGYTCGKNSVPYQVSLNSGY</Hsp_hseq>
+      <Hsp_midline>MNPLLILTFV AA+AAPFDDDDKIVGGY C +NSVPYQVSLNSGY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>ref|XP_011912854.1|</Hit_id>
+  <Hit_def>PREDICTED: trypsin-2 [Cercocebus atys]</Hit_def>
+  <Hit_accession>XP_011912854</Hit_accession>
+  <Hit_len>247</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>90.8929</Hsp_bit-score>
+      <Hsp_score>224</Hsp_score>
+      <Hsp_evalue>4.17365e-19</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>45</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>41</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>MNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_qseq>
+      <Hsp_hseq>MNPLLILAFVGVAVAAPFDDDDKIVGGYTCEENSVPYQVSLNSGY</Hsp_hseq>
+      <Hsp_midline>MNPLLIL FV  A+AAPFDDDDKIVGGY CEENSVPYQVSLNSGY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>ref|XP_011721907.1|</Hit_id>
+  <Hit_def>trypsin-2 isoform X3 [Macaca nemestrina]</Hit_def>
+  <Hit_accession>XP_011721907</Hit_accession>
+  <Hit_len>247</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>90.8929</Hsp_bit-score>
+      <Hsp_score>224</Hsp_score>
+      <Hsp_evalue>4.39995e-19</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>45</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>41</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>MNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_qseq>
+      <Hsp_hseq>MNPLLILAFVGVAVAAPFDDDDKIVGGYTCEENSVPYQVSLNSGY</Hsp_hseq>
+      <Hsp_midline>MNPLLIL FV  A+AAPFDDDDKIVGGY CEENSVPYQVSLNSGY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>ref|XP_011845225.1|</Hit_id>
+  <Hit_def>PREDICTED: trypsin-2 isoform X2 [Mandrillus leucophaeus]</Hit_def>
+  <Hit_accession>XP_011845225</Hit_accession>
+  <Hit_len>261</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>91.2781</Hsp_bit-score>
+      <Hsp_score>225</Hsp_score>
+      <Hsp_evalue>4.67766e-19</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>45</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>41</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>MNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_qseq>
+      <Hsp_hseq>MNPLLILAFVGVAVAAPFDDDDKIVGGYTCEENSVPYQVSLNSGY</Hsp_hseq>
+      <Hsp_midline>MNPLLIL FV  A+AAPFDDDDKIVGGY CEENSVPYQVSLNSGY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>ref|XP_028702228.1|</Hit_id>
+  <Hit_def>trypsin-2-like isoform X1 [Macaca mulatta]</Hit_def>
+  <Hit_accession>XP_028702228</Hit_accession>
+  <Hit_len>248</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>90.8929</Hsp_bit-score>
+      <Hsp_score>224</Hsp_score>
+      <Hsp_evalue>4.77482e-19</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>45</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>41</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>MNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_qseq>
+      <Hsp_hseq>MNPLLILAFVGAAVAVPFDDDDKIVGGYTCEENSVPYQVSLNSGY</Hsp_hseq>
+      <Hsp_midline>MNPLLIL FV AA+A PFDDDDKIVGGY CEENSVPYQVSLNSGY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>ref|XP_005551073.1|</Hit_id>
+  <Hit_def>PREDICTED: trypsin-2-like [Macaca fascicularis] &gt;gb|AAW69363.1| try10 [Macaca mulatta]</Hit_def>
+  <Hit_accession>XP_005551073</Hit_accession>
+  <Hit_len>248</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>90.8929</Hsp_bit-score>
+      <Hsp_score>224</Hsp_score>
+      <Hsp_evalue>4.82549e-19</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>45</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>41</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>MNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_qseq>
+      <Hsp_hseq>MNPLLILAFVGAAVAVPFDDDDKIVGGYTCEENSVPYQVSLNSGY</Hsp_hseq>
+      <Hsp_midline>MNPLLIL FV AA+A PFDDDDKIVGGY CEENSVPYQVSLNSGY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>ref|XP_018886114.2|</Hit_id>
+  <Hit_def>trypsin-1 [Gorilla gorilla gorilla]</Hit_def>
+  <Hit_accession>XP_018886114</Hit_accession>
+  <Hit_len>247</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>90.8929</Hsp_bit-score>
+      <Hsp_score>224</Hsp_score>
+      <Hsp_evalue>4.94187e-19</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>45</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>42</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>MNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_qseq>
+      <Hsp_hseq>MNPLLILTFVAATLAAPFDDDDKIVGGYTCTKNSLPYQVSLNSGY</Hsp_hseq>
+      <Hsp_midline>MNPLLILTFVAA LAAPFDDDDKIVGGY C +NS+PYQVSLNSGY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>ref|XP_031521749.1|</Hit_id>
+  <Hit_def>LOW QUALITY PROTEIN: trypsin-2 [Papio anubis]</Hit_def>
+  <Hit_accession>XP_031521749</Hit_accession>
+  <Hit_len>307</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>92.0485</Hsp_bit-score>
+      <Hsp_score>227</Hsp_score>
+      <Hsp_evalue>5.02092e-19</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>42</Hsp_hit-from>
+      <Hsp_hit-to>86</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>41</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>MNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_qseq>
+      <Hsp_hseq>MNPLLILAFVGVAVAAPFDDDDKIVGGYTCEENSVPYQVSLNSGY</Hsp_hseq>
+      <Hsp_midline>MNPLLIL FV  A+AAPFDDDDKIVGGY CEENSVPYQVSLNSGY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>ref|XP_012302871.1|</Hit_id>
+  <Hit_def>anionic trypsin [Aotus nancymaae]</Hit_def>
+  <Hit_accession>XP_012302871</Hit_accession>
+  <Hit_len>247</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>90.5077</Hsp_bit-score>
+      <Hsp_score>223</Hsp_score>
+      <Hsp_evalue>6.57176e-19</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>45</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>41</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>MNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_qseq>
+      <Hsp_hseq>MNPLLILAFVGAAVAFPFDDDDKIVGGYTCEENSVPYQVSLNSGY</Hsp_hseq>
+      <Hsp_midline>MNPLLIL FV AA+A PFDDDDKIVGGY CEENSVPYQVSLNSGY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>ref|XP_011721902.1|</Hit_id>
+  <Hit_def>trypsin-1-like [Macaca nemestrina]</Hit_def>
+  <Hit_accession>XP_011721902</Hit_accession>
+  <Hit_len>247</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>90.1225</Hsp_bit-score>
+      <Hsp_score>222</Hsp_score>
+      <Hsp_evalue>7.69907e-19</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>45</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>41</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>MNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_qseq>
+      <Hsp_hseq>MNPLLILAFVGAAVAAPFDDDDKIVGGYTCGENSVPYQVSLNSGY</Hsp_hseq>
+      <Hsp_midline>MNPLLIL FV AA+AAPFDDDDKIVGGY C ENSVPYQVSLNSGY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>ref|XP_017366829.1|</Hit_id>
+  <Hit_def>trypsin-2 [Cebus imitator] &gt;ref|XP_032101090.1| trypsin-2 [Sapajus apella]</Hit_def>
+  <Hit_accession>XP_017366829</Hit_accession>
+  <Hit_len>247</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>90.1225</Hsp_bit-score>
+      <Hsp_score>222</Hsp_score>
+      <Hsp_evalue>8.73846e-19</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>45</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>41</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>MNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_qseq>
+      <Hsp_hseq>MNPLLILAFVGAAVAFPFDDDDKIVGGYTCEENSVPYQVSLNSGY</Hsp_hseq>
+      <Hsp_midline>MNPLLIL FV AA+A PFDDDDKIVGGY CEENSVPYQVSLNSGY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>ref|XP_011912856.1|</Hit_id>
+  <Hit_def>PREDICTED: trypsin-1-like [Cercocebus atys]</Hit_def>
+  <Hit_accession>XP_011912856</Hit_accession>
+  <Hit_len>247</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>90.1225</Hsp_bit-score>
+      <Hsp_score>222</Hsp_score>
+      <Hsp_evalue>9.81393e-19</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>45</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>39</Hsp_identity>
+      <Hsp_positive>42</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>MNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_qseq>
+      <Hsp_hseq>MNPLLILTFVGAAVAAPFDDDDKIVGGYTCGKNSLPYQVSLNSGY</Hsp_hseq>
+      <Hsp_midline>MNPLLILTFV AA+AAPFDDDDKIVGGY C +NS+PYQVSLNSGY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>ref|XP_025234281.1|</Hit_id>
+  <Hit_def>putative trypsin-6 isoform X2 [Theropithecus gelada]</Hit_def>
+  <Hit_accession>XP_025234281</Hit_accession>
+  <Hit_len>247</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>90.1225</Hsp_bit-score>
+      <Hsp_score>222</Hsp_score>
+      <Hsp_evalue>9.81393e-19</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>45</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>42</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>MNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_qseq>
+      <Hsp_hseq>MNPLLILTFVGAAVAVPFDDDDKIVGGHTCEENSVPYQVSLNSGY</Hsp_hseq>
+      <Hsp_midline>MNPLLILTFV AA+A PFDDDDKIVGG+ CEENSVPYQVSLNSGY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>ref|XP_014990600.2|</Hit_id>
+  <Hit_def>putative trypsin-6 [Macaca mulatta]</Hit_def>
+  <Hit_accession>XP_014990600</Hit_accession>
+  <Hit_len>248</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>90.1225</Hsp_bit-score>
+      <Hsp_score>222</Hsp_score>
+      <Hsp_evalue>1.06472e-18</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>45</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>41</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>MNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_qseq>
+      <Hsp_hseq>MNPLLILAFVGAAVAAPFDDDDKIVGGYTCEENSVPYQVSLNYGY</Hsp_hseq>
+      <Hsp_midline>MNPLLIL FV AA+AAPFDDDDKIVGGY CEENSVPYQVSLN GY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gb|AAW69361.1|</Hit_id>
+  <Hit_def>Try4 [Macaca mulatta]</Hit_def>
+  <Hit_accession>AAW69361</Hit_accession>
+  <Hit_len>248</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>90.1225</Hsp_bit-score>
+      <Hsp_score>222</Hsp_score>
+      <Hsp_evalue>1.076e-18</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>45</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>41</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>MNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_qseq>
+      <Hsp_hseq>MNPLLILAFVGAAVAAPFDDDDKIVGGYTCEENSVPYQVSLNYGY</Hsp_hseq>
+      <Hsp_midline>MNPLLIL FV AA+AAPFDDDDKIVGGY CEENSVPYQVSLN GY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>ref|NP_001040586.1|</Hit_id>
+  <Hit_def>trypsin-1 precursor [Macaca mulatta] &gt;ref|XP_005551070.1| PREDICTED: trypsin-1 [Macaca fascicularis] &gt;gb|AAW69364.1| try13 [Macaca mulatta]</Hit_def>
+  <Hit_accession>NP_001040586</Hit_accession>
+  <Hit_len>247</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.7373</Hsp_bit-score>
+      <Hsp_score>221</Hsp_score>
+      <Hsp_evalue>1.16185e-18</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>45</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>39</Hsp_identity>
+      <Hsp_positive>42</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>MNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_qseq>
+      <Hsp_hseq>MNPLLILTFVGAAVAAPFDDDDKIVGGYTCGKNSLPYQVSLNSGY</Hsp_hseq>
+      <Hsp_midline>MNPLLILTFV AA+AAPFDDDDKIVGGY C +NS+PYQVSLNSGY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>ref|XP_030868753.1|</Hit_id>
+  <Hit_def>trypsin-1-like isoform X3 [Gorilla gorilla gorilla]</Hit_def>
+  <Hit_accession>XP_030868753</Hit_accession>
+  <Hit_len>247</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.7373</Hsp_bit-score>
+      <Hsp_score>221</Hsp_score>
+      <Hsp_evalue>1.43473e-18</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>45</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>39</Hsp_identity>
+      <Hsp_positive>42</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>MNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_qseq>
+      <Hsp_hseq>MNPLLILAFVGAAVASPFDDDDKIVGGYTCEENSLPYQVSLNSGY</Hsp_hseq>
+      <Hsp_midline>MNPLLIL FV AA+A+PFDDDDKIVGGY CEENS+PYQVSLNSGY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>ref|XP_025234268.1|</Hit_id>
+  <Hit_def>trypsin-2 isoform X4 [Theropithecus gelada]</Hit_def>
+  <Hit_accession>XP_025234268</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.3521</Hsp_bit-score>
+      <Hsp_score>220</Hsp_score>
+      <Hsp_evalue>1.51686e-18</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>45</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>39</Hsp_identity>
+      <Hsp_positive>41</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>MNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_qseq>
+      <Hsp_hseq>MNPLLILAFMGVAVAAPFDDDDKIVGGYTCEENSVPYQVSLNSGY</Hsp_hseq>
+      <Hsp_midline>MNPLLIL F+  A+AAPFDDDDKIVGGY CEENSVPYQVSLNSGY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>ref|XP_025234267.1|</Hit_id>
+  <Hit_def>trypsin-2 isoform X3 [Theropithecus gelada]</Hit_def>
+  <Hit_accession>XP_025234267</Hit_accession>
+  <Hit_len>247</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.3521</Hsp_bit-score>
+      <Hsp_score>220</Hsp_score>
+      <Hsp_evalue>1.5943e-18</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>45</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>39</Hsp_identity>
+      <Hsp_positive>41</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>MNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_qseq>
+      <Hsp_hseq>MNPLLILAFMGVAVAAPFDDDDKIVGGYTCEENSVPYQVSLNSGY</Hsp_hseq>
+      <Hsp_midline>MNPLLIL F+  A+AAPFDDDDKIVGGY CEENSVPYQVSLNSGY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>ref|XP_030868752.1|</Hit_id>
+  <Hit_def>trypsin-1-like isoform X2 [Gorilla gorilla gorilla]</Hit_def>
+  <Hit_accession>XP_030868752</Hit_accession>
+  <Hit_len>261</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.7373</Hsp_bit-score>
+      <Hsp_score>221</Hsp_score>
+      <Hsp_evalue>1.70462e-18</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>45</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>39</Hsp_identity>
+      <Hsp_positive>42</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>MNPLLILTFVAAALAAPFDDDDKIVGGYNCEENSVPYQVSLNSGY</Hsp_qseq>
+      <Hsp_hseq>MNPLLILAFVGAAVASPFDDDDKIVGGYTCEENSLPYQVSLNSGY</Hsp_hseq>
+      <Hsp_midline>MNPLLIL FV AA+A+PFDDDDKIVGGY CEENS+PYQVSLNSGY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>333620889</Statistics_db-num>
+      <Statistics_db-len>555014971</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>One or more O characters replaced by X for alignment score calculations at positions 90, 92, 101, 109, 113, 126, 130, 139, 141</Iteration_message>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
