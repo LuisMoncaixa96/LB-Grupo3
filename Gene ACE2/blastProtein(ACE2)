@@ -1,0 +1,1442 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.11.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_28787</BlastOutput_query-ID>
+  <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
+  <BlastOutput_query-len>157</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_28787</Iteration_query-ID>
+  <Iteration_query-def>unnamed protein product</Iteration_query-def>
+  <Iteration_query-len>157</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>ref|XP_023054821.1|</Hit_id>
+  <Hit_def>angiotensin-converting enzyme 2 [Piliocolobus tephrosceles]</Hit_def>
+  <Hit_accession>XP_023054821</Hit_accession>
+  <Hit_len>805</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>92.0485</Hsp_bit-score>
+      <Hsp_score>227</Hsp_score>
+      <Hsp_evalue>2.44024e-18</Hsp_evalue>
+      <Hsp_query-from>21</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>44</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>MSSSSWLLLSLVAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLTSFS</Hsp_qseq>
+      <Hsp_hseq>MSGSSWLLFSLVAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLASWN</Hsp_hseq>
+      <Hsp_midline>MS SSWLL SLVAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSL S++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>ref|XP_017367865.1|</Hit_id>
+  <Hit_def>angiotensin-converting enzyme 2 [Cebus imitator] &gt;ref|XP_017367866.1| angiotensin-converting enzyme 2 [Cebus imitator]</Hit_def>
+  <Hit_accession>XP_017367865</Hit_accession>
+  <Hit_len>805</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>85.8853</Hsp_bit-score>
+      <Hsp_score>211</Hsp_score>
+      <Hsp_evalue>3.33582e-16</Hsp_evalue>
+      <Hsp_query-from>21</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>41</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>MSSSSWLLLSLVAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLTSFS</Hsp_qseq>
+      <Hsp_hseq>MSGSFWLLLSLVAVTAAQSTIEEQAKTFLDKFNHEAEDLFHENSLASWN</Hsp_hseq>
+      <Hsp_midline>MS S WLLLSLVAVTAAQSTIEEQAKTFLDKFNHEAEDLF+++SL S++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>ref|XP_012290105.1|</Hit_id>
+  <Hit_def>angiotensin-converting enzyme 2 [Aotus nancymaae]</Hit_def>
+  <Hit_accession>XP_012290105</Hit_accession>
+  <Hit_len>805</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>85.8853</Hsp_bit-score>
+      <Hsp_score>211</Hsp_score>
+      <Hsp_evalue>3.63877e-16</Hsp_evalue>
+      <Hsp_query-from>21</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>41</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>MSSSSWLLLSLVAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLTSFS</Hsp_qseq>
+      <Hsp_hseq>MSGSFWLLLSLVAVTAAQSTIEEQAKTFLDKFNHEAEDLFHENSLASWN</Hsp_hseq>
+      <Hsp_midline>MS S WLLLSLVAVTAAQSTIEEQAKTFLDKFNHEAEDLF+++SL S++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>ref|XP_008987241.1|</Hit_id>
+  <Hit_def>angiotensin-converting enzyme 2 [Callithrix jacchus]</Hit_def>
+  <Hit_accession>XP_008987241</Hit_accession>
+  <Hit_len>805</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>85.8853</Hsp_bit-score>
+      <Hsp_score>211</Hsp_score>
+      <Hsp_evalue>3.96923e-16</Hsp_evalue>
+      <Hsp_query-from>21</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>41</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>MSSSSWLLLSLVAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLTSFS</Hsp_qseq>
+      <Hsp_hseq>MSGSFWLLLSLVAVTAAQSTIEEQAKTFLDKFNHEAEDLFHENSLASWN</Hsp_hseq>
+      <Hsp_midline>MS S WLLLSLVAVTAAQSTIEEQAKTFLDKFNHEAEDLF+++SL S++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>ref|XP_032141854.1|</Hit_id>
+  <Hit_def>angiotensin-converting enzyme 2 [Sapajus apella] &gt;ref|XP_032141855.1| angiotensin-converting enzyme 2 [Sapajus apella]</Hit_def>
+  <Hit_accession>XP_032141854</Hit_accession>
+  <Hit_len>805</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>85.1149</Hsp_bit-score>
+      <Hsp_score>209</Hsp_score>
+      <Hsp_evalue>5.78484e-16</Hsp_evalue>
+      <Hsp_query-from>21</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>MSSSSWLLLSLVAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLTSFS</Hsp_qseq>
+      <Hsp_hseq>MSGSFWLLLSLVAVTAAQSTVEEQAKTFLDKFNHEAEDLFHENSLASWN</Hsp_hseq>
+      <Hsp_midline>MS S WLLLSLVAVTAAQST+EEQAKTFLDKFNHEAEDLF+++SL S++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>ref|XP_010334925.1|</Hit_id>
+  <Hit_def>PREDICTED: angiotensin-converting enzyme 2 [Saimiri boliviensis boliviensis]</Hit_def>
+  <Hit_accession>XP_010334925</Hit_accession>
+  <Hit_len>805</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>84.3445</Hsp_bit-score>
+      <Hsp_score>207</Hsp_score>
+      <Hsp_evalue>1.32735e-15</Hsp_evalue>
+      <Hsp_query-from>21</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>45</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>MSSSSWLLLSLVAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLTSFS</Hsp_qseq>
+      <Hsp_hseq>MSGSFWLLLSLVAVIAAQSTIEEQAKTFLDKFNHEAEDLFHENSLASWN</Hsp_hseq>
+      <Hsp_midline>MS S WLLLSLVAV AAQSTIEEQAKTFLDKFNHEAEDLF+++SL S++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>ref|XP_010833001.1|</Hit_id>
+  <Hit_def>PREDICTED: angiotensin-converting enzyme 2, partial [Bison bison bison]</Hit_def>
+  <Hit_accession>XP_010833001</Hit_accession>
+  <Hit_len>431</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>81.2629</Hsp_bit-score>
+      <Hsp_score>199</Hsp_score>
+      <Hsp_evalue>1.09751e-14</Hsp_evalue>
+      <Hsp_query-from>21</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>44</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>MSSSSWLLLSLVAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLTSFS</Hsp_qseq>
+      <Hsp_hseq>MTGSFWLLLSLVAVTAAQSTTEEQAKTFLEKFNHEAEDLSYQSSLASWN</Hsp_hseq>
+      <Hsp_midline>M+ S WLLLSLVAVTAAQST EEQAKTFL+KFNHEAEDL YQSSL S++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>ref|NP_001277036.1|</Hit_id>
+  <Hit_def>angiotensin-converting enzyme 2 precursor [Capra hircus] &gt;gb|AHI85757.1| ACE2 [Capra hircus]</Hit_def>
+  <Hit_accession>NP_001277036</Hit_accession>
+  <Hit_len>804</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>80.8777</Hsp_bit-score>
+      <Hsp_score>198</Hsp_score>
+      <Hsp_evalue>1.69772e-14</Hsp_evalue>
+      <Hsp_query-from>21</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>44</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>MSSSSWLLLSLVAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLTSFS</Hsp_qseq>
+      <Hsp_hseq>MTGSFWLLLSLVAVTAAQSTTEEQAKTFLEKFNHEAEDLSYQSSLASWN</Hsp_hseq>
+      <Hsp_midline>M+ S WLLLSLVAVTAAQST EEQAKTFL+KFNHEAEDL YQSSL S++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>ref|XP_005701129.2|</Hit_id>
+  <Hit_def>PREDICTED: angiotensin-converting enzyme 2 isoform X1 [Capra hircus]</Hit_def>
+  <Hit_accession>XP_005701129</Hit_accession>
+  <Hit_len>804</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>80.8777</Hsp_bit-score>
+      <Hsp_score>198</Hsp_score>
+      <Hsp_evalue>1.71419e-14</Hsp_evalue>
+      <Hsp_query-from>21</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>44</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>MSSSSWLLLSLVAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLTSFS</Hsp_qseq>
+      <Hsp_hseq>MTGSFWLLLSLVAVTAAQSTTEEQAKTFLEKFNHEAEDLSYQSSLASWN</Hsp_hseq>
+      <Hsp_midline>M+ S WLLLSLVAVTAAQST EEQAKTFL+KFNHEAEDL YQSSL S++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>ref|XP_005228486.1|</Hit_id>
+  <Hit_def>angiotensin-converting enzyme 2 isoform X2 [Bos taurus] &gt;sp|Q58DD0.1| RecName: Full=Angiotensin-converting enzyme 2; AltName: Full=ACE-related carboxypeptidase; Contains: RecName: Full=Processed angiotensin-converting enzyme 2; Flags: Precursor [Bos taurus] &gt;gb|AAX46514.1| angiotensin I converting enzyme 2 precursor [Bos taurus] &gt;tpg|DAA12581.1| TPA: angiotensin-converting enzyme 2 precursor [Bos taurus]</Hit_def>
+  <Hit_accession>XP_005228486</Hit_accession>
+  <Hit_len>804</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>80.8777</Hsp_bit-score>
+      <Hsp_score>198</Hsp_score>
+      <Hsp_evalue>1.7476e-14</Hsp_evalue>
+      <Hsp_query-from>21</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>44</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>MSSSSWLLLSLVAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLTSFS</Hsp_qseq>
+      <Hsp_hseq>MTGSFWLLLSLVAVTAAQSTTEEQAKTFLEKFNHEAEDLSYQSSLASWN</Hsp_hseq>
+      <Hsp_midline>M+ S WLLLSLVAVTAAQST EEQAKTFL+KFNHEAEDL YQSSL S++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>ref|XP_027389729.1|</Hit_id>
+  <Hit_def>angiotensin-converting enzyme 2 isoform X2 [Bos indicus x Bos taurus]</Hit_def>
+  <Hit_accession>XP_027389729</Hit_accession>
+  <Hit_len>804</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>80.8777</Hsp_bit-score>
+      <Hsp_score>198</Hsp_score>
+      <Hsp_evalue>1.76455e-14</Hsp_evalue>
+      <Hsp_query-from>21</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>44</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>MSSSSWLLLSLVAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLTSFS</Hsp_qseq>
+      <Hsp_hseq>MTGSFWLLLSLVAVTAAQSTTEEQAKTFLEKFNHEAEDLSYQSSLASWN</Hsp_hseq>
+      <Hsp_midline>M+ S WLLLSLVAVTAAQST EEQAKTFL+KFNHEAEDL YQSSL S++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>ref|XP_019811720.1|</Hit_id>
+  <Hit_def>PREDICTED: angiotensin-converting enzyme 2 isoform X2 [Bos indicus]</Hit_def>
+  <Hit_accession>XP_019811720</Hit_accession>
+  <Hit_len>804</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>80.8777</Hsp_bit-score>
+      <Hsp_score>198</Hsp_score>
+      <Hsp_evalue>1.78167e-14</Hsp_evalue>
+      <Hsp_query-from>21</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>44</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>MSSSSWLLLSLVAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLTSFS</Hsp_qseq>
+      <Hsp_hseq>MTGSFWLLLSLVAVTAAQSTTEEQAKTFLEKFNHEAEDLSYQSSLASWN</Hsp_hseq>
+      <Hsp_midline>M+ S WLLLSLVAVTAAQST EEQAKTFL+KFNHEAEDL YQSSL S++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>ref|XP_005903173.1|</Hit_id>
+  <Hit_def>PREDICTED: angiotensin-converting enzyme 2 [Bos mutus] &gt;gb|ELR51016.1| Angiotensin-converting enzyme 2 [Bos mutus]</Hit_def>
+  <Hit_accession>XP_005903173</Hit_accession>
+  <Hit_len>804</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>80.8777</Hsp_bit-score>
+      <Hsp_score>198</Hsp_score>
+      <Hsp_evalue>1.79895e-14</Hsp_evalue>
+      <Hsp_query-from>21</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>44</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>MSSSSWLLLSLVAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLTSFS</Hsp_qseq>
+      <Hsp_hseq>MTGSFWLLLSLVAVTAAQSTTEEQAKTFLEKFNHEAEDLSYQSSLASWN</Hsp_hseq>
+      <Hsp_midline>M+ S WLLLSLVAVTAAQST EEQAKTFL+KFNHEAEDL YQSSL S++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>ref|NP_001019673.2|</Hit_id>
+  <Hit_def>angiotensin-converting enzyme 2 precursor [Bos taurus] &gt;gb|AAI05341.1| Angiotensin I converting enzyme (peptidyl-dipeptidase A) 2 [Bos taurus]</Hit_def>
+  <Hit_accession>NP_001019673</Hit_accession>
+  <Hit_len>804</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>80.8777</Hsp_bit-score>
+      <Hsp_score>198</Hsp_score>
+      <Hsp_evalue>1.79895e-14</Hsp_evalue>
+      <Hsp_query-from>21</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>44</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>MSSSSWLLLSLVAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLTSFS</Hsp_qseq>
+      <Hsp_hseq>MTGSFWLLLSLVAVTAAQSTTEEQAKTFLEKFNHEAEDLSYQSSLASWN</Hsp_hseq>
+      <Hsp_midline>M+ S WLLLSLVAVTAAQST EEQAKTFL+KFNHEAEDL YQSSL S++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>ref|XP_005228485.1|</Hit_id>
+  <Hit_def>angiotensin-converting enzyme 2 isoform X1 [Bos taurus] &gt;ref|XP_024843618.1| angiotensin-converting enzyme 2 isoform X1 [Bos taurus]</Hit_def>
+  <Hit_accession>XP_005228485</Hit_accession>
+  <Hit_len>811</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>80.8777</Hsp_bit-score>
+      <Hsp_score>198</Hsp_score>
+      <Hsp_evalue>1.85395e-14</Hsp_evalue>
+      <Hsp_query-from>21</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>44</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>MSSSSWLLLSLVAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLTSFS</Hsp_qseq>
+      <Hsp_hseq>MTGSFWLLLSLVAVTAAQSTTEEQAKTFLEKFNHEAEDLSYQSSLASWN</Hsp_hseq>
+      <Hsp_midline>M+ S WLLLSLVAVTAAQST EEQAKTFL+KFNHEAEDL YQSSL S++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gb|MXQ98806.1|</Hit_id>
+  <Hit_def>hypothetical protein [Bos mutus]</Hit_def>
+  <Hit_accession>MXQ98806</Hit_accession>
+  <Hit_len>817</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>80.8777</Hsp_bit-score>
+      <Hsp_score>198</Hsp_score>
+      <Hsp_evalue>1.85577e-14</Hsp_evalue>
+      <Hsp_query-from>21</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>44</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>MSSSSWLLLSLVAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLTSFS</Hsp_qseq>
+      <Hsp_hseq>MTGSFWLLLSLVAVTAAQSTTEEQAKTFLEKFNHEAEDLSYQSSLASWN</Hsp_hseq>
+      <Hsp_midline>M+ S WLLLSLVAVTAAQST EEQAKTFL+KFNHEAEDL YQSSL S++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>ref|XP_019811719.1|</Hit_id>
+  <Hit_def>PREDICTED: angiotensin-converting enzyme 2 isoform X1 [Bos indicus]</Hit_def>
+  <Hit_accession>XP_019811719</Hit_accession>
+  <Hit_len>811</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>80.8777</Hsp_bit-score>
+      <Hsp_score>198</Hsp_score>
+      <Hsp_evalue>1.89009e-14</Hsp_evalue>
+      <Hsp_query-from>21</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>44</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>MSSSSWLLLSLVAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLTSFS</Hsp_qseq>
+      <Hsp_hseq>MTGSFWLLLSLVAVTAAQSTTEEQAKTFLEKFNHEAEDLSYQSSLASWN</Hsp_hseq>
+      <Hsp_midline>M+ S WLLLSLVAVTAAQST EEQAKTFL+KFNHEAEDL YQSSL S++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gb|KAB0345583.1|</Hit_id>
+  <Hit_def>hypothetical protein FD754_022509 [Muntiacus muntjak]</Hit_def>
+  <Hit_accession>KAB0345583</Hit_accession>
+  <Hit_len>804</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>80.8777</Hsp_bit-score>
+      <Hsp_score>198</Hsp_score>
+      <Hsp_evalue>1.90621e-14</Hsp_evalue>
+      <Hsp_query-from>21</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>44</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>MSSSSWLLLSLVAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLTSFS</Hsp_qseq>
+      <Hsp_hseq>MTGSFWLLLSLVAVTAAQSTTEEQAKTFLEKFNHEAEDLSYQSSLASWN</Hsp_hseq>
+      <Hsp_midline>M+ S WLLLSLVAVTAAQST EEQAKTFL+KFNHEAEDL YQSSL S++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>ref|XP_027389727.1|</Hit_id>
+  <Hit_def>angiotensin-converting enzyme 2 isoform X1 [Bos indicus x Bos taurus] &gt;ref|XP_027389728.1| angiotensin-converting enzyme 2 isoform X1 [Bos indicus x Bos taurus]</Hit_def>
+  <Hit_accession>XP_027389727</Hit_accession>
+  <Hit_len>811</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>80.8777</Hsp_bit-score>
+      <Hsp_score>198</Hsp_score>
+      <Hsp_evalue>1.90842e-14</Hsp_evalue>
+      <Hsp_query-from>21</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>44</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>MSSSSWLLLSLVAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLTSFS</Hsp_qseq>
+      <Hsp_hseq>MTGSFWLLLSLVAVTAAQSTTEEQAKTFLEKFNHEAEDLSYQSSLASWN</Hsp_hseq>
+      <Hsp_midline>M+ S WLLLSLVAVTAAQST EEQAKTFL+KFNHEAEDL YQSSL S++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>ref|XP_020768965.1|</Hit_id>
+  <Hit_def>angiotensin-converting enzyme 2 [Odocoileus virginianus texanus]</Hit_def>
+  <Hit_accession>XP_020768965</Hit_accession>
+  <Hit_len>679</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>80.8777</Hsp_bit-score>
+      <Hsp_score>198</Hsp_score>
+      <Hsp_evalue>2.08722e-14</Hsp_evalue>
+      <Hsp_query-from>21</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>44</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>MSSSSWLLLSLVAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLTSFS</Hsp_qseq>
+      <Hsp_hseq>MTGSFWLLLSLVAVTAAQSTTEEQAKTFLEKFNHEAEDLSYQSSLASWN</Hsp_hseq>
+      <Hsp_midline>M+ S WLLLSLVAVTAAQST EEQAKTFL+KFNHEAEDL YQSSL S++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>ref|XP_013362428.1|</Hit_id>
+  <Hit_def>PREDICTED: angiotensin-converting enzyme 2 isoform X1 [Chinchilla lanigera] &gt;ref|XP_013362429.1| PREDICTED: angiotensin-converting enzyme 2 isoform X1 [Chinchilla lanigera]</Hit_def>
+  <Hit_accession>XP_013362428</Hit_accession>
+  <Hit_len>805</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>80.4925</Hsp_bit-score>
+      <Hsp_score>197</Hsp_score>
+      <Hsp_evalue>2.62166e-14</Hsp_evalue>
+      <Hsp_query-from>21</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>43</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>MSSSSWLLLSLVAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLTSFS</Hsp_qseq>
+      <Hsp_hseq>MSGSSWFLLSLVAVTAAQSTIEEQAKTFLDNFNEKAEDLSYQSSLASWN</Hsp_hseq>
+      <Hsp_midline>MS SSW LLSLVAVTAAQSTIEEQAKTFLD FN +AEDL YQSSL S++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>ref|XP_032476001.1|</Hit_id>
+  <Hit_def>angiotensin-converting enzyme 2 isoform X1 [Phocoena sinus] &gt;ref|XP_032476002.1| angiotensin-converting enzyme 2 isoform X1 [Phocoena sinus] &gt;ref|XP_032476004.1| angiotensin-converting enzyme 2 isoform X1 [Phocoena sinus]</Hit_def>
+  <Hit_accession>XP_032476001</Hit_accession>
+  <Hit_len>804</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>79.7221</Hsp_bit-score>
+      <Hsp_score>195</Hsp_score>
+      <Hsp_evalue>4.72268e-14</Hsp_evalue>
+      <Hsp_query-from>21</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>43</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>MSSSSWLLLSLVAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLTSFS</Hsp_qseq>
+      <Hsp_hseq>MSGSFWLLLSLVAVTAAQSTTEEQAKTFLQKFDHEAEDLSYQSSLASWN</Hsp_hseq>
+      <Hsp_midline>MS S WLLLSLVAVTAAQST EEQAKTFL KF+HEAEDL YQSSL S++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>ref|XP_005316051.3|</Hit_id>
+  <Hit_def>angiotensin-converting enzyme 2 [Ictidomys tridecemlineatus]</Hit_def>
+  <Hit_accession>XP_005316051</Hit_accession>
+  <Hit_len>817</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>79.7221</Hsp_bit-score>
+      <Hsp_score>195</Hsp_score>
+      <Hsp_evalue>4.73279e-14</Hsp_evalue>
+      <Hsp_query-from>20</Hsp_query-from>
+      <Hsp_query-to>107</Hsp_query-to>
+      <Hsp_hit-from>10</Hsp_hit-from>
+      <Hsp_hit-to>92</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>48</Hsp_identity>
+      <Hsp_positive>58</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>88</Hsp_align-len>
+      <Hsp_qseq>EMSSSSWLLLSLVAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLTSFSEQSEQUENCELENGTHBPSEQTAXONOMYEUKARYOTA</Hsp_qseq>
+      <Hsp_hseq>KMLGSSWLLLSFVAVTAAQSTIEELAKTFLDKFNQEAEDLDYQRSLAAWNYNTNITE----EN-TQKMNEAEAKWSAFYEEQSKLATA</Hsp_hseq>
+      <Hsp_midline>+M  SSWLLLS VAVTAAQSTIEE AKTFLDKFN EAEDL YQ SL +++  +   E    EN T   +E  A  +  YE +++  TA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>ref|XP_036696352.1|</Hit_id>
+  <Hit_def>angiotensin-converting enzyme 2 [Balaenoptera musculus] &gt;ref|XP_036696353.1| angiotensin-converting enzyme 2 [Balaenoptera musculus]</Hit_def>
+  <Hit_accession>XP_036696352</Hit_accession>
+  <Hit_len>804</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>79.7221</Hsp_bit-score>
+      <Hsp_score>195</Hsp_score>
+      <Hsp_evalue>4.81473e-14</Hsp_evalue>
+      <Hsp_query-from>21</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>43</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>MSSSSWLLLSLVAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLTSFS</Hsp_qseq>
+      <Hsp_hseq>MSGSFWLLLSLVAVTAAQSTTEEQAKTFLQKFDHEAEDLSYQSSLASWN</Hsp_hseq>
+      <Hsp_midline>MS S WLLLSLVAVTAAQST EEQAKTFL KF+HEAEDL YQSSL S++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gb|QNC68913.1|</Hit_id>
+  <Hit_def>angiotensin I converting enzyme 2, partial [Nanger dama ruficollis]</Hit_def>
+  <Hit_accession>QNC68913</Hit_accession>
+  <Hit_len>231</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>77.411</Hsp_bit-score>
+      <Hsp_score>189</Hsp_score>
+      <Hsp_evalue>4.82436e-14</Hsp_evalue>
+      <Hsp_query-from>21</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>38</Hsp_identity>
+      <Hsp_positive>42</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>MSSSSWLLLSLVAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLTSFS</Hsp_qseq>
+      <Hsp_hseq>MTGSFWLLLSLVAVTAAQSATEGQAKTFLEKFNHEAEDLSYQSSLASWN</Hsp_hseq>
+      <Hsp_midline>M+ S WLLLSLVAVTAAQS  E QAKTFL+KFNHEAEDL YQSSL S++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>ref|XP_023971279.1|</Hit_id>
+  <Hit_def>angiotensin-converting enzyme 2 [Physeter catodon]</Hit_def>
+  <Hit_accession>XP_023971279</Hit_accession>
+  <Hit_len>804</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>79.7221</Hsp_bit-score>
+      <Hsp_score>195</Hsp_score>
+      <Hsp_evalue>5.00422e-14</Hsp_evalue>
+      <Hsp_query-from>21</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>43</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>MSSSSWLLLSLVAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLTSFS</Hsp_qseq>
+      <Hsp_hseq>MSGSFWLLLSLVAVTAAQSTTEEQAKTFLQKFDHEAEDLSYQSSLASWN</Hsp_hseq>
+      <Hsp_midline>MS S WLLLSLVAVTAAQST EEQAKTFL KF+HEAEDL YQSSL S++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>ref|XP_024599894.1|</Hit_id>
+  <Hit_def>angiotensin-converting enzyme 2 [Neophocaena asiaeorientalis asiaeorientalis]</Hit_def>
+  <Hit_accession>XP_024599894</Hit_accession>
+  <Hit_len>804</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>79.7221</Hsp_bit-score>
+      <Hsp_score>195</Hsp_score>
+      <Hsp_evalue>5.45831e-14</Hsp_evalue>
+      <Hsp_query-from>21</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>43</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>MSSSSWLLLSLVAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLTSFS</Hsp_qseq>
+      <Hsp_hseq>MSGSFWLLLSLVAVTAAQSTTEEQAKTFLQKFDHEAEDLSYQSSLASWN</Hsp_hseq>
+      <Hsp_midline>MS S WLLLSLVAVTAAQST EEQAKTFL KF+HEAEDL YQSSL S++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>ref|XP_027802308.1|</Hit_id>
+  <Hit_def>angiotensin-converting enzyme 2 [Marmota flaviventris]</Hit_def>
+  <Hit_accession>XP_027802308</Hit_accession>
+  <Hit_len>817</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>79.337</Hsp_bit-score>
+      <Hsp_score>194</Hsp_score>
+      <Hsp_evalue>5.7404e-14</Hsp_evalue>
+      <Hsp_query-from>20</Hsp_query-from>
+      <Hsp_query-to>107</Hsp_query-to>
+      <Hsp_hit-from>10</Hsp_hit-from>
+      <Hsp_hit-to>92</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>48</Hsp_identity>
+      <Hsp_positive>57</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>88</Hsp_align-len>
+      <Hsp_qseq>EMSSSSWLLLSLVAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLTSFSEQSEQUENCELENGTHBPSEQTAXONOMYEUKARYOTA</Hsp_qseq>
+      <Hsp_hseq>KMLGSSWLLLSFVAVTAAQSTIEELAKTFLDKFNQEAEDLDYQRSLASWNYNT----NITKEN-TQKMNEAEAKWSAFYEKQSKLAKA</Hsp_hseq>
+      <Hsp_midline>+M  SSWLLLS VAVTAAQSTIEE AKTFLDKFN EAEDL YQ SL S++  +    N   EN T   +E  A  +  YE +++   A</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>ref|XP_015343540.1|</Hit_id>
+  <Hit_def>PREDICTED: angiotensin-converting enzyme 2 [Marmota marmota marmota]</Hit_def>
+  <Hit_accession>XP_015343540</Hit_accession>
+  <Hit_len>817</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>79.337</Hsp_bit-score>
+      <Hsp_score>194</Hsp_score>
+      <Hsp_evalue>5.96632e-14</Hsp_evalue>
+      <Hsp_query-from>20</Hsp_query-from>
+      <Hsp_query-to>107</Hsp_query-to>
+      <Hsp_hit-from>10</Hsp_hit-from>
+      <Hsp_hit-to>92</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>48</Hsp_identity>
+      <Hsp_positive>57</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>88</Hsp_align-len>
+      <Hsp_qseq>EMSSSSWLLLSLVAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLTSFSEQSEQUENCELENGTHBPSEQTAXONOMYEUKARYOTA</Hsp_qseq>
+      <Hsp_hseq>KMLGSSWLLLSFVAVTAAQSTIEELAKTFLDKFNQEAEDLDYQRSLASWNYNT----NITKEN-TQKMNEAEAKWSAFYEKQSKLAKA</Hsp_hseq>
+      <Hsp_midline>+M  SSWLLLS VAVTAAQSTIEE AKTFLDKFN EAEDL YQ SL S++  +    N   EN T   +E  A  +  YE +++   A</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gb|KAF4027296.1|</Hit_id>
+  <Hit_def>hypothetical protein G4228_019296 [Cervus hanglu yarkandensis]</Hit_def>
+  <Hit_accession>KAF4027296</Hit_accession>
+  <Hit_len>771</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>78.5666</Hsp_bit-score>
+      <Hsp_score>192</Hsp_score>
+      <Hsp_evalue>1.12996e-13</Hsp_evalue>
+      <Hsp_query-from>21</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>39</Hsp_identity>
+      <Hsp_positive>43</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>MSSSSWLLLSLVAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLTSFS</Hsp_qseq>
+      <Hsp_hseq>MTGSFWLLLSLVAVTAAQSTTEEQAKTFLENFNHEAEDLSYQSSLASWN</Hsp_hseq>
+      <Hsp_midline>M+ S WLLLSLVAVTAAQST EEQAKTFL+ FNHEAEDL YQSSL S++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>ref|XP_025227847.1|</Hit_id>
+  <Hit_def>angiotensin-converting enzyme 2 [Theropithecus gelada]</Hit_def>
+  <Hit_accession>XP_025227847</Hit_accession>
+  <Hit_len>805</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>73.9442</Hsp_bit-score>
+      <Hsp_score>180</Hsp_score>
+      <Hsp_evalue>4.70519e-12</Hsp_evalue>
+      <Hsp_query-from>32</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>12</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>35</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>38</Hsp_align-len>
+      <Hsp_qseq>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLTSFS</Hsp_qseq>
+      <Hsp_hseq>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLASWN</Hsp_hseq>
+      <Hsp_midline>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSL S++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>ref|XP_021788732.1|</Hit_id>
+  <Hit_def>angiotensin-converting enzyme 2 [Papio anubis] &gt;ref|XP_021788733.1| angiotensin-converting enzyme 2 [Papio anubis]</Hit_def>
+  <Hit_accession>XP_021788732</Hit_accession>
+  <Hit_len>805</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>73.9442</Hsp_bit-score>
+      <Hsp_score>180</Hsp_score>
+      <Hsp_evalue>4.75077e-12</Hsp_evalue>
+      <Hsp_query-from>32</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>12</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>35</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>38</Hsp_align-len>
+      <Hsp_qseq>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLTSFS</Hsp_qseq>
+      <Hsp_hseq>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLASWN</Hsp_hseq>
+      <Hsp_midline>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSL S++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>ref|NP_001373188.1|</Hit_id>
+  <Hit_def>angiotensin-converting enzyme 2 isoform 2 precursor [Homo sapiens]</Hit_def>
+  <Hit_accession>NP_001373188</Hit_accession>
+  <Hit_len>786</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>73.9442</Hsp_bit-score>
+      <Hsp_score>180</Hsp_score>
+      <Hsp_evalue>4.8744e-12</Hsp_evalue>
+      <Hsp_query-from>32</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>12</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>35</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>38</Hsp_align-len>
+      <Hsp_qseq>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLTSFS</Hsp_qseq>
+      <Hsp_hseq>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLASWN</Hsp_hseq>
+      <Hsp_midline>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSL S++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>ref|NP_001129168.1|</Hit_id>
+  <Hit_def>angiotensin-converting enzyme 2 precursor [Macaca mulatta] &gt;gb|ACI04577.1| angiotensin converting enzyme 2 [Macaca mulatta]</Hit_def>
+  <Hit_accession>NP_001129168</Hit_accession>
+  <Hit_len>805</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>73.9442</Hsp_bit-score>
+      <Hsp_score>180</Hsp_score>
+      <Hsp_evalue>4.93756e-12</Hsp_evalue>
+      <Hsp_query-from>32</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>12</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>35</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>38</Hsp_align-len>
+      <Hsp_qseq>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLTSFS</Hsp_qseq>
+      <Hsp_hseq>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLASWN</Hsp_hseq>
+      <Hsp_midline>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSL S++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gb|ACI04554.1|</Hit_id>
+  <Hit_def>angiotensin converting enzyme 2 [Macaca mulatta]</Hit_def>
+  <Hit_accession>ACI04554</Hit_accession>
+  <Hit_len>805</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>73.9442</Hsp_bit-score>
+      <Hsp_score>180</Hsp_score>
+      <Hsp_evalue>4.9854e-12</Hsp_evalue>
+      <Hsp_query-from>32</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>12</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>35</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>38</Hsp_align-len>
+      <Hsp_qseq>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLTSFS</Hsp_qseq>
+      <Hsp_hseq>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLASWN</Hsp_hseq>
+      <Hsp_midline>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSL S++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gb|ACI04569.1|</Hit_id>
+  <Hit_def>angiotensin converting enzyme 2 [Macaca mulatta]</Hit_def>
+  <Hit_accession>ACI04569</Hit_accession>
+  <Hit_len>805</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>73.9442</Hsp_bit-score>
+      <Hsp_score>180</Hsp_score>
+      <Hsp_evalue>4.9854e-12</Hsp_evalue>
+      <Hsp_query-from>32</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>12</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>35</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>38</Hsp_align-len>
+      <Hsp_qseq>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLTSFS</Hsp_qseq>
+      <Hsp_hseq>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLASWN</Hsp_hseq>
+      <Hsp_midline>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSL S++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gb|EHH30556.1|</Hit_id>
+  <Hit_def>Angiotensin-converting enzyme 2 [Macaca mulatta]</Hit_def>
+  <Hit_accession>EHH30556</Hit_accession>
+  <Hit_len>805</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>73.9442</Hsp_bit-score>
+      <Hsp_score>180</Hsp_score>
+      <Hsp_evalue>4.9854e-12</Hsp_evalue>
+      <Hsp_query-from>32</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>12</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>35</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>38</Hsp_align-len>
+      <Hsp_qseq>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLTSFS</Hsp_qseq>
+      <Hsp_hseq>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLASWN</Hsp_hseq>
+      <Hsp_midline>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSL S++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gb|ACI04567.1|</Hit_id>
+  <Hit_def>angiotensin converting enzyme 2 [Macaca mulatta]</Hit_def>
+  <Hit_accession>ACI04567</Hit_accession>
+  <Hit_len>805</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>73.9442</Hsp_bit-score>
+      <Hsp_score>180</Hsp_score>
+      <Hsp_evalue>4.9854e-12</Hsp_evalue>
+      <Hsp_query-from>32</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>12</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>35</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>38</Hsp_align-len>
+      <Hsp_qseq>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLTSFS</Hsp_qseq>
+      <Hsp_hseq>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLASWN</Hsp_hseq>
+      <Hsp_midline>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSL S++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>ref|XP_011733505.1|</Hit_id>
+  <Hit_def>angiotensin-converting enzyme 2 [Macaca nemestrina] &gt;ref|XP_011733506.1| angiotensin-converting enzyme 2 [Macaca nemestrina] &gt;ref|XP_024647450.1| angiotensin-converting enzyme 2 [Macaca nemestrina] &gt;gb|ACI04558.1| angiotensin converting enzyme 2 [Macaca mulatta] &gt;gb|ACI04561.1| angiotensin converting enzyme 2 [Macaca mulatta] &gt;gb|ACI04572.1| angiotensin converting enzyme 2 [Macaca mulatta] &gt;gb|ACI04574.1| angiotensin converting enzyme 2 [Macaca mulatta] &gt;gb|ACI04575.1| angiotensin converting enzyme 2 [Macaca mulatta]</Hit_def>
+  <Hit_accession>XP_011733505</Hit_accession>
+  <Hit_len>805</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>73.9442</Hsp_bit-score>
+      <Hsp_score>180</Hsp_score>
+      <Hsp_evalue>5.08246e-12</Hsp_evalue>
+      <Hsp_query-from>32</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>12</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>35</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>38</Hsp_align-len>
+      <Hsp_qseq>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLTSFS</Hsp_qseq>
+      <Hsp_hseq>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLASWN</Hsp_hseq>
+      <Hsp_midline>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSL S++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gb|ACI04556.1|</Hit_id>
+  <Hit_def>angiotensin converting enzyme 2 [Macaca mulatta]</Hit_def>
+  <Hit_accession>ACI04556</Hit_accession>
+  <Hit_len>805</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>73.9442</Hsp_bit-score>
+      <Hsp_score>180</Hsp_score>
+      <Hsp_evalue>5.08246e-12</Hsp_evalue>
+      <Hsp_query-from>32</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>12</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>35</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>38</Hsp_align-len>
+      <Hsp_qseq>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLTSFS</Hsp_qseq>
+      <Hsp_hseq>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLASWN</Hsp_hseq>
+      <Hsp_midline>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSL S++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>ref|XP_011850923.1|</Hit_id>
+  <Hit_def>PREDICTED: angiotensin-converting enzyme 2 [Mandrillus leucophaeus]</Hit_def>
+  <Hit_accession>XP_011850923</Hit_accession>
+  <Hit_len>805</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>73.9442</Hsp_bit-score>
+      <Hsp_score>180</Hsp_score>
+      <Hsp_evalue>5.08246e-12</Hsp_evalue>
+      <Hsp_query-from>32</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>12</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>35</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>38</Hsp_align-len>
+      <Hsp_qseq>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLTSFS</Hsp_qseq>
+      <Hsp_hseq>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLASWN</Hsp_hseq>
+      <Hsp_midline>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSL S++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>dbj|BAB40370.1|</Hit_id>
+  <Hit_def>ACE2 [Homo sapiens]</Hit_def>
+  <Hit_accession>BAB40370</Hit_accession>
+  <Hit_len>805</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>73.9442</Hsp_bit-score>
+      <Hsp_score>180</Hsp_score>
+      <Hsp_evalue>5.08246e-12</Hsp_evalue>
+      <Hsp_query-from>32</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>12</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>35</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>38</Hsp_align-len>
+      <Hsp_qseq>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLTSFS</Hsp_qseq>
+      <Hsp_hseq>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLASWN</Hsp_hseq>
+      <Hsp_midline>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSL S++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gb|ACI04568.1|</Hit_id>
+  <Hit_def>angiotensin converting enzyme 2 [Macaca mulatta]</Hit_def>
+  <Hit_accession>ACI04568</Hit_accession>
+  <Hit_len>805</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>73.9442</Hsp_bit-score>
+      <Hsp_score>180</Hsp_score>
+      <Hsp_evalue>5.08246e-12</Hsp_evalue>
+      <Hsp_query-from>32</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>12</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>35</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>38</Hsp_align-len>
+      <Hsp_qseq>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLTSFS</Hsp_qseq>
+      <Hsp_hseq>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLASWN</Hsp_hseq>
+      <Hsp_midline>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSL S++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gb|EHH60729.1|</Hit_id>
+  <Hit_def>Angiotensin-converting enzyme 2 [Macaca fascicularis]</Hit_def>
+  <Hit_accession>EHH60729</Hit_accession>
+  <Hit_len>805</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>73.9442</Hsp_bit-score>
+      <Hsp_score>180</Hsp_score>
+      <Hsp_evalue>5.08246e-12</Hsp_evalue>
+      <Hsp_query-from>32</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>12</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>35</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>38</Hsp_align-len>
+      <Hsp_qseq>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLTSFS</Hsp_qseq>
+      <Hsp_hseq>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLASWN</Hsp_hseq>
+      <Hsp_midline>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSL S++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gb|ACI04563.1|</Hit_id>
+  <Hit_def>angiotensin converting enzyme 2 [Macaca mulatta]</Hit_def>
+  <Hit_accession>ACI04563</Hit_accession>
+  <Hit_len>805</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>73.9442</Hsp_bit-score>
+      <Hsp_score>180</Hsp_score>
+      <Hsp_evalue>5.08246e-12</Hsp_evalue>
+      <Hsp_query-from>32</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>12</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>35</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>38</Hsp_align-len>
+      <Hsp_qseq>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLTSFS</Hsp_qseq>
+      <Hsp_hseq>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLASWN</Hsp_hseq>
+      <Hsp_midline>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSL S++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>dbj|BAG37592.1|</Hit_id>
+  <Hit_def>unnamed protein product [Homo sapiens]</Hit_def>
+  <Hit_accession>BAG37592</Hit_accession>
+  <Hit_len>805</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>73.9442</Hsp_bit-score>
+      <Hsp_score>180</Hsp_score>
+      <Hsp_evalue>5.1317e-12</Hsp_evalue>
+      <Hsp_query-from>32</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>12</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>35</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>38</Hsp_align-len>
+      <Hsp_qseq>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLTSFS</Hsp_qseq>
+      <Hsp_hseq>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLASWN</Hsp_hseq>
+      <Hsp_midline>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSL S++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>ref|XP_005593094.1|</Hit_id>
+  <Hit_def>PREDICTED: angiotensin-converting enzyme 2 [Macaca fascicularis] &gt;ref|XP_014982444.2| angiotensin-converting enzyme 2 isoform X1 [Macaca mulatta] &gt;ref|XP_028697658.1| angiotensin-converting enzyme 2 isoform X1 [Macaca mulatta] &gt;gb|QLF98524.1| angiotensin I converting enzyme 2 [Macaca mulatta]</Hit_def>
+  <Hit_accession>XP_005593094</Hit_accession>
+  <Hit_len>805</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>73.9442</Hsp_bit-score>
+      <Hsp_score>180</Hsp_score>
+      <Hsp_evalue>5.1317e-12</Hsp_evalue>
+      <Hsp_query-from>32</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>12</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>35</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>38</Hsp_align-len>
+      <Hsp_qseq>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLTSFS</Hsp_qseq>
+      <Hsp_hseq>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLASWN</Hsp_hseq>
+      <Hsp_midline>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSL S++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gb|ACI04553.1|</Hit_id>
+  <Hit_def>angiotensin converting enzyme 2 [Macaca mulatta]</Hit_def>
+  <Hit_accession>ACI04553</Hit_accession>
+  <Hit_len>805</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>73.9442</Hsp_bit-score>
+      <Hsp_score>180</Hsp_score>
+      <Hsp_evalue>5.1317e-12</Hsp_evalue>
+      <Hsp_query-from>32</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>12</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>35</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>38</Hsp_align-len>
+      <Hsp_qseq>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLTSFS</Hsp_qseq>
+      <Hsp_hseq>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLASWN</Hsp_hseq>
+      <Hsp_midline>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSL S++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>ref|XP_024096013.1|</Hit_id>
+  <Hit_def>angiotensin-converting enzyme 2 isoform X1 [Pongo abelii] &gt;gb|PNJ64628.1| ACE2 isoform 2 [Pongo abelii] &gt;gb|PNJ64629.1| ACE2 isoform 3 [Pongo abelii]</Hit_def>
+  <Hit_accession>XP_024096013</Hit_accession>
+  <Hit_len>805</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>73.9442</Hsp_bit-score>
+      <Hsp_score>180</Hsp_score>
+      <Hsp_evalue>5.18141e-12</Hsp_evalue>
+      <Hsp_query-from>32</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>12</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>35</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>38</Hsp_align-len>
+      <Hsp_qseq>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLTSFS</Hsp_qseq>
+      <Hsp_hseq>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLASWN</Hsp_hseq>
+      <Hsp_midline>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSL S++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>ref|XP_007989304.2|</Hit_id>
+  <Hit_def>angiotensin-converting enzyme 2 [Chlorocebus sabaeus] &gt;ref|XP_037842285.1| angiotensin-converting enzyme 2 [Chlorocebus sabaeus]</Hit_def>
+  <Hit_accession>XP_007989304</Hit_accession>
+  <Hit_len>805</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>73.9442</Hsp_bit-score>
+      <Hsp_score>180</Hsp_score>
+      <Hsp_evalue>5.18141e-12</Hsp_evalue>
+      <Hsp_query-from>32</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>12</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>35</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>38</Hsp_align-len>
+      <Hsp_qseq>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLTSFS</Hsp_qseq>
+      <Hsp_hseq>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSLASWN</Hsp_hseq>
+      <Hsp_midline>VAVTAAQSTIEEQAKTFLDKFNHEAEDLFYQSSL S++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>333620889</Statistics_db-num>
+      <Statistics_db-len>555014971</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>One or more O characters replaced by X for alignment score calculations at positions 93, 95, 104, 112, 116, 129, 133, 142, 144</Iteration_message>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>

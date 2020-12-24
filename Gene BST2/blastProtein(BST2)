@@ -1,0 +1,1106 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.11.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_48559</BlastOutput_query-ID>
+  <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
+  <BlastOutput_query-len>154</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_48559</Iteration_query-ID>
+  <Iteration_query-def>unnamed protein product</Iteration_query-def>
+  <Iteration_query-len>154</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>ref|XP_010359750.1|</Hit_id>
+  <Hit_def>bone marrow stromal antigen 2 [Rhinopithecus roxellana] &gt;ref|XP_017735004.1| PREDICTED: bone marrow stromal antigen 2 [Rhinopithecus bieti]</Hit_def>
+  <Hit_accession>XP_010359750</Hit_accession>
+  <Hit_len>182</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>63.5438</Hsp_bit-score>
+      <Hsp_score>153</Hsp_score>
+      <Hsp_evalue>3.35086e-09</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>74</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>58</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>33</Hsp_identity>
+      <Hsp_positive>42</Hsp_positive>
+      <Hsp_gaps>9</Hsp_gaps>
+      <Hsp_align-len>62</Hsp_align-len>
+      <Hsp_qseq>MASTSYDYCRVPM-----EDGDKRCKLLLGIGILVLLIIVILGVPLIIFTLLQSEQSEQUEN</Hsp_qseq>
+      <Hsp_hseq>MAPILYDYCKMPMDDIWKEDGDKRCKLV--VGILGLLVIVILGVLLIFFII--KANSEACQD</Hsp_hseq>
+      <Hsp_midline>MA   YDYC++PM     EDGDKRCKL+  +GIL LL+IVILGV LI F +     SE +++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gb|ADI58604.1|</Hit_id>
+  <Hit_def>bone marrow stromal cell antigen 2 [Pygathrix nemaeus]</Hit_def>
+  <Hit_accession>ADI58604</Hit_accession>
+  <Hit_len>182</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>63.5438</Hsp_bit-score>
+      <Hsp_score>153</Hsp_score>
+      <Hsp_evalue>3.7977e-09</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>74</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>58</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>33</Hsp_identity>
+      <Hsp_positive>42</Hsp_positive>
+      <Hsp_gaps>9</Hsp_gaps>
+      <Hsp_align-len>62</Hsp_align-len>
+      <Hsp_qseq>MASTSYDYCRVPM-----EDGDKRCKLLLGIGILVLLIIVILGVPLIIFTLLQSEQSEQUEN</Hsp_qseq>
+      <Hsp_hseq>MAPILYDYCKMPMDDIWKEDGDKRCKLV--VGILGLLVIVILGVLLIFFII--KANSEACQD</Hsp_hseq>
+      <Hsp_midline>MA   YDYC++PM     EDGDKRCKL+  +GIL LL+IVILGV LI F +     SE +++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gb|ADI58599.1|</Hit_id>
+  <Hit_def>bone marrow stromal cell antigen 2 [Erythrocebus patas]</Hit_def>
+  <Hit_accession>ADI58599</Hit_accession>
+  <Hit_len>182</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>62.003</Hsp_bit-score>
+      <Hsp_score>149</Hsp_score>
+      <Hsp_evalue>1.42579e-08</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>74</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>58</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>32</Hsp_identity>
+      <Hsp_positive>42</Hsp_positive>
+      <Hsp_gaps>9</Hsp_gaps>
+      <Hsp_align-len>62</Hsp_align-len>
+      <Hsp_qseq>MASTSYDYCRVPM-----EDGDKRCKLLLGIGILVLLIIVILGVPLIIFTLLQSEQSEQUEN</Hsp_qseq>
+      <Hsp_hseq>MAPILYDYCKMPMDDICKEDGDKCCKL--AVGILGLLVIVLMGVPLIFFIIKAS--SEACQD</Hsp_hseq>
+      <Hsp_midline>MA   YDYC++PM     EDGDK CKL   +GIL LL+IV++GVPLI F +  S  SE +++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>ref|XP_023085479.1|</Hit_id>
+  <Hit_def>bone marrow stromal antigen 2 [Piliocolobus tephrosceles]</Hit_def>
+  <Hit_accession>XP_023085479</Hit_accession>
+  <Hit_len>182</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>61.6178</Hsp_bit-score>
+      <Hsp_score>148</Hsp_score>
+      <Hsp_evalue>1.54951e-08</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>74</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>58</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>31</Hsp_identity>
+      <Hsp_positive>41</Hsp_positive>
+      <Hsp_gaps>9</Hsp_gaps>
+      <Hsp_align-len>62</Hsp_align-len>
+      <Hsp_qseq>MASTSYDYCRVPM-----EDGDKRCKLLLGIGILVLLIIVILGVPLIIFTLLQSEQSEQUEN</Hsp_qseq>
+      <Hsp_hseq>MAPILYDYCKMSMGDIWEEDGDKRCKLV--VGILGFLVIVLLGVPLIFFII--KANSEACQD</Hsp_hseq>
+      <Hsp_midline>MA   YDYC++ M     EDGDKRCKL+  +GIL  L+IV+LGVPLI F +     SE +++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>ref|NP_001166058.1|</Hit_id>
+  <Hit_def>bone marrow stromal antigen 2 [Pongo abelii] &gt;ref|XP_024092169.1| bone marrow stromal antigen 2 isoform X1 [Pongo abelii] &gt;gb|ACU52729.1| tetherin [Pongo abelii] &gt;gb|PNJ28583.1| BST2 isoform 1 [Pongo abelii]</Hit_def>
+  <Hit_accession>NP_001166058</Hit_accession>
+  <Hit_len>184</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>60.077</Hsp_bit-score>
+      <Hsp_score>144</Hsp_score>
+      <Hsp_evalue>6.1027e-08</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>74</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>60</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>44</Hsp_identity>
+      <Hsp_positive>48</Hsp_positive>
+      <Hsp_gaps>7</Hsp_gaps>
+      <Hsp_align-len>62</Hsp_align-len>
+      <Hsp_qseq>MASTSYDYCRVPM-----EDGDKRCKLLLGIGILVLLIIVILGVPLIIFTLLQSEQSEQUEN</Hsp_qseq>
+      <Hsp_hseq>MASTLYDYCRVPMGDICKKDGDKRCKLLLGIGILVLLITVILGVPLIIFTI--KANSEACRD</Hsp_hseq>
+      <Hsp_midline>MAST YDYCRVPM     +DGDKRCKLLLGIGILVLLI VILGVPLIIFT+     SE + +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gb|ADI58596.1|</Hit_id>
+  <Hit_def>bone marrow stromal cell antigen 2 [Pongo pygmaeus]</Hit_def>
+  <Hit_accession>ADI58596</Hit_accession>
+  <Hit_len>184</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>59.6918</Hsp_bit-score>
+      <Hsp_score>143</Hsp_score>
+      <Hsp_evalue>9.72573e-08</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>74</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>60</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>44</Hsp_identity>
+      <Hsp_positive>48</Hsp_positive>
+      <Hsp_gaps>7</Hsp_gaps>
+      <Hsp_align-len>62</Hsp_align-len>
+      <Hsp_qseq>MASTSYDYCRVPM-----EDGDKRCKLLLGIGILVLLIIVILGVPLIIFTLLQSEQSEQUEN</Hsp_qseq>
+      <Hsp_hseq>MASTLYDYCRVPMGDICKKDGDKRCKLLLGIGILVLLITVILGVPLIIFTI--KANSEACRD</Hsp_hseq>
+      <Hsp_midline>MAST YDYCRVPM     +DGDKRCKLLLGIGILVLLI VILGVPLIIFT+     SE + +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>dbj|BAG64608.1|</Hit_id>
+  <Hit_def>unnamed protein product [Homo sapiens]</Hit_def>
+  <Hit_accession>BAG64608</Hit_accession>
+  <Hit_len>216</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>58.9214</Hsp_bit-score>
+      <Hsp_score>141</Hsp_score>
+      <Hsp_evalue>2.98581e-07</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>74</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>55</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>47</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>57</Hsp_align-len>
+      <Hsp_qseq>MASTSYDYCRVPMEDGDKRCKLLLGIGILVLLIIVILGVPLIIFTLLQSEQSEQUEN</Hsp_qseq>
+      <Hsp_hseq>MASTSYDYCRVPMEDGDKRCKLLLGIGILVLLIIVILGVPLIIFTI--KADSEACRD</Hsp_hseq>
+      <Hsp_midline>MASTSYDYCRVPMEDGDKRCKLLLGIGILVLLIIVILGVPLIIFT+     SE + +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>dbj|BAD96844.1|</Hit_id>
+  <Hit_def>bone marrow stromal cell antigen 2 variant, partial [Homo sapiens]</Hit_def>
+  <Hit_accession>BAD96844</Hit_accession>
+  <Hit_len>180</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>58.151</Hsp_bit-score>
+      <Hsp_score>139</Hsp_score>
+      <Hsp_evalue>3.13519e-07</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>74</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>55</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>47</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>57</Hsp_align-len>
+      <Hsp_qseq>MASTSYDYCRVPMEDGDKRCKLLLGIGILVLLIIVILGVPLIIFTLLQSEQSEQUEN</Hsp_qseq>
+      <Hsp_hseq>MASTSYDYCRVPMEDGDKRCKLLLGIGILVLLIIVILGVPLIIFTI--KANSEACRD</Hsp_hseq>
+      <Hsp_midline>MASTSYDYCRVPMEDGDKRCKLLLGIGILVLLIIVILGVPLIIFT+     SE + +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>ref|NP_004326.1|</Hit_id>
+  <Hit_def>bone marrow stromal antigen 2 precursor [Homo sapiens] &gt;sp|Q10589.1| RecName: Full=Bone marrow stromal antigen 2; Short=BST-2; AltName: Full=HM1.24 antigen; AltName: Full=Tetherin; AltName: CD_antigen=CD317; Flags: Precursor [Homo sapiens] &gt;gb|AIC48373.1| BST2, partial [synthetic construct] &gt;emb|SJX34382.1| unnamed protein product, partial [Human ORFeome Gateway entry vector] &gt;gb|AAH33873.1| Bone marrow stromal cell antigen 2 [Homo sapiens] &gt;gb|AWF73545.1| bone marrow stromal antigen 2 [Homo sapiens] &gt;gb|EAW84602.1| bone marrow stromal cell antigen 2, isoform CRA_a [Homo sapiens]</Hit_def>
+  <Hit_accession>NP_004326</Hit_accession>
+  <Hit_len>180</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>58.151</Hsp_bit-score>
+      <Hsp_score>139</Hsp_score>
+      <Hsp_evalue>3.16778e-07</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>74</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>55</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>47</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>57</Hsp_align-len>
+      <Hsp_qseq>MASTSYDYCRVPMEDGDKRCKLLLGIGILVLLIIVILGVPLIIFTLLQSEQSEQUEN</Hsp_qseq>
+      <Hsp_hseq>MASTSYDYCRVPMEDGDKRCKLLLGIGILVLLIIVILGVPLIIFTI--KANSEACRD</Hsp_hseq>
+      <Hsp_midline>MASTSYDYCRVPMEDGDKRCKLLLGIGILVLLIIVILGVPLIIFT+     SE + +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>dbj|BAT21109.1|</Hit_id>
+  <Hit_def>bone marrow stromal antigen 2 [Allochrocebus solatus]</Hit_def>
+  <Hit_accession>BAT21109</Hit_accession>
+  <Hit_len>182</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>56.9954</Hsp_bit-score>
+      <Hsp_score>136</Hsp_score>
+      <Hsp_evalue>9.64192e-07</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>63</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>28</Hsp_identity>
+      <Hsp_positive>35</Hsp_positive>
+      <Hsp_gaps>7</Hsp_gaps>
+      <Hsp_align-len>51</Hsp_align-len>
+      <Hsp_qseq>MASTSYDYCRVPM-----EDGDKRCKLLLGIGILVLLIIVILGVPLIIFTL</Hsp_qseq>
+      <Hsp_hseq>MAPILYDYCKMPMBDXXKEDGDKXCKLV--VGILGLLVIVLXGVXLIFFII</Hsp_hseq>
+      <Hsp_midline>MA   YDYC++PM     EDGDK CKL+  +GIL LL+IV+ GV LI F +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>dbj|BAT21108.1|</Hit_id>
+  <Hit_def>bone marrow stromal antigen 2 [Cercopithecus albogularis]</Hit_def>
+  <Hit_accession>BAT21108</Hit_accession>
+  <Hit_len>181</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>56.6102</Hsp_bit-score>
+      <Hsp_score>135</Hsp_score>
+      <Hsp_evalue>1.13232e-06</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>74</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>57</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>31</Hsp_identity>
+      <Hsp_positive>40</Hsp_positive>
+      <Hsp_gaps>10</Hsp_gaps>
+      <Hsp_align-len>62</Hsp_align-len>
+      <Hsp_qseq>MASTSYDYCRVPM-----EDGDKRCKLLLGIGILVLLIIVILGVPLIIFTLLQSEQSEQUEN</Hsp_qseq>
+      <Hsp_hseq>MAPILYDYCKIPMGDIPKEDGDKRCKLV--VGILGFLVIV-LGVLLIFFII--KANSEACQD</Hsp_hseq>
+      <Hsp_midline>MA   YDYC++PM     EDGDKRCKL+  +GIL  L+IV LGV LI F +     SE +++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gb|ACX46127.1|</Hit_id>
+  <Hit_def>tetherin [Cercopithecus cephus]</Hit_def>
+  <Hit_accession>ACX46127</Hit_accession>
+  <Hit_len>181</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>56.6102</Hsp_bit-score>
+      <Hsp_score>135</Hsp_score>
+      <Hsp_evalue>1.15589e-06</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>74</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>57</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>31</Hsp_identity>
+      <Hsp_positive>40</Hsp_positive>
+      <Hsp_gaps>10</Hsp_gaps>
+      <Hsp_align-len>62</Hsp_align-len>
+      <Hsp_qseq>MASTSYDYCRVPM-----EDGDKRCKLLLGIGILVLLIIVILGVPLIIFTLLQSEQSEQUEN</Hsp_qseq>
+      <Hsp_hseq>MAPILYDYCKIPMGDSCKEDGDKRCKLV--VGILGFLVIV-LGVLLIFFII--KANSEACQD</Hsp_hseq>
+      <Hsp_midline>MA   YDYC++PM     EDGDKRCKL+  +GIL  L+IV LGV LI F +     SE +++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>dbj|BAT21107.1|</Hit_id>
+  <Hit_def>bone marrow stromal antigen 2 [Cercopithecus albogularis]</Hit_def>
+  <Hit_accession>BAT21107</Hit_accession>
+  <Hit_len>181</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>56.6102</Hsp_bit-score>
+      <Hsp_score>135</Hsp_score>
+      <Hsp_evalue>1.15589e-06</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>74</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>57</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>31</Hsp_identity>
+      <Hsp_positive>40</Hsp_positive>
+      <Hsp_gaps>10</Hsp_gaps>
+      <Hsp_align-len>62</Hsp_align-len>
+      <Hsp_qseq>MASTSYDYCRVPM-----EDGDKRCKLLLGIGILVLLIIVILGVPLIIFTLLQSEQSEQUEN</Hsp_qseq>
+      <Hsp_hseq>MAPILYDYCKIPMGDIPKEDGDKRCKLV--VGILGFLVIV-LGVLLIFFII--KANSEACQD</Hsp_hseq>
+      <Hsp_midline>MA   YDYC++PM     EDGDKRCKL+  +GIL  L+IV LGV LI F +     SE +++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>ref|XP_033055920.1|</Hit_id>
+  <Hit_def>bone marrow stromal antigen 2 [Trachypithecus francoisi] &gt;gb|ADI58605.1| bone marrow stromal cell antigen 2 [Trachypithecus francoisi]</Hit_def>
+  <Hit_accession>XP_033055920</Hit_accession>
+  <Hit_len>182</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>56.6102</Hsp_bit-score>
+      <Hsp_score>135</Hsp_score>
+      <Hsp_evalue>1.16058e-06</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>74</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>58</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>31</Hsp_identity>
+      <Hsp_positive>40</Hsp_positive>
+      <Hsp_gaps>9</Hsp_gaps>
+      <Hsp_align-len>62</Hsp_align-len>
+      <Hsp_qseq>MASTSYDYCRVPM-----EDGDKRCKLLLGIGILVLLIIVILGVPLIIFTLLQSEQSEQUEN</Hsp_qseq>
+      <Hsp_hseq>MAPILYDYCKMPMDDNLKEDGDKCCKLV--VGILGLLVIVILGVLLTFFII--KANSEACQD</Hsp_hseq>
+      <Hsp_midline>MA   YDYC++PM     EDGDK CKL+  +GIL LL+IVILGV L  F +     SE +++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>ref|XP_030675274.1|</Hit_id>
+  <Hit_def>bone marrow stromal antigen 2 isoform X1 [Nomascus leucogenys] &gt;ref|XP_032025980.1| bone marrow stromal antigen 2 [Hylobates moloch]</Hit_def>
+  <Hit_accession>XP_030675274</Hit_accession>
+  <Hit_len>185</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>53.9138</Hsp_bit-score>
+      <Hsp_score>128</Hsp_score>
+      <Hsp_evalue>1.29176e-05</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>74</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>60</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>43</Hsp_identity>
+      <Hsp_positive>47</Hsp_positive>
+      <Hsp_gaps>7</Hsp_gaps>
+      <Hsp_align-len>62</Hsp_align-len>
+      <Hsp_qseq>MASTSYDYCRVPMED-----GDKRCKLLLGIGILVLLIIVILGVPLIIFTLLQSEQSEQUEN</Hsp_qseq>
+      <Hsp_hseq>MAPTLYDYCRVPMDDIWKKDGDKRCKLLLGIGILVLLIIVSLGVPLIIFTI--KANSEACRD</Hsp_hseq>
+      <Hsp_midline>MA T YDYCRVPM+D     GDKRCKLLLGIGILVLLIIV LGVPLIIFT+     SE + +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gb|ADI58601.1|</Hit_id>
+  <Hit_def>bone marrow stromal cell antigen 2 [Miopithecus talapoin]</Hit_def>
+  <Hit_accession>ADI58601</Hit_accession>
+  <Hit_len>182</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>53.9138</Hsp_bit-score>
+      <Hsp_score>128</Hsp_score>
+      <Hsp_evalue>1.36226e-05</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>74</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>58</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>29</Hsp_identity>
+      <Hsp_positive>40</Hsp_positive>
+      <Hsp_gaps>9</Hsp_gaps>
+      <Hsp_align-len>62</Hsp_align-len>
+      <Hsp_qseq>MASTSYDYCRVPM-----EDGDKRCKLLLGIGILVLLIIVILGVPLIIFTLLQSEQSEQUEN</Hsp_qseq>
+      <Hsp_hseq>MAPILCDYCKMLMDDIWKEDGDKHCKLV--VGILGVLVIVLLGVPLIFFII--KANSEACQD</Hsp_hseq>
+      <Hsp_midline>MA    DYC++ M     EDGDK CKL+  +GIL +L+IV+LGVPLI F +     SE +++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gb|ADI58598.1|</Hit_id>
+  <Hit_def>bone marrow stromal cell antigen 2 [Hylobates agilis]</Hit_def>
+  <Hit_accession>ADI58598</Hit_accession>
+  <Hit_len>185</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>53.9138</Hsp_bit-score>
+      <Hsp_score>128</Hsp_score>
+      <Hsp_evalue>1.38748e-05</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>74</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>60</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>43</Hsp_identity>
+      <Hsp_positive>47</Hsp_positive>
+      <Hsp_gaps>7</Hsp_gaps>
+      <Hsp_align-len>62</Hsp_align-len>
+      <Hsp_qseq>MASTSYDYCRVPME-----DGDKRCKLLLGIGILVLLIIVILGVPLIIFTLLQSEQSEQUEN</Hsp_qseq>
+      <Hsp_hseq>MAPTLYDYCRVPMDGIWKKDGDKRCKLLLGIGILVLLIIVSLGVPLIIFTI--KANSEACRD</Hsp_hseq>
+      <Hsp_midline>MA T YDYCRVPM+     DGDKRCKLLLGIGILVLLIIV LGVPLIIFT+     SE + +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>ref|NP_001295602.1|</Hit_id>
+  <Hit_def>bone marrow stromal antigen 2 [Nomascus leucogenys] &gt;gb|ADI58597.1| bone marrow stromal cell antigen 2 [Nomascus leucogenys]</Hit_def>
+  <Hit_accession>NP_001295602</Hit_accession>
+  <Hit_len>185</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>52.373</Hsp_bit-score>
+      <Hsp_score>124</Hsp_score>
+      <Hsp_evalue>4.90955e-05</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>74</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>60</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>42</Hsp_identity>
+      <Hsp_positive>47</Hsp_positive>
+      <Hsp_gaps>7</Hsp_gaps>
+      <Hsp_align-len>62</Hsp_align-len>
+      <Hsp_qseq>MASTSYDYCRVPMED-----GDKRCKLLLGIGILVLLIIVILGVPLIIFTLLQSEQSEQUEN</Hsp_qseq>
+      <Hsp_hseq>MAPTLYDYCRGPMDDIWKKDGDKRCKLLLGIGILVLLIIVSLGVPLIIFTI--KANSEACQD</Hsp_hseq>
+      <Hsp_midline>MA T YDYCR PM+D     GDKRCKLLLGIGILVLLIIV LGVPLIIFT+     SE +++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>pdb|4P6Z|T</Hit_id>
+  <Hit_def>Crystal structure of the human BST2 cytoplasmic domain and the HIV-1 Vpu cytoplasmic domain bound to the clathrin adaptor protein complex 1 (AP1) core [Homo sapiens]</Hit_def>
+  <Hit_accession>4P6Z_T</Hit_accession>
+  <Hit_len>25</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>48.521</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>6.37919e-05</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>38</Hsp_query-to>
+      <Hsp_hit-from>5</Hsp_hit-from>
+      <Hsp_hit-to>25</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>21</Hsp_identity>
+      <Hsp_positive>21</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>21</Hsp_align-len>
+      <Hsp_qseq>MASTSYDYCRVPMEDGDKRCK</Hsp_qseq>
+      <Hsp_hseq>MASTSYDYCRVPMEDGDKRCK</Hsp_hseq>
+      <Hsp_midline>MASTSYDYCRVPMEDGDKRCK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>ref|XP_024206821.1|</Hit_id>
+  <Hit_def>bone marrow stromal antigen 2 isoform X2 [Pan troglodytes]</Hit_def>
+  <Hit_accession>XP_024206821</Hit_accession>
+  <Hit_len>161</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>50.8322</Hsp_bit-score>
+      <Hsp_score>120</Hsp_score>
+      <Hsp_evalue>0.000119158</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>74</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>60</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>44</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>7</Hsp_gaps>
+      <Hsp_align-len>62</Hsp_align-len>
+      <Hsp_qseq>MASTSYDYCRVPMED-----GDKRCKLLLGIGILVLLIIVILGVPLIIFTLLQSEQSEQUEN</Hsp_qseq>
+      <Hsp_hseq>MASTLYDYCRVPMDDIWKKDGDKRCKLLLGIGILMLLIIVILGVPLIIFTI--KANSEACRD</Hsp_hseq>
+      <Hsp_midline>MAST YDYCRVPM+D     GDKRCKLLLGIGIL+LLIIVILGVPLIIFT+     SE + +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>ref|NP_001177409.1|</Hit_id>
+  <Hit_def>bone marrow stromal antigen 2 [Pan troglodytes] &gt;ref|XP_009433231.1| bone marrow stromal antigen 2 isoform X1 [Pan troglodytes] &gt;gb|ADI58593.1| bone marrow stromal cell antigen 2 [Pan troglodytes] &gt;gb|PNI50631.1| BST2 isoform 1 [Pan troglodytes]</Hit_def>
+  <Hit_accession>NP_001177409</Hit_accession>
+  <Hit_len>185</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>50.8322</Hsp_bit-score>
+      <Hsp_score>120</Hsp_score>
+      <Hsp_evalue>0.000174592</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>82</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>73</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>48</Hsp_identity>
+      <Hsp_positive>53</Hsp_positive>
+      <Hsp_gaps>12</Hsp_gaps>
+      <Hsp_align-len>75</Hsp_align-len>
+      <Hsp_qseq>MASTSYDYCRVPMED-----GDKRCKLLLGIGILVLLIIVILGVPLIIFTLLQSEQSEQUEN-----CELENGTH</Hsp_qseq>
+      <Hsp_hseq>MASTLYDYCRVPMDDIWKKDGDKRCKLLLGIGILMLLIIVILGVPLIIFTI--KANSEACRDGLRAVMECRNVTH</Hsp_hseq>
+      <Hsp_midline>MAST YDYCRVPM+D     GDKRCKLLLGIGIL+LLIIVILGVPLIIFT+     SE + +      E  N TH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gb|ACN12813.1|</Hit_id>
+  <Hit_def>tetherin [Aotus vociferans]</Hit_def>
+  <Hit_accession>ACN12813</Hit_accession>
+  <Hit_len>191</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>49.2914</Hsp_bit-score>
+      <Hsp_score>116</Hsp_score>
+      <Hsp_evalue>0.000779723</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>107</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>101</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>33</Hsp_identity>
+      <Hsp_positive>52</Hsp_positive>
+      <Hsp_gaps>11</Hsp_gaps>
+      <Hsp_align-len>101</Hsp_align-len>
+      <Hsp_qseq>MASTSYDYCRVPMEDGDK-----RCKLLLGIGILVLLIIVILGVPLIIFTLLQSEQSEQUEN-----CELENGTHBPSEQ-TAXONOMYEUKARYOTAMET</Hsp_qseq>
+      <Hsp_hseq>MAPTLFHYPLVPMDDFLKHERKERCKLLVGAGVVALLVIVALALGVLLIIYVKRANSEACQEGHRAVMECRNVTHLLQEELTRAQDGFRDAEAQVATYNET</Hsp_hseq>
+      <Hsp_midline>MA T + Y  VPM+D  K     RCKLL+G G++ LL+IV L + +++   ++   SE ++       E  N TH   E+ T   +   + +A+  T  ET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>pdb|6D83|L</Hit_id>
+  <Hit_def>Structure of the cargo bound AP-1:Arf1:tetherin-Nef (L164A, L165A) dileucine mutant dimer monomeric subunit [Homo sapiens] &gt;pdb|6D83|T Structure of the cargo bound AP-1:Arf1:tetherin-Nef (L164A, L165A) dileucine mutant dimer monomeric subunit [Homo sapiens] &gt;pdb|6D84|L Structure of the cargo bound AP-1:Arf1:tetherin-Nef (L164A, L165A) dileucine mutant dimer [Homo sapiens] &gt;pdb|6D84|O Structure of the cargo bound AP-1:Arf1:tetherin-Nef (L164A, L165A) dileucine mutant dimer [Homo sapiens] &gt;pdb|6D84|R Structure of the cargo bound AP-1:Arf1:tetherin-Nef (L164A, L165A) dileucine mutant dimer [Homo sapiens] &gt;pdb|6D84|T Structure of the cargo bound AP-1:Arf1:tetherin-Nef (L164A, L165A) dileucine mutant dimer [Homo sapiens]</Hit_def>
+  <Hit_accession>6D83_L</Hit_accession>
+  <Hit_len>264</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>49.6766</Hsp_bit-score>
+      <Hsp_score>117</Hsp_score>
+      <Hsp_evalue>0.000787494</Hsp_evalue>
+      <Hsp_query-from>19</Hsp_query-from>
+      <Hsp_query-to>38</Hsp_query-to>
+      <Hsp_hit-from>29</Hsp_hit-from>
+      <Hsp_hit-to>48</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>20</Hsp_identity>
+      <Hsp_positive>20</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>20</Hsp_align-len>
+      <Hsp_qseq>ASTSYDYCRVPMEDGDKRCK</Hsp_qseq>
+      <Hsp_hseq>ASTSYDYCRVPMEDGDKRCK</Hsp_hseq>
+      <Hsp_midline>ASTSYDYCRVPMEDGDKRCK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>pdb|6CM9|L</Hit_id>
+  <Hit_def>Structure of the cargo bound AP-1:Arf1:tetherin-Nef closed trimer monomeric subunit [Homo sapiens] &gt;pdb|6CM9|N Structure of the cargo bound AP-1:Arf1:tetherin-Nef closed trimer monomeric subunit [Homo sapiens] &gt;pdb|6CM9|T Structure of the cargo bound AP-1:Arf1:tetherin-Nef closed trimer monomeric subunit [Homo sapiens] &gt;pdb|6CRI|N Structure of the cargo bound AP-1:Arf1:tetherin-Nef stable closed trimer [Homo sapiens] &gt;pdb|6CRI|T Structure of the cargo bound AP-1:Arf1:tetherin-Nef stable closed trimer [Homo sapiens] &gt;pdb|6CRI|Y Structure of the cargo bound AP-1:Arf1:tetherin-Nef stable closed trimer [Homo sapiens] &gt;pdb|6CRI|Z Structure of the cargo bound AP-1:Arf1:tetherin-Nef stable closed trimer [Homo sapiens] &gt;pdb|6CRI|c Structure of the cargo bound AP-1:Arf1:tetherin-Nef stable closed trimer [Homo sapiens] &gt;pdb|6CRI|d Structure of the cargo bound AP-1:Arf1:tetherin-Nef stable closed trimer [Homo sapiens] &gt;pdb|6DFF|L Structure of the cargo bound AP-1:Arf1:tetherin-Nef monomer [Homo sapiens] &gt;pdb|6DFF|T Structure of the cargo bound AP-1:Arf1:tetherin-Nef monomer [Homo sapiens]</Hit_def>
+  <Hit_accession>6CM9_L</Hit_accession>
+  <Hit_len>264</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>49.6766</Hsp_bit-score>
+      <Hsp_score>117</Hsp_score>
+      <Hsp_evalue>0.000802961</Hsp_evalue>
+      <Hsp_query-from>19</Hsp_query-from>
+      <Hsp_query-to>38</Hsp_query-to>
+      <Hsp_hit-from>29</Hsp_hit-from>
+      <Hsp_hit-to>48</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>20</Hsp_identity>
+      <Hsp_positive>20</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>20</Hsp_align-len>
+      <Hsp_qseq>ASTSYDYCRVPMEDGDKRCK</Hsp_qseq>
+      <Hsp_hseq>ASTSYDYCRVPMEDGDKRCK</Hsp_hseq>
+      <Hsp_midline>ASTSYDYCRVPMEDGDKRCK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gb|ACN12809.1|</Hit_id>
+  <Hit_def>tetherin [Aotus griseimembra]</Hit_def>
+  <Hit_accession>ACN12809</Hit_accession>
+  <Hit_len>191</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>49.2914</Hsp_bit-score>
+      <Hsp_score>116</Hsp_score>
+      <Hsp_evalue>0.000819875</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>107</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>101</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>33</Hsp_identity>
+      <Hsp_positive>52</Hsp_positive>
+      <Hsp_gaps>11</Hsp_gaps>
+      <Hsp_align-len>101</Hsp_align-len>
+      <Hsp_qseq>MASTSYDYCRVPMEDGDK-----RCKLLLGIGILVLLIIVILGVPLIIFTLLQSEQSEQUEN-----CELENGTHBPSEQ-TAXONOMYEUKARYOTAMET</Hsp_qseq>
+      <Hsp_hseq>MAPTLFHYPLVPMDDFLKHERKERCKLLVGAGVVALLVIVALALGVLLIIYVKRANSEACQEGHRAVMECRNVTHLLQEELTRAQDGFRDAEAQVATYNET</Hsp_hseq>
+      <Hsp_midline>MA T + Y  VPM+D  K     RCKLL+G G++ LL+IV L + +++   ++   SE ++       E  N TH   E+ T   +   + +A+  T  ET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>ref|NP_001266147.1|</Hit_id>
+  <Hit_def>bone marrow stromal antigen 2 [Pan paniscus] &gt;ref|XP_008969207.2| bone marrow stromal antigen 2 isoform X1 [Pan paniscus] &gt;gb|ADI58595.1| bone marrow stromal cell antigen 2 [Pan paniscus]</Hit_def>
+  <Hit_accession>NP_001266147</Hit_accession>
+  <Hit_len>185</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>48.9062</Hsp_bit-score>
+      <Hsp_score>115</Hsp_score>
+      <Hsp_evalue>0.00105308</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>82</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>73</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>53</Hsp_positive>
+      <Hsp_gaps>12</Hsp_gaps>
+      <Hsp_align-len>75</Hsp_align-len>
+      <Hsp_qseq>MASTSYDYCRVPMED-----GDKRCKLLLGIGILVLLIIVILGVPLIIFTLLQSEQSEQUEN-----CELENGTH</Hsp_qseq>
+      <Hsp_hseq>MASTLYDYCRVPMDDIWKKDGDKRCKLLLGIGILVLLIIVILGVPLIIFTI--KANSEACRDGLRAVMECRNVTH</Hsp_hseq>
+      <Hsp_midline>MAST YDYCRVPM+D     GDKRCKLLLGIGILVLLIIVILGVPLIIFT+     SE + +      E  N TH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gb|ACN12812.1|</Hit_id>
+  <Hit_def>tetherin [Aotus vociferans]</Hit_def>
+  <Hit_accession>ACN12812</Hit_accession>
+  <Hit_len>191</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>48.521</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>0.00123712</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>107</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>101</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>33</Hsp_identity>
+      <Hsp_positive>51</Hsp_positive>
+      <Hsp_gaps>11</Hsp_gaps>
+      <Hsp_align-len>101</Hsp_align-len>
+      <Hsp_qseq>MASTSYDYCRVPMEDGDK-----RCKLLLGIGILVLLIIVILGVPLIIFTLLQSEQSEQUEN-----CELENGTHB-PSEQTAXONOMYEUKARYOTAMET</Hsp_qseq>
+      <Hsp_hseq>MAPTLFHYPLVPMDDFLKHERKERCKLLVGAGVVALLVIVALALGVLLIIYVKRANSEACQEGHRAVMECRNVTHFLQQELTRAQDGFRDAEAQVATYNET</Hsp_hseq>
+      <Hsp_midline>MA T + Y  VPM+D  K     RCKLL+G G++ LL+IV L + +++   ++   SE ++       E  N TH    E T   +   + +A+  T  ET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>ref|XP_021524888.1|</Hit_id>
+  <Hit_def>bone marrow stromal antigen 2 [Aotus nancymaae]</Hit_def>
+  <Hit_accession>XP_021524888</Hit_accession>
+  <Hit_len>191</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>48.521</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>0.00123712</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>107</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>101</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>32</Hsp_identity>
+      <Hsp_positive>52</Hsp_positive>
+      <Hsp_gaps>11</Hsp_gaps>
+      <Hsp_align-len>101</Hsp_align-len>
+      <Hsp_qseq>MASTSYDYCRVPMEDGDK-----RCKLLLGIGILVLLIIVILGVPLIIFTLLQSEQSEQUEN-----CELENGTHBPSEQ-TAXONOMYEUKARYOTAMET</Hsp_qseq>
+      <Hsp_hseq>MAPTLFHYPLVPMDDFLKHERKERCKLLVGAGVVAILVIVALALGVLLIIYVKRANSEACQEGHRAVMECRNVTHFLQEELTRAQDGFRDAEAQVATYNET</Hsp_hseq>
+      <Hsp_midline>MA T + Y  VPM+D  K     RCKLL+G G++ +L+IV L + +++   ++   SE ++       E  N TH   E+ T   +   + +A+  T  ET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>ref|NP_001266560.1|</Hit_id>
+  <Hit_def>bone marrow stromal antigen 2 [Gorilla gorilla] &gt;gb|ADI58594.1| bone marrow stromal cell antigen 2 [Gorilla gorilla]</Hit_def>
+  <Hit_accession>NP_001266560</Hit_accession>
+  <Hit_len>185</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>48.521</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>0.00132718</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>74</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>60</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>45</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>7</Hsp_gaps>
+      <Hsp_align-len>62</Hsp_align-len>
+      <Hsp_qseq>MASTSYDYCRVPME-----DGDKRCKLLLGIGILVLLIIVILGVPLIIFTLLQSEQSEQUEN</Hsp_qseq>
+      <Hsp_hseq>MASTLYDYCRVPMDAILKKDGDKRCKLLLGIGILVLLIIVILGVPLIIFTI--KANSEACRD</Hsp_hseq>
+      <Hsp_midline>MAST YDYCRVPM+     DGDKRCKLLLGIGILVLLIIVILGVPLIIFT+     SE + +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>ref|XP_018869871.1|</Hit_id>
+  <Hit_def>bone marrow stromal antigen 2 isoform X1 [Gorilla gorilla gorilla] &gt;gb|ACX46128.1| tetherin [Gorilla gorilla]</Hit_def>
+  <Hit_accession>XP_018869871</Hit_accession>
+  <Hit_len>185</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>48.521</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>0.00142394</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>74</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>60</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>45</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>7</Hsp_gaps>
+      <Hsp_align-len>62</Hsp_align-len>
+      <Hsp_qseq>MASTSYDYCRVPME-----DGDKRCKLLLGIGILVLLIIVILGVPLIIFTLLQSEQSEQUEN</Hsp_qseq>
+      <Hsp_hseq>MASTLYDYCRVPMDAILKKDGDKRCKLLLGIGILVLLIIVILGVPLIIFTI--KANSEACRD</Hsp_hseq>
+      <Hsp_midline>MAST YDYCRVPM+     DGDKRCKLLLGIGILVLLIIVILGVPLIIFT+     SE + +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gb|ACX46125.1|</Hit_id>
+  <Hit_def>tetherin [Cercopithecus nictitans]</Hit_def>
+  <Hit_accession>ACX46125</Hit_accession>
+  <Hit_len>182</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>40.0466</Hsp_bit-score>
+      <Hsp_score>92</Hsp_score>
+      <Hsp_evalue>1.46215</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>74</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>58</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>33</Hsp_identity>
+      <Hsp_positive>42</Hsp_positive>
+      <Hsp_gaps>9</Hsp_gaps>
+      <Hsp_align-len>62</Hsp_align-len>
+      <Hsp_qseq>MASTSYDYCRVPM-----EDGDKRCKLLLGIGILVLLIIVILGVPLIIFTLLQSEQSEQUEN</Hsp_qseq>
+      <Hsp_hseq>MAPILYDYCKIPMGDIPKEDGDKRCKL--AVGILGLLVIVLLGVPLIFFII--KANSEACQD</Hsp_hseq>
+      <Hsp_midline>MA   YDYC++PM     EDGDKRCKL   +GIL LL+IV+LGVPLI F +     SE +++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>emb|CCG14707.1|</Hit_id>
+  <Hit_def>bone marrow stromal cell antigen 2 [Cercopithecus neglectus]</Hit_def>
+  <Hit_accession>CCG14707</Hit_accession>
+  <Hit_len>182</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>39.2762</Hsp_bit-score>
+      <Hsp_score>90</Hsp_score>
+      <Hsp_evalue>2.62548</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>74</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>58</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>33</Hsp_identity>
+      <Hsp_positive>42</Hsp_positive>
+      <Hsp_gaps>9</Hsp_gaps>
+      <Hsp_align-len>62</Hsp_align-len>
+      <Hsp_qseq>MASTSYDYCRVPM-----EDGDKRCKLLLGIGILVLLIIVILGVPLIIFTLLQSEQSEQUEN</Hsp_qseq>
+      <Hsp_hseq>MAPILYDYCKMPMGDSWKEDGDKRCKL--AVGILGLLVIVLLGVPLIFFII--KANSEACQD</Hsp_hseq>
+      <Hsp_midline>MA   YDYC++PM     EDGDKRCKL   +GIL LL+IV+LGVPLI F +     SE +++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>ref|XP_008064238.1|</Hit_id>
+  <Hit_def>bone marrow stromal antigen 2, partial [Carlito syrichta]</Hit_def>
+  <Hit_accession>XP_008064238</Hit_accession>
+  <Hit_len>142</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>38.5058</Hsp_bit-score>
+      <Hsp_score>88</Hsp_score>
+      <Hsp_evalue>3.66144</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>74</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>60</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>24</Hsp_identity>
+      <Hsp_positive>35</Hsp_positive>
+      <Hsp_gaps>7</Hsp_gaps>
+      <Hsp_align-len>62</Hsp_align-len>
+      <Hsp_qseq>MASTSYDYCRVPMEDGDKRCK-----LLLGIGILVLLIIVILGVPLIIFTLLQSEQSEQUEN</Hsp_qseq>
+      <Hsp_hseq>MAPTLCQYRPVAMDEGWKGLRPGGPRLLPWVGVTLLLTTVALGVPLIIFIVKAS--SKGCQD</Hsp_hseq>
+      <Hsp_midline>MA T   Y  V M++G K  +     LL  +G+ +LL  V LGVPLIIF +  S  S+ +++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gb|NYB27739.1|</Hit_id>
+  <Hit_def>hypothetical protein [Methanobacteriaceae archaeon] &gt;gb|OPY19854.1| hypothetical protein A4E26_02110 [Methanobacterium sp. PtaU1.Bin097]</Hit_def>
+  <Hit_accession>NYB27739</Hit_accession>
+  <Hit_len>51</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>36.1946</Hsp_bit-score>
+      <Hsp_score>82</Hsp_score>
+      <Hsp_evalue>5.11653</Hsp_evalue>
+      <Hsp_query-from>30</Hsp_query-from>
+      <Hsp_query-to>65</Hsp_query-to>
+      <Hsp_hit-from>12</Hsp_hit-from>
+      <Hsp_hit-to>47</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>15</Hsp_identity>
+      <Hsp_positive>26</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>36</Hsp_align-len>
+      <Hsp_qseq>MEDGDKRCKLLLGIGILVLLIIVILGVPLIIFTLLQ</Hsp_qseq>
+      <Hsp_hseq>MKDPDKRAKLFLLISYILIAIPIVIGIGLILYMLIQ</Hsp_hseq>
+      <Hsp_midline>M+D DKR KL L I  +++ I +++G+ LI++ L+Q</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>ref|NP_001292892.1|</Hit_id>
+  <Hit_def>bone marrow stromal antigen 2 [Cercocebus atys] &gt;gb|ACP41247.1| tetherin variant Sm2 [Cercocebus atys]</Hit_def>
+  <Hit_accession>NP_001292892</Hit_accession>
+  <Hit_len>182</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>37.7354</Hsp_bit-score>
+      <Hsp_score>86</Hsp_score>
+      <Hsp_evalue>8.26277</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>74</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>58</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>34</Hsp_identity>
+      <Hsp_positive>43</Hsp_positive>
+      <Hsp_gaps>9</Hsp_gaps>
+      <Hsp_align-len>62</Hsp_align-len>
+      <Hsp_qseq>MASTSYDYCRVPM-----EDGDKRCKLLLGIGILVLLIIVILGVPLIIFTLLQSEQSEQUEN</Hsp_qseq>
+      <Hsp_hseq>MAPILYDYCRMPMGDIWKEDGDKRCKLV--VGILGLLVIVLLGVPLIFFII--KANSEACQD</Hsp_hseq>
+      <Hsp_midline>MA   YDYCR+PM     EDGDKRCKL+  +GIL LL+IV+LGVPLI F +     SE +++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>dbj|BAP00768.1|</Hit_id>
+  <Hit_def>bone marrow stromal antigen 2 [Cercocebus torquatus] &gt;dbj|BAP00769.1| bone marrow stromal antigen 2 [Cercocebus torquatus]</Hit_def>
+  <Hit_accession>BAP00768</Hit_accession>
+  <Hit_len>182</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>37.7354</Hsp_bit-score>
+      <Hsp_score>86</Hsp_score>
+      <Hsp_evalue>9.83655</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>74</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>58</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>34</Hsp_identity>
+      <Hsp_positive>43</Hsp_positive>
+      <Hsp_gaps>9</Hsp_gaps>
+      <Hsp_align-len>62</Hsp_align-len>
+      <Hsp_qseq>MASTSYDYCRVPM-----EDGDKRCKLLLGIGILVLLIIVILGVPLIIFTLLQSEQSEQUEN</Hsp_qseq>
+      <Hsp_hseq>MAPILYDYCRMPMGDIWKEDGDKRCKLV--VGILGLLVIVLLGVPLIFFII--KANSEACQD</Hsp_hseq>
+      <Hsp_midline>MA   YDYCR+PM     EDGDKRCKL+  +GIL LL+IV+LGVPLI F +     SE +++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gb|ACP41246.1|</Hit_id>
+  <Hit_def>tetherin variant Sm1 [Cercocebus atys]</Hit_def>
+  <Hit_accession>ACP41246</Hit_accession>
+  <Hit_len>182</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>37.7354</Hsp_bit-score>
+      <Hsp_score>86</Hsp_score>
+      <Hsp_evalue>9.83655</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>74</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>58</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>33</Hsp_identity>
+      <Hsp_positive>43</Hsp_positive>
+      <Hsp_gaps>9</Hsp_gaps>
+      <Hsp_align-len>62</Hsp_align-len>
+      <Hsp_qseq>MASTSYDYCRVPM-----EDGDKRCKLLLGIGILVLLIIVILGVPLIIFTLLQSEQSEQUEN</Hsp_qseq>
+      <Hsp_hseq>MAPILYDYCRMPMGDIWKEDGDKRCKLV--VGILGLLVVVLLGVPLIFFII--KANSEACQD</Hsp_hseq>
+      <Hsp_midline>MA   YDYCR+PM     EDGDKRCKL+  +GIL LL++V+LGVPLI F +     SE +++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>ref|XP_011949720.1|</Hit_id>
+  <Hit_def>PREDICTED: bone marrow stromal antigen 2 [Cercocebus atys]</Hit_def>
+  <Hit_accession>XP_011949720</Hit_accession>
+  <Hit_len>182</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>37.7354</Hsp_bit-score>
+      <Hsp_score>86</Hsp_score>
+      <Hsp_evalue>9.83655</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>74</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>58</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>33</Hsp_identity>
+      <Hsp_positive>43</Hsp_positive>
+      <Hsp_gaps>9</Hsp_gaps>
+      <Hsp_align-len>62</Hsp_align-len>
+      <Hsp_qseq>MASTSYDYCRVPM-----EDGDKRCKLLLGIGILVLLIIVILGVPLIIFTLLQSEQSEQUEN</Hsp_qseq>
+      <Hsp_hseq>MAPILYDYCRMPMGDIWKEDGDKRCKLV--VGILGLLVVVLLGVPLIFFII--KANSEACQD</Hsp_hseq>
+      <Hsp_midline>MA   YDYCR+PM     EDGDKRCKL+  +GIL LL++V+LGVPLI F +     SE +++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>333620889</Statistics_db-num>
+      <Statistics_db-len>555014971</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>One or more O characters replaced by X for alignment score calculations at positions 90, 92, 101, 109, 113, 126, 130, 139, 141</Iteration_message>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
