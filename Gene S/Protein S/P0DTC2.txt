@@ -1,0 +1,995 @@
+ID   SPIKE_SARS2             Reviewed;        1273 AA.
+AC   P0DTC2;
+DT   22-APR-2020, integrated into UniProtKB/Swiss-Prot.
+DT   22-APR-2020, sequence version 1.
+DT   02-DEC-2020, entry version 5.
+DE   RecName: Full=Spike glycoprotein {ECO:0000255|HAMAP-Rule:MF_04099};
+DE            Short=S glycoprotein {ECO:0000255|HAMAP-Rule:MF_04099};
+DE   AltName: Full=E2 {ECO:0000255|HAMAP-Rule:MF_04099};
+DE   AltName: Full=Peplomer protein {ECO:0000255|HAMAP-Rule:MF_04099};
+DE   Contains:
+DE     RecName: Full=Spike protein S1 {ECO:0000255|HAMAP-Rule:MF_04099};
+DE   Contains:
+DE     RecName: Full=Spike protein S2 {ECO:0000255|HAMAP-Rule:MF_04099};
+DE   Contains:
+DE     RecName: Full=Spike protein S2' {ECO:0000255|HAMAP-Rule:MF_04099};
+DE   Flags: Precursor;
+GN   Name=S {ECO:0000255|HAMAP-Rule:MF_04099}; ORFNames=2;
+OS   Severe acute respiratory syndrome coronavirus 2 (2019-nCoV) (SARS-CoV-2).
+OC   Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+OC   Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+OC   Betacoronavirus; Sarbecovirus.
+OX   NCBI_TaxID=2697049;
+OH   NCBI_TaxID=9606; Homo sapiens (Human).
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC RNA].
+RX   PubMed=32015508; DOI=10.1038/s41586-020-2008-3;
+RA   Wu F., Zhao S., Yu B., Chen Y.-M., Wang W., Song Z.-G., Hu Y., Tao Z.-W.,
+RA   Tian J.-H., Pei Y.-Y., Yuan M.-L., Zhang Y.-L., Dai F.-H., Liu Y.,
+RA   Wang Q.-M., Zheng J.-J., Xu L., Holmes E.C., Zhang Y.-Z.;
+RT   "A new coronavirus associated with human respiratory disease in China.";
+RL   Nature 579:265-269(2020).
+RN   [2]
+RP   FUNCTION (SPIKE PROTEIN S1), AND CLEAVAGE BETWEEN S1 AND S2 BY HOST
+RP   TMPRSS2.
+RX   PubMed=32142651; DOI=10.1016/j.cell.2020.02.052;
+RA   Hoffmann M., Kleine-Weber H., Schroeder S., Krueger N., Herrler T.,
+RA   Erichsen S., Schiergens T.S., Herrler G., Wu N.H., Nitsche A.,
+RA   Mueller M.A., Drosten C., Poehlmann S.;
+RT   "SARS-CoV-2 cell entry depends on ACE2 and TMPRSS2 and is blocked by a
+RT   clinically proven protease inhibitor.";
+RL   Cell 181:1-10(2020).
+RN   [3]
+RP   CLEAVAGE BETWEEN S1 AND S2 BY HOST FURIN, FUNCTION, AND MUTAGENESIS OF
+RP   681-PRO--ALA-684.
+RX   PubMed=32362314; DOI=10.1016/j.molcel.2020.04.022;
+RA   Hoffmann M., Kleine-Weber H., Poehlmann S.;
+RT   "A multibasic cleavage site in the Spike protein of SARS-CoV-2 is essential
+RT   for infection of human lung cells.";
+RL   Mol. Cell 0:0-0(2020).
+RN   [4]
+RP   GLYCOSYLATION AT ASN-17; ASN-61; ASN-74; ASN-122; ASN-149; ASN-165;
+RP   ASN-234; ASN-282; ASN-331; ASN-343; ASN-603; ASN-616; ASN-657; ASN-709;
+RP   ASN-717; ASN-801; ASN-1074; ASN-1098; ASN-1134; ASN-1158; ASN-1173 AND
+RP   ASN-1194, AND IDENTIFICATION BY MASS SPECTROMETRY.
+RX   PubMed=32366695; DOI=10.1126/science.abb9983;
+RA   Watanabe Y., Allen J.D., Wrapp D., McLellan J.S., Crispin M.;
+RT   "Site-specific glycan analysis of the SARS-CoV-2 spike.";
+RL   Science 0:0-0(2020).
+RN   [5]
+RP   GLYCOSYLATION AT ASN-61; ASN-74; ASN-122; ASN-149; ASN-165; ASN-234;
+RP   ASN-282; THR-323; SER-325; ASN-331; ASN-343; ASN-616; ASN-657; ASN-709;
+RP   ASN-717; ASN-801; ASN-1074; ASN-1098 AND ASN-1194, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY.
+RX   PubMed=32363391; DOI=10.1093/glycob/cwaa042;
+RA   Shajahan A., Supekar N.T., Gleinich A.S., Azadi P.;
+RT   "Deducing the N- and O- glycosylation profile of the spike protein of novel
+RT   coronavirus SARS-CoV-2.";
+RL   Glycobiology 0:0-0(2020).
+RN   [6]
+RP   VARIANT GLY-614.
+RX   PubMed=32820179; DOI=10.1038/s41598-020-70827-z;
+RA   Isabel S., Grana-Miraglia L., Gutierrez J.M., Bundalovic-Torma C.,
+RA   Groves H.E., Isabel M.R., Eshaghi A., Patel S.N., Gubbay J.B., Poutanen T.,
+RA   Guttman D.S., Poutanen S.M.;
+RT   "Evolutionary and structural analyses of SARS-CoV-2 D614G spike protein
+RT   mutation now documented worldwide.";
+RL   Sci. Rep. 10:14031-14031(2020).
+RN   [7]
+RP   VARIANT GLY-614, AND MUTAGENESIS OF ASP-614.
+RX   PubMed=32697968; DOI=10.1016/j.cell.2020.06.043;
+RG   Sheffield COVID-19 Genomics Group;
+RA   Korber B., Fischer W.M., Gnanakaran S., Yoon H., Theiler J., Abfalterer W.,
+RA   Hengartner N., Giorgi E.E., Bhattacharya T., Foley B., Hastie K.M.,
+RA   Parker M.D., Partridge D.G., Evans C.M., Freeman T.M., de Silva T.I.,
+RA   McDanal C., Perez L.G., Tang H., Moon-Walker A., Whelan S.P.,
+RA   LaBranche C.C., Saphire E.O., Montefiori D.C.;
+RT   "Tracking Changes in SARS-CoV-2 Spike: Evidence that D614G Increases
+RT   Infectivity of the COVID-19 Virus.";
+RL   Cell 182:812-827(2020).
+RN   [8]
+RP   FUNCTION.
+RX   PubMed=32817270; DOI=10.1126/science.abd5223;
+RA   Turonova B., Sikora M., Schuermann C., Hagen W.J.H., Welsch S.,
+RA   Blanc F.E.C., von Buelow S., Gecht M., Bagola K., Hoerner C.,
+RA   van Zandbergen G., Landry J., de Azevedo N.T.D., Mosalaganti S.,
+RA   Schwarz A., Covino R., Muehlebach M.D., Hummer G., Krijnse Locker J.,
+RA   Beck M.;
+RT   "In situ structural analysis of SARS-CoV-2 spike reveals flexibility
+RT   mediated by three hinges.";
+RL   Science 0:0-0(2020).
+RN   [9] {ECO:0000244|PDB:6M17}
+RP   STRUCTURE BY ELECTRON MICROSCOPY (2.90 ANGSTROMS), FUNCTION (SPIKE PROTEIN
+RP   S1), DOMAIN, AND INTERACTION WITH HUMAN ACE2 (SPIKE PROTEIN S1).
+RX   PubMed=32132184; DOI=10.1126/science.abb2762;
+RA   Yan R., Zhang Y., Li Y., Xia L., Guo Y., Zhou Q.;
+RT   "Structural basis for the recognition of the SARS-CoV-2 by full-length
+RT   human ACE2.";
+RL   Science 0:0-0(2020).
+RN   [10] {ECO:0000244|PDB:6VSB}
+RP   STRUCTURE BY ELECTRON MICROSCOPY (3.46 ANGSTROMS), FUNCTION (SPIKE PROTEIN
+RP   S1), INTERACTION WITH HUMAN ACE2 (SPIKE PROTEIN S1), SUBUNIT, AND
+RP   GLYCOSYLATION.
+RX   PubMed=32075877; DOI=10.1126/science.abb2507;
+RA   Wrapp D., Wang N., Corbett K.S., Goldsmith J.A., Hsieh C.L., Abiona O.,
+RA   Graham B.S., McLellan J.S.;
+RT   "Cryo-EM structure of the 2019-nCoV spike in the prefusion conformation.";
+RL   Science 367:1260-1263(2020).
+RN   [11] {ECO:0000244|PDB:6VXX, ECO:0000244|PDB:6VYB}
+RP   STRUCTURE BY ELECTRON MICROSCOPY (2.80 ANGSTROMS), FUNCTION (SPIKE PROTEIN
+RP   S1), SUBUNIT (SPIKE PROTEIN S1), INTERACTION WITH HUMAN ACE2 (SPIKE PROTEIN
+RP   S1), MUTAGENESIS OF 679-GLN--ALA-684, GLYCOSYLATION AT ASN-61; ASN-122;
+RP   ASN-61; ASN-165; ASN-234; ASN-282; ASN-331; ASN-343; ASN-603; ASN-616;
+RP   ASN-657; ASN-709; ASN-717; ASN-801; ASN-1074; ASN-1098 AND ASN-1134, AND
+RP   DISULFIDE BOND.
+RX   PubMed=32155444; DOI=10.1016/j.cell.2020.02.058;
+RA   Walls A.C., Park Y.J., Tortorici M.A., Wall A., McGuire A.T., Veesler D.;
+RT   "Structure, function, and antigenicity of the SARS-CoV-2 spike
+RT   glycoprotein.";
+RL   Cell 180:1-12(2020).
+RN   [12]
+RP   X-RAY CRYSTALLOGRAPHY (2.45 ANGSTROMS) OF SPIKE PROTEIN S1 AND IN COMPLEX
+RP   WITH HOST ACE2.
+RX   PubMed=32225176; DOI=10.1038/s41586-020-2180-5;
+RA   Lan J., Ge J., Yu J., Shan S., Zhou H., Fan S., Zhang Q., Shi X., Wang Q.,
+RA   Zhang L., Wang X.;
+RT   "Structure of the SARS-CoV-2 spike receptor-binding domain bound to the
+RT   ACE2 receptor.";
+RL   Nature 0:0-0(2020).
+RN   [13]
+RP   X-RAY CRYSTALLOGRAPHY (2.68 ANGSTROMS) OF SPIKE PROTEIN S1 AND IN COMPLEX
+RP   WITH HOST ACE2, INTERACTION WITH HOST ACE2, AND MUTAGENESIS OF GLN-493 AND
+RP   ASN-501.
+RX   PubMed=32225175; DOI=10.1038/s41586-020-2179-y;
+RA   Shang J., Ye G., Shi K., Wan Y., Luo C., Aihara H., Geng Q., Auerbach A.,
+RA   Li F.;
+RT   "Structural basis of receptor recognition by SARS-CoV-2.";
+RL   Nature 0:0-0(2020).
+RN   [14]
+RP   X-RAY CRYSTALLOGRAPHY (3.08 ANGSTROMS) OF SPIKE PROTEIN S1 AND IN COMPLEX
+RP   WITH HUMAN ANTIBODY CR3022, AND DISULFIDE BOND.
+RX   PubMed=32245784; DOI=10.1126/science.abb7269;
+RA   Yuan M., Wu N.C., Zhu X., Lee C.D., So R.T.Y., Lv H., Mok C.K.P.,
+RA   Wilson I.A.;
+RT   "A highly conserved cryptic epitope in the receptor-binding domains of
+RT   SARS-CoV-2 and SARS-CoV.";
+RL   Science 0:0-0(2020).
+CC   -!- FUNCTION: [Spike protein S1]: attaches the virion to the cell membrane
+CC       by interacting with host receptor, initiating the infection. Binding to
+CC       human ACE2 receptor and internalization of the virus into the endosomes
+CC       of the host cell induces conformational changes in the Spike
+CC       glycoprotein (PubMed:32142651, PubMed:32075877, PubMed:32155444). The
+CC       stalk domain of S contains three hinges, giving the head unexpected
+CC       orientational freedom (PubMed:32817270). Uses human TMPRSS2 for priming
+CC       in human lung cells which is an essential step for viral entry
+CC       (PubMed:32142651). Can be alternatively processed by host furin
+CC       (PubMed:32362314). Proteolysis by cathepsin CTSL may unmask the fusion
+CC       peptide of S2 and activate membranes fusion within endosomes.
+CC       {ECO:0000255|HAMAP-Rule:MF_04099, ECO:0000269|PubMed:32075877,
+CC       ECO:0000269|PubMed:32142651, ECO:0000269|PubMed:32155444,
+CC       ECO:0000269|PubMed:32362314, ECO:0000269|PubMed:32817270}.
+CC   -!- FUNCTION: [Spike protein S2]: mediates fusion of the virion and
+CC       cellular membranes by acting as a class I viral fusion protein. Under
+CC       the current model, the protein has at least three conformational
+CC       states: pre-fusion native state, pre-hairpin intermediate state, and
+CC       post-fusion hairpin state. During viral and target cell membrane
+CC       fusion, the coiled coil regions (heptad repeats) assume a trimer-of-
+CC       hairpins structure, positioning the fusion peptide in close proximity
+CC       to the C-terminal region of the ectodomain. The formation of this
+CC       structure appears to drive apposition and subsequent fusion of viral
+CC       and target cell membranes. {ECO:0000255|HAMAP-Rule:MF_04099}.
+CC   -!- FUNCTION: [Spike protein S2']: Acts as a viral fusion peptide which is
+CC       unmasked following S2 cleavage occurring upon virus endocytosis.
+CC       {ECO:0000255|HAMAP-Rule:MF_04099}.
+CC   -!- FUNCTION: [Spike glycoprotein]: May down-regulate host tetherin (BST2)
+CC       by lysosomal degradation, thereby counteracting its antiviral activity.
+CC       {ECO:0000250|UniProtKB:P59594}.
+CC   -!- SUBUNIT: [Spike glycoprotein]: Homotrimer; each monomer consists of a
+CC       S1 and a S2 subunit (PubMed:32075877, PubMed:32155444,
+CC       PubMed:32245784). The resulting peplomers protrude from the virus
+CC       surface as spikes (By similarity). Interacts with ORF3a protein and
+CC       ORF7a protein. {ECO:0000255|HAMAP-Rule:MF_04099,
+CC       ECO:0000269|PubMed:32075877, ECO:0000269|PubMed:32155444,
+CC       ECO:0000269|PubMed:32245784}.
+CC   -!- SUBUNIT: [Spike protein S1]: Binds to host ACE2.
+CC       {ECO:0000269|PubMed:32075877, ECO:0000269|PubMed:32132184,
+CC       ECO:0000269|PubMed:32155444, ECO:0000269|PubMed:32225175,
+CC       ECO:0000269|PubMed:32225176}.
+CC   -!- INTERACTION:
+CC       P0DTC2; P0DTC2: S; NbExp=4; IntAct=EBI-25474821, EBI-25474821;
+CC       P0DTC2; Q9BYF1: ACE2; Xeno; NbExp=35; IntAct=EBI-25474821, EBI-7730807;
+CC       P0DTC2; P35613: BSG; Xeno; NbExp=5; IntAct=EBI-25474821, EBI-750709;
+CC       P0DTC2; Q9H2X3: CLEC4M; Xeno; NbExp=2; IntAct=EBI-25474821, EBI-1391211;
+CC   -!- SUBCELLULAR LOCATION: Virion membrane {ECO:0000255|HAMAP-
+CC       Rule:MF_04099}; Single-pass type I membrane protein {ECO:0000255|HAMAP-
+CC       Rule:MF_04099}. Host endoplasmic reticulum-Golgi intermediate
+CC       compartment membrane {ECO:0000255|HAMAP-Rule:MF_04099}; Single-pass
+CC       type I membrane protein {ECO:0000255|HAMAP-Rule:MF_04099}. Host cell
+CC       membrane {ECO:0000255|HAMAP-Rule:MF_04099}; Single-pass type I membrane
+CC       protein {ECO:0000255|HAMAP-Rule:MF_04099}. Note=Accumulates in the
+CC       endoplasmic reticulum-Golgi intermediate compartment, where it
+CC       participates in virus particle assembly. Colocalizes with S in the host
+CC       endoplasmic reticulum-Golgi intermediate compartment. Some S oligomers
+CC       are transported to the host plasma membrane, where they may mediate
+CC       cell-cell fusion. {ECO:0000255|HAMAP-Rule:MF_04099}.
+CC   -!- DOMAIN: The KxHxx motif seems to function as an ER retrieval and binds
+CC       COPI in vitro. {ECO:0000250|UniProtKB:P59594}.
+CC   -!- DOMAIN: Fusion peptide 1 (FP1) and fusion peptide 2 (FP2) function
+CC       cooperatively and have a membrane-ordering effect on lipid headgroups
+CC       and shallow hydrophobic regions of target bilayers. They are considered
+CC       as two domains of an extended, bipartite FP. The membrane-ordering
+CC       activity is calcium-dependent and also dependent on correct folding,
+CC       which is maintained by an internal disulfide bond in FP2.
+CC       {ECO:0000255|HAMAP-Rule:MF_04099}.
+CC   -!- PTM: The cytoplasmic Cys-rich domain is palmitoylated. Spike
+CC       glycoprotein is digested within host endosomes. {ECO:0000255|HAMAP-
+CC       Rule:MF_04099}.
+CC   -!- PTM: Specific enzymatic cleavages in vivo yield mature proteins. The
+CC       precursor is processed into S1 and S2 by host cell furin or another
+CC       cellular protease to yield the mature S1 and S2 proteins
+CC       (PubMed:32155444). Additionally, a second cleavage leads to the release
+CC       of a fusion peptide after viral attachment to host cell receptor (By
+CC       similarity). The presence of a furin polybasic cleavage site sets SARS-
+CC       CoV-2 S apart from SARS-CoV S that possesses a monobasic S1/S2 cleavage
+CC       site processed upon entry of target cells (PubMed:32155444,
+CC       PubMed:32362314). {ECO:0000255|HAMAP-Rule:MF_04099,
+CC       ECO:0000269|PubMed:32155444, ECO:0000269|PubMed:32362314}.
+CC   -!- PTM: Highly decorated by heterogeneous N-linked glycans protruding from
+CC       the trimer surface (PubMed:32075877, PubMed:32155444). Highly
+CC       glycosylated by host both on S1 and S2 subunits, occluding many regions
+CC       across the surface of the protein. This may shield viral epitopes from
+CC       acquired immune response (PubMed:32366695, PubMed:32363391).
+CC       {ECO:0000269|PubMed:32075877, ECO:0000269|PubMed:32155444,
+CC       ECO:0000269|PubMed:32363391, ECO:0000269|PubMed:32366695}.
+CC   -!- SIMILARITY: Belongs to the betacoronaviruses spike protein family.
+CC       {ECO:0000255|HAMAP-Rule:MF_04099}.
+CC   -!- CAUTION: Asn-17, Asn-603, Asn-1134, Asn-1158, and Asn-1173 are non
+CC       glycosylated when S1 or S2 are expressed individually in HEK293 cells.
+CC       {ECO:0000269|PubMed:32363391}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; MN908947; QHD43416.1; -; Genomic_RNA.
+DR   RefSeq; YP_009724390.1; NC_045512.2.
+DR   PDB; 6LVN; X-ray; 2.47 A; A/B/C/D=1168-1203.
+DR   PDB; 6LXT; X-ray; 2.90 A; A/B/C/D/E/F=910-988, A/B/C/D/E/F=1162-1206.
+DR   PDB; 6LZG; X-ray; 2.50 A; B=319-527.
+DR   PDB; 6M0J; X-ray; 2.45 A; E=319-541.
+DR   PDB; 6M17; EM; 2.90 A; E/F=319-541.
+DR   PDB; 6M1V; X-ray; 1.50 A; A=917-966.
+DR   PDB; 6VSB; EM; 3.46 A; A/B/C=1-1208.
+DR   PDB; 6VW1; X-ray; 2.68 A; E/F=455-518.
+DR   PDB; 6VXX; EM; 2.80 A; A/B/C=14-1211.
+DR   PDB; 6VYB; EM; 3.20 A; A/B/C=14-1211.
+DR   PDB; 6W41; X-ray; 3.08 A; C=319-541.
+DR   PDB; 6WPS; EM; 3.10 A; A/B/E=11-1211.
+DR   PDB; 6WPT; EM; 3.70 A; A/B/C=11-1211.
+DR   PDB; 6X29; EM; 2.70 A; A/B/C=16-1208.
+DR   PDB; 6X2A; EM; 3.30 A; A/B/C=16-1208.
+DR   PDB; 6X2B; EM; 3.60 A; A/B/C=16-1208.
+DR   PDB; 6X2C; EM; 3.20 A; A/B/C=16-1208.
+DR   PDB; 6X6P; EM; 3.22 A; A/B/C=15-1208.
+DR   PDB; 6X79; EM; 2.90 A; A/B/C=14-1211.
+DR   PDB; 6XC2; X-ray; 3.11 A; A/Z=319-541.
+DR   PDB; 6XC3; X-ray; 2.70 A; C=319-541.
+DR   PDB; 6XC4; X-ray; 2.34 A; A/Z=319-541.
+DR   PDB; 6XC7; X-ray; 2.88 A; A=319-541.
+DR   PDB; 6XCM; EM; 3.42 A; A/B/C=1-1213.
+DR   PDB; 6XCN; EM; 3.66 A; A/C/E=1-1213.
+DR   PDB; 6XDG; EM; 3.90 A; E=319-541.
+DR   PDB; 6XE1; X-ray; 2.75 A; E=319-591.
+DR   PDB; 6XEY; EM; 3.25 A; A/B/C=1-1208.
+DR   PDB; 6XF5; EM; 3.45 A; A/B/C=14-1208.
+DR   PDB; 6XF6; EM; 4.00 A; A/B/C=14-1208.
+DR   PDB; 6XKL; EM; 3.21 A; A/B/C=1-1208.
+DR   PDB; 6XLU; EM; 2.40 A; A/B/C=14-1208.
+DR   PDB; 6XM0; EM; 2.70 A; A/B/C=14-1208.
+DR   PDB; 6XM3; EM; 2.90 A; A/B/C=14-1208.
+DR   PDB; 6XM4; EM; 2.90 A; A/B/C=14-1208.
+DR   PDB; 6XM5; EM; 3.10 A; A/B/C=14-1208.
+DR   PDB; 6XR8; EM; 2.90 A; A/B/C=1-1273.
+DR   PDB; 6XRA; EM; 3.00 A; A/B/C=1-1273.
+DR   PDB; 6XS6; EM; 3.70 A; A/B/C=1-1213.
+DR   PDB; 6YLA; X-ray; 2.42 A; A/E=330-532.
+DR   PDB; 6YM0; X-ray; 4.36 A; E=330-532.
+DR   PDB; 6YOR; EM; 3.30 A; A/E=330-532.
+DR   PDB; 6YZ5; X-ray; 1.80 A; E=330-532.
+DR   PDB; 6YZ7; X-ray; 3.30 A; AAA/EEE=330-532.
+DR   PDB; 6Z2M; X-ray; 2.71 A; A/E=332-528.
+DR   PDB; 6Z43; EM; 3.30 A; A/B/C=1-1208.
+DR   PDB; 6Z97; EM; 3.40 A; A/B/C=1-1208.
+DR   PDB; 6ZBP; X-ray; 1.85 A; EEE=330-532.
+DR   PDB; 6ZCZ; X-ray; 2.65 A; E=333-528.
+DR   PDB; 6ZDG; EM; 4.70 A; A/D/E=333-526.
+DR   PDB; 6ZDH; EM; 3.70 A; A/B/C=1-1208.
+DR   PDB; 6ZER; X-ray; 3.80 A; A/D/E=330-532.
+DR   PDB; 6ZFO; EM; 4.40 A; A/E=333-526.
+DR   PDB; 6ZGE; EM; 2.60 A; A/B/C=1-1208.
+DR   PDB; 6ZGG; EM; 3.80 A; A/B/C=1-1208.
+DR   PDB; 6ZGI; EM; 2.90 A; A/B/C=1-1208.
+DR   PDB; 6ZH9; X-ray; 3.31 A; EEE=332-528.
+DR   PDB; 6ZHD; EM; 3.70 A; A/B/C=1-1208.
+DR   PDB; 6ZOW; EM; 3.00 A; A/B/C/a=1-1273.
+DR   PDB; 6ZOX; EM; 3.00 A; A/B/C=14-1211.
+DR   PDB; 6ZOY; EM; 3.10 A; A/B/C=14-1211.
+DR   PDB; 6ZOZ; EM; 3.50 A; A/B/C=14-1211.
+DR   PDB; 6ZP0; EM; 3.00 A; A/B/C=14-1211.
+DR   PDB; 6ZP1; EM; 3.30 A; A/B/C=14-1211.
+DR   PDB; 6ZP2; EM; 3.10 A; A/B/C=14-1211.
+DR   PDB; 6ZP5; EM; 3.10 A; A/B/C=1-1273.
+DR   PDB; 6ZP7; EM; 3.30 A; A/B/C=1-1273.
+DR   PDB; 6ZWV; EM; 3.50 A; A/B/C=1-1273.
+DR   PDB; 7BWJ; X-ray; 2.85 A; E=319-529.
+DR   PDB; 7BYR; EM; 3.84 A; A/B/C=1-1208.
+DR   PDB; 7BZ5; X-ray; 1.84 A; A=319-541.
+DR   PDB; 7C01; X-ray; 2.88 A; A/B=319-541.
+DR   PDB; 7C2L; EM; 3.10 A; A/B/C=1-1273.
+DR   PDB; 7C8D; EM; 3.00 A; B=333-527.
+DR   PDB; 7C8V; X-ray; 2.15 A; B=330-531.
+DR   PDB; 7C8W; X-ray; 2.77 A; B=330-531.
+DR   PDB; 7CAH; EM; 3.90 A; A=334-527.
+DR   PDB; 7CAN; X-ray; 2.94 A; B=330-531.
+DR   PDB; 7CN9; EM; 4.70 A; A/B/C=14-1140.
+DR   PDB; 7JJI; EM; 3.60 A; A/B/C=1-1273.
+DR   PDB; 7JJJ; EM; 4.50 A; A/B/C/D/E/F=1-1273.
+DR   PDB; 7JMO; X-ray; 2.36 A; A=319-541.
+DR   PDB; 7JMP; X-ray; 1.71 A; A=319-541.
+DR   PDBsum; 6LVN; -.
+DR   PDBsum; 6LXT; -.
+DR   PDBsum; 6LZG; -.
+DR   PDBsum; 6M0J; -.
+DR   PDBsum; 6M17; -.
+DR   PDBsum; 6M1V; -.
+DR   PDBsum; 6VSB; -.
+DR   PDBsum; 6VW1; -.
+DR   PDBsum; 6VXX; -.
+DR   PDBsum; 6VYB; -.
+DR   PDBsum; 6W41; -.
+DR   PDBsum; 6WPS; -.
+DR   PDBsum; 6WPT; -.
+DR   PDBsum; 6X29; -.
+DR   PDBsum; 6X2A; -.
+DR   PDBsum; 6X2B; -.
+DR   PDBsum; 6X2C; -.
+DR   PDBsum; 6X6P; -.
+DR   PDBsum; 6X79; -.
+DR   PDBsum; 6XC2; -.
+DR   PDBsum; 6XC3; -.
+DR   PDBsum; 6XC4; -.
+DR   PDBsum; 6XC7; -.
+DR   PDBsum; 6XCM; -.
+DR   PDBsum; 6XCN; -.
+DR   PDBsum; 6XDG; -.
+DR   PDBsum; 6XE1; -.
+DR   PDBsum; 6XEY; -.
+DR   PDBsum; 6XF5; -.
+DR   PDBsum; 6XF6; -.
+DR   PDBsum; 6XKL; -.
+DR   PDBsum; 6XLU; -.
+DR   PDBsum; 6XM0; -.
+DR   PDBsum; 6XM3; -.
+DR   PDBsum; 6XM4; -.
+DR   PDBsum; 6XM5; -.
+DR   PDBsum; 6XR8; -.
+DR   PDBsum; 6XRA; -.
+DR   PDBsum; 6XS6; -.
+DR   PDBsum; 6YLA; -.
+DR   PDBsum; 6YM0; -.
+DR   PDBsum; 6YOR; -.
+DR   PDBsum; 6YZ5; -.
+DR   PDBsum; 6YZ7; -.
+DR   PDBsum; 6Z2M; -.
+DR   PDBsum; 6Z43; -.
+DR   PDBsum; 6Z97; -.
+DR   PDBsum; 6ZBP; -.
+DR   PDBsum; 6ZCZ; -.
+DR   PDBsum; 6ZDG; -.
+DR   PDBsum; 6ZDH; -.
+DR   PDBsum; 6ZER; -.
+DR   PDBsum; 6ZFO; -.
+DR   PDBsum; 6ZGE; -.
+DR   PDBsum; 6ZGG; -.
+DR   PDBsum; 6ZGI; -.
+DR   PDBsum; 6ZH9; -.
+DR   PDBsum; 6ZHD; -.
+DR   PDBsum; 6ZOW; -.
+DR   PDBsum; 6ZOX; -.
+DR   PDBsum; 6ZOY; -.
+DR   PDBsum; 6ZOZ; -.
+DR   PDBsum; 6ZP0; -.
+DR   PDBsum; 6ZP1; -.
+DR   PDBsum; 6ZP2; -.
+DR   PDBsum; 6ZP5; -.
+DR   PDBsum; 6ZP7; -.
+DR   PDBsum; 6ZWV; -.
+DR   PDBsum; 7BWJ; -.
+DR   PDBsum; 7BYR; -.
+DR   PDBsum; 7BZ5; -.
+DR   PDBsum; 7C01; -.
+DR   PDBsum; 7C2L; -.
+DR   PDBsum; 7C8D; -.
+DR   PDBsum; 7C8V; -.
+DR   PDBsum; 7C8W; -.
+DR   PDBsum; 7CAH; -.
+DR   PDBsum; 7CAN; -.
+DR   PDBsum; 7CN9; -.
+DR   PDBsum; 7JJI; -.
+DR   PDBsum; 7JJJ; -.
+DR   PDBsum; 7JMO; -.
+DR   PDBsum; 7JMP; -.
+DR   SASBDB; P0DTC2; -.
+DR   SMR; P0DTC2; -.
+DR   BioGRID; 4383848; 31.
+DR   ComplexPortal; CPX-5682; SARS-CoV-2 Spike protein complex.
+DR   IntAct; P0DTC2; 26.
+DR   GlyConnect; 2838; 153 N-Linked glycans (18 sites), 4 O-Linked glycans (2 sites).
+DR   GlyConnect; 2839; 66 N-Linked glycans (20 sites).
+DR   GlyConnect; 2840; 109 N-Linked glycans (22 sites).
+DR   GlyGen; P0DTC2; 24 sites, 172 N-linked glycans (22 sites), 4 O-linked glycans (2 sites).
+DR   ABCD; P0DTC2; 662 sequenced antibodies.
+DR   GeneID; 43740568; -.
+DR   SABIO-RK; P0DTC2; -.
+DR   SIGNOR; P0DTC2; -.
+DR   Proteomes; UP000464024; Genome.
+DR   GO; GO:0044173; C:host cell endoplasmic reticulum-Golgi intermediate compartment membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0020002; C:host cell plasma membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0019031; C:viral envelope; IEA:UniProtKB-KW.
+DR   GO; GO:0055036; C:virion membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0046789; F:host cell surface receptor binding; IDA:UniProtKB.
+DR   GO; GO:0042802; F:identical protein binding; IPI:IntAct.
+DR   GO; GO:0075509; P:endocytosis involved in viral entry into host cell; IEA:InterPro.
+DR   GO; GO:0039654; P:fusion of virus membrane with host endosome membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0019064; P:fusion of virus membrane with host plasma membrane; IEA:InterPro.
+DR   GO; GO:0009405; P:pathogenesis; IEA:UniProtKB-KW.
+DR   GO; GO:0046813; P:receptor-mediated virion attachment to host cell; IEA:InterPro.
+DR   GO; GO:0039587; P:suppression by virus of host tetherin activity; IEA:UniProtKB-KW.
+DR   GO; GO:0039502; P:suppression by virus of host type I interferon-mediated signaling pathway; IEA:UniProtKB-KW.
+DR   GO; GO:0046718; P:viral entry into host cell; IDA:UniProtKB.
+DR   DisProt; DP02772; -.
+DR   Gene3D; 1.20.5.790; -; 1.
+DR   HAMAP; MF_04099; BETA_CORONA_SPIKE; 1.
+DR   InterPro; IPR032500; bCoV_S1_N.
+DR   InterPro; IPR043607; CoV_S1_C.
+DR   InterPro; IPR043473; S2_sf_CoV.
+DR   InterPro; IPR027400; S_HR2_CoV.
+DR   InterPro; IPR018548; Spike_rcpt-bd_bCoV.
+DR   InterPro; IPR036326; Spike_rcpt-bd_sf_CoV.
+DR   InterPro; IPR002552; Spike_S2_CoV.
+DR   Pfam; PF16451; bCoV_S1_N; 1.
+DR   Pfam; PF09408; bCoV_S1_RBD; 1.
+DR   Pfam; PF19209; CoV_S1_C; 1.
+DR   Pfam; PF01601; CoV_S2; 1.
+DR   SUPFAM; SSF111474; SSF111474; 2.
+DR   SUPFAM; SSF143587; SSF143587; 1.
+DR   PROSITE; PS51921; BCOV_S1_CTD; 1.
+DR   PROSITE; PS51922; BCOV_S1_NTD; 1.
+DR   PROSITE; PS51923; COV_S2_HR1; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Coiled coil; Disulfide bond;
+KW   Fusion of virus membrane with host endosomal membrane;
+KW   Fusion of virus membrane with host membrane; Glycoprotein;
+KW   Host cell membrane; Host membrane; Host-virus interaction;
+KW   Inhibition of host innate immune response by virus;
+KW   Inhibition of host interferon signaling pathway by virus;
+KW   Inhibition of host tetherin by virus; Lipoprotein; Membrane; Palmitate;
+KW   Reference proteome; Signal; Transmembrane; Transmembrane helix;
+KW   Viral attachment to host cell; Viral envelope protein; Viral immunoevasion;
+KW   Viral penetration into host cytoplasm; Virion; Virulence;
+KW   Virus entry into host cell.
+FT   SIGNAL          1..12
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_04099"
+FT   CHAIN           13..1273
+FT                   /note="Spike glycoprotein"
+FT                   /id="PRO_0000449646"
+FT   CHAIN           13..685
+FT                   /note="Spike protein S1"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_04099"
+FT                   /id="PRO_0000449647"
+FT   CHAIN           686..1273
+FT                   /note="Spike protein S2"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_04099"
+FT                   /id="PRO_0000449648"
+FT   CHAIN           816..1273
+FT                   /note="Spike protein S2'"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_04099"
+FT                   /id="PRO_0000449649"
+FT   TOPO_DOM        13..1213
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_04099"
+FT   TRANSMEM        1214..1234
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_04099"
+FT   TOPO_DOM        1235..1273
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_04099"
+FT   DOMAIN          13..303
+FT                   /note="BetaCoV S1-NTD"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU01270"
+FT   DOMAIN          334..527
+FT                   /note="BetaCoV S1-CTD"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU01269,
+FT                   ECO:0000269|PubMed:32132184"
+FT   REGION          319..541
+FT                   /note="Receptor-binding domain (RBD)"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_04099,
+FT                   ECO:0000269|PubMed:32132184"
+FT   REGION          437..508
+FT                   /note="Receptor-binding motif; binding to human ACE2"
+FT                   /evidence="ECO:0000250|UniProtKB:P59594"
+FT   REGION          816..837
+FT                   /note="Fusion peptide 1"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_04099"
+FT   REGION          835..855
+FT                   /note="Fusion peptide 2"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_04099"
+FT   REGION          920..970
+FT                   /note="Heptad repeat 1"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_04099"
+FT   REGION          1163..1202
+FT                   /note="Heptad repeat 2"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_04099"
+FT   COILED          949..993
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_04099"
+FT   COILED          1176..1203
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_04099"
+FT   MOTIF           1269..1273
+FT                   /note="KxHxx"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_04099"
+FT   SITE            685..686
+FT                   /note="Cleavage; by TMPRSS2 or furin"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_04099,
+FT                   ECO:0000269|PubMed:32142651, ECO:0000269|PubMed:32362314"
+FT   SITE            815..816
+FT                   /note="Cleavage; by host"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_04099"
+FT   CARBOHYD        17
+FT                   /note="N-linked (GlcNAc...) (complex) asparagine; by host"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_04099,
+FT                   ECO:0000269|PubMed:32366695"
+FT   CARBOHYD        61
+FT                   /note="N-linked (GlcNAc...) (hybrid) asparagine; by host"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_04099,
+FT                   ECO:0000269|PubMed:32155444, ECO:0000269|PubMed:32363391,
+FT                   ECO:0000269|PubMed:32366695"
+FT   CARBOHYD        74
+FT                   /note="N-linked (GlcNAc...) (complex) asparagine; by host"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_04099,
+FT                   ECO:0000269|PubMed:32363391, ECO:0000269|PubMed:32366695"
+FT   CARBOHYD        122
+FT                   /note="N-linked (GlcNAc...) (hybrid) asparagine; by host"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_04099,
+FT                   ECO:0000269|PubMed:32155444, ECO:0000269|PubMed:32363391,
+FT                   ECO:0000269|PubMed:32366695"
+FT   CARBOHYD        149
+FT                   /note="N-linked (GlcNAc...) (complex) asparagine; by host"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_04099,
+FT                   ECO:0000269|PubMed:32363391, ECO:0000269|PubMed:32366695"
+FT   CARBOHYD        165
+FT                   /note="N-linked (GlcNAc...) (complex) asparagine; by host"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_04099,
+FT                   ECO:0000269|PubMed:32155444, ECO:0000269|PubMed:32363391,
+FT                   ECO:0000269|PubMed:32366695"
+FT   CARBOHYD        234
+FT                   /note="N-linked (GlcNAc...) (high mannose) asparagine; by
+FT                   host"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_04099,
+FT                   ECO:0000269|PubMed:32155444, ECO:0000269|PubMed:32363391,
+FT                   ECO:0000269|PubMed:32366695"
+FT   CARBOHYD        282
+FT                   /note="N-linked (GlcNAc...) (complex) asparagine; by host"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_04099,
+FT                   ECO:0000269|PubMed:32155444, ECO:0000269|PubMed:32363391,
+FT                   ECO:0000269|PubMed:32366695"
+FT   CARBOHYD        323
+FT                   /note="O-linked (GalNAc) threonine; by host"
+FT                   /evidence="ECO:0000269|PubMed:32363391"
+FT   CARBOHYD        325
+FT                   /note="O-linked (HexNAc...) serine; by host"
+FT                   /evidence="ECO:0000269|PubMed:32363391"
+FT   CARBOHYD        331
+FT                   /note="N-linked (GlcNAc...) (complex) asparagine; by host"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_04099,
+FT                   ECO:0000269|PubMed:32155444, ECO:0000269|PubMed:32363391,
+FT                   ECO:0000269|PubMed:32366695"
+FT   CARBOHYD        343
+FT                   /note="N-linked (GlcNAc...) (complex) asparagine; by host"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_04099,
+FT                   ECO:0000269|PubMed:32155444, ECO:0000269|PubMed:32363391,
+FT                   ECO:0000269|PubMed:32366695"
+FT   CARBOHYD        603
+FT                   /note="N-linked (GlcNAc...) (hybrid) asparagine; by host"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_04099,
+FT                   ECO:0000269|PubMed:32155444, ECO:0000269|PubMed:32366695"
+FT   CARBOHYD        616
+FT                   /note="N-linked (GlcNAc...) (complex) asparagine; by host"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_04099,
+FT                   ECO:0000269|PubMed:32155444, ECO:0000269|PubMed:32363391,
+FT                   ECO:0000269|PubMed:32366695"
+FT   CARBOHYD        657
+FT                   /note="N-linked (GlcNAc...) (complex) asparagine; by host"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_04099,
+FT                   ECO:0000269|PubMed:32155444, ECO:0000269|PubMed:32363391,
+FT                   ECO:0000269|PubMed:32366695"
+FT   CARBOHYD        709
+FT                   /note="N-linked (GlcNAc...) (high mannose) asparagine; by
+FT                   host"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_04099,
+FT                   ECO:0000269|PubMed:32155444, ECO:0000269|PubMed:32363391,
+FT                   ECO:0000269|PubMed:32366695"
+FT   CARBOHYD        717
+FT                   /note="N-linked (GlcNAc...) (hybrid) asparagine; by host"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_04099,
+FT                   ECO:0000269|PubMed:32155444, ECO:0000269|PubMed:32363391,
+FT                   ECO:0000269|PubMed:32366695"
+FT   CARBOHYD        801
+FT                   /note="N-linked (GlcNAc...) (hybrid) asparagine; by host"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_04099,
+FT                   ECO:0000269|PubMed:32155444, ECO:0000269|PubMed:32363391,
+FT                   ECO:0000269|PubMed:32366695"
+FT   CARBOHYD        1074
+FT                   /note="N-linked (GlcNAc...) (hybrid) asparagine; by host"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_04099,
+FT                   ECO:0000269|PubMed:32155444, ECO:0000269|PubMed:32363391,
+FT                   ECO:0000269|PubMed:32366695"
+FT   CARBOHYD        1098
+FT                   /note="N-linked (GlcNAc...) (complex) asparagine; by host"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_04099,
+FT                   ECO:0000269|PubMed:32155444, ECO:0000269|PubMed:32363391,
+FT                   ECO:0000269|PubMed:32366695"
+FT   CARBOHYD        1134
+FT                   /note="N-linked (GlcNAc...) (complex) asparagine; by host"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_04099,
+FT                   ECO:0000269|PubMed:32155444, ECO:0000269|PubMed:32366695"
+FT   CARBOHYD        1158
+FT                   /note="N-linked (GlcNAc...) (complex) asparagine; by host"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_04099,
+FT                   ECO:0000269|PubMed:32366695"
+FT   CARBOHYD        1173
+FT                   /note="N-linked (GlcNAc...) (complex) asparagine; by host"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_04099,
+FT                   ECO:0000269|PubMed:32366695"
+FT   CARBOHYD        1194
+FT                   /note="N-linked (GlcNAc...) (complex) asparagine; by host"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_04099,
+FT                   ECO:0000269|PubMed:32363391, ECO:0000269|PubMed:32366695"
+FT   DISULFID        15..136
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU01270"
+FT   DISULFID        131..166
+FT                   /evidence="ECO:0000244|PDB:6VXX, ECO:0000255|PROSITE-
+FT                   ProRule:PRU01270, ECO:0000269|PubMed:32155444"
+FT   DISULFID        291..301
+FT                   /evidence="ECO:0000244|PDB:6VXX, ECO:0000255|PROSITE-
+FT                   ProRule:PRU01270, ECO:0000269|PubMed:32155444"
+FT   DISULFID        336..361
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU01269,
+FT                   ECO:0000269|PubMed:32155444, ECO:0000269|PubMed:32245784"
+FT   DISULFID        379..432
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU01269,
+FT                   ECO:0000269|PubMed:32155444, ECO:0000269|PubMed:32245784"
+FT   DISULFID        391..525
+FT                   /evidence="ECO:0000244|PDB:6VXX, ECO:0000255|PROSITE-
+FT                   ProRule:PRU01269, ECO:0000269|PubMed:32155444,
+FT                   ECO:0000269|PubMed:32225175, ECO:0000269|PubMed:32225176,
+FT                   ECO:0000269|PubMed:32245784"
+FT   DISULFID        480..488
+FT                   /evidence="ECO:0000269|PubMed:32245784"
+FT   DISULFID        538..590
+FT                   /evidence="ECO:0000244|PDB:6VXX,
+FT                   ECO:0000269|PubMed:32155444"
+FT   DISULFID        617..649
+FT                   /evidence="ECO:0000244|PDB:6VXX,
+FT                   ECO:0000269|PubMed:32155444"
+FT   DISULFID        662..671
+FT                   /evidence="ECO:0000244|PDB:6VXX,
+FT                   ECO:0000269|PubMed:32155444"
+FT   DISULFID        738..760
+FT                   /evidence="ECO:0000244|PDB:6VXX,
+FT                   ECO:0000269|PubMed:32155444"
+FT   DISULFID        743..749
+FT                   /evidence="ECO:0000244|PDB:6VXX,
+FT                   ECO:0000269|PubMed:32155444"
+FT   DISULFID        840..851
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_04099"
+FT   DISULFID        1032..1043
+FT                   /evidence="ECO:0000244|PDB:6VXX,
+FT                   ECO:0000269|PubMed:32155444"
+FT   DISULFID        1082..1126
+FT                   /evidence="ECO:0000244|PDB:6VXX,
+FT                   ECO:0000269|PubMed:32155444"
+FT   VARIANT         614
+FT                   /note="D -> G (common polymorphism; Produces more
+FT                   infectious particles when pseudotyped on VSV ex vivo;)"
+FT                   /evidence="ECO:0000305|PubMed:32697968,
+FT                   ECO:0000305|PubMed:32820179"
+FT   MUTAGEN         493
+FT                   /note="Q->N: Reduced host ACE2-binding affinity in vitro."
+FT                   /evidence="ECO:0000269|PubMed:32225175"
+FT   MUTAGEN         493
+FT                   /note="Q->Y: Reduced host ACE2-binding affinity in vitro."
+FT                   /evidence="ECO:0000269|PubMed:32225175"
+FT   MUTAGEN         501
+FT                   /note="N->T: Reduced host ACE2-binding affinity in vitro."
+FT                   /evidence="ECO:0000269|PubMed:32225175"
+FT   MUTAGEN         614
+FT                   /note="D->G: Increase of pseudotyped VSV particle
+FT                   production ex vivo."
+FT                   /evidence="ECO:0000269|PubMed:32697968"
+FT   MUTAGEN         679..684
+FT                   /note="NSPRRA->IL: About 50% stronger entry efficiency in
+FT                   Vero E6 cells while 30% weaker entry efficiency in hACE2-
+FT                   expressing BHK cells."
+FT                   /evidence="ECO:0000269|PubMed:32155444"
+FT   MUTAGEN         681..684
+FT                   /note="PRRA->RRRK: Optimized cleavage by host furin."
+FT                   /evidence="ECO:0000269|PubMed:32362314"
+FT   MUTAGEN         682..684
+FT                   /note="Missing: Complete loss of cleavage by host furin."
+FT                   /evidence="ECO:0000269|PubMed:32362314"
+FT   STRAND          27..30
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   STRAND          40..43
+FT                   /evidence="ECO:0000244|PDB:6X29"
+FT   STRAND          46..55
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   STRAND          61..67
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   STRAND          83..85
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   STRAND          90..98
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   STRAND          103..109
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   STRAND          111..114
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   STRAND          116..121
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   STRAND          123..125
+FT                   /evidence="ECO:0000244|PDB:6XCM"
+FT   STRAND          126..131
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   STRAND          133..146
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   TURN            147..150
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   STRAND          151..163
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   STRAND          168..171
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   STRAND          184..197
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   STRAND          200..215
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   STRAND          223..230
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   STRAND          237..241
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   STRAND          243..246
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   TURN            254..256
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   STRAND          263..269
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   STRAND          271..279
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   STRAND          281..283
+FT                   /evidence="ECO:0000244|PDB:7C2L"
+FT   STRAND          285..290
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   HELIX           291..293
+FT                   /evidence="ECO:0000244|PDB:6ZOY"
+FT   HELIX           295..303
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   STRAND          310..314
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   STRAND          324..328
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   STRAND          333..335
+FT                   /evidence="ECO:0000244|PDB:6YLA"
+FT   HELIX           338..342
+FT                   /evidence="ECO:0000244|PDB:6YZ5"
+FT   STRAND          343..345
+FT                   /evidence="ECO:0000244|PDB:6WPS"
+FT   HELIX           350..352
+FT                   /evidence="ECO:0000244|PDB:6YZ5"
+FT   STRAND          354..358
+FT                   /evidence="ECO:0000244|PDB:6YZ5"
+FT   STRAND          360..362
+FT                   /evidence="ECO:0000244|PDB:6YZ5"
+FT   HELIX           366..369
+FT                   /evidence="ECO:0000244|PDB:6YZ5"
+FT   STRAND          375..381
+FT                   /evidence="ECO:0000244|PDB:6YZ5"
+FT   HELIX           384..387
+FT                   /evidence="ECO:0000244|PDB:6YZ5"
+FT   STRAND          388..390
+FT                   /evidence="ECO:0000244|PDB:6M17"
+FT   STRAND          391..403
+FT                   /evidence="ECO:0000244|PDB:6YZ5"
+FT   HELIX           404..409
+FT                   /evidence="ECO:0000244|PDB:6YZ5"
+FT   STRAND          411..413
+FT                   /evidence="ECO:0000244|PDB:6M17"
+FT   HELIX           417..421
+FT                   /evidence="ECO:0000244|PDB:6YZ5"
+FT   STRAND          431..437
+FT                   /evidence="ECO:0000244|PDB:6YZ5"
+FT   HELIX           439..442
+FT                   /evidence="ECO:0000244|PDB:6YZ5"
+FT   TURN            445..447
+FT                   /evidence="ECO:0000244|PDB:6M17"
+FT   STRAND          452..454
+FT                   /evidence="ECO:0000244|PDB:6YZ5"
+FT   STRAND          457..459
+FT                   /evidence="ECO:0000244|PDB:7C2L"
+FT   STRAND          476..478
+FT                   /evidence="ECO:0000244|PDB:6YZ5"
+FT   STRAND          481..483
+FT                   /evidence="ECO:0000244|PDB:7C8W"
+FT   STRAND          485..488
+FT                   /evidence="ECO:0000244|PDB:6XEY"
+FT   STRAND          491..494
+FT                   /evidence="ECO:0000244|PDB:6YZ5"
+FT   STRAND          499..501
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   HELIX           503..505
+FT                   /evidence="ECO:0000244|PDB:6YZ5"
+FT   STRAND          506..516
+FT                   /evidence="ECO:0000244|PDB:6YZ5"
+FT   STRAND          518..520
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   STRAND          524..526
+FT                   /evidence="ECO:0000244|PDB:6ZCZ"
+FT   STRAND          536..543
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   STRAND          546..554
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   STRAND          565..567
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   TURN            569..571
+FT                   /evidence="ECO:0000244|PDB:6XKL"
+FT   STRAND          573..577
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   TURN            579..581
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   STRAND          584..588
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   STRAND          595..600
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   TURN            602..604
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   STRAND          609..612
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   TURN            617..619
+FT                   /evidence="ECO:0000244|PDB:6VXX"
+FT   HELIX           620..623
+FT                   /evidence="ECO:0000244|PDB:6ZOZ"
+FT   TURN            625..627
+FT                   /evidence="ECO:0000244|PDB:6X6P"
+FT   TURN            630..635
+FT                   /evidence="ECO:0000244|PDB:6ZOZ"
+FT   STRAND          639..641
+FT                   /evidence="ECO:0000244|PDB:6ZOZ"
+FT   STRAND          643..645
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   STRAND          648..652
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   STRAND          663..667
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   STRAND          670..675
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   STRAND          691..696
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   STRAND          702..704
+FT                   /evidence="ECO:0000244|PDB:6X29"
+FT   STRAND          712..715
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   STRAND          717..728
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   STRAND          733..736
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   HELIX           738..742
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   TURN            743..745
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   HELIX           747..753
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   HELIX           754..756
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   HELIX           757..782
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   STRAND          785..790
+FT                   /evidence="ECO:0000244|PDB:6X29"
+FT   TURN            803..805
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   STRAND          811..813
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   HELIX           817..823
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   STRAND          829..833
+FT                   /evidence="ECO:0000244|PDB:6ZP2"
+FT   HELIX           837..839
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   STRAND          842..845
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   HELIX           849..854
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   TURN            855..857
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   STRAND          858..861
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   HELIX           867..884
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   HELIX           887..889
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   STRAND          890..892
+FT                   /evidence="ECO:0000244|PDB:6ZOZ"
+FT   HELIX           898..907
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   TURN            908..910
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   HELIX           913..918
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   HELIX           919..966
+FT                   /evidence="ECO:0000244|PDB:6M1V"
+FT   HELIX           977..981
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   STRAND          982..984
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   HELIX           986..1032
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   TURN            1040..1043
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   STRAND          1044..1056
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   STRAND          1059..1069
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   STRAND          1072..1079
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   STRAND          1081..1085
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   STRAND          1087..1100
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   STRAND          1102..1106
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   STRAND          1109..1113
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   TURN            1117..1119
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   STRAND          1120..1122
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   STRAND          1126..1128
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   STRAND          1129..1134
+FT                   /evidence="ECO:0000244|PDB:6XRA"
+FT   HELIX           1142..1145
+FT                   /evidence="ECO:0000244|PDB:6ZGE"
+FT   HELIX           1148..1153
+FT                   /evidence="ECO:0000244|PDB:6XRA"
+FT   HELIX           1170..1201
+FT                   /evidence="ECO:0000244|PDB:6LVN"
+SQ   SEQUENCE   1273 AA;  141178 MW;  B17BE6D9F1C4EA34 CRC64;
+     MFVFLVLLPL VSSQCVNLTT RTQLPPAYTN SFTRGVYYPD KVFRSSVLHS TQDLFLPFFS
+     NVTWFHAIHV SGTNGTKRFD NPVLPFNDGV YFASTEKSNI IRGWIFGTTL DSKTQSLLIV
+     NNATNVVIKV CEFQFCNDPF LGVYYHKNNK SWMESEFRVY SSANNCTFEY VSQPFLMDLE
+     GKQGNFKNLR EFVFKNIDGY FKIYSKHTPI NLVRDLPQGF SALEPLVDLP IGINITRFQT
+     LLALHRSYLT PGDSSSGWTA GAAAYYVGYL QPRTFLLKYN ENGTITDAVD CALDPLSETK
+     CTLKSFTVEK GIYQTSNFRV QPTESIVRFP NITNLCPFGE VFNATRFASV YAWNRKRISN
+     CVADYSVLYN SASFSTFKCY GVSPTKLNDL CFTNVYADSF VIRGDEVRQI APGQTGKIAD
+     YNYKLPDDFT GCVIAWNSNN LDSKVGGNYN YLYRLFRKSN LKPFERDIST EIYQAGSTPC
+     NGVEGFNCYF PLQSYGFQPT NGVGYQPYRV VVLSFELLHA PATVCGPKKS TNLVKNKCVN
+     FNFNGLTGTG VLTESNKKFL PFQQFGRDIA DTTDAVRDPQ TLEILDITPC SFGGVSVITP
+     GTNTSNQVAV LYQDVNCTEV PVAIHADQLT PTWRVYSTGS NVFQTRAGCL IGAEHVNNSY
+     ECDIPIGAGI CASYQTQTNS PRRARSVASQ SIIAYTMSLG AENSVAYSNN SIAIPTNFTI
+     SVTTEILPVS MTKTSVDCTM YICGDSTECS NLLLQYGSFC TQLNRALTGI AVEQDKNTQE
+     VFAQVKQIYK TPPIKDFGGF NFSQILPDPS KPSKRSFIED LLFNKVTLAD AGFIKQYGDC
+     LGDIAARDLI CAQKFNGLTV LPPLLTDEMI AQYTSALLAG TITSGWTFGA GAALQIPFAM
+     QMAYRFNGIG VTQNVLYENQ KLIANQFNSA IGKIQDSLSS TASALGKLQD VVNQNAQALN
+     TLVKQLSSNF GAISSVLNDI LSRLDKVEAE VQIDRLITGR LQSLQTYVTQ QLIRAAEIRA
+     SANLAATKMS ECVLGQSKRV DFCGKGYHLM SFPQSAPHGV VFLHVTYVPA QEKNFTTAPA
+     ICHDGKAHFP REGVFVSNGT HWFVTQRNFY EPQIITTDNT FVSGNCDVVI GIVNNTVYDP
+     LQPELDSFKE ELDKYFKNHT SPDVDLGDIS GINASVVNIQ KEIDRLNEVA KNLNESLIDL
+     QELGKYEQYI KWPWYIWLGF IAGLIAIVMV TIMLCCMTSC CSCLKGCCSC GSCCKFDEDD
+     SEPVLKGVKL HYT
+//

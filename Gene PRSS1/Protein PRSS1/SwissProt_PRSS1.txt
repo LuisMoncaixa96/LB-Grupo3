@@ -1,0 +1,7 @@
+Gen_Name:Name=PRSS1; Synonyms=TRP1, TRY1, TRYP1;
+Entry_name:TRY1_HUMAN
+Seq_length:247
+OrganismClass:['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+Organism:'Homo sapiens (Human).'
+Taxonomy:['9606']
+Function:FUNCTION: Has activity against the synthetic substrates Boc-Phe-Ser- Arg-Mec, Boc-Leu-Thr-Arg-Mec, Boc-Gln-Ala-Arg-Mec and Boc-Val-Pro-Arg- Mec. The single-chain form is more active than the two-chain form against all of these substrates. {ECO:0000269|PubMed:7945238}.
